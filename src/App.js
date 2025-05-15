@@ -1,4 +1,49 @@
+// import React, { useEffect } from 'react';
+// import AOS from 'aos';
+// import 'aos/dist/aos.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
+// import './styles/main.css';
+// import ImageSlider from './components/ImageSlider';
+// import NavBar from './components/Navbar';
+// import AboutUs from './components/AboutUs';
+// import Programs from './components/Programs';
+// import HonorsMinorProgramsSection from './components/hons';
+// import IndustryCoursesSection from './components/IndustryCourses';
+// import ProfessionalSocietiesSection from './components/ProfessionalSociety';
+// import StudentClubsSection from './components/StudentClub';
+// import { Route,Router } from 'react-router-dom';
+// function App() {
+//   useEffect(() => {
+//     AOS.init({
+//       duration: 1000,
+//       once: true,
+//       easing: 'ease-in-out'
+//     });
+//   }, []);
+
+//   return (
+//     <div className="App">
+//       <NavBar />
+//       <div className="pt-10 md:pt-[100px]">
+//         <ImageSlider />
+//       </div>
+//       <AboutUs />
+//       <Programs />
+//       <HonorsMinorProgramsSection />
+//       <IndustryCoursesSection />
+//       <br />
+
+//       <ProfessionalSocietiesSection />
+//       <br />
+//       <StudentClubsSection />
+//     </div>
+//   );
+// }
+
+// export default App;
+
 import React, { useEffect } from 'react';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -8,6 +53,28 @@ import NavBar from './components/Navbar';
 import AboutUs from './components/AboutUs';
 import Programs from './components/Programs';
 import HonorsMinorProgramsSection from './components/hons';
+import IndustryCoursesSection from './components/IndustryCourses';
+import ProfessionalSocietiesSection from './components/ProfessionalSociety';
+import StudentClubsSection from './components/StudentClub';
+import ClubDetails from './components/ClubDetails';
+
+function HomePage() {
+  return (
+    <>
+      <div className="pt-10 md:pt-[100px]">
+        <ImageSlider />
+      </div>
+      <AboutUs />
+      <Programs />
+      <HonorsMinorProgramsSection />
+      <IndustryCoursesSection />
+      <br />
+      <ProfessionalSocietiesSection />
+      <br />
+      <StudentClubsSection />
+    </>
+  );
+}
 
 function App() {
   useEffect(() => {
@@ -19,15 +86,15 @@ function App() {
   }, []);
 
   return (
-    <div className="App">
-      <NavBar />
-      <div className="pt-10 md:pt-[100px]">
-        <ImageSlider />
+
+      <div className="App">
+        <NavBar />
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/club/:clubId" element={<ClubDetails />} />
+        </Routes>
       </div>
-      <AboutUs />
-      <Programs />
-      <HonorsMinorProgramsSection />
-    </div>
+
   );
 }
 

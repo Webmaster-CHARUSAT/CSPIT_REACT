@@ -1,0 +1,1568 @@
+[
+  {
+    "Club ID": "AWS",
+    "Club Name": "AWS Student Club",
+    "Logo": "images/Student Club/aws.webp",
+    "About": "Together as a team AWS Cloud Club CHARUSAT aims to provide a platform for the intellectuals to learn and explore the cloud fundamentals of AWS. AS part of the club we assure that every individual gets something productive out of this cub. AWS Cloud Club CHARUSAT intends to bring developers under one roof to create a community to inspire many. The club will be channeled into propagating learning and teaching symbiotically.",
+    "Faculty Coordinators": [
+      {
+        "Name": "Dr. Parth Shah",
+        "Role": "faculty coordinator",
+        "Email": "parthshah.it@charusat.ac.in",
+        "Phone": "99999",
+        "Image": "CSPIT_Faculty/IT/PARTH.webp"
+      },
+      {
+        "Name": "Dr. Sanket Suthar",
+        "Role": "faculty coordinator",
+        "Email": "sanketsuthar.it@charusat.ac.in",
+        "Phone": "999999",
+        "Image": "CSPIT_Faculty/IT/SANKETKUMAR.webp"
+      }
+    ],
+    "Student Coordinators": [
+      {
+        "Name": "Dulari Bhushan",
+        "ID": ""
+      },
+      {
+        "Name": "Parmesh Bhatt",
+        "ID": ""
+      }
+    ],
+    "Gallery": [
+      "images/gallery/AWS Commuinity Day/aws2.webp",
+      "images/gallery/AWS Commuinity Day/aws1.webp",
+      "images/gallery/AWS Commuinity Day/aws3.webp",
+      "images/gallery/AWS Commuinity Day/aws5.webp"
+    ],
+    "Events": [
+      {
+        "Name": "AWS Cloud Bootcamp",
+        "Date": "15-17 Nov 2023",
+        "Description": "A three-day coding event",
+        "Images": [
+          "images/gallery/AWS Commuinity Day/aws2.webp",
+          "images/gallery/AWS Commuinity Day/aws1.webp",
+          "images/gallery/AWS Commuinity Day/aws3.webp",
+          "images/gallery/AWS Commuinity Day/aws5.webp"
+        ]
+      }
+    ]
+  },
+  {
+    "Club ID": "AIML",
+    "Club Name": "AI/ML Club",
+    "Logo": "images/Student Club/Aiml.webp",
+    "About": "The AI/ML Club of the CSE Department is a vibrant community dedicated to exploring the vast potential of Artificial Intelligence and Machine Learning. Our mission is to bridge the gap between theory and real-world applications through workshops, expert talks, hands-on projects, hackathons, and research initiatives. Whether you're a beginner or an experienced enthusiast, the club provides opportunities to learn, collaborate, and innovate in cutting-edge AI technologies. By fostering creativity and technical expertise, we aim to shape the future of AI and empower students to make a meaningful impact in the digital world.",
+    "Faculty Coordinators": [
+      {
+        "Name": "Prof. Harshul Yagnik",
+        "Role": "faculty coordinator",
+        "Email": "harshulyagnik.cse@charusat.ac.in",
+        "Phone": "9737642757",
+        "Image": "CSPIT_Faculty/CSE/HARSHUL.webp"
+      },
+      {
+        "Name": "Prof. Abhishek Patel",
+        "Role": "faculty coordinator",
+        "Email": "abhishekpatel.cse@charusat.ac.in",
+        "Phone": "9099056918",
+        "Image": "CSPIT_Faculty/CSE/ABHISHEK.webp"
+      }
+    ],
+    "Student Coordinators": [
+      {
+        "Name": "Apurv Chudasama",
+        "ID": "22CS016"
+      },
+      {
+        "Name": "Krushna Parmar",
+        "ID": "22AIML028"
+      }
+    ],
+    "Gallery": [],
+    "Events": [
+      {
+        "Name": "Peer Learning Session on Nvidia Jetson Nano",
+        "Date": "10 July 2024",
+        "Description": "For the students of 5th sem of the department of CSE, CSPIT the session 1 of the dedicated series on embedded machine learning with Jetson Nano which was focused on Setting up the device and performing classification problems on it was organized by the AI/ML club on 10/07/2024 - Wednesday at Lab 324-D (AIML Department). Total of – 32 students and 4 volunteers attended the workshop. Students reported at the lab at around 12:15 and we started the workshop at 12:20.",
+        "Images": [
+          "images/Student Club/AIML_CSE/Peer_learning/poster.webp",
+          "images/Student Club/AIML_CSE/Peer_learning/1.webp",
+          "images/Student Club/AIML_CSE/Peer_learning/2.webp",
+          "images/Student Club/AIML_CSE/Peer_learning/3.webp",
+          "images/Student Club/AIML_CSE/Peer_learning/4.webp"
+        ],
+        "Report": "images/Student Club/AIML_CSE/Peer_learning/report.pdf"
+      },
+      {
+        "Name": "Expert Talk On Introduction to Generative AI with Google Cloud",
+        "Date": "September 22, 2023",
+        "Description": "For students of the CSE department of Computer Science and Engineering, CSPIT, CHARUSAT planned an interactive Expert Talk on Introduction to Generative AI on September 22, 2023. A total of 18 students from Semester 3 participated in the same. When all the students had reported at the CSE AI/ML LAB, we started the workshop at around 2:20 P.M. At the very beginning of the session, students seemed interested to dig deeper into the topic. The expert started the lecture by explaining very basic and real-life examples such as ChatGPT and other AI advancement tools that we use on a daily basis. Thereafter, he continued to explain the same topic on a technical level and how the industry of AI grew and shifted towards it. Furthermore, he gave an idea about how Generative AI is a branch of AI. Compared with the classical machine learning approach, he explained how a machine learning task is different from text/image/music generation. After this, the foundation models were explained which are used to build a Generative AI model. The revolution and LLM, which stands for Large Language Model, were explained thoroughly. To understand the input parameters given to any Generative AI model, prompts are an essential requirement. This topic was explained in depth to help students understand how to generate a prompt to get a perfect output as we want. Different types of prompts were explained nicely (shot prompts). In addition, he explained about the evolution of cloud ML APIs which are providing multipurpose foundation models for AI models, and more concisely explained about Google Cloud and how it can help in the field of Gen AI. Vertex AI was also explained in depth. At the end of this session, the expert provided links and QR codes for GitHub repositories of Generative AI and some other related links to understand Gen AI better and finally concluded with a fruitful discussion and doubt-solving session.",
+        "Images": [
+          "images/Student Club/AIML_CSE/Expert_talk/poster.jpg",
+          "images/Student Club/AIML_CSE/Expert_talk/1.webp",
+          "images/Student Club/AIML_CSE/Expert_talk/2.webp",
+          "images/Student Club/AIML_CSE/Expert_talk/3.webp",
+          "images/Student Club/AIML_CSE/Expert_talk/4.webp"
+        ],
+        "Report": "images/Student Club/AIML_CSE/Expert_talk/report.pdf"
+      },
+      {
+        "Name": "Faculty Workshop on Embedded Machine Learning With NVIDIA Jetson Nano",
+        "Date": "20th June 2023",
+        "Description": "On 20th June 2023, a one-day hands-on workshop on \"Embedded Machine Learning with Nvidia Jetson Nano\" was conducted under the Nvidia Academic Hardware Grant Program for the faculty members of CSPIT. A total of 22 faculty members filled out the registration form, and among them, 15 were present for the workshop. The workshop aimed to introduce the participants to the fundamentals of embedded machine learning and provide them with practical experience in using the Nvidia Jetson Nano platform for developing machine learning applications. The workshop was led by Prof. Harshul Yagnik from the Department of Computer Science and Engineering, CSPIT.",
+        "Images": [
+          "images/Student Club/AIML_CSE/faculty_workshop/poster.webp",
+          "images/Student Club/AIML_CSE/faculty_workshop/1.webp",
+          "images/Student Club/AIML_CSE/faculty_workshop/2.webp"
+        ],
+        "Report": "images/Student Club/AIML_CSE/faculty_workshop/report.pdf"
+      }
+    ]
+  },
+  {
+    "Club ID": "CC",
+    "Club Name": "The Tribe of Creativity",
+    "Logo": "images/Student Club/CC.webp",
+    "About": "Tribe of Creativity aims to organize cultural and sports activities while providing a platform for students to showcase their creativity and teamwork. The club fosters sportsmanship, leadership, confidence, and collaboration through engaging events, encouraging holistic development beyond academics.",
+    "Faculty Coordinators": [
+      {
+        "Name": "Prof. Trusha Patel",
+        "Role": "faculty coordinator",
+        "Email": "trushagajjar.ce@charusat.ac.in",
+        "Phone": "9624699433",
+        "Image": "CSPIT_Faculty/CE/TRUSHA.webp"
+      },
+      {
+        "Name": "Prof. Rikita Chokshi",
+        "Role": "faculty coordinator",
+        "Email": "rikitachokshi.ce@charusat.ac.in",
+        "Phone": "8780797085",
+        "Image": "CSPIT_Faculty/CE/RIKITA.webp"
+      }
+    ],
+    "Student Coordinators": [
+      {
+        "Name": "Kaushal Bhanderi",
+        "ID": "22CE005"
+      },
+      {
+        "Name": "Pooja Ramani",
+        "ID": "22CE106"
+      }
+    ],
+    "Gallery": [
+      "images/Student Club/TOCC/Teachers_day/1.webp",
+      "images/Student Club/TOCC/MehndiCompetition/2.webp",
+      "images/Student Club/TOCC/MehndiCompetition/4.webp",
+      "images/Student Club/TOCC/logo_competition/1.webp"
+    ],
+    "Events": [
+      {
+        "Name": "Teachers Day Celebration",
+        "Date": "5 September 2024",
+        "Description": "Teachers Day Celeration",
+        "Images": [
+          "images/Student Club/TOCC/Teachers_day/poster.webp",
+          "images/Student Club/TOCC/Teachers_day/1.webp",
+          "images/Student Club/TOCC/Teachers_day/2.webp",
+          "images/Student Club/TOCC/Teachers_day/3.webp"
+        ]
+      },
+      {
+        "Name": "Mehandi Competition",
+        "Date": "19-July 2024",
+        "Description": "Mehandi Competition event provide a wonderful opportunity for students to express their creativity, share their heritage, and learn about the rich cultural backgrounds of their peers.",
+        "Images": [
+          "images/Student Club/TOCC/MehndiCompetition/poster.webp",
+          "images/Student Club/TOCC/MehndiCompetition/1.webp",
+          "images/Student Club/TOCC/MehndiCompetition/2.webp",
+          "images/Student Club/TOCC/MehndiCompetition/3.webp",
+          "images/Student Club/TOCC/MehndiCompetition/4.webp"
+        ],
+        "Report": "images/Student Club/TOCC/MehndiCompetition/report.pdf"
+      },
+      {
+        "Name": "CE Department Logo Design Competition",
+        "Date": "5 October 2024",
+        "Description": "The workshop titled “CE Department Logo Design Competition” was organized by U.& P U. Patel Department of Computer Engineering. This exciting event was organized mainly aiming for designing a unique and meaningful logo that represents the identity, values, and vision of the CE Department. Participants were encouraged to showcase their creativity, innovation, and design skills by crafting a logo that embodies the spirit of computer engineering and the department's commitment to excellence.",
+        "Images": [
+          "images/Student Club/TOCC/logo_competition/poster.webp",
+          "images/Student Club/TOCC/logo_competition/1.webp"
+        ],
+        "Report": "images/Student Club/TOCC/logo_competition/report.pdf"
+      }
+    ]
+  },
+  {
+    "Club ID": "Gamma",
+    "Club Name": "Club Gamma",
+    "Logo": "images/Student Club/Club_Gamma.webp",
+    "About": "Club Gamma is a student-driven tech community focused on open-source development, innovation, and collaborative learning. It provides a platform for students to enhance their coding skills, work on real-world projects, and participate in hackathons. The club fosters a culture of knowledge sharing, mentorship, and teamwork, helping members grow in various domains of technology.",
+    "Faculty Coordinators": [
+      {
+        "Name": "Dr. Mrugendra Rahevar",
+        "Role": "faculty coordinator",
+        "Email": "mrugendra.ce@charusat.ac.in",
+        "Phone": "9925856399",
+        "Image": "CSPIT_Faculty/CE/mrugendrasinh.webp"
+      },
+      {
+        "Name": "Prof. Ronak R Patel",
+        "Role": "faculty coordinator",
+        "Email": "ronakrpatel.ce@charusat.ac.in",
+        "Phone": "9409330900",
+        "Image": "CSPIT_Faculty/CE/RONAKKUMAR.webp"
+      },
+      {
+        "Name": "Prof. Trusha Patel",
+        "Role": "faculty coordinator",
+        "Email": "trushagajjar.ce@charusat.ac.in",
+        "Phone": "9624699443",
+        "Image": "CSPIT_Faculty/CE/TRUSHA.webp"
+      },
+      {
+        "Name": "Prof. Vaishali Koria",
+        "Role": "faculty coordinator",
+        "Email": "vaishalimewada.ce@charusat.ac.in",
+        "Phone": "7874114875",
+        "Image": "CSPIT_Faculty/CE/VAISHALI.webp"
+      }
+    ],
+    "Student Coordinators": [
+      {
+        "Name": "Jalay Movaliya",
+        "ID": ""
+      },
+      {
+        "Name": "Jay Khatri",
+        "ID": ""
+      },
+      {
+        "Name": "Pooja Ramani",
+        "ID": ""
+      },
+      {
+        "Name": "Mit Monpara",
+        "ID": ""
+      },
+      {
+        "Name": "Bhavya Prajapati",
+        "ID": ""
+      },
+      {
+        "Name": "Jay Rupapara",
+        "ID": ""
+      },
+      {
+        "Name": "Charmi Dodiya",
+        "ID": ""
+      },
+      {
+        "Name": "Satyam Charola",
+        "ID": ""
+      },
+      {
+        "Name": "Dhairya Kanabar",
+        "ID": ""
+      },
+      {
+        "Name": "Dhiraj Bagad",
+        "ID": ""
+      },
+      {
+        "Name": "Kaushal Bhanderi",
+        "ID": ""
+      },
+      {
+        "Name": "Shrey Lakhtaria",
+        "ID": ""
+      }
+    ],
+    "Gallery": [
+      "images/Student Club/Club_Gamma/Algorithm_to_Gate/1.webp",
+      "images/Student Club/Club_Gamma/Git/2.webp",
+      "images/Student Club/Club_Gamma/Placement/1.webp",
+      "images/Student Club/Club_Gamma/Git/1.webp"
+    ],
+    "Events": [
+      {
+        "Name": "Algorithm to Gate",
+        "Date": "02/03/2024 to 16/03/2024",
+        "Description": "We are students of 7th semester of CE department, CSPIT and in last semester we were conducting classes to the student who were in 4th semester back then and interested for GATE examination. So, this is the report of that. First of all we and Mrugendra sir have discussed about how can we conduct such classes and then we have introduced this idea in both the classes of 4th semester. At that time we have also registered all the student who were interested in this. Then by the time we were conducting classes of DBMS subject (because it was in their syllabus in semester 4) as well as General Aptitude. In that the procedure of teaching was, firstly we were explaining the important topics of the subject regarding to GATE exam as well as which is helpful for semester exams also and then we were providing some practice question in the class and as a home work also and in the next class we were giving the solution.",
+        "Images": [
+          "images/Student Club/Club_Gamma/Algorithm_to_Gate/1.webp"
+        ],
+        "Report": "images/Student Club/Student Club/Club_Gamma/Algorithm_to_Gate/report.pdf"
+      },
+      {
+        "Name": "Hands-On Session on Git & GitHub",
+        "Date": "12 - 13 October 2023",
+        "Description": "On the 12th and 13th of October 2023, a hands-on session titled \"Hands-On Session on Git & GitHub\" was organized for the 1st-semester students. The event was conducted by knowledgeable 3rd-semester students who strongly understand Git and GitHub. This 2-hour session aimed to introduce the concepts of Version Control Systems, demonstrate how Git and GitHub work, and provide practical experience to the participants. The response from the students was highly positive, demonstrating the effectiveness of this educational initiative.",
+        "Images": [
+          "images/Student Club/Club_Gamma/Git/1.webp",
+          "images/Student Club/Club_Gamma/Git/2.webp",
+          "images/Student Club/Club_Gamma/Git/3.webp"
+        ],
+        "Report": "images/Student Club/Club_Gamma/Git/report.pdf"
+      },
+      {
+        "Name": "Healthy Placement Seminar",
+        "Date": "08 February 2024",
+        "Description": "The seminar proved to be an enriching experience, covering pivotal topics that are instrumental for professional growth. The agenda was thoughtfully structured, offering comprehensive insights into LinkedIn Mastery, Resume Building Techniques, Navigating the Current Job Market",
+        "Images": [
+          "images/Student Club/Club_Gamma/Placement/1.webp",
+          "images/Student Club/Club_Gamma/Placement/2.webp",
+          "images/Student Club/Club_Gamma/Placement/3.webp",
+          "images/Student Club/Club_Gamma/Placement/4.webp",
+          "images/Student Club/Club_Gamma/Placement/5.webp"
+        ],
+        "Report": "images/Student Club/Club_Gamma/Placement/report.pdf"
+      }
+    ]
+  },
+  {
+    "Club ID": "Cyber",
+    "Club Name": "Cyber Security Club",
+    "Logo": "images/Student Club/Cyber_Security.webp",
+    "About": "The Cyber Security Club is a peer-learning community where students collaborate to explore various aspects of cybersecurity. It provides a platform for members to share knowledge, discuss emerging threats, and work on real-world security challenges. Through workshops, hands-on sessions, and group discussions, participants enhance their technical skills and stay updated with industry trends. The club fosters a learning environment that encourages problem-solving, ethical hacking, and secure coding practices. Whether beginners or advanced learners, all members contribute to and benefit from the collective expertise of the group.",
+    "Faculty Coordinators": [
+      {
+        "Name": "Dr. Martin Parmar",
+        "Role": "faculty coordinator",
+        "Email": "martinparmar.ce@charusat.ac.in",
+        "Phone": "8238563982",
+        "Image": "CSPIT_Faculty/CE/MARTIN.webp"
+      },
+      {
+        "Name": "Dr. Sneha Padhiar",
+        "Role": "faculty coordinator",
+        "Email": "snehapadhiar.ce@charusat.ac.in",
+        "Phone": "9601600000",
+        "Image": "CSPIT_Faculty/CE/SNEHA.webp"
+      }
+    ],
+    "Student Coordinators": [
+      {
+        "Name": "Darshil Chocha",
+        "ID": "22CE021"
+      },
+      {
+        "Name": "Yupal Chaudhari",
+        "ID": "23CE012"
+      }
+    ],
+    "Gallery": [],
+    "Events": []
+  },
+  {
+    "Club ID": "DS",
+    "Club Name": "Data Science Club",
+    "Logo": "images/Student Club/DSLogo.webp",
+    "About": "Data science is a multidisciplinary approach to extracting actionable insights from the large and ever-increasing volumes of data collected and created by today’s organizations. Data science encompasses preparing data for analysis and processing, performing advanced data analysis, and presenting the results to reveal patterns and enable stakeholders to draw informed conclusions. The Data Science Club’s primary objective is to unify colleges across the country that want to promote Data Science as a desirable career path to their students by getting them to join our revolutionary career-oriented corporate club.",
+    "Faculty Coordinators": [
+      {
+        "Name": "Jalpesh Vasa",
+        "Role": "faculty coordinator",
+        "Email": "jalpeshvasa.it@charusat.ac.in",
+        "Phone": "9726528769",
+        "Image": "CSPIT_Faculty/IT/JALPESH.webp"
+      },
+      {
+        "Name": "Hemant Yadav",
+        "Role": "faculty coordinator",
+        "Email": "hemantyadav.it@charusat.ac.in",
+        "Phone": "9327083391",
+        "Image": "CSPIT_Faculty/IT/HEMANT NANDLALBHAI YADAV.webp"
+      }
+    ],
+    "Student Coordinators": [
+      {
+        "Name": "Rinkal Mav",
+        "ID": ""
+      }
+    ],
+    "Gallery": [
+      "images/Student Club/DS/ML_Workshop/1.webp",
+      "images/Student Club/DS/webinar/2.webp",
+      "images/Student Club/DS/Data_Dialgoue/1.webp",
+      "images/Student Club/DS/ML_Workshop/1.webp"
+    ],
+    "Events": [
+      {
+        "Name": "AWS Machine learning workshop",
+        "Date": "30 January - 4 February 2023",
+        "Description": "This workshop will help grow your technical skills and learn how to apply machine learning (ML), artificial intelligence (AI), and deep learning (DL) to unlock new insights and value in your role. Learning Plans can also help prepare you for the AWS Certified Machine Learning – Specialty certification exam.",
+        "Images": [
+          "images/Student Club/DS/ML_Workshop/1.webp",
+          "images/Student Club/DS/ML_Workshop/2.webp"
+        ],
+        "Report": "images/Student Club/DS/ML_Workshop/report.pdf"
+      },
+      {
+        "Name": "Expert Talk Shaping Your Career in Data Science",
+        "Date": "14 October 2022",
+        "Description": "Data Science Club at Smt. K. D. Patel Department of Information Technology, CSPIT, FTE, CHARUSAT organized an Expert- Session on Shaping your career in a data science field on 14-October,2022. The invited speaker was Mr. Rajeev Kanth, Founder BEPEC Solutions, Bengaluru and a renowned Author, Educator, Coach and podcaster. It is organized at university level and various department students have taken part. Hemant Yadav, inaugurated the event and welcome all the participants and gave brief introduction about the speaker. At last student gave vote of thanks to Speaker for fruitful discussion about data science career path and also to the organizing department and data science club.",
+        "Images": [
+          "images/Student Club/DS/webinar/1.webp",
+          "images/Student Club/DS/webinar/2.webp"
+        ],
+        "Report": "images/Student Club/DS/webinar/report.pdf"
+      },
+      {
+        "Name": "Data Dialogues : Paving the way to a thriving career",
+        "Date": "9 September 2023",
+        "Description": "Data Science Club at Smt. K. D. Patel Department of Information Technology, CSPIT, FTE, CHARUSAT organized an Expert- Session \"Data Dialogues: Paving your way through a thriving career\" on 10th September 2023 from 10am to 11:30am.The invited experts were: 1) Ayush Ghadiya: AI Research Consultant at Sony Research India 2) Maharshi Relia: Intern, Cloud & Network Services at Nokia Solutions & Networks Pvt. Ltd., Bengaluru (Internship + Full Time starting from November 2023) 3) Megha Goriya: Incoming AI Engineer at IBM 4) Zeel Amrutiya : Solution Analyst Software Developer at Deloitte United States of America It was organized at university level and students from various departments students took keen interest in it Former and the present lead of the club started with the introduction and lead the event ahead. Followed by the one on one session of the participants with the experts on their experiences and varying trajectories. Lastly ending the interactive session with bundles of knowledge and thrive with a vote of thanks by the Lead of the Club!",
+        "Images": [
+          "images/Student Club/DS/Data_Dialgoue/1.webp",
+          "images/Student Club/DS/Data_Dialgoue/2.webp"
+        ],
+        "Report": "images/Student Club/DS/Data_Dialgoue/report.pdf"
+      }
+    ]
+  },
+  {
+    "Club ID": "ML",
+    "Club Name": "Machine Learning Club",
+    "Logo": "images/Student Club/ML_Club.webp",
+    "About": "The Machine Learning (ML) Club at the U & P U. Patel Department of Computer Engineering, CSPIT, provides a platform for students to explore and apply Machine Learning, Deep Learning, and AI techniques. The club fosters learning through workshops, hands-on sessions, research discussions, and real-world projects. It encourages collaboration, innovation, and problem-solving through hackathons, competitions, and industry interactions. The club aims to bridge the gap between theoretical concepts and practical applications, helping students gain expertise in tools like Python, TensorFlow, and PyTorch. The first session will focus on Applications of ML, DL, and Generative AI, inspiring students to explore cutting-edge advancements.",
+    "Faculty Coordinators": [
+      {
+        "Name": "Dr. Mrugendra Rahevar",
+        "Role": "faculty coordinator",
+        "Email": "MRUGENDRA.ce@charusat.ac.in",
+        "Phone": "9925856399",
+        "Image": "CSPIT_Faculty/CE/MRUGENDRASINH.webp"
+      },
+      {
+        "Name": "Prof. Ronak N Patel",
+        "Role": "faculty coordinator",
+        "Email": "ronakpatel.ce@charusat.ac.in",
+        "Phone": "9913760408",
+        "Image": "CSPIT_Faculty/CE/RONAKKUMAR.webp"
+      },
+      {
+        "Name": "Dr. Dhaval Bhoi",
+        "Role": "faculty coordinator",
+        "Email": "dhavalbhoi.ce@charusat.ac.in",
+        "Phone": "9879974807",
+        "Image": "CSPIT_Faculty/CE/DHAVALKUMAR.webp"
+      }
+    ],
+    "Student Coordinators": [
+      {
+        "Name": "Dev Parikh",
+        "ID": "22CE079"
+      },
+      {
+        "Name": "Yashvi Thakkar",
+        "ID": "22CE127"
+      }
+    ],
+    "Gallery": [],
+    "Events": [
+      {
+        "Name": "Deep Learning Demystified: Concepts, Applications and Innovations",
+        "Date": "18 October - 19 October 2024",
+        "Description": "Deep Learning Demystified: Concepts, Applications and Innovations",
+        "Images": [
+          "images/Student Club/ML/DL/1.webp",
+          "images/Student Club/ML/DL/2.webp",
+          "images/Student Club/ML/DL/3.webp"
+        ],
+        "Report": "images/Student Club/ML/DL/report.pdf"
+      },
+      {
+        "Name": "Applied Deep learning Model for image Classification",
+        "Date": "15 March 2024",
+        "Description": "The workshop was divided into three parts, each focusing on different aspects of deep learning and IoT devices, culminating in the presentation of an innovative project.Part 1: Diving into Deep Learning , Part 2: Introduction to IoT Devices , Part 3: Project Presentation – PragyaDristi",
+        "Images": [
+          "images/Student Club/ML/Applied_DL/1.webp",
+          "images/Student Club/ML/Applied_DL/2.webp",
+          "images/Student Club/ML/Applied_DL/3.webp",
+          "images/Student Club/ML/Applied_DL/4.webp"
+        ],
+        "Report": "images/Student Club/ML/Applied_DL/report.pdf"
+      },
+      {
+        "Name": "Model Deployment using website by CI/CD",
+        "Date": "16 September 2023",
+        "Description": "Participants will receive hands-on guidance on deploying machine learning models effectively using continuous integration and continuous deployment (CI/CD) methodologies. Through interactive demonstrations and practical exercises, students will gain valuable insights into the seamless integration of machine learning models into web platforms. This session offers an excellent opportunity for students to enhance their understanding of deploying models in real-world scenarios, fostering both practical skills and theoretical knowledge.",
+        "Images": [
+          "images/Student Club/ML/Model_Deploy/1.webp",
+          "images/Student Club/ML/Model_Deploy/2.webp",
+          "images/Student Club/ML/Model_Deploy/3.webp",
+          "images/Student Club/ML/Model_Deploy/4.webp",
+          "images/Student Club/ML/Model_Deploy/5.webp",
+          "images/Student Club/ML/Model_Deploy/6.webp"
+        ],
+        "Report": "images/Student Club/ML/Model_Deploy/report.pdf"
+      }
+    ]
+  },
+  {
+    "Club ID": "Innovation",
+    "Club Name": "House of Innovation Club",
+    "Logo": "images/Student Club/innovation.webp",
+    "About": "House of Innovation - Skills for Life is the club which has been established by the mechanical engineering students. The aim to establish this club is to provide the technical & non-technical skills as well as knowledge. Here, the method we follow is “best way to learn is to teach others” under the guidance of specilist provided by the mechanical department, charusat. This club conducts seminars, sessions for life skills, soft skills and also classes for language learning.",
+    "Faculty Coordinators": [
+      {
+        "Name": "Prof. Vikas Panchal",
+        "Role": "faculty coordinator",
+        "Email": "vikaspanchal.me@charusat.ac.in",
+        "Phone": "8866286233",
+        "Image": "CSPIT_Faculty/Mechanical/VIKAS.webp"
+      }
+    ],
+    "Student Coordinators": [
+      {
+        "Name": "Jash Bhungalia",
+        "ID": ""
+      },
+      {
+        "Name": "Shradhha Lal",
+        "ID": ""
+      }
+    ],
+    "Gallery": [
+      "images/Student Club/House_of_Innovation/Event1/4.webp",
+      "images/Student Club/House_of_Innovation/Event1/6.webp"
+    ],
+    "Events": [
+      {
+        "Name": "Expert Session on “Time Management",
+        "Date": "20 September 2024",
+        "Description": "On September 20, 2024, the House of Innovation, affiliated with the Mechanical Engineering Department of CSPIT-CHARUSAT, organized an expert session on time management led by Mr. Mann Solanki from the JCI Chapter, Nadiad. Held in the seminar hall of the EE/EC building, the session was attended by 69 enthusiastic students from CSPIT and DEPSTAR. Mr. Solanki emphasized the importance of effective time management for students balancing academics and personal life, offering practical tips, theoretical insights, and an engaging activity where students plotted their daily routines to identify areas for improvement. His interactive approach helped participants understand the value of time, and students left the session with actionable strategies to enhance their productivity and personal growth. The session received highly positive feedback and was considered a highly beneficial and impactful learning experience for the students.",
+        "Images": [
+          "images/Student Club/House_of_Innovation/Event1/6.webp",
+          "images/Student Club/House_of_Innovation/Event1/1.webp",
+          "images/Student Club/House_of_Innovation/Event1/2.webp",
+          "images/Student Club/House_of_Innovation/Event1/3.webp",
+          "images/Student Club/House_of_Innovation/Event1/4.webp",
+          "images/Student Club/House_of_Innovation/Event1/5.webp"
+        ],
+        "Report": "images/Student Club/House_of_Innovation/Event1/report.pdf"
+      }
+    ]
+  },
+  {
+    "Club ID": "ChipX",
+    "Club Name": "ChipExplorers Club",
+    "Logo": "images/Student Club/ChipXplorers_Club.webp",
+    "About": "The VLSI Club is a dynamic platform dedicated to fostering innovation and skill development in the semiconductor ecosystem. Its objective is to bridge the industry-academia gap by organizing expert talks, summits, and industry connect series, enabling students to engage with professionals and emerging technologies. The club hosts hackathons, peer-to-peer learning sessions, and hands-on projects, encouraging practical exposure to VLSI design and verification. Through project demonstrations and activity-based learning, members gain real-world experience in chip design, fabrication, and testing. Additionally, the club facilitates mentorship programs, research collaborations, and startup incubation support, empowering the next generation of semiconductor professionals.",
+    "Faculty Coordinators": [
+      {
+        "Name": "Dr. Arpita Patel",
+        "Role": "faculty coordinator",
+        "Email": "arpitapatel.ec@charusat.ac.in",
+        "Phone": "9428661555",
+        "Image": "CSPIT_Faculty/Electronics/ARPITA.webp"
+      }
+    ],
+    "Student Coordinators": [
+      {
+        "Name": "Dhruti Panchal",
+        "ID": "23EC065"
+      }
+    ],
+    "Gallery": [
+      "images/Student Club/ChipX/Semiconductor/2.webp",
+      "images/Student Club/ChipX/research/1.webp",
+      "images/Student Club/ChipX/expert_talk/poster.webp",
+      "images/Student Club/ChipX/Semiconductor/3.webp"
+    ],
+    "Events": [
+      {
+        "Name": "Semiconductor Summit",
+        "Date": "30 September - 1 October 2024",
+        "Description": "Semiconductor Summit",
+        "Images": [
+          "images/Student Club/ChipX/Semiconductor/poster.webp",
+          "images/Student Club/ChipX/Semiconductor/1.webp",
+          "images/Student Club/ChipX/Semiconductor/2.webp",
+          "images/Student Club/ChipX/Semiconductor/3.webp",
+          "images/Student Club/ChipX/Semiconductor/4.webp"
+        ]
+      },
+      {
+        "Name": "Design and Simulation of CMOS VLSI Circuits",
+        "Date": "22 August 2023",
+        "Description": "The goal of this workshop is to enhance the skill of the participants in the VLSI Technology especially in Verilog Programming. Very-large-scale integration (VLSI) is the process of creating an integrated circuit (IC) by combining thousands of transistors into a single chip. Verilog,standardized as IEEE 1364, is a hardware description language used to model electronic systems. It is most commonly used in the design and verification of digital circuits at the register- transfer level of abstraction. This workshop will be a platform for the students to learn LTSpice Tool from the scratch. LTSpice is a SPICE-based analog electronic circuit simulator computer software, produced by semiconductor manufacturer Analog Devices. It is the most widely distributed and used SPICE software in the industry. This would provide an extensive opportunity to the participants for getting knowledge of LTSpice Tool. Under this perspective, aim of this workshop is to discuss in depth about LTSpice Tool and cater to the needs of students, faculty members and practicing engineers",
+        "Images": [
+          "images/Student Club/ChipX/workshop/poster.webp",
+          "images/Student Club/ChipX/workshop/1.webp",
+          "images/Student Club/ChipX/workshop/2.webp"
+        ],
+        "Report": "images/Student Club/ChipX/workshop/report.pdf"
+      },
+      {
+        "Name": "Research Paper Writing Activity using Cadence",
+        "Date": "1 February 2025",
+        "Description": "The activity aimed to provide hands-on experience in research paper writing, focusing on IEEE paper structure and simulation-based analysis using Cadence. It also guided students in selecting relevant topics for internships and final-year projects",
+        "Images": [
+          "images/Student Club/ChipX/research/poster.webp",
+          "images/Student Club/ChipX/research/1.webp",
+          "images/Student Club/ChipX/research/2.webp"
+        ],
+        "Report": "images/Student Club/ChipX/research/report.pdf"
+      },
+      {
+        "Name": "Expert Talk on Digital VLSI Testing",
+        "Date": "2 March 2024",
+        "Description": "VLSI Design has become an important domain in the field of Digital and Analog circuits. The aim of this talk is to provide a basic knowledge of design concepts in VLSI Design and motivate the students towards research in the field of VLSI.",
+        "Images": [
+          "images/Student Club/ChipX/expert_talk/poster.webp"
+        ],
+        "Report": "images/Student Club/ChipX/research/report.pdf"
+      },
+      {
+        "Name": "VLSI Career Success Stories & Industry Outlook",
+        "Date": "1 September 2023",
+        "Description": "Alumni Interaction on VLSI Career Success Stories & Industry Outlook",
+        "Images": [
+          "images/Student Club/ChipX/alumni_interaction/poster.webp"
+        ],
+        "Report": "images/Student Club/ChipX/alumni_interaction/report.pdf"
+      }
+    ]
+  },
+  {
+    "Club ID": "CPS",
+    "Club Name": "Competitive Programming Squad",
+    "Logo": "images/Student Club/CPSQAUD.webp",
+    "About": "The Competitive Programming Squad is a community of passionate coders dedicated to mastering problem-solving and algorithmic skills. The club fosters innovation, collaboration, and excellence, preparing members for national and international coding competitions. Through regular practice, coding contests, and peer learning, it aims to build a strong coding culture and equip students with the expertise to thrive in the competitive programming landscape.",
+    "Faculty Coordinators": [
+      {
+        "Name": "Prof. Nishat Shaikh",
+        "Role": "faculty coordinator",
+        "Email": "nishatshaikh.it@charusat.ac.in",
+        "Phone": "9979157363",
+        "Image": "CSPIT_Faculty/IT/NISHAT.webp"
+      }
+    ],
+    "Student Coordinators": [
+      {
+        "Name": "Nilay Shah",
+        "ID": "22IT081"
+      },
+      {
+        "Name": "Nishit Patel",
+        "ID": "22IT103"
+      }
+    ],
+    "Gallery": [
+      "images/Student Club/CP Squad/Coding contest/1.webp",
+      "images/Student Club/CP Squad/Coding contest/2.webp",
+      "images/Student Club/CP Squad/Coding contest/3.webp",
+      "images/Student Club/CP Squad/Coding contest/4.webp",
+      "images/Student Club/CP Squad/Competitive programming/1.webp",
+      "images/Student Club/CP Squad/1.webp",
+      "images/Student Club/CP Squad/2.webp"
+    ],
+    "Events": [
+      {
+        "Name": "Coder's Arcade 1.0",
+        "Date": "19 August 2023",
+        "Description": "Coder's Arcade 1.0",
+        "Images": [
+          "images/Student Club/CP Squad/Coding contest/1.webp",
+          "images/Student Club/CP Squad/Coding contest/2.webp",
+          "images/Student Club/CP Squad/Coding contest/3.webp",
+          "images/Student Club/CP Squad/Coding contest/4.webp"
+        ],
+        "Report": "images/Student Club/CP Squad/Coding contest/report.pdf"
+      },
+      {
+        "Name": "Seminar on 'Competitive programming' for First Year IT Students",
+        "Date": "28 November 2022",
+        "Description": "Competitive Programming is a mental sport which enables students to code a given problem under provided constraints. The purpose of this seminar was to guide every individual possessing a desire to excel in this sport. Once you enter in programming you just don’t learn how to code but you also learn the “art of thinking” by breaking your code into smaller chunks and then using your logic-based creativity to solve a problem from different angles.",
+        "Images": [
+          "images/Student Club/CP Squad/Competitive programming/1.webp"
+        ],
+        "Report": "images/Student Club/CP Squad/Competitive programming/report.pdf"
+      }
+    ]
+  },
+  {
+    "Club ID": "Eloquence",
+    "Club Name": "Eloquence Club",
+    "Logo": "images/Student Club/eloquence_logo.webp",
+    "About": "The Eloquence Club is dedicated to fostering a vibrant community of individuals equipped with essential soft skills, empowering them to excel in both their personal and professional lives. With a strong commitment to continuous learning, practice, and growth, the club serves as a platform where students can refine their communication, teamwork, leadership, and adaptability—skills that are crucial for success in today's dynamic world. Through a variety of engaging events and activities, the Eloquence Club provides opportunities for students to develop confidence, articulate their thoughts effectively, and collaborate seamlessly. Our mission is to nurture individuals who are not only competent in their respective fields but also capable of making a meaningful impact through their enhanced interpersonal abilities.",
+    "Faculty Coordinators": [
+      {
+        "Name": "Prof. Nishat Shaikh",
+        "Role": "faculty coordinator",
+        "Email": "nishatshaikh.it@charusat.ac.in",
+        "Phone": "9979157363",
+        "Image": "CSPIT_Faculty/IT/NISHAT.webp"
+      },
+      {
+        "Name": "Dr. Parth Shah",
+        "Role": "faculty coordinator",
+        "Email": "parthshah.ce@charusat.ac.in",
+        "Phone": "9925020358",
+        "Image": "CSPIT_Faculty/IT/PARTH.webp"
+      }
+    ],
+    "Student Coordinators": [],
+    "Gallery": [
+      "images/Student Club/Eloquence/DebateComp/1.webp",
+      "images/Student Club/Eloquence/DebateComp/2.webp",
+      "images/Student Club/Eloquence/GroupD/1.webp",
+      "images/Student Club/Eloquence/GroupD/2.webp"
+    ],
+    "Events": [
+      {
+        "Name": "Debate Competition",
+        "Date": "19 January 2024",
+        "Description": "Debate Competition",
+        "Images": [
+          "images/Student Club/Eloquence/DebateComp/1.webp",
+          "images/Student Club/Eloquence/DebateComp/2.webp"
+        ],
+        "Report": "images/Student Club/Eloquence/DebateComp/report.pdf"
+      },
+      {
+        "Name": "Debate & Elocution Competition",
+        "Date": "19 January - 20 January 2023",
+        "Description": "The primary goal of a group discussion is for students to generate effective critical thinking.",
+        "Images": [
+          "images/Student Club/Eloquence/GroupD/1.webp",
+          "images/Student Club/Eloquence/GroupD/2.webp"
+        ],
+        "Report": "images/Student Club/Eloquence/GroupD/report.pdf"
+      }
+    ]
+  },
+  {
+    "Club ID": "Sky",
+    "Club Name": "Scrapping the Sky Club",
+    "Logo": "images/Student Club/Scrapping_The_sky.webp",
+    "About": "A Scraping the sky club of M. S. Patel department of Civil Engineering is a student club focused on fostering creative thinking, artistic expression, and innovation. It provides a space where individuals with diverse interests and talents can come together to explore and develop their creative skills. The activities in a Scraping the sky club can range from brainstorming sessions and collaborative projects to hands-on workshops in various forms of art, writing, design, and technology.Typically, the club aims to encourage members to step out of their comfort zones, experiment with new ideas, and share their creative outputs. It might involve activities such as: 1. Artistic Workshops: Painting, drawing, sculpture, and other visual arts. 2. Writing and Storytelling: Creative writing exercises, poetry, short stories, or even scriptwriting. 3. Innovation and Problem-Solving: Using creativity for solutions in business, technology, or daily life. 4. Group Projects: Collaborative efforts to create something unique, such as videos, theatre performances, or even community service projects. 5. Guest Speakers and Inspiration: Inviting artists, innovators, or experts to speak and inspire members. Overall, Scraping the sky club thrives on collaboration, exploration, and the joy of making something new, providing an inclusive environment for everyone to express their ideas and grow their creative potential.",
+    "Faculty Coordinators": [
+      {
+        "Name": "Prof. Pinal Patel",
+        "Role": "faculty coordinator",
+        "Email": "",
+        "Phone": "9979975075",
+        "Image": "CSPIT_Faculty/Civil/PINAL.webp"
+      },
+      {
+        "Name": "Prof. Megha Desai",
+        "Role": "faculty coordinator",
+        "Email": "",
+        "Phone": "9429032853",
+        "Image": "CSPIT_Faculty/Civil/MEGHA.webp"
+      },
+      {
+        "Name": "Prof. Neha Rajput",
+        "Role": "faculty coordinator",
+        "Email": "",
+        "Phone": "9099027974",
+        "Image": "CSPIT_Faculty/Civil/NEHA.webp"
+      },
+      {
+        "Name": "Prof. Gargi Ray",
+        "Role": "faculty coordinator",
+        "Email": "",
+        "Phone": "8238042155",
+        "Image": "CSPIT_Faculty/Civil/GARGI.webp"
+      }
+    ],
+    "Student Coordinators": [
+      {
+        "Name": "Anurag Ladumor",
+        "ID": ""
+      },
+      {
+        "Name": "Aastha Soni",
+        "ID": ""
+      },
+      {
+        "Name": "Pearl Patel",
+        "ID": ""
+      },
+      {
+        "Name": "Dhyey Amin",
+        "ID": ""
+      }
+    ],
+    "Gallery": [],
+    "Events": [
+      {
+        "Name": "Ganesh Utsav Drawing Competition",
+        "Date": "6 September 20214",
+        "Description": "The Ganesh Utsav Drawing Competition, which has recently concluded, was a vibrant and engaging event celebrating the spirit of the festival. Participants showcased their artistic skills by creating drawings that depicted various aspects of Ganesh Chaturthi, the Hindu festival dedicated to Lord Ganesha. The competition saw a wide range of creative expressions, from traditional portrayals of Lord Ganesha to modern and abstract interpretations. Entries were judged on creativity, adherence to the theme, and overall artistic quality.",
+        "Images": [
+          "images/Student Club/Scrapping_Sky/Ganesh/1.webp",
+          "images/Student Club/Scrapping_Sky/Ganesh/2.webp",
+          "images/Student Club/Scrapping_Sky/Ganesh/3.webp",
+          "images/Student Club/Scrapping_Sky/Ganesh/4.webp"
+        ],
+        "Report": "images/Student Club/Scrapping_Sky/Ganesh/report.pdf"
+      },
+      {
+        "Name": "Rangoli making competition for female sweeper",
+        "Date": "6 September 2023",
+        "Description": "Rangoli making competition for female sweeper was arranged by M. S. Patel Department of Civil Engineering under the Equal Opportunity Cell (EOC) and Earth Club on 06th September, 2023. Participants has prepared rangoli at central square of CL/ME building. This competition is specially organized for Female sweepers The rangolies were very beautifully prepared with the essence of different themes like cleaniness, Diwali and happiness. As per the jury decision the winners were announced and awarded with the cash prize.",
+        "Images": [
+          "images/Student Club/Scrapping_Sky/Rangoli/2.webp",
+          "images/Student Club/Scrapping_Sky/Rangoli/1.webp",
+          "images/Student Club/Scrapping_Sky/Rangoli/3.webp",
+          "images/Student Club/Scrapping_Sky/Rangoli/4.webp",
+          "images/Student Club/Scrapping_Sky/Rangoli/5.webp",
+          "images/Student Club/Scrapping_Sky/Rangoli/6.webp"
+        ],
+        "Report": "images/Student Club/Scrapping_Sky/Rangoli/report.pdf"
+      },
+      {
+        "Name": "Poster Making Competition",
+        "Date": "15 March 2024",
+        "Description": "The foremost aim of Poster Making Competition is that students have summaries the project into a concise and aesthetically present their information in front of judges. Students have been informed about this event allowing them to register prior and the registered students have enthusiastically taken part in the event and made the event successful. The final judgement was made by Dr. Upesh Patel and Dr. Vijay Panchal. The rubrics of the judgement were Relevance to the theme, Originality, Creativity and the message conveyed by the poster. With this aim, VLSI club of EC Department & CREATIVITY club of Civil Department has organized Digital Poster making Competition on the topic “VLSI in today's Era”.",
+        "Images": [
+          "images/Student Club/Scrapping_Sky/Poster/poster.webp",
+          "images/Student Club/Scrapping_Sky/Poster/1.webp",
+          "images/Student Club/Scrapping_Sky/Poster/2.webp",
+          "images/Student Club/Scrapping_Sky/Poster/3.webp"
+        ],
+        "Report": "images/Student Club/Scrapping_Sky/Poster/report.pdf"
+      }
+    ]
+  },
+  {
+    "Club ID": "Debate",
+    "Club Name": "Debate Club",
+    "Logo": "images/Student Club/Debate_Club.webp",
+    "About": "The Debate Club at the M. S. Patel Department of Civil Engineering is a dynamic platform for fostering critical thinking, effective communication, and collaborative learning among students. Our club aims to ignite intellectual curiosity and promote the art of structured argumentation, which is an essential skill for future engineers. Through regular sessions, members engage in thought-provoking debates on a variety of topics, ranging from current affairs and societal issues to technical advancements in civil engineering. These debates encourage students to explore diverse perspectives, hone their research skills, and present their ideas persuasively. The club provides a supportive and inclusive environment where participants can build confidence in public speaking and develop teamwork and leadership abilities. Experienced faculty mentors and guest speakers often guide sessions, offering valuable insights and feedback to enhance the learning experience. In addition to in-house activities, the Debate Club actively participates in intercollegiate competitions, showcasing the talent and preparedness of our students on larger platforms. These events not only bring recognition to the department but also foster camaraderie and a spirit of healthy competition among peers. The Debate Club is more than just a forum for discussion; it’s a community that nurtures analytical minds and empowers students to become articulate professionals ready to tackle the challenges of the modern world.",
+    "Faculty Coordinators": [
+      
+      {
+        "Name": "Prof. Mehul Katakiya",
+        "Role": "faculty coordinator",
+        "Email": "mehulkatakiya.cv@charusat.ac.in",
+        "Phone": "8000669363",
+        "Image": "CSPIT_Faculty/Civil/MEHULKUMAR.webp"
+      },
+      {
+        "Name": "Prof. Vipul Vyas",
+        "Role": "faculty coordinator",
+        "Email": "vipulvyas.cv@charusat.ac.in",
+        "Phone": "9727767541",
+        "Image": "CSPIT_Faculty/Civil/VIPUL.webp"
+      },
+      {
+        "Name": "Prof. Jay Bhavsar",
+        "Role": "faculty coordinator",
+        "Email": "jaybhavsar.cv@charusat.ac.in",
+        "Phone": "9898583301",
+        "Image": "CSPIT_Faculty/Civil/JAY.webp"
+      }
+    ],
+    "Student Coordinators": [
+      {
+        "Name": "Harsh Desai",
+        "ID": "23CL002"
+      },
+      {
+        "Name": "Prachiben Patel",
+        "ID": "23CL009"
+      },
+      {
+        "Name": "Dubal Dhyey Pritesh",
+        "ID": "24CL008"
+      },
+      {
+        "Name": "Aayush Vinay Shah",
+        "ID": "24CL039"
+      }
+    ],
+    "Gallery": [],
+    "Events": []
+  },
+  {
+    "Club ID": "CFC",
+    "Club Name": "Code For Cause Club",
+    "Logo": "images/Student Club/Code_for_the_cause.webp",
+    "About": "A Code for Cause club is a coding club where a group of interested and enthusiastic students who learn and practice coding together in a supportive environment. The Code for Cause club develops programming skills, computational skills and logical skills. In this club activities, students can enhance their knowledge and experience how to convert the knowledge in real-time applications. This club provides a platform for the students to embedded certain hardware tools and particular code. The students are encouraged to participate in various technical competitions such as hackathon, codefiesta etc.",
+    "Faculty Coordinators": [
+      {
+        "Name": "Dr. Killol Pandya",
+        "Role": "faculty coordinator",
+        "Email": "",
+        "Phone": "7600004093",
+        "Image": "CSPIT_Faculty/Electronics/KILLOL.webp"
+      }
+    ],
+    "Student Coordinators": [
+      {
+        "Name": "Vedansh Verdia",
+        "ID": "22EC064"
+      },
+      {
+        "Name": "Moksh Chavda",
+        "ID": "23EC014"
+      }
+    ],
+    "Gallery": [
+      "images/Student Club/CFC/C++ Hackathon/poster.webp",
+      "images/Student Club/CFC/Code_Fiesta/2.webp",
+      "images/Student Club/CFC/CODE.PY-2.0/3.webp",
+      "images/Student Club/CFC/Workshop_1_Arduino_1/1.webp",
+      "images/Student Club/CFC/Workshop_2_Arduino_2/4.webp",
+      "images/Student Club/CFC/C_hack/3.webp"
+    ],
+    "Events": [
+      {
+        "Name": "C Hackathon",
+        "Date": "19/10/2024",
+        "Description": "The C Hackathon was designed to immerse participants in the core concepts of C programming through competitive challenges. The event focused on solving real-world problems using C, enhancing coding efficiency, and encouraging innovative approaches to algorithm design and problemsolving.",
+        "Images": [
+          "images/Student Club/CFC/C_hack/poster.webp",
+          "images/Student Club/CFC/C_hack/1.webp",
+          "images/Student Club/CFC/C_hack/2.webp",
+          "images/Student Club/CFC/C_hack/3.webp",
+          "images/Student Club/CFC/C_hack/4.webp"
+        ],
+        "Report": "images/Student Club/CFC/C_hack/report.pdf"
+      },
+      {
+        "Name": "C++ Codathon",
+        "Date": "7 April - 8 April, 2025",
+        "Description": "The C Hackathon was designed to immerse participants in the core concepts of C programming through competitive challenges. The event focused on solving real-world problems using C, enhancing coding efficiency, and encouraging innovative approaches to algorithm design and problemsolving.",
+        "Images": [
+          "images/Student Club/CFC/C++ Hackathon/poster.webp",
+          "images/Student Club/CFC/C++ Hackathon/1.webp",
+          "images/Student Club/CFC/C++ Hackathon/2.webp",
+          "images/Student Club/CFC/C++ Hackathon/3.webp",
+          "images/Student Club/CFC/C++ Hackathon/4.webp"
+        ],
+        "Report": "images/Student Club/CFC/C++ Hackathon/report.pdf"
+      },
+      {
+        "Name": "Hackathon 2023: Codefeista",
+        "Date": "11/10/2023",
+        "Description": "Hackathon 2023",
+        "Images": [
+          "images/Student Club/CFC/Code_Fiesta/poster.webp",
+          "images/Student Club/CFC/Code_Fiesta/1.webp",
+          "images/Student Club/CFC/Code_Fiesta/2.webp",
+          "images/Student Club/CFC/Code_Fiesta/3.webp"
+        ],
+        "Report": "images/Student Club/CFC/Code_Fiesta/report.pdf"
+      },
+      {
+        "Name": "CODE.PY-python hackathon",
+        "Date": "17 March - 18 March - 19 March 2025",
+        "Description": "CODE.PY-python hackathon",
+        "Images": [
+          "images/Student Club/CFC/CODE.PY-2.0/poster.webp",
+          "images/Student Club/CFC/CODE.PY-2.0/1.webp",
+          "images/Student Club/CFC/CODE.PY-2.0/2.webp",
+          "images/Student Club/CFC/CODE.PY-2.0/3.webp",
+          "images/Student Club/CFC/CODE.PY-2.0/4.webp"
+        ],
+        "Report": "images/Student Club/CFC/CODE.PY-2.0/report.pdf"
+      },
+      {
+        "Name": "EXPLORE, LEARN, CREATE: THE ARDUINO HANDS-ON EXPERIENCE",
+        "Date": "16/03/2024",
+        "Description": "The Arduino Workshop aimed to introduce participants to the fundamentals of Arduino, an open-source electronics platform. The workshop covered various aspects including understanding Arduino, basic projects, and interfacing with different sensors like ultrasonic, IR, 7 segment, pushbutton, onboard LED, designing and simulation of circuits in proteus software.",
+        "Images": [
+          "images/Student Club/CFC/Workshop_1_Arduino_1/poster.webp",
+          "images/Student Club/CFC/Workshop_1_Arduino_1/1.webp",
+          "images/Student Club/CFC/Workshop_1_Arduino_1/2.webp",
+          "images/Student Club/CFC/Workshop_1_Arduino_1/3.webp"
+        ],
+        "Report": "images/Student Club/CFC/Workshop_1_Arduino_1/report.pdf"
+      },
+      {
+        "Name": "EXPLORE, LEARN, CREATE: THE ARDUINO HANDS-ON EXPERIENCE",
+        "Date": "26/09/2024",
+        "Description": "The Arduino Workshop aimed to introduce participants to the fundamentals of Arduino, an open-source electronics platform. The workshop covered various aspects including understanding Arduino, basic projects, and interfacing with different sensors like ultrasonic, 7 segment, onboard LED.",
+        "Images": [
+          "images/Student Club/CFC/Workshop_2_Arduino_2/poster.webp",
+          "images/Student Club/CFC/Workshop_2_Arduino_2/1.webp",
+          "images/Student Club/CFC/Workshop_2_Arduino_2/2.webp",
+          "images/Student Club/CFC/Workshop_2_Arduino_2/3.webp",
+          "images/Student Club/CFC/Workshop_2_Arduino_2/4.webp"
+        ],
+        "Report": "images/Student Club/CFC/Workshop_2_Arduino_2/report.pdf"
+      }
+    ]
+  },
+  {
+    "Club ID": "AI",
+    "Club Name": "AI for All",
+    "Logo": "images/Student Club/AI_For_ALL.webp",
+    "About": "AI for All Club is an inclusive community where students from diverse backgrounds come together to explore the fascinating world of artificial intelligence. The club aims to build foundational and advanced AI knowledge by covering key topics such as machine learning, deep learning, natural language processing, and computer vision.Through hands-on projects, workshops, and discussions, students gain practical experience in applying AI to real-world problems.",
+    "Faculty Coordinators": [
+      {
+        "Name": "Dr. Nirav Bhatt",
+        "Role": "faculty coordinator",
+        "Email": "niravbhatt.it@charusat.ac.in",
+        "Phone": "9998582812",
+        "Image": "CSPIT_Faculty/AIML/NIRAV.webp"
+      }
+    ],
+    "Student Coordinators": [
+      {
+        "Name": "OM BAMBHROLIYA",
+        "ID": "22AIML001"
+      },
+      {
+        "Name": "DEVARSHI DAVE",
+        "ID": "22AIML007"
+      },
+      {
+        "Name": "DEEP KAKADIYA",
+        "ID": "22AIML024"
+      },
+      {
+        "Name": "PUNITSINH PARMAR",
+        "ID": "23AIML045"
+      },
+      {
+        "Name": "VIDHIN SAGPARARIYA",
+        "ID": "24AIML055"
+      },
+      {
+        "Name": "KHUSHI VADODARIYA",
+        "ID": "24AIML071"
+      }
+    ],
+    "Gallery": [
+      "images/Student Club/AI_For_All/Meetup1/poster.webp",
+      "images/Student Club/AI_For_All/Meetup2/3.webp",
+      "images/Student Club/AI_For_All/Meetup2/poster.webp",
+      "images/Student Club/AI_For_All/Meetup2/1.webp",
+      "images/Student Club/AI_For_All/Meetup2/2.webp",
+      "images/Student Club/AI_For_All/Ethical_AI/5.webp"
+    ],
+    "Events": [
+      {
+        "Name": "AI FOR ALL Meetup 1",
+        "Date": "September 16, 2023",
+        "Description": "The primary objective of the \"AI for All\" meetup was to create awareness and understanding among students, faculty, and staff members about the profound impact of AI and ML across various domains. We envisioned to encourage interdisciplinary collaboration, foster innovative thinking, and inspire participants to harness the potential of these technologies in their respective fields. The Department of AIML organised a meet-up named “AI for all” on 16/09/2023. The meet-up was held in the central square of EC/EE building of CSPIT. Approximately 40-45 people attended the meet-up which included HODs, Principal and Faculty members of different disciplines across CHARUSAT, also students studying in 2nd and 1st year of AIML.",
+        "Images": [
+          "images/Student Club/AI_For_All/Meetup1/poster.webp",
+          "images/Student Club/AI_For_All/Meetup1/1.webp",
+          "images/Student Club/AI_For_All/Meetup1/2.webp",
+          "images/Student Club/AI_For_All/Meetup1/3.webp",
+          "images/Student Club/AI_For_All/Meetup1/4.webp"
+        ],
+        "Report": "images/Student Club/AI_For_All/Meetup1/report.pdf"
+      },
+      {
+        "Name": "AI FOR ALL Meetup 2.0",
+        "Date": "5th October, 2024",
+        "Description": "“AI for ALL” event was organized by the Department of AI-ML in CSPIT, CHARUSAT. The primary purpose of this event was to connect the industry experts and students to explore current trends, technologies, and problems that need more attention in which AI technologies can be incorporated. The goal is to bring together experts, academia, researchers, and undergraduate AI-ML students to address present-day socio-economic concerns and promote AI tools and technology for better solutions. The event aimed to introduce AI technology, their practical uses, and future possibilities. It aimed to make AI available to everyone, regardless of background or experience, by creating an inclusive learning environment.",
+        "Images": [
+          "images/Student Club/AI_For_All/Meetup2/poster.webp",
+          "images/Student Club/AI_For_All/Meetup2/1.webp",
+          "images/Student Club/AI_For_All/Meetup2/2.webp",
+          "images/Student Club/AI_For_All/Meetup2/3.webp",
+          "images/Student Club/AI_For_All/Meetup2/4.webp"
+        ],
+        "Report": "images/Student Club/AI_For_All/Meetup2/report.pdf"
+      },
+      {
+        "Name": "Ethical AI",
+        "Date": "09/08/2024",
+        "Description": "The event titled “Ethical AI” is organized by Department of AI-ML, CSPIT, Charusat. The key objectives of the event are as follows: To understand the core principles of ethical AI, including fairness, accountability, transparency, and privacy; Emerging trends in AI and their potential ethical implications; To analyze the real-world case studies to understand the practical implications of ethical AI. The participants were from 3rd and 5th Semesters of AI-ML department, CSPIT. The expert is an alumnus of Mechanical Engineering Department, CSPIT. A total of 68 students attended the event and gained insights on various terminologies involved in Ethics of AI. The event was concluded with a group activity involving all the students who participated actively in the institute.",
+        "Images": [
+          "images/Student Club/AI_For_All/Ethical_AI/poster.webp",
+          "images/Student Club/AI_For_All/Ethical_AI/1.webp",
+          "images/Student Club/AI_For_All/Ethical_AI/2.webp",
+          "images/Student Club/AI_For_All/Ethical_AI/3.webp",
+          "images/Student Club/AI_For_All/Ethical_AI/4.webp"
+        ],
+        "Report": "images/Student Club/AI_For_All/Ethical_AI/report.pdf"
+      }
+    ]
+  },
+  {
+    "Club ID": "CyberKavach Club",
+    "Club Name": "CyberKavach Club",
+    "Logo": "images/Student Club/Cyber_Kavach.webp",
+    "About": "Cyber Kavach is a student-oriented community that is committed to fostering hands-on peer learning sessions, knowledge-sharing, and collaboration to tackle emerging cyber challenges. Through practical hands-on experience and industry exposure, the club aims to equip its members with the tools and expertise to defend the digital cyber world.",
+    "Faculty Coordinators": [
+      {
+        "Name": "Prof. Akshita Kadam",
+        "Role": "faculty coordinator",
+        "Email": "akshitakadam.cse@charusat.ac.in",
+        "Phone": "7984383018",
+        "Image": "CSPIT_Faculty/CSE/AKSHITA.webp"
+      }
+    ],
+    "Student Coordinators": [
+      {
+        "Name": "PRINCE TADHANI",
+        "ID": "20CS083"
+      },
+      {
+        "Name": "NIRAL SHEKHAT",
+        "ID": "22AIML051"
+      },
+      {
+        "Name": "SHAIL MACWAN",
+        "ID": "22CS035"
+      },
+      {
+        "Name": "ANJANABA ZALA",
+        "ID": "D23CS098"
+      },
+      {
+        "Name": "OM JADIYA",
+        "ID": "23CS026"
+      },
+      {
+        "Name": "DEVANG BHATT",
+        "ID": "23CS009"
+      },
+      {
+        "Name": "JAINISH CHAUHAN",
+        "ID": "23CS015"
+      }
+    ],
+    "Gallery": [
+      "images/Student Club/Cyber_Kavach/Event1/poster.webp",
+      "images/Student Club/Cyber_Kavach/Event2/poster2.webp",
+      "images/Student Club/Cyber_Kavach/Event3/poster2.webp",
+      "images/Student Club/Cyber_Kavach/Event1/2.webp",
+      "images/Student Club/Cyber_Kavach/Event2/2.webp",
+      "images/Student Club/Cyber_Kavach/Event2/4.webp"
+    ],
+    "Events": [
+      {
+        "Name": "Expert Talk entitled “BUILDING A SECURE FUTURE - A STRATEGIC CYBERSECURITY ROADMAP”",
+        "Date": "September 11, 2022",
+        "Description": "Chandubhai S. Patel Institute of Technology (CSPIT) CSE department hosted an expert talk on “BUILDING A SECURE FUTURE - A STRATEGIC CYBERSECURITY ROADMAP” on 11th September, 2022 at Class Room No. 313, EC Building was organized in collaboration with Cyber Security Club (Cyber Kavach) for the 1st-semester students. The event took place on 11th September 2024 from 2:15 PM to 4:15 PM and was conducted in offline mode. The session was led by Mr. Prince Tadhani providing valuable insights into the core concepts of Cyber Security Roadmap. The workshop provided a structured roadmap, covering core aspects of cybersecurity, from understanding basic security concepts to advanced techniques for defending against cyberattacks. Key areas discussed included encryption, secure coding practices, vulnerability assessments, and threat modelling. Participants also learned about common cyber threats like phishing, malware, and ransomware, along with best practices to prevent them. With the rise of cyber threats and data breaches, understanding cybersecurity fundamentals is essential for protecting websites, applications, and networks.",
+        "Images": [
+          "images/Student Club/Cyber_Kavach/Event1/poster.webp",
+          "images/Student Club/Cyber_Kavach/Event1/1.webp",
+          "images/Student Club/Cyber_Kavach/Event1/2.webp"
+        ],
+        "Report": "images/Student Club/Cyber_Kavach/Event1/report.pdf"
+      },
+      {
+        "Name": "CyberSecurity : Zero to Hero!",
+        "Date": "21 March 2024",
+        "Description": "CyberSecurity : Zero to Hero!",
+        "Images": [
+          "images/Student Club/Cyber_Kavach/Event2/poster.webp",
+          "images/Student Club/Cyber_Kavach/Event2/poster2.webp",
+          "images/Student Club/Cyber_Kavach/Event2/1.webp",
+          "images/Student Club/Cyber_Kavach/Event2/2.webp",
+          "images/Student Club/Cyber_Kavach/Event2/3.webp",
+          "images/Student Club/Cyber_Kavach/Event2/4.webp"
+        ],
+        "Report": ""
+      },
+      {
+        "Name": "DHCP and LAN Security",
+        "Date": "4 April 2024",
+        "Description": "DHCP and LAN Security",
+        "Images": [
+          "images/Student Club/Cyber_Kavach/Event3/poster.webp",
+          "images/Student Club/Cyber_Kavach/Event3/poster2.webp",
+          "images/Student Club/Cyber_Kavach/Event3/1.webp",
+          "images/Student Club/Cyber_Kavach/Event3/2.webp",
+          "images/Student Club/Cyber_Kavach/Event3/3.webp"
+        ],
+        "Report": ""
+      }
+    ]
+  },
+  {
+    "Club ID": "EyeCoders",
+    "Club Name": "EyeCoders Club",
+    "Logo": "images/Student Club/EyeCoders.webp",
+    "About": "The Eye Coders Club, brought to you by the Department of Computer Science & Engineering at CSPIT, CHARUSAT, is more than just a club. It's an opportunity to dive into the world of Competitive Programming and reap its many benefits. Our goal is to inspire and prepare our student community for the challenges ahead.",
+    "Faculty Coordinators": [
+      {
+        "Name": "Prof. Dharmendrasinh Rathod",
+        "Role": "faculty coordinator",
+        "Email": "dharmendrarathod.cse@charusat.ac.in",
+        "Phone": "9510406252",
+        "Image": "CSPIT_Faculty/CSE/DHARMENDRASINH.webp"
+      },
+      {
+        "Name": "Prof. Hemang Thakar",
+        "Role": "faculty coordinator",
+        "Email": "hemangthakar.cse@charusat.ac.in",
+        "Phone": "9409404004",
+        "Image": "CSPIT_Faculty/CSE/HEMANG.webp"
+      }
+    ],
+    "Student Coordinators": [
+      {
+        "Name": "JAYRAJ LAKKAD",
+        "ID": "22CS033"
+      }
+    ],
+    "Gallery": [
+      "images/Student Club/EyeCoders/Hunt2/poster.webp",
+      "images/Student Club/EyeCoders/OS_Arena/3.webp",
+      "images/Student Club/EyeCoders/Hunt2/1.webp",
+      "images/Student Club/EyeCoders/Hunt2/2.webp",
+      "images/Student Club/EyeCoders/Hunt2/6.webp",
+      "images/Student Club/EyeCoders/Hunt2/9.webp",
+      "images/Student Club/EyeCoders/Hunt2/7.webp"
+    ],
+    "Events": [
+      {
+        "Name": "OSArena – Master the Process State Diagram 2024-25",
+        "Date": "25th February, 2025",
+        "Description": "The OSArena event was organized by the Eye Coders Club on 25th February, 2025, to provide students with an engaging and interactive experience related to Operating System concepts. The event focused on understanding the Process State Diagram and how processes transition between different states in an operating system. The competition aimed to enhance participants’ knowledge and problem-solving skills through a gamified approach. The primary objective of OSArena was to help students grasp the fundamental concepts of Process Scheduling, State Transitions, and Resource Allocation in an engaging manner. The event was designed to challenge participants' problem-solving abilities and practical understanding of operating systems through interactive tasks and problem statements. The event witnessed an enthusiastic participation from students of 4th semesters, eager to test and enhance their operating system knowledge. Participants formed teams and competed in rounds, each designed to evaluate their conceptual understanding, analytical thinking, and coding skills related to process management.",
+        "Images": [
+          "images/Student Club/EyeCoders/OS_Arena/poster.webp",
+          "images/Student Club/EyeCoders/OS_Arena/1.webp",
+          "images/Student Club/EyeCoders/OS_Arena/2.webp",
+          "images/Student Club/EyeCoders/OS_Arena/3.webp",
+          "images/Student Club/EyeCoders/OS_Arena/4.webp"
+        ],
+        "Report": "images/Student Club/EyeCoders/OS_Arena/report.pdf"
+      },
+      {
+        "Name": "Technical Treasure Hunt 1.0",
+        "Date": "5th December 2023",
+        "Description": "Department of Computer Science and Engineering & Artificial Intelligence and Machine Learning, Chandubhai S. Patel Institute of Technology, Charotar University of Science and Technology (CHARUSAT). The competition named Technical Treasure Hunt the course CSE209- Data Structures and Algorithms for 4th-semester students of Computer Science and Engineering & Artificial Intelligence and Machine Learning, CSPIT on 5th December 2023 at 12:30 PM to 03:30 PM at CSPIT CSE 607,608 and Lab 638 labs. The total number of teams registered for the event was 74. The teams were formed of 1, 2 or 3 members maximum. The Technical Treasure Hunt was designed to provide a multifaceted challenge, blending traditional quiz formats with real-world problem-solving scenarios and culminating in a high-stakes coding showdown. The event was meticulously organized by the faculty and students of the 3rd year of CSPIT's CSE department, to promote technical excellence and foster camaraderie among the participants.",
+        "Images": [
+          "images/Student Club/EyeCoders/Hunt1/1.webp",
+          "images/Student Club/EyeCoders/Hunt1/2.webp"
+        ],
+        "Report": "images/Student Club/EyeCoders/Hunt1/report.pdf"
+      },
+      {
+        "Name": "Technical Treasure Hunt 2.0",
+        "Date": "23rd September 2024",
+        "Description": "On September 23, 2024, the Eye Coders Club hosted an exhilarating Technical Treasure Hunt, exclusively designed for 3rd-semester students of CSPIT-CSE. The event revolved around Data Structures and Algorithms (DSA), allowing participants to engage in solving complex problems that revealed passwords and clues as they progressed. This event tested students' logical thinking, coding skills, and problem-solving abilities in an interactive and engaging format. The event consisted of multiple phases, where students were split into teams and were tasked with solving coding problems related to Data Structures and Algorithms. Each team had to work collaboratively to progress through the various levels of the treasure hunt. The hunt involved solving codes, unlocking passwords, and finding QR codes scattered at different locations within CSPIT.",
+        "Images": [
+          "images/Student Club/EyeCoders/Hunt2/poster.webp",
+          "images/Student Club/EyeCoders/Hunt2/2.webp",
+          "images/Student Club/EyeCoders/Hunt2/3.webp",
+          "images/Student Club/EyeCoders/Hunt2/6.webp",
+          "images/Student Club/EyeCoders/Hunt2/7.webp",
+          "images/Student Club/EyeCoders/Hunt2/9.webp"
+        ],
+        "Report": "images/Student Club/EyeCoders/Hunt2/report.pdf"
+      }
+    ]
+  },
+  {
+    "Club ID": "Grow With Git",
+    "Club Name": "Grow With Git",
+    "Logo": "images/Student Club/Grow_With_Git.webp",
+    "About": "Provide a platform for students to learn and master version control using Git and GitHub. Foster collaboration and knowledge-sharing among students interested in software development. Organize workshops, seminars, and coding competitions to enhance students' skills in using Git and GitHub. Encourage students to contribute to open-source projects and build a strong portfolio. Facilitate networking opportunities with industry professionals and alumni through guest lectures and events.",
+    "Faculty Coordinators": [
+      {
+        "Name": "Prof. Dhara Solanki",
+        "Role": "faculty coordinator",
+        "Email": "dharasolanki.cse@charusat.ac.in",
+        "Phone": "8238448451",
+        "Image": "CSPIT_Faculty/CSE/DHARA.webp"
+      },
+      {
+        "Name": "Prof. Srushti Gajjar",
+        "Role": "faculty coordinator",
+        "Email": "srushtigajjar.cse@charusat.ac.in",
+        "Phone": "9409546741",
+        "Image": "CSPIT_Faculty/CSE/SRUSHTI.webp"
+      },
+      {
+        "Name": "Prof. Brinda Patel",
+        "Role": "faculty coordinator",
+        "Email": "brindapatel.cse@charusat.ac.in",
+        "Phone": "7405281125",
+        "Image": "CSPIT_Faculty/CSE/BRINDA.webp"
+      }
+    ],
+    "Student Coordinators": [
+      {
+        "Name": "Shail Macwan",
+        "ID": "22CS035"
+      },
+      {
+        "Name": "Piyanshu Chanaria",
+        "ID": "23CS012"
+      },
+      {
+        "Name": "Darsh Patel",
+        "ID": "22CS052"
+      }
+    ],
+    "Gallery": [],
+    "Events": [
+      {
+        "Name": "Session on “GITHUB and GITHUB Foundation certification journey under GrowWithGit Club”",
+        "Date": "13 September 2024",
+        "Description": "A session on GitHub and GitHub Foundation Certification Journey was conducted on 13th September 2024 for the students of the computer science department. The session aimed to introduce the students to the GitHub platform, its certification pathways, and the Microsoft Learn Student Ambassador (MLSA) program. The session was facilitated by Yatharth Chauhan, an esteemed alumnus of the university, who is the founder of Webxela, a GOLD Microsoft Learn Student Ambassador, and a 4X GitHub and LinkedIn certified professional. Yatharth’s extensive experience in these platforms provided valuable insights to the students on how to leverage GitHub certifications for their career growth and development. The primary objective of the session was to familiarize students with: ● The GitHub platform and its potential for collaborative software development. ● The GitHub Foundation Certification process, outlining the steps students should take to earn certifications that are globally recognized. ● The Microsoft Learn Student Ambassador Program, an exclusive program that offers students the opportunity to connect with industry professionals, learn new skills, and showcase their expertise.",
+        "Images": [
+          "images/Student Club/Git/Event1/poster.webp",
+          "images/Student Club/Git/Event1/1.webp",
+          "images/Student Club/Git/Event1/2.webp",
+          "images/Student Club/Git/Event1/3.webp"
+        ],
+        "Report": "images/Student Club/Git/Event1/report.pdf"
+      }
+    ]
+  },
+  {
+    "Club ID": "Innovators Club",
+    "Club Name": "Innovators Club",
+    "Logo": "images/Student Club/Innovators.webp",
+    "About": "Innovators Club : Prepare, Compete, Grow, The Innovators Club serves as a dedicated platform for fostering creativity, critical thinking, and innovation among students. It aims to encourage the development of novel ideas and technological solutions through collaboration, research, and hands-on experimentation. The club provides opportunities for members to engage in workshops, competitions, and project-based learning, thereby nurturing a culture of innovation and entrepreneurship.",
+    "Faculty Coordinators": [
+      {
+        "Name": "Prof. Jalpa Ardeshana",
+        "Role": "faculty coordinator",
+        "Email": "jalpaardeshana.aiml@charusat.ac.in",
+        "Phone": "6354272052",
+        "Image": "CSPIT_Faculty/AIML/JALPA.webp"
+      }
+    ],
+    "Student Coordinators": [
+      {
+        "Name": "AUM BARAI",
+        "ID": "22AIML002"
+      },
+      {
+        "Name": "SAUMYA GOHIL",
+        "ID": "22AIML013"
+      },
+      {
+        "Name": "KRUSHNA PARMAR",
+        "ID": "22AIML028"
+      },
+      {
+        "Name": "TWISHA KAMANI",
+        "ID": "22AIML026"
+      },
+      {
+        "Name": "SANSKRUTI KUKADIYA",
+        "ID": "23AIML030"
+      },
+      {
+        "Name": "YUG BHATT",
+        "ID": "24AIML003"
+      },
+      {
+        "Name": "HITARTH KHATIWALA",
+        "ID": "24AIML019"
+      }
+    ],
+    "Gallery": [
+      "images/Student Club/Innovators/AI_Frontiers/1.webp",
+      "images/Student Club/Innovators/AI_Frontiers/2.webp",
+      "images/Student Club/Innovators/AI_Frontiers/5.webp",
+      "images/Student Club/Innovators/AI_Frontiers/3.webp"
+    ],
+    "Events": [
+      {
+        "Name": "Workshop on \"Git & GitHub\"",
+        "Date": "29/07/2024",
+        "Description": "This event was organised for the students of the Artificial Intelligence and Machine Learning department of CSPIT, CHARUSAT on 29/07/2024. We had planned an interactive workshop on Git and Github. A total of 102 students, 1 faculty member, and 3 volunteers participated in the same. The session on Git and GitHub was designed to provide participants with a thorough understanding of version control using Git and the collaborative features of GitHub. This session was crucial for participants to gain practical knowledge and hands-on experience with these essential tools, which are widely used in the software development industry. The event started at 2:20 PM with an introduction to AWS Partyrock Services, providing participants with an overview of how these cloud services can enhance their development workflows. The idea was to familiarize attendees with the integration capabilities of AWS, emphasizing how leveraging cloud infrastructure can streamline project management and collaboration. This introduction set the stage for understanding how Git and GitHub can be used in conjunction with cloud services to optimize software development processes.",
+        "Images": [
+          "images/Student Club/Innovators/Git/2.webp",
+          "images/Student Club/Innovators/Git/1.webp"
+        ],
+        "Report": "images/Student Club/Innovators/Git/report.pdf"
+      },
+      {
+        "Name": "AI Frontiers: Unlocking the Future with RAG, GANs & YOLO",
+        "Date": "4 March 2025",
+        "Description": "The event \"AI Frontiers: Unlocking the Future with RAG, GANs & YOLO\" was organized by the Department of AI-ML, CSPIT from 2:00 PM to 4:00 PM in Seminar Hall 2nd floor A6 Building. The event student coordinators were Krushna Parmar, Meet Radadiya, Aum Barai, Saumya Gohil, and the event convenor was Dr. Nirav Bhatt (HoD, AI-ML Dept) and Faculty-convenor was Prof. Jalpa Ardeshana (Faculty Member of AIML Dept). The session was conducted by Neel Shah & Harsh Maheshwari from AIML 3rd year who provided in-depth knowledge and hands-on demonstrations. The event was designed for the students of CSPIT, aiming to enhance their understanding of deep learning concepts, particularly the session provided students with theoretical insights and practical exposure to key AI concepts, including CNN fundamentals, Retrieval-Augmented Generation (RAG), object detection with YOLO, and Generative Adversarial Networks (GANs). The session provided students with theoretical insights and practical exposure through hands-on demonstrations in a coding environment. This peer learning session helped students grasp advanced AI concepts and their real-world applications.",
+        "Images": [
+          "images/Student Club/Innovators/AI_Frontiers/poster.webp",
+          "images/Student Club/Innovators/AI_Frontiers/1.webp",
+          "images/Student Club/Innovators/AI_Frontiers/2.webp",
+          "images/Student Club/Innovators/AI_Frontiers/3.webp",
+          "images/Student Club/Innovators/AI_Frontiers/4.webp",
+          "images/Student Club/Innovators/AI_Frontiers/5.webp"
+        ],
+        "Report": "images/Student Club/Innovators/AI_Frontiers/report.pdf"
+      }
+    ]
+  },
+  {
+    "Club ID": "Math for AI",
+    "Club Name": "Math for AI Club",
+    "Logo": "images/Student Club/Math_AI.webp",
+    "About": "Math for AI Club is a dedicated community where passionate and curious students come together to explore the mathematical foundations of artificial intelligence. The club focuses on developing strong mathematical skills, including linear algebra, probability, statistics, and calculus, which are essential for understanding and building AI models. Through various activities, students can deepen their knowledge and experience how mathematical concepts are applied in real-world AI applications. This club provides a platform for students to experiment with mathematical modeling, optimization techniques, and AI-related problem-solving.",
+    "Faculty Coordinators": [
+      {
+        "Name": "Dr. Spoorthy V",
+        "Role": "faculty coordinator",
+        "Email": "spoorthy.aiml@charusat.ac.in",
+        "Phone": "8310726037",
+        "Image": "CSPIT_Faculty/AIML/SPOORTHY.webp"
+      }
+    ],
+    "Student Coordinators": [
+      {
+        "Name": "KESHA DESAI",
+        "ID": "22AIML008"
+      },
+      {
+        "Name": "POOJA MEHTA",
+        "ID": "22AIML020"
+      },
+      {
+        "Name": "POOJA RACHCHH",
+        "ID": "22AIML057"
+      },
+      {
+        "Name": "ANSHU TRIVEDI",
+        "ID": "23AIML072"
+      },
+      {
+        "Name": "MANAN PANCHAL",
+        "ID": "24AIML024"
+      },
+      {
+        "Name": "KRISH SINGH",
+        "ID": "24AIML065"
+      }
+    ],
+    "Gallery": [
+      "images/Student Club/Math_AI/Event2/poster.webp",
+      "images/Student Club/Math_AI/Event1/3.webp",
+      "images/Student Club/Math_AI/Event2/1.webp",
+      "images/Student Club/Math_AI/Event2/5.webp"
+    ],
+    "Events": [
+      {
+        "Name": "Fundamentals of Mathematics for Machine Learning",
+        "Date": "2 August 2024",
+        "Description": "The department of AI-ML, CSPIT, organized the event “Fundamentals of Mathematics for Machine Learning” on 02nd August 2024 from 02:00 PM to 04:30 PM in Seminar Hall, EC-EE building, 2nd floor, CSPIT. Dr. Spoorthy. V (Faculty member-AI-ML dept) is the event coordinator, and Dr. Nirav Bhatt (HoD, AI-ML dept) is the event convenor. Dr. Jignesh S. Bhatt, Asst. Prof, IIIT, Vadodara, is the expert who conducted the session. The event was organized for all interested faculty and students from CSPIT (CE, IT, CSE, and AI-ML branches) and DEPSTAR (CE, IT, and CSE branches). The main aim of the organization of this event is to provide students with knowledge of mathematics that is involved in the machine learning course. The students participated actively in this event.",
+        "Images": [
+          "images/Student Club/Math_AI/Event1/poster.webp",
+          "images/Student Club/Math_AI/Event1/1.webp",
+          "images/Student Club/Math_AI/Event1/2.webp",
+          "images/Student Club/Math_AI/Event1/3.webp"
+        ],
+        "Report": "images/Student Club/Math_AI/Event1/report.pdf"
+      },
+      {
+        "Name": "Math for AI - Magic behind GAN",
+        "Date": "21 March 2025",
+        "Description": "Math for AI - Magic behind GAN",
+        "Images": [
+          "images/Student Club/Math_AI/Event2/poster.webp",
+          "images/Student Club/Math_AI/Event2/1.webp",
+          "images/Student Club/Math_AI/Event2/2.webp",
+          "images/Student Club/Math_AI/Event2/3.webp",
+          "images/Student Club/Math_AI/Event2/4.webp",
+          "images/Student Club/Math_AI/Event2/5.webp"
+        ],
+        "Report": ""
+      }
+    ]
+  },
+  {
+    "Club ID": "Robotics Club",
+    "Club Name": "Robotics Club",
+    "Logo": "images/Student Club/Robotics.webp",
+    "About": "Robotics Club aims to provide a platform for enthusiasts like yourself to come together, learn, innovate, and explore the fascinating world of robotics. Whether you're a seasoned enthusiast or just curious about this rapidly advancing field, there's a place for you in our club.",
+    "Faculty Coordinators": [
+      {
+        "Name": "Dr. Upesh Patel",
+        "Role": "faculty coordinator",
+        "Email": "upeshpatel.ec@charusat.ac.in",
+        "Phone": "9913759877",
+        "Image": "CSPIT_Faculty/Electronics/UPESH.webp"
+      },
+      {
+        "Name": "Dr. Miral Desai",
+        "Role": "faculty coordinator",
+        "Email": "miraldesai.ec@charusat.ac.in",
+        "Phone": "9825838325",
+        "Image": "CSPIT_Faculty/Electronics/MIRAL MUKESHBHAI DESAI.webp"
+      },
+      {
+        "Name": "Dr. Jigar Sharda",
+        "Role": "faculty coordinator",
+        "Email": "jigarsarda.ec@charusat.ac.in",
+        "Phone": "7567702409",
+        "Image": "CSPIT_Faculty/CSE/JIGAR.webp"
+      }
+    ],
+    "Student Coordinators": [
+      {
+        "Name": "Rohan Vaghela",
+        "ID": "22CS088"
+      },
+      {
+        "Name": "Pruthvish Dave",
+        "ID": "23EC019"
+      }
+    ],
+    "Gallery": [
+      "images/Student Club/Robotics/Workshop/2.webp",
+      "images/Student Club/Robotics/Workshop/3.webp"
+    ],
+    "Events": [
+      {
+        "Name": "Introductory Workshop on \"Robotics\"",
+        "Date": "27 June - 29 June 2024",
+        "Description": "The workshop started with the Introduction to Robotics. On the First Day participants get hands-on session of Sensor Interfacing with Tinkercad. On the second day participants get hands-on session of Actuator Interfacing with Tinkercad and Third day 3D Design of Robotics components were discussed.",
+        "Images": [
+          "images/Student Club/Robotics/Workshop/poster.webp",
+          "images/Student Club/Robotics/Workshop/1.webp",
+          "images/Student Club/Robotics/Workshop/2.webp",
+          "images/Student Club/Robotics/Workshop/3.webp"
+        ],
+        "Report": "images/Student Club/Robotics/Workshop/report.pdf"
+      }
+    ]
+  },
+  {
+    "Club ID": "SpiriTech Club",
+    "Club Name": "SpiriTech Club",
+    "Logo": "images/Student Club/SpiriTech.webp",
+    "About": "To inspire and empower individuals to thrive both personally and professionally by integrating human values, ethics, spirituality, and wellness with technological excellence and leadership. We envision a community where technology and spirituality coexist, guiding individuals to align their passions with deeper moral values for a fulfilling and purposeful life.",
+    "Faculty Coordinators": [
+      {
+        "Name": "Prof. Vaibhavi Patel",
+        "Role": "faculty coordinator",
+        "Email": "vaibhavipatel.cse@charusat.ac.in",
+        "Phone": "6359357364",
+        "Image": "CSPIT_Faculty/CSE/VAIBHAVI.webp"
+      },
+      {
+        "Name": "Prof. Avani Khokhariya",
+        "Role": "faculty coordinator",
+        "Email": "avanikhokhariya.cse@charusat.ac.in",
+        "Phone": "",
+        "Image": "CSPIT_Faculty/CSE/AVANI.webp"
+      }
+    ],
+    "Student Coordinators": [
+      {
+        "Name": "APURVA CHUDASAMA",
+        "ID": "22CS016"
+      }
+    ],
+    "Gallery": [
+      "images/Student Club/SpiriTech/Event1/3.webp",
+      "images/Student Club/SpiriTech/Event1/4.webp"
+    ],
+    "Events": [
+      {
+        "Name": "Fun-based learning: “Tower of Hanoi”",
+        "Date": "6 August 2024",
+        "Description": "Tower of Hanoi is a mathematical puzzle where we have three rods and n disks. The objective of the puzzle is to move the entire stack to another rod, obeying the following simple rules: Only one disk can be moved at a time. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack i.e. a disk can only be moved if it is the uppermost disk on a stack. No disk may be placed on top of a smaller disk. Fun based learning gaming competition for this puzzle was organized for 3rd semester CSE students. The focus of the game was to motivate the students to understand the importance of algorithms analysis in development of any application.",
+        "Images": [
+          "images/Student Club/SpiriTech/Event1/poster.webp",
+          "images/Student Club/SpiriTech/Event1/1.webp",
+          "images/Student Club/SpiriTech/Event1/2.webp",
+          "images/Student Club/SpiriTech/Event1/3.webp",
+          "images/Student Club/SpiriTech/Event1/4.webp"
+        ],
+        "Report": "images/Student Club/SpiriTech/Event1/report.pdf"
+      }
+    ]
+  }
+]

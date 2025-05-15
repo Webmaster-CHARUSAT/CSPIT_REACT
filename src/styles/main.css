@@ -1,3 +1,19 @@
+/* In your global CSS or index.css */
+/* .container-courses {
+  width: 100%;
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 7%;
+  padding-right: 7%;
+}
+@media (max-width: 768px) {
+  .container-courses {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+} */
+
 /* Main CSS File
 
 :root {
