@@ -1,0 +1,962 @@
+<!DOCTYPE html>
+
+<html lang="en" suppresshydrationwarning="true" data-qb-installed="true">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Club Details - CSPIT</title>
+    <!-- Bootstrap 5 CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <!-- Lightbox CSS -->
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css"
+      rel="stylesheet"
+    />
+
+    <!-- Font Awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+    <!-- Custom CSS -->
+    <!-- <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/main.css" /> -->
+
+    <style>
+      :root {
+        --primary-color: #0056b3;
+        --secondary-color: #6c757d;
+        --dark-color: #343a40;
+        --light-color: #f8f9fa;
+        --accent-color: #fd7e14;
+      }
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f0f2f5;
+      }
+      ::-webkit-scrollbar {
+        width: 10px;
+      }
+
+      ::-webkit-scrollbar-track {
+        background: #adb2b7;
+      }
+
+      ::-webkit-scrollbar-thumb {
+        background: #097bf5;
+        border-radius: 10px;
+      }
+
+      ::-webkit-scrollbar-thumb:hover {
+        background: #097bf5;
+      }
+      .club-header {
+        background: linear-gradient(135deg, #2081e9, #0056b3);
+        color: white;
+        border-radius: 15px;
+        overflow: hidden;
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+      }
+      .club-logo {
+        width: 180px;
+        height: 180px;
+        object-fit: contain;
+        background-color: white;
+        border-radius: 50%;
+        padding: 5px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s ease;
+      }
+
+      .club-logo:hover {
+        transform: scale(1.05);
+      }
+
+      .section-title {
+        position: relative;
+        padding-bottom: 15px;
+        margin-bottom: 25px;
+        color: var(--dark-color);
+        font-weight: 600;
+      }
+
+      .section-title::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        width: 60px;
+        height: 3px;
+        background-color: var(--accent-color);
+      }
+
+      .faculty-card,
+      .coordinator-card {
+        border-radius: 10px;
+        overflow: hidden;
+        transition: all 0.3s ease;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+        height: 100%;
+      }
+
+      .faculty-card:hover,
+      .coordinator-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+      }
+
+      .faculty-img,
+      .coordinator-img {
+        width: 80px;
+        height: 80px;
+        object-fit: cover;
+        border-radius: 50%;
+        border: 3px solid white;
+        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+      }
+
+      .about-section {
+        background-color: white;
+        border-radius: 15px;
+        padding: 30px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+      }
+
+      .event-card {
+        border-radius: 10px;
+        overflow: hidden;
+        transition: all 0.3s ease;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+        margin-bottom: 20px;
+      }
+
+      .event-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+      }
+
+      .event-img-container {
+        overflow: hidden;
+        position: relative;
+        height: 200px;
+      }
+
+      .event-img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.4s ease;
+      }
+
+      .event-card:hover .event-img {
+        transform: scale(1.05);
+      }
+
+      .event-gallery-img {
+        height: 160px;
+        object-fit: cover;
+        border-radius: 8px;
+        margin-bottom: 15px;
+        transition: all 0.3s ease;
+        cursor: pointer;
+      }
+
+      .event-gallery-img:hover {
+        transform: scale(1.03);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+      }
+
+      .contact-icon {
+        background-color: var(--primary-color);
+        color: white;
+        width: 36px;
+        height: 36px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 10px;
+      }
+      .back-btn {
+        display: inline-flex;
+        align-items: center;
+        padding: 8px 20px;
+        background-color: white;
+        color: var(--dark-color);
+        border-radius: 30px;
+        text-decoration: none;
+        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
+        transition: all 0.3s ease;
+      }
+
+      .back-btn:hover {
+        background-color: var(--primary-color);
+        color: white;
+        transform: translateX(-5px);
+      }
+
+      .achievement-badge {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        background-color: var(--accent-color);
+        color: white;
+        padding: 5px 15px;
+        border-radius: 20px;
+        font-size: 0.8rem;
+        font-weight: bold;
+        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+        z-index: 1;
+      }
+
+      /* Loading spinner */
+      .loader-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        width: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        background-color: rgba(255, 255, 255, 0.8);
+        z-index: 9999;
+      }
+      .loader {
+        border: 5px solid #f3f3f3;
+        border-top: 5px solid var(--primary-color);
+        border-radius: 50%;
+        width: 50px;
+        height: 50px;
+        animation: spin 1s linear infinite;
+      }
+      @keyframes spin {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+      .hidden {
+        display: none;
+      }
+    </style>
+    <style type="text/css">
+      .lf-progress {
+        -webkit-appearance: none;
+        -moz-apperance: none;
+        width: 100%;
+        /* margin: 0 10px; */
+        height: 4px;
+        border-radius: 3px;
+        cursor: pointer;
+      }
+      .lf-progress:focus {
+        outline: none;
+        border: none;
+      }
+      .lf-progress::-moz-range-track {
+        cursor: pointer;
+        background: none;
+        border: none;
+        outline: none;
+      }
+      .lf-progress::-webkit-slider-thumb {
+        -webkit-appearance: none !important;
+        height: 13px;
+        width: 13px;
+        border: 0;
+        border-radius: 50%;
+        background: #0fccce;
+        cursor: pointer;
+      }
+      .lf-progress::-moz-range-thumb {
+        -moz-appearance: none !important;
+        height: 13px;
+        width: 13px;
+        border: 0;
+        border-radius: 50%;
+        background: #0fccce;
+        cursor: pointer;
+      }
+      .lf-progress::-ms-track {
+        width: 100%;
+        height: 3px;
+        cursor: pointer;
+        background: transparent;
+        border-color: transparent;
+        color: transparent;
+      }
+      .lf-progress::-ms-fill-lower {
+        background: #ccc;
+        border-radius: 3px;
+      }
+      .lf-progress::-ms-fill-upper {
+        background: #ccc;
+        border-radius: 3px;
+      }
+      .lf-progress::-ms-thumb {
+        border: 0;
+        height: 15px;
+        width: 15px;
+        border-radius: 50%;
+        background: #0fccce;
+        cursor: pointer;
+      }
+      .lf-progress:focus::-ms-fill-lower {
+        background: #ccc;
+      }
+      .lf-progress:focus::-ms-fill-upper {
+        background: #ccc;
+      }
+      .lf-player-container :focus {
+        outline: 0;
+      }
+      .lf-popover {
+        position: relative;
+      }
+
+      .lf-popover-content {
+        display: inline-block;
+        position: absolute;
+        opacity: 1;
+        visibility: visible;
+        transform: translate(0, -10px);
+        box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+        transition: all 0.3s cubic-bezier(0.75, -0.02, 0.2, 0.97);
+      }
+
+      .lf-popover-content.hidden {
+        opacity: 0;
+        visibility: hidden;
+        transform: translate(0, 0px);
+      }
+
+      .lf-player-btn-container {
+        display: flex;
+        align-items: center;
+      }
+      .lf-player-btn {
+        cursor: pointer;
+        fill: #999;
+        width: 14px;
+      }
+
+      .lf-player-btn.active {
+        fill: #555;
+      }
+
+      .lf-popover {
+        position: relative;
+      }
+
+      .lf-popover-content {
+        display: inline-block;
+        position: absolute;
+        background-color: #ffffff;
+        opacity: 1;
+
+        transform: translate(0, -10px);
+        box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+        transition: all 0.3s cubic-bezier(0.75, -0.02, 0.2, 0.97);
+        padding: 10px;
+      }
+
+      .lf-popover-content.hidden {
+        opacity: 0;
+        visibility: hidden;
+        transform: translate(0, 0px);
+      }
+
+      .lf-arrow {
+        position: absolute;
+        z-index: -1;
+        content: "";
+        bottom: -9px;
+        border-style: solid;
+        border-width: 10px 10px 0px 10px;
+      }
+
+      .lf-left-align,
+      .lf-left-align .lfarrow {
+        left: 0;
+        right: unset;
+      }
+
+      .lf-right-align,
+      .lf-right-align .lf-arrow {
+        right: 0;
+        left: unset;
+      }
+
+      .lf-text-input {
+        border: 1px #ccc solid;
+        border-radius: 5px;
+        padding: 3px;
+        width: 60px;
+        margin: 0;
+      }
+
+      .lf-color-picker {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        height: 90px;
+      }
+
+      .lf-color-selectors {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+
+      .lf-color-component {
+        display: flex;
+        flex-direction: row;
+        font-size: 12px;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .lf-color-component strong {
+        width: 40px;
+      }
+
+      .lf-color-component input[type="range"] {
+        margin: 0 0 0 10px;
+      }
+
+      .lf-color-component input[type="number"] {
+        width: 50px;
+        margin: 0 0 0 10px;
+      }
+
+      .lf-color-preview {
+        font-size: 12px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        padding-left: 5px;
+      }
+
+      .lf-preview {
+        height: 60px;
+        width: 60px;
+      }
+
+      .lf-popover-snapshot {
+        width: 150px;
+      }
+      .lf-popover-snapshot h5 {
+        margin: 5px 0 10px 0;
+        font-size: 0.75rem;
+      }
+      .lf-popover-snapshot a {
+        display: block;
+        text-decoration: none;
+      }
+      .lf-popover-snapshot a:before {
+        content: "⥼";
+        margin-right: 5px;
+      }
+      .lf-popover-snapshot .lf-note {
+        display: block;
+        margin-top: 10px;
+        color: #999;
+      }
+      .lf-player-controls > div {
+        margin-right: 5px;
+        margin-left: 5px;
+      }
+      .lf-player-controls > div:first-child {
+        margin-left: 0px;
+      }
+      .lf-player-controls > div:last-child {
+        margin-right: 0px;
+      }
+    </style>
+  </head>
+  <body cz-shortcut-listen="true">
+    <div class="container py-5" id="club-container" style="display: block">
+      <!-- Back Button -->
+      <div class="d-flex justify-content-end align-items-center mb-4">
+        <a
+          href="http://127.0.0.1:5500/index.html#club-section"
+          class="back-btn"
+        >
+          <i class="fas fa-arrow-left me-2"></i> Back to Clubs
+        </a>
+      </div>
+      <!-- Club Header -->
+      <div class="club-header p-4 mb-5">
+        <div class="row align-items-center">
+          <div
+            class="col-md-3 text-center text-md-start mb-4 mb-md-0"
+            style="display: flex; justify-content: center"
+          >
+            <img
+              id="club-logo"
+              src="./aws-club/aws.webp"
+              alt="AWS Student Club Logo"
+              class="club-logo"
+            />
+          </div>
+          <div class="col-md-9">
+            <h1 class="display-4 fw-bold mb-2" id="club-name">
+              AWS Student Club
+            </h1>
+            <p class="lead mb-3" id="club-tagline">
+              Together as a team AWS Cloud Club CHARUSAT aims to provide a
+              platform for the intellectuals to learn and explore the cloud
+              fundamentals of AWS.
+            </p>
+            <div class="d-flex flex-wrap mt-3" id="club-badges">
+              <span class="badge bg-light text-dark me-2 mb-2 p-2">
+                <i class="fas fa-calendar-alt me-1"></i> Est. 2018
+              </span>
+              <span class="badge bg-light text-dark me-2 mb-2 p-2">
+                <i class="fas fa-users me-1"></i> undefined+ Members
+              </span>
+              <span class="badge bg-light text-dark me-2 mb-2 p-2">
+                <i class="fas fa-trophy me-1"></i> undefined+ Awards
+              </span>
+              <span class="badge bg-light text-dark me-2 mb-2 p-2">
+                <i class="fas fa-laptop-code me-1"></i> Weekly Meetings
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- About Section -->
+      <div class="about-section mb-5">
+        <h2 class="section-title">About the Club</h2>
+        <p id="club-lead">
+          Together as a team AWS Cloud Club CHARUSAT aims to provide a platform
+          for the intellectuals to learn and explore the cloud fundamentals of
+          AWS.
+        </p>
+        <p id="club-description">
+          AS part of the club we assure that every individual gets something
+          productive out of this cub. AWS Cloud Club CHARUSAT intends to bring
+          developers under one roof to create a community to inspire many. The
+          club will be channeled into propagating learning and teaching
+          symbiotically.
+        </p>
+      </div>
+
+      <!-- Faculty Advisors Section -->
+      <h2 class="section-title">Faculty Advisors</h2>
+      <div class="row mb-5" id="faculty-container">
+        <div class="col-md-4 col-sm-6 mb-4">
+          <div class="faculty-card bg-white p-4">
+            <div class="d-flex align-items-center mb-3">
+              <img
+                src="./aws-club/PARTH.webp"
+                alt="Dr. Parth Shah"
+                class="faculty-img me-3"
+              />
+              <div>
+                <h5 class="mb-1">Dr. Parth Shah</h5>
+                <p class="text-muted mb-0">faculty cordinator</p>
+              </div>
+            </div>
+            <div class="mt-3">
+              <p class="mb-2">
+                <i class="fas fa-envelope text-primary me-2"></i>
+                <a
+                  href="mailto:parthshah.it@charusat.ac.in"
+                  class="text-decoration-none"
+                  >parthshah.it@charusat.ac.in</a
+                >
+              </p>
+              <p class="mb-0">
+                <i class="fas fa-phone text-primary me-2"></i>
+                <a href="tel:99999" class="text-decoration-none">99999</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-6 mb-4">
+          <div class="faculty-card bg-white p-4">
+            <div class="d-flex align-items-center mb-3">
+              <img
+                src="./aws-club/SANKETKUMAR.webp"
+                alt="Dr. Sanket Suthar"
+                class="faculty-img me-3"
+              />
+              <div>
+                <h5 class="mb-1">Dr. Sanket Suthar</h5>
+                <p class="text-muted mb-0">faculty cordinator</p>
+              </div>
+            </div>
+            <div class="mt-3">
+              <p class="mb-2">
+                <i class="fas fa-envelope text-primary me-2"></i>
+                <a
+                  href="mailto:sanketsuthar.it@charusat.ac.in"
+                  class="text-decoration-none"
+                  >sanketsuthar.it@charusat.ac.in</a
+                >
+              </p>
+              <p class="mb-0">
+                <i class="fas fa-phone text-primary me-2"></i>
+                <a href="tel:999999" class="text-decoration-none">999999</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Student Coordinators Section -->
+      <h2 class="section-title" id="student-coordinator">
+        Student Coordinators
+      </h2>
+      <div class="row mb-5" id="coordinator-container">
+        <div class="col-md-3 col-sm-6 mb-4">
+          <div class="coordinator-card bg-white p-4">
+            <div class="text-center mb-3">
+              <h5 class="mb-1">Dulari Bhushan</h5>
+              <p class="text-muted mb-0"></p>
+            </div>
+            <div class="mt-3">
+              <p class="mb-2 small">
+                <i class="fas fa-envelope text-primary me-2"></i>
+                <a href="mailto:" class="text-decoration-none"></a>
+              </p>
+              <p class="mb-0 small">
+                <i class="fas fa-phone text-primary me-2"></i>
+                <a href="tel:" class="text-decoration-none"></a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 mb-4">
+          <div class="coordinator-card bg-white p-4">
+            <div class="text-center mb-3">
+              <h5 class="mb-1">Parmesh Bhatt</h5>
+              <p class="text-muted mb-0"></p>
+            </div>
+            <div class="mt-3">
+              <p class="mb-2 small">
+                <i class="fas fa-envelope text-primary me-2"></i>
+                <a href="mailto:" class="text-decoration-none"></a>
+              </p>
+              <p class="mb-0 small">
+                <i class="fas fa-phone text-primary me-2"></i>
+                <a href="tel:" class="text-decoration-none"></a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Events Section -->
+      <h2 class="section-title">Recent Events</h2>
+      <div class="row mb-5" id="events-container">
+        <div class="col-md-4 mb-4">
+          <div class="event-card bg-white">
+            <div class="event-img-container">
+              <img
+                src="./aws-club/aws2.webp"
+                alt="AWS Cloud Bootcamp"
+                class="event-img"
+              />
+              <div class="achievement-badge">15-17 Nov 2023</div>
+            </div>
+            <div class="p-4">
+              <h4 class="mb-3">AWS Cloud Bootcamp</h4>
+              <p>A three-day coding event</p>
+              <button
+                class="btn btn-outline-primary mt-2"
+                data-bs-toggle="modal"
+                data-bs-target="#eventModal-0"
+              >
+                <i class="fas fa-info-circle me-1"></i> View Details
+              </button>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 mb-4">
+          <div class="event-card bg-white">
+            <div class="event-img-container">
+              <img
+                src="./aws-club/bootcamp1.jpg"
+                alt="Certification Bootcamp"
+                class="event-img"
+              />
+              <div class="achievement-badge">2023-10-20</div>
+            </div>
+            <div class="p-4">
+              <h4 class="mb-3">Certification Bootcamp</h4>
+              <p>AWS certification bootcamp</p>
+              <button
+                class="btn btn-outline-primary mt-2"
+                data-bs-toggle="modal"
+                data-bs-target="#eventModal-1"
+              >
+                <i class="fas fa-info-circle me-1"></i> View Details
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Events Gallery Section -->
+      <h2 class="section-title">Events Gallery</h2>
+      <div class="row mb-5" id="gallery-container">
+        <div class="col-md-3 col-sm-6 mb-4">
+          <a
+            href="./aws-club/aws2.webp"
+            data-lightbox="club-gallery"
+            data-title="Gallery Image"
+          >
+            <img
+              src="./aws-club/aws2.webp"
+              alt="Gallery Image"
+              class="event-gallery-img w-100"
+            />
+          </a>
+        </div>
+        <div class="col-md-3 col-sm-6 mb-4">
+          <a
+            href="./aws-club/aws1.webp"
+            data-lightbox="club-gallery"
+            data-title="Gallery Image"
+          >
+            <img
+              src="./aws-club/aws1.webp"
+              alt="Gallery Image"
+              class="event-gallery-img w-100"
+            />
+          </a>
+        </div>
+        <div class="col-md-3 col-sm-6 mb-4">
+          <a
+            href="./aws-club/aws3.webp"
+            data-lightbox="club-gallery"
+            data-title="Gallery Image"
+          >
+            <img
+              src="./aws-club/aws3.webp"
+              alt="Gallery Image"
+              class="event-gallery-img w-100"
+            />
+          </a>
+        </div>
+        <div class="col-md-3 col-sm-6 mb-4">
+          <a
+            href="./aws-club/aws5.webp"
+            data-lightbox="club-gallery"
+            data-title="Gallery Image"
+          >
+            <img
+              src="./aws-club/aws5.webp"
+              alt="Gallery Image"
+              class="event-gallery-img w-100"
+            />
+          </a>
+        </div>
+      </div>
+    </div>
+    <!-- Event Gallery Modals Container -->
+    <div id="modals-container">
+      <div
+        class="modal fade"
+        id="eventModal-0"
+        tabindex="-1"
+        aria-labelledby="eventModalLabel-0"
+        aria-hidden="true"
+      >
+        <div class="modal-dialog modal-lg">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="eventModalLabel-0">
+                AWS Cloud Bootcamp
+              </h5>
+              <button
+                type="button"
+                class="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div class="modal-body">
+              <div class="mb-4">
+                <img
+                  src="./aws-club/aws2.webp"
+                  alt="AWS Cloud Bootcamp"
+                  class="img-fluid rounded mb-3 w-100"
+                  style="max-height: 300px; object-fit: cover"
+                />
+                <div class="d-flex align-items-center mb-3">
+                  <span class="badge bg-primary me-2">
+                    <i class="fas fa-calendar-alt me-1"></i> 15-17 Nov 2023
+                  </span>
+                </div>
+                <p>A three-day coding event</p>
+              </div>
+              <h5>Event Gallery</h5>
+              <div class="row">
+                <div class="col-md-4 col-6 mb-3">
+                  <a
+                    href="./aws-club/aws2.webp"
+                    data-lightbox="event-0"
+                    data-title="AWS Cloud Bootcamp"
+                  >
+                    <img
+                      src="./aws-club/aws2.webp"
+                      alt="AWS Cloud Bootcamp"
+                      class="event-gallery-img w-100"
+                    />
+                  </a>
+                </div>
+
+                <div class="col-md-4 col-6 mb-3">
+                  <a
+                    href="./aws-club/aws1.webp"
+                    data-lightbox="event-0"
+                    data-title="AWS Cloud Bootcamp"
+                  >
+                    <img
+                      src="./aws-club/aws1.webp"
+                      alt="AWS Cloud Bootcamp"
+                      class="event-gallery-img w-100"
+                    />
+                  </a>
+                </div>
+
+                <div class="col-md-4 col-6 mb-3">
+                  <a
+                    href="./aws-club/aws3.webp"
+                    data-lightbox="event-0"
+                    data-title="AWS Cloud Bootcamp"
+                  >
+                    <img
+                      src="./aws-club/aws3.webp"
+                      alt="AWS Cloud Bootcamp"
+                      class="event-gallery-img w-100"
+                    />
+                  </a>
+                </div>
+
+                <div class="col-md-4 col-6 mb-3">
+                  <a
+                    href="./aws-club/aws5.webp"
+                    data-lightbox="event-0"
+                    data-title="AWS Cloud Bootcamp"
+                  >
+                    <img
+                      src="./aws-club/aws5.webp"
+                      alt="AWS Cloud Bootcamp"
+                      class="event-gallery-img w-100"
+                    />
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="modal-footer">
+              <button
+                type="button"
+                class="btn btn-secondary"
+                data-bs-dismiss="modal"
+              >
+                Close
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="modal fade"
+        id="eventModal-1"
+        tabindex="-1"
+        aria-labelledby="eventModalLabel-1"
+        aria-hidden="true"
+      >
+        <div class="modal-dialog modal-lg">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="eventModalLabel-1">
+                Certification Bootcamp
+              </h5>
+              <button
+                type="button"
+                class="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div class="modal-body">
+              <div class="mb-4">
+                <img
+                  src="./aws-club/bootcamp1.jpg"
+                  alt="Certification Bootcamp"
+                  class="img-fluid rounded mb-3 w-100"
+                  style="max-height: 300px; object-fit: cover"
+                />
+                <div class="d-flex align-items-center mb-3">
+                  <span class="badge bg-primary me-2">
+                    <i class="fas fa-calendar-alt me-1"></i> 2023-10-20
+                  </span>
+                </div>
+                <p>AWS certification bootcamp</p>
+              </div>
+              <h5>Event Gallery</h5>
+              <div class="row">
+                <div class="col-md-4 col-6 mb-3">
+                  <a
+                    href="./aws-club/bootcamp1.jpg"
+                    data-lightbox="event-1"
+                    data-title="Certification Bootcamp"
+                  >
+                    <img
+                      src="./aws-club/bootcamp1.jpg"
+                      alt="Certification Bootcamp"
+                      class="event-gallery-img w-100"
+                    />
+                  </a>
+                </div>
+
+                <div class="col-md-4 col-6 mb-3">
+                  <a
+                    href="./aws-club/bootcamp2.jpg"
+                    data-lightbox="event-1"
+                    data-title="Certification Bootcamp"
+                  >
+                    <img
+                      src="./aws-club/bootcamp2.jpg"
+                      alt="Certification Bootcamp"
+                      class="event-gallery-img w-100"
+                    />
+                  </a>
+                </div>
+              </div>
+              <a
+                href="http://127.0.0.1:5500/report2.pdf"
+                target="_blank"
+                class="btn btn-primary mt-3"
+              >
+                <i class="fas fa-file-pdf"></i> View Report
+              </a>
+            </div>
+            <div class="modal-footer">
+              <button
+                type="button"
+                class="btn btn-secondary"
+                data-bs-dismiss="modal"
+              >
+                Close
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
