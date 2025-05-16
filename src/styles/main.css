@@ -61,23 +61,37 @@
   }
 }
 
-
-/* Main CSS File
-
 :root {
-    --primary-color: #4e54c8;
-    --secondary-color: #8f94fb;
-    --accent-color: #ff5e62;
-    --text-color: #333;
-    --text-light: #6c757d;
-    --light-bg: #dbdada;
-    --white: #ffffff;
-    --dark: #212529;
-    --border-color: #dee2e6;
-    --shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-    --transition: all 0.3s ease;
-  }
+  /* Primary colors */
+  --primary-color: #0056b3; /* Your blue color */
+  /* --primary-dark: #003d82;
+  --primary-light: #2f7ed3;
+   */
+  /* Accent colors */
+  --accent-color: #ffcc00; /* Your yellow accent color */
+  --accent-dark: #e6b800;
+  --accent-light: #ffdb4d;
   
+  /* Text colors */
+  --text-light: #ffffff;
+  --text-dark: #333333;
+  
+  /* Background colors */
+  --bg-light: #e1e1e1;
+  --bg-blue: #0056b3; /* Same as primary for footer */
+  
+  /* Other UI colors */
+  --border-color: #dddddd;
+  --shadow-color: rgba(0, 0, 0, 0.2);
+}
+
+/* Optional: Dark mode support */
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Adjust colors for dark mode if needed */
+  }
+}
+/*
   body {
     font-family: 'Poppins', sans-serif;
     color: var(--text-color);
