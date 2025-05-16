@@ -63,6 +63,7 @@ import ScalarsSection from './components/Scalar';
 import MOUSection from './components/MOU';
 import ResearchThrustAreas from './components/Thrust';
 import TestimonialsSection from './components/Testimonials';
+import MessageSection from './components/Message';
 function HomePage() {
   return (
     <>
@@ -85,6 +86,8 @@ function HomePage() {
       <MOUSection />
       <ResearchThrustAreas />
       <TestimonialsSection />
+      <br/>
+      <MessageSection />
     </>
   );
 }
