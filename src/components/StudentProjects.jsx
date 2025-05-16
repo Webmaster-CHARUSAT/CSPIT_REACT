@@ -199,7 +199,7 @@ const StudentProjects = () => {
     <>
       <section
         className="section-container"
-        style={{ backgroundColor: "#0c5fc6" }}
+        style={{ background: 'var(--bg-blue' }}
         id="students-work"
       >
         <div className="container">

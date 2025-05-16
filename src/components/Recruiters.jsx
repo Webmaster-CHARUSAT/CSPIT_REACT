@@ -71,7 +71,8 @@ const Counter = ({ target, decimals, label }) => {
 
 const RecruitersSection = () => {
   return (
-    <section id="placement" className="section-container bg-gray-50 py-12">
+    <section id="placement" className="section-container py-12"
+    style={{background:'var(--bg-light)'}}>
       <div className="container">
         {/* Section Title */}
         <h2 className="text-center font-bold text-2xl md:text-3xl lg:text-4xl mb-10 text-gray-800">

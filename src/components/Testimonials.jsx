@@ -171,7 +171,8 @@ const TestimonialsSection = () => {
   const visibleIndices = getVisibleIndices();
 
   return (
-    <section className="bg-[#0c5fc6] py-12" id="testimonials">
+    <section className="py-12" id="testimonials"
+    style={{ background: 'var(--bg-blue' }}>
       <div className="container mx-auto px-4">
         <h2 className="text-center text-white text-3xl font-bold mb-8">
           TESTIMONIALS

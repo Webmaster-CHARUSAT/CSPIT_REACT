@@ -114,8 +114,8 @@ const ProgramCard = ({ title, img, link }) => (
 const Programs = () => (
   <section
     id="programs"
-    className="bg-[#e1e1e1] pt-6 pb-12"
-    style={{ fontFamily: "Roboto,sans-serif" }}
+    className=" pt-6 pb-12"
+    style={{ fontFamily: "Roboto,sans-serif" , background:'#e1e1e1' }}
   >
     <div className="max-w-7xl mx-auto px-4">
       <h2 className="text-center text-2xl sm:text-3xl font-bold mb-4 tracking-wide">

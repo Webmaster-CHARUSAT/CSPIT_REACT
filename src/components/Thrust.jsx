@@ -55,7 +55,8 @@ const ResearchThrustAreas = () => {
   const secondRowItems = thrustAreas.filter(item => item.row === 2);
 
   return (
-    <section id="thrust-areas" className="container mx-auto px-4 py-10">
+    <section id="thrust-areas" className="container mx-auto px-4 py-10"
+    style={{ background: 'var(--bg-light' }}>
       <h2 className="text-center text-3xl font-bold mb-10">
         RESEARCH THRUST AREAS
       </h2>

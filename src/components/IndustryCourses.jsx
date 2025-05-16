@@ -18,7 +18,8 @@ const industryCourses = [
 
 const IndustryCoursesSection = () => {
   return (
-    <section className="w-full bg-[#0c5fc6] py-8 px-0">
+    <section className="w-full py-8 px-0"
+    style={{ background: 'var(--bg-blue' }}>
       <h2 className="text-white text-center font-bold text-2xl md:text-3xl tracking-tight mb-8">
         INDUSTRY RECOGNIZED COURSES
       </h2>

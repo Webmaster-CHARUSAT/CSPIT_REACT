@@ -472,7 +472,8 @@ function HonorsMinorAccordion({ data }) {
 
 // Main Section Component
 const HonorsMinorProgramsSection = () => (
-  <section className="py-8 bg-white">
+  <section className="py-8"
+  style={{ background: 'var(--bg-light' }}>
     <div className="max-w-7xl mx-auto">
       <h3
         className="mb-2 font-bold"

@@ -153,7 +153,7 @@ const ScalarsSection = () => {
   return (
     <section
       className="section-container py-16"
-      style={{ backgroundColor: "#0055a5" }}
+      style={{ background: 'var(--bg-blue' }}
       id="scalars"
     >
       <div className="container">
