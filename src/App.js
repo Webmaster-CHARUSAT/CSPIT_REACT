@@ -64,6 +64,7 @@ import MOUSection from './components/MOU';
 import ResearchThrustAreas from './components/Thrust';
 import TestimonialsSection from './components/Testimonials';
 import MessageSection from './components/Message';
+import GallerySection from './components/Galley';
 function HomePage() {
   return (
     <>
@@ -88,6 +89,7 @@ function HomePage() {
       <TestimonialsSection />
       <br/>
       <MessageSection />
+      <GallerySection />
     </>
   );
 }
