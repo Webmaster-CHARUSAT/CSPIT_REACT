@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import Lightbox from 'lightbox-react';
-import 'lightbox-react/style.css';
+// Lightbox imports are commented out
+// import Lightbox from 'lightbox-react';
+// import 'lightbox-react/style.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { 
   faArrowLeft, faEnvelope, faCalendarAlt, 
@@ -14,9 +15,11 @@ const ClubDetails = () => {
   const [clubData, setClubData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-  const [lightboxOpen, setLightboxOpen] = useState(false);
-  const [lightboxIndex, setLightboxIndex] = useState(0);
-  const [lightboxImages, setLightboxImages] = useState([]);
+  
+  // Lightbox state variables are commented out
+  // const [lightboxOpen, setLightboxOpen] = useState(false);
+  // const [lightboxIndex, setLightboxIndex] = useState(0);
+  // const [lightboxImages, setLightboxImages] = useState([]);
 
   useEffect(() => {
     const fetchClubData = async () => {
@@ -93,11 +96,12 @@ const ClubDetails = () => {
     return processedData;
   };
 
-  const openLightbox = (images, index) => {
-    setLightboxImages(images);
-    setLightboxIndex(index);
-    setLightboxOpen(true);
-  };
+  // Lightbox open function is commented out
+  // const openLightbox = (images, index) => {
+  //   setLightboxImages(images);
+  //   setLightboxIndex(index);
+  //   setLightboxOpen(true);
+  // };
 
   if (loading) {
     return (
@@ -262,12 +266,13 @@ const ClubDetails = () => {
                             <div className="row">
                               {event.images.map((img, imgIndex) => (
                                 <div className="col-md-4 col-6 mb-3" key={imgIndex}>
-                                  <a href="#" onClick={(e) => {
+                                  {/* Lightbox functionality is commented out */}
+                                  {/* <a href="#" onClick={(e) => {
                                     e.preventDefault();
                                     openLightbox(event.images, imgIndex);
-                                  }}>
+                                  }}> */}
                                     <img src={img} alt={`${event.name} image ${imgIndex + 1}`} className="event-gallery-img w-100" />
-                                  </a>
+                                  {/* </a> */}
                                 </div>
                               ))}
                             </div>
@@ -298,20 +303,21 @@ const ClubDetails = () => {
           <div className="row mb-5">
             {clubData.gallery.map((image, index) => (
               <div className="col-md-3 col-sm-6 mb-4" key={index}>
-                <a href="#" onClick={(e) => {
+                {/* Lightbox functionality is commented out */}
+                {/* <a href="#" onClick={(e) => {
                   e.preventDefault();
                   openLightbox(clubData.gallery.map(img => img.url), index);
-                }}>
+                }}> */}
                   <img src={image.url} alt={image.title} className="event-gallery-img w-100" />
-                </a>
+                {/* </a> */}
               </div>
             ))}
           </div>
         </>
       )}
 
-      {/* Lightbox for gallery images */}
-      {lightboxOpen && (
+      {/* Lightbox component is commented out */}
+      {/* {lightboxOpen && (
         <Lightbox
           mainSrc={lightboxImages[lightboxIndex]}
           nextSrc={lightboxImages[(lightboxIndex + 1) % lightboxImages.length]}
@@ -320,9 +326,7 @@ const ClubDetails = () => {
           onMovePrevRequest={() => setLightboxIndex((lightboxIndex + lightboxImages.length - 1) % lightboxImages.length)}
           onMoveNextRequest={() => setLightboxIndex((lightboxIndex + 1) % lightboxImages.length)}
         />
-      )}
-
-
+      )} */}
     </div>
   );
 };
