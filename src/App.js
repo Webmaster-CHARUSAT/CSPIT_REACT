@@ -57,7 +57,12 @@ import IndustryCoursesSection from './components/IndustryCourses';
 import ProfessionalSocietiesSection from './components/ProfessionalSociety';
 import StudentClubsSection from './components/StudentClub';
 import ClubDetails from './components/ClubDetails';
-
+import StudentProjectsSection from './components/StudentProjects';
+import RecruitersSection from './components/Recruiters';
+import ScalarsSection from './components/Scalar';
+import MOUSection from './components/MOU';
+import ResearchThrustAreas from './components/Thrust';
+import TestimonialsSection from './components/Testimonials';
 function HomePage() {
   return (
     <>
@@ -72,6 +77,14 @@ function HomePage() {
       <ProfessionalSocietiesSection />
       <br />
       <StudentClubsSection />
+      <br/>
+      <StudentProjectsSection />
+      <RecruitersSection />
+      <ScalarsSection />
+      <br />
+      <MOUSection />
+      <ResearchThrustAreas />
+      <TestimonialsSection />
     </>
   );
 }
