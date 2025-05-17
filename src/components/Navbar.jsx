@@ -94,7 +94,7 @@ const submenuMap = {
       to: "research_facilities1.html",
       external: true,
     },
-    { label: "Research Projects", to: "research_project.html", external: true },
+    { label: "Research Projects", to: "/research-project", external: false },
   ],
   "STUDENT CORNER": [
     {

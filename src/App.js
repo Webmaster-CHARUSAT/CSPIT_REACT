@@ -68,6 +68,7 @@ import GallerySection from './components/Galley';
 import Footer from './components/Footer';
 import CommunitySlider from './components/Community';
 import AboutUsSection from './components/AboutUsSection';
+import ResearchProjects from './components/ResearchProjects';
 function HomePage() {
   return (
     <>
@@ -111,12 +112,15 @@ function App() {
   return (
 
       <div className="App">
+        <div className='pt-20'>
         <NavBar />
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/club/:clubId" element={<ClubDetails />} />
           <Route path="/about" element={<AboutUsSection/>} />
+          <Route path="/research-project" element={<ResearchProjects />} />
         </Routes>
+        </div>
         <Footer />
       </div>
 
