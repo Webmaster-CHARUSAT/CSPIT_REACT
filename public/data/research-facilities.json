@@ -1,0 +1,921 @@
+[
+    {
+        "department": "Mechanical Engineering",
+        "name": "Electric resistance melting furnace",
+        "spec": [
+            "Specifications of Equipment:",
+            "Temperature range: Ambient to 1000°C",
+            "Charge capacity: 18 Kg.",
+            "Inside furnace dimension: 450 X 450 X 450 mm",
+            "Heating of aluminium: 65 minutes (First Heat)",
+            "45 minutes (subsequent heat)",
+            "Power consumption: 1.15 KW/h",
+            "Heating element: Nichrome",
+            "Controller: Selec-TC344"
+        ],
+        "use_cases": [
+            "To melt the nonferrous metals or alloys such as aluminum, magnesium in the presence of protective environment of inert gases."
+        ],
+        "img": "images/facilities/Mech/mech1.webp"
+    },
+    {
+        "department": "Mechanical Engineering",
+        "name": "Inverted metallurgical microscope",
+        "spec": [
+            "Make: Zeiss Model: Axio Vert.A1 MAT",
+            "Specifications of Equipment:",
+            "Illumination Type: Bright Field, Dark Field",
+            "Magnification Range: 50X to 1000X",
+            "Objective: 5X, 10X, 20X, 50X",
+            "Eyepiece: 10x/23",
+            "Stage Size: 208 mm X 283 mm",
+            "Travel Area: 40 mm X 40 mm",
+            "Sample Load: Maximum 3 kg"
+        ],
+        "use_cases": [
+            "Hi-resolution Camera for Seamlessly Capturing Images",
+            "Comprehensive image analysis software for material science and metallography application",
+            "Grain size estimation.",
+            "Phase measurements.",
+            "Nodularity, Graphite flake measurements, Coating thickness measurement.",
+            "Decarburization depth, Porosity, Dendritic arm spacing, Micro Hardness, Carbide Banding/distribution."
+        ],
+        "img": "images/facilities/Mech/mech2.webp"
+    },
+    {
+        "department": "Mechanical Engineering",
+        "name": "Thermal Imaging Camera (AICTE funded project under RPS)",
+        "spec": [
+            "Fluke Mode: TIX560 9Hz",
+            "Detector resolution: 320 x 240 (76,800 pixels)",
+            "Minimum focus distance: 15 cm (approx. 6 in)",
+            "Laser distance meter: Yes, calculates distance to the target for precisely focused images and displays distance on screen",
+            "Touchscreen display (capacitive): 14.4 cm (5.7 in) diagonal landscape color VGA (640 x 480) LCD with backlight",
+            "Fluke Connect™ app compatible: Yes (where available)",
+            "IR-Fusion® technology: Yes",
+            "Built-in digital camera (visible light): 5 megapixel industrial performance",
+            "Digital zoom: 2x, 4x, 8x",
+            "Software: SmartView® software, Fluke Connect™ (where available), and SmartView® Mobile App - full analysis and reporting software",
+            "Temperature measurement range (not calibrated below -10 °C): -20 °C to +1200 °C (-4 °F to +2192 °F)",
+            "Accuracy: ± 2 °C or 2 % (at 25 °C nominal, whichever is greater)"
+        ],
+        "use_cases": [
+            "To detect radiation with easy maneuver over, under, and around objects with the 240° rotating screen and still view at a comfortable angle.",
+            "Condition monitoring of electrical and mechanical systems, such as with the location of thermal leaks or the higher temperatures in overheated regions.",
+            "To record the thermal profile of mold surface during solidification in metal casting."
+        ],
+        "img": "images/facilities/Mech/thermalCamera.webp"
+    },
+    {
+        "department": "Mechanical",
+        "name": "Modular Melting Setup (Smart foundry 2020-DST funded project)",
+        "spec": [
+            ""
+        ],
+        "use_cases": [
+            ""
+        ],
+        "img": "images/facilities/Mech/Modular.webp"
+    },
+    {
+        "department": "Mechanical",
+        "name": "NI Data Acquisition System Temperature Module",
+        "spec": [
+            ""
+        ],
+        "use_cases": [
+            ""
+        ],
+        "img": "images/facilities/Mech/NI_Data.webp"
+    },
+    {
+        "department": "Mechanical",
+        "name": "Ultrasonic Melt Stirring Setup",
+        "spec": [
+            ""
+        ],
+        "use_cases": [
+            ""
+        ],
+        "img": "images/facilities/Mech/UltrasonicMelt.webp"
+    },
+    {
+        "department": "Mechanical",
+        "name": "Centrifugal Casting Machine",
+        "spec": [
+            ""
+        ],
+        "use_cases": [
+            ""
+        ],
+        "img": "images/facilities/Mech/centrifugal.webp"
+    },
+    {
+        "department": "Mechanical",
+        "name": "DCRF Magnetron Sputtering",
+        "spec": [
+            "Target Material: 50 mm Diameter × 6.5 mm Thick",
+            "Vacuum Pressure: 10^-2 to 10^-9 Pa",
+            "Mass flow controller (MFC): 0-100 SCCM",
+            "RF Power: 0 to 300W",
+            "DC Power: 0 to 1000W",
+            "Temperature range for Substrate: 0 to 800°C"
+        ],
+        "use_cases": [
+            "Magnetron sputtering is a widely used physical vapor deposition (PVD) technique for developing thin films and coatings. It is popular in both research and industry because it offers excellent control over film thickness, uniformity, and composition."
+        ],
+        "img": "images/facilities/Mech/DCRF.webp"
+    },
+    {
+        "department": "Mechanical",
+        "name": "Automatic Goniometer",
+        "spec": [
+            "Contact angle measuring range: 0° to 180°"
+        ],
+        "use_cases": [
+            "An automated goniometer is a precision instrument used to measure the contact angle between a surface and a liquid droplet. It measures the wettability properties of the surface."
+        ],
+        "img": "images/facilities/Mech/goniometer.webp"
+    },
+    {
+        "department": "Mechanical",
+        "name": "Ultrasonic Probe Sonicator",
+        "spec": [],
+        "use_cases": [
+            "An Ultrasonic Probe Sonicator is a lab device that uses high-frequency sound waves transmitted through a probe (horn) to create intense ultrasonic energy in liquids. This energy generates microscopic bubbles that collapse violently—a process called acoustic cavitation—which breaks particles apart, mixes substances, and promotes chemical reactions."
+        ],
+        "img": "images/facilities/Mech/probe.webp"
+    },
+    {
+        "department": "Mechanical",
+        "name": "Auto CAST",
+        "spec": [],
+        "use_cases": [
+            "AutoCAST is a specialized casting simulation software used to design, simulate, and optimize metal casting processes. It helps researchers and foundry engineers predict and prevent casting defects before the physical casting is made."
+        ],
+        "img": "images/facilities/Mech/CAST.webp"
+    },
+    {
+        "department": "Mechanical",
+        "name": "COMSOL",
+        "spec": [],
+        "use_cases": [
+            "COMSOL Multiphysics is a powerful simulation software used for modeling and solving real-world engineering and physics-based problems. Its strength lies in multiphysics coupling—allowing simulation of multiple physical phenomena that interact with each other in one environment."
+        ],
+        "img": "images/facilities/Mech/cosmol.webp"
+    },
+    {
+        "department": "Mechanical",
+        "name": "CNC Vertical Machining Center",
+        "spec": [
+            "3-Axis Vertical Machining Centre with SINUMERIK 802 D SL Controller",
+            "Dimension (LxWxH): 1725x2250x2600 mm; Weight: 3300 Kg",
+            "Table Size: 600x300 mm; Max Load on Table: 200Kg",
+            "X-axis Travel: 400 mm, Y-axis Travel: 300 mm, Z-axis Travel: 400 mm",
+            "Dist. From Spindle face to table top: 200–550 mm",
+            "Spindle Speed: 0–10000 rpm; Front Bearing Bore: 9.27/7 Kw: BT40 Taper",
+            "Rapid Traverse (XYZ): 40 m/min; Cutting Feed: 10 m/min",
+            "No. of Tools: 12; Max. Tool Dia: 80 mm; Tool Wt.: 7 Kg; Tool Length: 200 mm",
+            "Positioning Accuracy: 0.01 mm; Repeatability: ± 0.005 mm",
+            "Spindle Drive: AC; Axis Drive: AC Servo",
+            "Guideways: LM",
+            "Coolant: Auto/Manual; Centralized Lubrication"
+        ],
+        "use_cases": [
+            "The CNC Vertical Machining Center (VMC) is used for a wide range of milling, drilling, tapping, and boring operations."
+        ],
+        "img": "images/facilities/Mech/cnc.webp"
+    },
+    {
+        "department": "Mechanical",
+        "name": "Joemars Electrical Discharge Machining setup",
+        "spec": [
+            "A.Z 50 R +D 320 with Automatic fire extinguisher",
+            "Work Table Size: 600 × 300 mm",
+            "X, Y Axis Travel: 300 × 200 mm",
+            "Maximum Electrode Weight: 60 Kg",
+            "Maximum Work Piece Weight: 550 Kg",
+            "Work Tank (W × D × H): 830 × 500 × 300 mm",
+            "Outside Dimension: 580 × 500 × 1720 mm",
+            "Maximum Machining Current: 50A",
+            "Total Power Input: 4.5A",
+            "Maximum Metal Removal Rate: 390 mm³/min",
+            "Best Surface Roughness: 0.25 μm Ra",
+            "Dielectric tank Capacity: 240 Litres",
+            "Pump: 0.5 HP",
+            "Filter: Paper Filter"
+        ],
+        "use_cases": [
+            "The Joemars Electrical Discharge Machining (EDM) setup is used for precision machining of hard-to-machine materials, especially super alloys such as titanium, Inconel, carbides, hardened steel, and tool steels."
+        ],
+        "img": "images/facilities/Mech/joemars.webp"
+    },
+    {
+        "department": "Mechanical",
+        "name": "Kistler 9272 Piezoelectric Dynamometer",
+        "spec": [
+            "Equipment Name: QUARTZ 4 COMPONENT DYNAMOMETER",
+            "Make/Model: KISTLER 9272",
+            "The natural frequency of the dynamometer is about 3 kHz",
+            "Threshold is smaller than 0.01 N",
+            "Measuring range: Fx, Fy = ±5 KN, Fz = -5 to 20 KN, Mz = ±200 N.m"
+        ],
+        "use_cases": [
+            "The Kistler 9272 is a piezoelectric dynamometer, specifically used for measuring cutting forces in milling, drilling, and turning operations. It is widely used in machining research."
+        ],
+        "img": "images/facilities/Mech/kistler.webp"
+    },
+    {
+        "department": "Mechanical",
+        "name": "Data Logging System from National Instruments equipped with LabVIEW software",
+        "spec": [],
+        "use_cases": [],
+        "img": "images/facilities/Mech/dataLog.webp"
+    },
+    {
+        "department": "Mechanical",
+        "name": "Universal Testing Machine",
+        "spec": [
+            "Force Measurement: Load Cell Capacity- 50 KN & 50 N",
+            "Extension Measurement: Resolution 0.001 mm"
+        ],
+        "use_cases": [
+            "The universal testing machine provides testing facilities like tensile testing, compression testing, and flexural testing for metals, non-metals, and composites. It also provides the tensile testing facility for natural and synthetic fibers. It has an inbuilt software facility to plot the graphs for various experimental results."
+        ],
+        "img": "images/facilities/Mech/UniversalTesting.webp"
+    },
+    {
+        "department": "Mechanical",
+        "name": "3D Printer",
+        "spec": [
+            "Model: DAMboy 200",
+            "Print Technology: Fused Deposition Modeling",
+            "Build size Specification: 200mm x 200mm x 200mm",
+            "Printing Materials: PLA, PETG, ABS, TPU, NYLON",
+            "Nozzle Temperature: Up to 250°C",
+            "Hot Bed Temperature: Up to 100°C",
+            "Layer Thickness: 0.1–0.4 mm",
+            "Print Speed: 30–40mm/s (Recommended)",
+            "Resolution: 0.1 mm (100 micron)"
+        ],
+        "use_cases": [
+            "This printer is used to make 3D prototypes or parts for various applications or student projects."
+        ],
+        "img": "images/facilities/Mech/dataLog.webp"
+    },
+    {
+        "department": "Mechanical",
+        "name": "Wear & Friction Monitor",
+        "spec": [
+            "Wear Disc Diameter: 165 mm, Thickness: 8 mm, Material: En 31 hardened to 60HRc ground to 1.6Ra surface roughness",
+            "Ball Diameter: 10 mm",
+            "Disc Speed: Min: 200 rpm; Max: 2000 rpm",
+            "Normal Load: Min 5N; Max: 200N",
+            "Frictional force: Max 200 N; resolution of 1N",
+            "Wear: 0 to 2000 micron",
+            "Temperature: Ambient to 200°C, pin heating"
+        ],
+        "use_cases": [
+            "Wear and friction setup measures wear and friction for metals, non-metals, and composites. It has an inbuilt software facility to plot the graphs for various experimental results."
+        ],
+        "img": "images/facilities/Mech/Wear.webp"
+    },
+    {
+        "department": "Mechanical",
+        "name": "Surface Texture Machine",
+        "spec": [
+            "Measuring Range: X Axis-100mm, Z Axis-800 µm/0.01 µm",
+            "Measuring speed: 0.1mm/s up to 2.0 mm/s",
+            "Standard stylus: angle 60°, Radius 2µm",
+            "Measuring Force: 0.75 mN",
+            "Measuring Method: X-axis-Linear scale, Z axis-Differential Indu.",
+            "Straightness: 0.15 µm/100 mm"
+        ],
+        "use_cases": [
+            "The Surftest SV-2100 is a high-precision and high-performance surface roughness tester with a dedicated control unit, achieving user-friendly display and simple operation. The Surftest SV-2100 surface tester provides highly accurate analysis of surface roughness and fine contours."
+        ],
+        "img": "images/facilities/Mech/surface.webp"
+    },
+    {
+        "department": "Mechanical",
+        "name": "3D Microscope",
+        "spec": [
+            "Make: Mitutoyo",
+            "Model: QS-L2010ZB",
+            "Feed Mechanism: Manual",
+            "Observation unit: Zoom: 0.75X-5.25X (8X in 7 steps)",
+            "Range (x*y*z): (200*100*150)",
+            "Resolution: 0.1µm",
+            "Image Detecting unit: 1/2-inch colour CMOS camera 3 mega-pixels",
+            "Digital Zoom: 1x-2x-4x",
+            "Measuring XY: (2.5+20L/1000)µm",
+            "Accuracy Z: (5+40L/1000)µm",
+            "Power Consumption: 160w at max"
+        ],
+        "use_cases": [
+            "Vision measuring machine 'Quick Scope' (3D Microscope; MITUTOYO/ QS-L2010ZB) for surface observation and to measure dimensions."
+        ],
+        "img": "images/facilities/Mech/3dMicro.webp"
+    },
+    {
+        "department": "Mechanical",
+        "name": "3D Laser Scanner",
+        "spec": [
+            "Minimum table size: Diameter 200mm",
+            "Minimum scanning Area: Plane and rotary scanning, width: 200 mm, Height: 300mm",
+            "Minimum scanning Pitch: Plane scanning: Width direction 0.2 to 300 mm, Height direction 0.2 to 300 mm; Rotary scanning: Circumference 0.2 to 3.6 degrees, Height direction 0.2 to 300 mm",
+            "Minimum operating speed: Table rotation speed: 10 rpm; Head rotation speed: 4.5rpm; Maximum head movement speed: 50 mm/sec",
+            "Sensor: Non Contact laser sensor",
+            "Scanning Method: Spot-Beam triangulation"
+        ],
+        "use_cases": [
+            "The LPX-60 is ideal for reverse engineering and for designing smaller items for the production of clay prototypes. This can generate CAD models from existing parts or partial models."
+        ],
+        "img": "images/facilities/Mech/3DLaser.webp"
+    },
+    {
+        "department": "Mechanical",
+        "name": "KD2 Prob Thermal Analyser",
+        "spec": [
+            "Operating Environment: Controller: 0 to 50°C; Sensors: -50 to +150°C",
+            "Power: 4 AA cells",
+            "Battery Life: At least 500 readings in constant use or 3 years with no use (battery drain in sleep mode < 50 uA)",
+            "Case Size: 15.5 cm x 9.5 cm x 3.5 cm",
+            "Display: 3 cm x 6 cm, 128 x 64-pixel graphics LCD",
+            "Keypad: 6 key, sealed membrane",
+            "Data Storage: 4095 measurements in flash memory (both raw and processed data are stored for download)",
+            "Interface: 9-pin serial",
+            "Read Modes: Manual and Auto Read"
+        ],
+        "use_cases": [
+            "To measure the thermal properties of liquid, semisolid, and solid materials."
+        ],
+        "img": "images/facilities/Mech/KD2.webp"
+    },
+    {
+        "department": "Mechanical",
+        "name": "Wind Tunnel",
+        "spec": [],
+        "use_cases": [],
+        "img": "images/facilities/Mech/Wind.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "Universal Testing Machine",
+        "spec": [
+            "Capacity: 600 KN",
+            "Tensile test range: 10 mm dia to 25 mm dia",
+            "Power: 230 Volts",
+            "Display: Digital and software",
+            "Operation: Computerised with software and manual"
+        ],
+        "use_cases": [
+            "Measures the material's resistance to pulling forces, determining properties like tensile strength and elongation.",
+            "Assesses the material's behavior under crushing loads, identifying compressive strength."
+        ],
+        "img": "images/facilities/CL/cl1.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "Fatigue Testing Machine",
+        "spec": [
+            "Complete with AC drive for speed control",
+            "Software for S and N Curve",
+            "GE Fanuc PLC based system",
+            "Online graphic display on computer screen"
+        ],
+        "use_cases": [
+            "To simulate cyclic loading conditions to determine how materials behave under repeated stress over time."
+        ],
+        "img": "images/facilities/CL/cl2.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "Torsion Testing Machine",
+        "spec": [
+            "Torsional speed of 0.1/0.2 RPM",
+            "Torque Compensated motors",
+            "Variable speed drive (optional)",
+            "Capacity 100 KGN"
+        ],
+        "use_cases": [
+            "Measures the material's response to torque, determining properties like shear modulus and torsional strength."
+        ],
+        "img": "images/facilities/CL/cl3.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "Gas Chromatograph",
+        "spec": [
+            "FID with Electrometer",
+            "DEFC Type 11",
+            "230VHIGH   TEMPERATURE VERSION",
+            "10 µL GC syringe",
+            "removable needle",
+            "S/SL INJECTOR EFC25 for Purge &Trap"
+        ],
+        "use_cases": [
+            "Chromatography used in analytical for separating and analyzing compounds that can be vaporized without decomposition",
+            "To separate and measure organic molecules and gases",
+            "Typical uses of GC include testing the purity of a particular substance or separating the different components of a mixture."
+        ],
+        "img": "images/facilities/CL/cl4.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "UV Visible Spectrophotometer (CARY 60)",
+        "spec": [
+            "Measure small volumes and precious samples accurately and reproducibly with a highly focused beam image",
+            "Scan the entire wavelength range (190 to 1100 nm) in under three seconds and collect data from single or multiple wavelengths at 80 data points per second",
+            "Single Beam"
+        ],
+        "use_cases": [
+            "UV-Vis Spectroscopy (or Spectrophotometry) is a quantitative technique used to measure how much a chemical substance absorbs light.",
+            "UV-Vis spectrophotometers provide fast and efficient analysis, allowing researchers to obtain results within a few seconds.",
+            "Water and wastewater analysis"
+        ],
+        "img": "images/facilities/CL/cl5.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "Bending Stress in Beam - STR 5",
+        "spec": [],
+        "use_cases": [],
+        "img": "images/facilities/CL/cl6.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "Pin Jointed Frameworks - STR 8",
+        "spec": [],
+        "use_cases": [],
+        "img": "images/facilities/CL/cl7.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "Continuous and Indeterminate Beams - STR 13",
+        "spec": [],
+        "use_cases": [],
+        "img": "images/facilities/CL/cl8.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "Plastic Bending of Portals - STR 16",
+        "spec": [],
+        "use_cases": [],
+        "img": "images/facilities/CL/cl9.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "Redundant Truss - STR 17",
+        "spec": [],
+        "use_cases": [],
+        "img": "images/facilities/CL/cl10.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "Bending Moments in a Portal Frame - STR 20",
+        "spec": [],
+        "use_cases": [],
+        "img": "images/facilities/CL/cl11.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "Beam Apparatus - SM 1004",
+        "spec": [],
+        "use_cases": [],
+        "img": "images/facilities/CL/cl12.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "Servo Shake Table",
+        "spec": [
+            "Type: Servo Electric",
+            "Maximum payload: 100 kg",
+            "Sliding table dimension: 500 mm x 500 mm",
+            "Frequency: 0-20 Hertz",
+            "Amplitude/Stroke: 0 to 1000 mm (±50mm)",
+            "Input Power: 230 Volts AC",
+            "Base Motion: Random, Sine etc"
+        ],
+        "use_cases": [
+            "To test the dynamic response of buildings, bridges, and other structures to assess their seismic performance and improve design standards",
+            "Specific components like dampers, bearings, and isolators can be tested to ensure they perform effectively during earthquakes",
+            "To study the interaction between soil and structures, crucial for designing foundations and earth-retaining structures",
+            "To simulate ground shaking to study soil liquefaction, a phenomenon where saturated soil loses strength during earthquakes."
+        ],
+        "img": "images/facilities/CL/cl13.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "Horizontal Shake Table with Cylindrical Cam",
+        "spec": [],
+        "use_cases": [],
+        "img": "images/facilities/CL/cl14.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "Shake Table Instrumentation",
+        "spec": [],
+        "use_cases": [],
+        "img": "images/facilities/CL/cl15.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "Total station",
+        "spec": [
+            "Reflector less mode up to 1,000 m",
+            "Initial measuring speed 0.7 sec",
+            "Angular accuracy: 5 in",
+            "Incorporated date clock for more efficient job management",
+            "Ranging accuracy: ±(5+3ppm x D) mm",
+            "Indicator LED for Laser beam",
+            "Prism less Auto Focus EDM & Telescope is Erect",
+            "Visible Laser",
+            "Angle measurement: Absolute Rotary Encoder",
+            "Display/keyboard: Graphic LCD, 20 characters x 8 lines, 240 x 96 pixels"
+        ],
+        "use_cases": [
+            "Measure distance",
+            "Take height measurements",
+            "Calculate coordinates",
+            "Perform multiple surveys",
+            "Angle Measurement"
+        ],
+        "img": "images/facilities/CL/cl16.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "HP-Z workstation",
+        "spec": [],
+        "use_cases": [],
+        "img": "images/facilities/CL/cl17.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "Compression Testing Machine",
+        "spec": [],
+        "use_cases": [],
+        "img": "images/facilities/CL/cl18.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "Torsion of Circular Section - STR 6",
+        "spec": [],
+        "use_cases": [],
+        "img": "images/facilities/CL/cl19.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "Frame Deflections and Reactions - STR 18",
+        "spec": [],
+        "use_cases": [],
+        "img": "images/facilities/CL/cl20.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "Triaxial Testing System",
+        "spec": [
+            "Load frame of 50 kN capacity",
+            "Triaxial cell for 38 mm and/or 50 mm diameter sample with other accessories",
+            "Dual cylinder air-water type cell pressure/back pressure application system",
+            "Automatic volume change gauge device",
+            "Data acquisition system"
+        ],
+        "use_cases": [
+            "To find shear strength of soil"
+        ],
+        "img": "images/facilities/CL/cl21.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "Direct Shear Test",
+        "spec": [
+            "Direct Shear Test Instrument",
+            "Motorized direct shear test equipment",
+            "Data acquisition system"
+        ],
+        "use_cases": [
+            "To find shear strength of soil"
+        ],
+        "img": "images/facilities/CL/cl22.webp"
+    },
+    {
+        "department": "Civil",
+        "name": "Static Cone Penetrometer",
+        "spec": [
+            "Static cone penetrometer with manual operation"
+        ],
+        "use_cases": [
+            "To find cone penetration resistance"
+        ],
+        "img": "images/facilities/CL/cl23.webp"
+    },
+    {
+        "department": "Electrical",
+        "name": "dSPACE",
+        "spec": [
+            "MicroLabBox – a high-performance development system at a compact single-box form factor that combines a powerful dual-core real-time processor with a user-programmable FPGA",
+            "The MicroLabBox provides over 100 commonly used I/O channels for many kinds of function development, test and data acquisition tasks",
+            "Its integrated connector panel allows easy I/O access",
+            "dSPACE hardware seamlessly integrates with dSPACE software and with MATLAB®/Simulink®/State flow® from Math works to form a highly efficient tool chain",
+            "DS1104 – a cost-effective entry system with I/O interfaces and a real-time processor on a single board that can be plugged directly into a PC",
+            "The system is ideal for developing smaller control applications and for educational purposes."
+        ],
+        "use_cases": [
+            "Robotics",
+            "Active noise and vibration control",
+            "Medical engineering",
+            "Electric drives",
+            "Renewable energy",
+            "Industrial and domestic devices that require electronic controllers",
+            "Further control applications in academic research and education"
+        ],
+        "img": "images/facilities/EE/dSPACE.webp"
+    },
+    {
+        "department": "Electrical",
+        "name": "Earth Tester",
+        "spec": [
+            "Non-Contact Ground Resistance Measurement",
+            "No Auxiliary Electrodes Needed",
+            "Ground Resistance Measurement 0.025V ~ 1500V"
+        ],
+        "use_cases": [
+            "Hazards due to improper earth / ground happen around us every day.",
+            "Every electrical equipment, appliance or network must be properly earthed to allow a low resistance path for dissipation of leakage current into the earth.",
+            "Clamp-On Earth / Ground Resistance Tester can measure accurately within a few minutes the ground resistance & AC current (load & leakage) of all types of installations by just clamping to the grounding lines without disconnecting the circuit or driving auxiliary electrodes."
+        ],
+        "img": "images/facilities/EE/Earth Tester.webp"
+    },
+    {
+        "department": "Electrical",
+        "name": "Mixed Signal Oscilloscope (MSO)",
+        "spec": [
+            "100 MHz and 200 MHz bandwidth models",
+            "16 digital channels (MSO2000 Series)",
+            "Sample rates up to 1 GS/s on all channels",
+            "1 Mega sample record length on all channels"
+        ],
+        "use_cases": [
+            "Embedded design and debug",
+            "Mixed signal design and debug",
+            "Power measurements",
+            "Automotive electronics",
+            "Education and Training",
+            "Video design and debug"
+        ],
+        "img": "images/facilities/EE/MSO.webp"
+    },
+    {
+        "department": "Electrical",
+        "name": "POWER QUALITY ANALYZER",
+        "spec": [
+            "Single-phase 2-wire, Single-phase 3-wire, Three-phase 3-wire or Three-phase 4-wire plus one extra input channel for voltage, current, power measurement (AC or DC measurement)",
+            "Voltage measurement: 600.00 V rms .Transient measurement 6.0000 kV peak",
+            "Voltage: ±0.1% of nominal voltage Current: ±0.1 % rdg. ±0.1 % f.s. + current sensor accuracy Active power: ±0.2 % rdg. ±0.1 % f.s. + current sensor accuracy"
+        ],
+        "use_cases": [
+            "Management of Measurement Data for UPS Sites to Facilitate the Digital Transformation",
+            "Measure Transient Voltage Waveforms",
+            "Measure Voltage Drop Caused by Wiring Impedance",
+            "Measure the Noise Generated by Switching Power Factor Correction Capacitors",
+            "Measure the High-Order Harmonic Voltage and Current of Power Lines",
+            "Measure the Noise Generated by Switching Power Factor Correction Capacitors"
+        ],
+        "img": "images/facilities/EE/Power Quality Analyzer.webp"
+    },
+    {
+        "department": "ECE",
+        "name": "Advanced Programming Lab",
+        "spec": [
+            "Advanced Programming Lab is well equipped with all the latest and high end software to do the research in the field of Verilog",
+            "Data Communication and Networking",
+            "Computer concept in C programming",
+            "Advanced C programming",
+            "Simulation of Circuit Design Simulation of Embedded Design based applications."
+        ],
+        "use_cases": [
+            "The licensed software gives all the latest technology simulation environment support in the field of Digital VLSI Design",
+            "System Verilog",
+            "Data Communication and networking and C and C++ programing."
+        ],
+        "img": "images/facilities/EC/Advance.webp"
+    },
+    {
+        "department": "ECE",
+        "name": "Product Design Lab",
+        "spec": [
+            "The Product Design Lab is equipped with state-of-the-art tools and advanced software to support the fabrication and testing of RF and Microwave products, including antennas, filters, and absorbers",
+            "The lab’s key equipment includes:",
+            "Eleven Lab PCB Prototyping Machine for precise PCB fabrication",
+            "Cable and Antenna Analyzer/Vector Network Analyzer with a frequency range of 2 MHz to 6 GHz for comprehensive testing and analysis",
+            "Anechoic Test Boxes integrated with an antenna positioner controller for accurate and reliable testing in a controlled environment."
+        ],
+        "use_cases": [
+            "The Product Design Lab offers diverse functionalities, including cable and antenna testing for return and cable loss measurements using vector network analysis with Smith chart displays",
+            "It supports antenna testing, pattern measurement",
+            "low-noise testing of microwave devices",
+            "the fabrication of electronic PCBs, antennas, and absorbers, serving various engineering and research needs."
+        ],
+        "img": "images/facilities/EC/Product.webp"
+    },
+    {
+        "department": "ECE",
+        "name": "Tinkering & Innovation Lab",
+        "spec": [
+            "The Tinkering & Innovation Lab is well equipped and organised with real time application oriented hardware tools to design hardware of minor or major projects",
+            "Testing the components",
+            "design analysis and project based development are done in this lab."
+        ],
+        "use_cases": [
+            "The students could think beyond conventional learning, expand their horizons and ignite meaningful ideas once they would be provided such environment",
+            "They would be given a variety of lab equipment to operate and embedded with other tools",
+            "The real time application based project are designed and developed in this lab."
+        ],
+        "img": "images/facilities/EC/Tinker.webp"
+    },
+    {
+        "department": "ECE",
+        "name": "Simulation Lab",
+        "spec": [
+            "Simulation Lab is well equipped with all the latest and high end software to do the research in the field of Simulation of Circuit Design",
+            "Network Simulation",
+            "PCB Designing",
+            "Simulation of Embedded Design based applications."
+        ],
+        "use_cases": [
+            "The licensed software gives all the latest technology simulation environment support in the field of Embedded System Design, Radio Frequency Circuit Design, Simulation of Sensor network design",
+            "The Laboratory is engaged in research on architecture, design, and tools for networked and embedded computing and communication systems."
+        ],
+        "img": "images/facilities/EC/Simulation.webp"
+    },
+    {
+        "department": "ECE",
+        "name": "VLSI & Embedded Lab I/II",
+        "spec": [
+            "VLSI and Embedded Lab I and II are well equipped with all the latest and high end software to do the research in the field of VLSI Design and Verification",
+            "Embedded System",
+            "Digital Signal Processing",
+            "Image and Video Processing",
+            "Antenna Design."
+        ],
+        "use_cases": [
+            "The licensed softwares like MATLAB, Asnys HFSS, Atmel Studio, Xilinx Vivado give all the latest technology simulation environment support innovation in the field of VLSI Design and Verification, Digital Signal Processing and its Applications, Embedded Systems, Wireless Communication, Programming Languages, Cloud Computing, Image and Video Processing",
+            "The laboratory focuses on advancing research in architecture, design, and tools for VLSI and Embedded Systems which are at the core of modern technological innovation",
+            "The laboratory’s work extends to practical applications, such as enabling smart cities, improving healthcare systems, and advancing autonomous systems, making it a hub for innovation that addresses real-world challenges through interdisciplinary collaboration and cutting-edge technologies."
+        ],
+        "img": "images/facilities/EC/VLSI.webp"
+    },
+    {
+        "department": "IT",
+        "name": "IBM Server X3100 M4",
+        "spec": [
+            "Processor = Intel® Xeon(R) CPU E3-1220 V2 @ 3.10GHz",
+            "RAM = 32GB",
+            "HDD = 500GB SATA HDD",
+            "Keyboard = IBM",
+            "Mouse = IBM"
+        ],
+        "use_cases": [
+            "Window Deployment Server (WDS)",
+            "Data Storage"
+        ],
+        "img": "images/facilities/IT/IT_1.webp"
+    },
+    {
+        "department": "IT",
+        "name": "NVidia GPU TITAN X",
+        "spec": [
+            "Processor = Intel(R) Core(TM) i7-8700K",
+            "CPU @ 3.70GHz",
+            "RAM = 32 GB",
+            "HDD = 2 TB",
+            "Graphics Card = 1x NVIDIA GP 100 Accelerator card Monitor = LG 22mp48hq LED",
+            "Keyboard = Logitech USB",
+            "Mouse = Logitech USB"
+        ],
+        "use_cases": [
+            "Image Processing",
+            "python Programing",
+            "machine learning Application",
+            "Data mining"
+        ],
+        "img": "images/facilities/IT/IT_2.webp"
+    },
+    {
+        "department": "IT",
+        "name": "Super Computer PARAM SAVAK",
+        "spec": [
+            "Processor = 2 x Intel Xeon Scalable processors with minimum 16 Cores each with minimum 2.2 GHz Clock Speed",
+            "RAM = 96 GB ECC DDR4 2400 MHz RAM",
+            "HDD = 4*4 TB SATA – 3.5’’ 7200 RPM HDD",
+            "Graphics Card = 1x NVIDIA GP 100 Accelerator card",
+            "Monitor = Benq GW2480 LED",
+            "Keyboard = Logitech USB",
+            "Mouse = Logitech USB"
+        ],
+        "use_cases": [
+            "High performance computing (HPC) Application- Bio-informatics: mpiBLAST",
+            "Molecular Dynamics: GROMACS",
+            "Materials Science: Quantum Espresso",
+            "Quantum Chemistry: NWChem",
+            "ABINIT",
+            "Atmospheric and Ocean Modeling: WRF",
+            "MOM",
+            "CFD: Open FOAM"
+        ],
+        "img": "images/facilities/IT/IT_3.webp"
+    },
+    {
+        "department": "IT",
+        "name": "Supermicro 4U server",
+        "spec": [
+            "2 x Intel(R) Xeon(R) Gold 5218 CPU @ 2.30GHz Processors",
+            "4x32GB 2933MHz DDR4 RAM 5x3.5” 14TB",
+            "7.2K RPM",
+            "SATA 6Gb/s",
+            "256M",
+            "512e  HeliumHFRoHS 2x480GB",
+            "SATA 6GB/s",
+            "TLC 2.5”7mm",
+            "1DWPD NVIDIA Quadro RTX 5000 16GB GDDR6"
+        ],
+        "use_cases": [
+            "Deep learning",
+            "Data mining",
+            "Image Processing",
+            "Python Programming",
+            "Machine Learning"
+        ],
+        "img": "images/facilities/IT/IT_4.webp"
+    },
+    {
+        "department": "IT",
+        "name": "View Sonic Digital Board",
+        "spec": [
+            "OPS PC-15000",
+            "Processor = intel i5-10210U",
+            "RAM = 8GB DDR4",
+            "HDD = 256 GB SSD"
+        ],
+        "use_cases": [
+            "Software group project presentation",
+            "expert lecture and online meetings",
+            "AWS academy hands-on lab",
+            "Whiteboard usage for subject lab",
+            "Lecture notes generate and saved"
+        ],
+        "img": "images/facilities/IT/IT_5.webp"
+    },
+    {
+        "department": "AIML",
+        "name": "Motorola Solutions Research and Innovation Center (Computer Lab)",
+        "spec": [
+            "HP ProOne 400 G6 24 inch All-in-One PC",
+            "Processor : Intel(R) Core(TM)",
+            "i5-10500 CPU @ 3.10GHz",
+            "3.10 GHz",
+            "RAM : 16GB DDR4",
+            "HDD : 1 TB SSD",
+            "Display : 60.96 cm (24\"), FHD (1920 x 1080), IPS, anti-glare, Low Blue Light, 250 nits, 72% NTSC"
+        ],
+        "use_cases": [
+            "Sponsored by Motorola",
+            "Lab Practical and project work during semester"
+        ],
+        "img": "images/facilities/AIML/Motorola.webp"
+    },
+    {
+        "department": "AIML",
+        "name": "AIML Computer LAB",
+        "spec": [
+            "HP ProOne 440 23.8 inch G9 All-in-One PC Processor : 13th Generation Intel(R) Core(TM) i7 -13700 2.10 GHz RAM : 16GB DDR4 HDD : 1 TB SSD Display : 60.5 cm (23.8\"), FHD (1920 x 1080), IPS, anti-glare, Low Blue Light, 250 nits, 72% NTSC"
+        ],
+        "use_cases": [
+            "Lab Practical and project work during semester"
+        ],
+        "img": "images/facilities/AIML/IMG20241126104230.webp"
+    },
+    {
+        "department": "AIML",
+        "name": "Interactive Display",
+        "spec": [
+            "Model No: IFP8652-1B",
+            "OPS PC-15000",
+            "Processor : intel i5-1135G7",
+            "RAM : 8GB DDR4",
+            "HDD : 256 GB SSD",
+            "Display : 218.44 cm (86\")",
+            "TFT LCD Module with DLED",
+            "Backlight, 1895.04(H) x 1065.96(V), 16:9, UHD 3840x2160(Pixels), 1.07B colors (10bit), 400 nits (typ.)"
+        ],
+        "use_cases": [
+            "Software group project presentation",
+            "expert lecture and online meetings",
+            "AWS academy hands-on lab",
+            "White board usage for subject lab",
+            "Lecture notes generate and saved"
+        ],
+        "img": "images/facilities/AIML/View.webp"
+    }
+]

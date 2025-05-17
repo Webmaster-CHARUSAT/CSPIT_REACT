@@ -91,8 +91,8 @@ const submenuMap = {
   RESEARCH: [
     {
       label: "Research Facilities/Sophisticated Instruments",
-      to: "research_facilities1.html",
-      external: true,
+      to: "/research-facilities",
+      external: false,
     },
     { label: "Research Projects", to: "/research-project", external: false },
   ],

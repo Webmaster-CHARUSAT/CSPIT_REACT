@@ -69,6 +69,7 @@ import Footer from './components/Footer';
 import CommunitySlider from './components/Community';
 import AboutUsSection from './components/AboutUsSection';
 import ResearchProjects from './components/ResearchProjects';
+import ResearchFacilities from './components/ResearchFacilities';
 function HomePage() {
   return (
     <>
@@ -119,6 +120,7 @@ function App() {
           <Route path="/club/:clubId" element={<ClubDetails />} />
           <Route path="/about" element={<AboutUsSection/>} />
           <Route path="/research-project" element={<ResearchProjects />} />
+          <Route path="/research-facilities" element={<ResearchFacilities />} />
         </Routes>
         </div>
         <Footer />
