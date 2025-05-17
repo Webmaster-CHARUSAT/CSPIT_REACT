@@ -70,6 +70,8 @@ import CommunitySlider from './components/Community';
 import AboutUsSection from './components/AboutUsSection';
 import ResearchProjects from './components/ResearchProjects';
 import ResearchFacilities from './components/ResearchFacilities';
+import FacultySection from './components/Faculty';
+import FacultyDetails from './components/FacultyDetail';
 function HomePage() {
   return (
     <>
@@ -121,6 +123,8 @@ function App() {
           <Route path="/about" element={<AboutUsSection/>} />
           <Route path="/research-project" element={<ResearchProjects />} />
           <Route path="/research-facilities" element={<ResearchFacilities />} />
+          <Route path='/faculty' element={<FacultySection />} />
+          <Route path="/faculty/:name" element={<FacultyDetails />} />
         </Routes>
         </div>
         <Footer />

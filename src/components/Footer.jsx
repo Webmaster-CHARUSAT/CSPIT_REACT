@@ -84,7 +84,7 @@ const Footer = () => {
                 <img 
                 
                   className="w-[150px] h-auto mb-4 bg-white p-2 rounded-md"
-                  src="images/CSPIT_Logo.png" 
+                  src="/images/CSPIT_Logo.png" 
                   alt="Institute Logo"
                   loading="lazy"
                   style={{
@@ -101,7 +101,7 @@ const Footer = () => {
               <div className="flex justify-center w-full mb-0">
                 <img 
                 loading="lazy"
-                  src="./images/charusatlogo.png" 
+                  src="/images/charusatlogo.png" 
                   alt="Charusat Logo" 
                   className="w-[300px] h-auto"
                   style={{

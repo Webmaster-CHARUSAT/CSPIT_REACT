@@ -10,7 +10,7 @@ const topLinks = [
     label: "Scholarships",
     external: true,
   },
-  { to: "./faculty.html", label: "Faculty & Staff", external: true },
+  { to: "/faculty", label: "Faculty & Staff", external: false },
   { to: "https://alumni.charusat.ac.in/", label: "Alumni", external: true },
   { to: "#contact-us", label: "Contact Us", external: false },
 ];
@@ -210,7 +210,7 @@ const Tempnav = () => {
         <div className="absolute top-0 left-0 w-[150px] h-[100px] border-r border-gray-300 flex items-center justify-center bg-white z-20">
           <a href="index.html">
             <img
-              src="images/CSPIT_Logo.png"
+              src="/images/CSPIT_Logo.png"
               alt="CSPIT Logo"
               className="w-[80px] shadow-inner"
               style={{
@@ -305,7 +305,7 @@ const Tempnav = () => {
         <span className="font-bold tracking-widest flex items-center h-full">
           <img
           loading="lazy"
-            src="images/CSPIT_Logo.png"
+            src="/images/CSPIT_Logo.png"
             alt="CSPIT Logo"
             className="h-[50px] w-full bg-white"
             // style={{ maxHeight: '2 rem' }}
@@ -348,7 +348,7 @@ const Tempnav = () => {
         >
           <div className="flex items-center justify-between p-4 border-b border-white">
             <img
-              src="images/CSPIT_Logo.png"
+              src="/images/CSPIT_Logo.png"
               alt="Logo"
               className="h-12 bg-white p-1 rounded"
             />
