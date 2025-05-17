@@ -85,7 +85,7 @@ const FacultyDetails = () => {
 
   return (
     <section className="bg-gray-100 min-h-screen relative p-5 m-2 sm:p-0 sm:m-0 md:p-5 md:m-2 lg:p-5 lg:m-2">
-      <div className="container mx-auto bg-white p-4 shadow-lg rounded-lg">
+      <div className="container mx-auto bg-white p-4 shadow-lg rounded-lg mt-20">
         <div className="flex flex-col md:flex-row gap-8">
           {/* Left Section: Profile Image and Info */}
           <div className="md:w-1/4">

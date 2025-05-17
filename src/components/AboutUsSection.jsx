@@ -6,7 +6,7 @@ const AboutUsSection = () => {
     <>
       {/* About Us Section */}
       <section 
-        className="relative bg-cover bg-center bg-fixed overflow-x-hidden" 
+        className="relative bg-cover bg-center bg-fixed overflow-x-hidden mt-20" 
         style={{ 
           backgroundImage: "linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)), url('images/Slider/background.webp')" 
         }}

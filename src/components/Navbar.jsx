@@ -10,7 +10,7 @@ const topLinks = [
     label: "Scholarships",
     external: true,
   },
-  { to: "/faculty", label: "Faculty & Staff", external: false },
+  { to: "/faculty", label: "Faculty & Staff", external: true },
   { to: "https://alumni.charusat.ac.in/", label: "Alumni", external: true },
   { to: "#contact-us", label: "Contact Us", external: false },
 ];
@@ -92,9 +92,9 @@ const submenuMap = {
     {
       label: "Research Facilities/Sophisticated Instruments",
       to: "/research-facilities",
-      external: false,
+      external: true,
     },
-    { label: "Research Projects", to: "/research-project", external: false },
+    { label: "Research Projects", to: "/research-project", external: true },
   ],
   "STUDENT CORNER": [
     {

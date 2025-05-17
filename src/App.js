@@ -115,7 +115,6 @@ function App() {
   return (
 
       <div className="App">
-        <div className='pt-20'>
         <NavBar />
         <Routes>
           <Route path="/" element={<HomePage />} />
@@ -126,7 +125,6 @@ function App() {
           <Route path='/faculty' element={<FacultySection />} />
           <Route path="/faculty/:name" element={<FacultyDetails />} />
         </Routes>
-        </div>
         <Footer />
       </div>
 

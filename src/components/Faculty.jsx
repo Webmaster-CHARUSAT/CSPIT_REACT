@@ -28,7 +28,7 @@ const FacultySection = () => {
 
   return (
     <section 
-      className="py-10 text-white min-h-screen px-6"
+      className="py-10 text-white min-h-screen px-6 mt-20"
       style={{ background: "linear-gradient(135deg, #033c67, #6aa0d3)" }}
     >
       <div className="container mx-auto text-center">

@@ -73,7 +73,7 @@ const ResearchFacilities = () => {
   };
 
   return (
-    <section className="box-border text-gray-800 bg-cover bg-center bg-fixed min-h-screen flex justify-center items-center" 
+    <section className="box-border text-gray-800 bg-cover bg-center bg-fixed min-h-screen flex justify-center items-center mt-20" 
       style={{ backgroundImage: "url('./images/about-us-bg.webp')" }}>
       <div className="w-[95%] my-8 p-8 bg-[rgba(240,248,255,0.8)] shadow-xl rounded-2xl overflow-hidden backdrop-blur-sm">
         <h1 className="text-center text-[#0056b3] mb-8 text-4xl font-bold relative">

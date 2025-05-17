@@ -59,7 +59,7 @@ const ResearchProjects = () => {
 
   return (
     <section
-      className="box-border text-gray-800 bg-cover bg-center bg-fixed min-h-screen flex justify-center items-center"
+      className="box-border text-gray-800 bg-cover bg-center bg-fixed min-h-screen flex justify-center items-center mt-20"
       style={{ backgroundImage: "url('./images/about-us-bg.webp')" }}
     >
       <style>
