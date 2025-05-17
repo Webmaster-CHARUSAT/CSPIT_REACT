@@ -244,6 +244,7 @@ const StudentProjects = () => {
                 <div className="lg:w-1/2">
                   <div className="relative bg-gray-100 rounded-lg overflow-hidden h-[400px]">
                     <img
+                    loading="lazy"
                       src={selectedProject.images[currentImageIndex]}
                       alt={`${selectedProject.title} image`}
                       className="w-full h-full object-contain"
@@ -263,6 +264,7 @@ const StudentProjects = () => {
                         <img
                           key={idx}
                           src={img}
+                          loading="lazy"
                           alt={`Thumbnail ${idx + 1}`}
                           onClick={() => setCurrentImageIndex(idx)}
                           className={`w-16 h-16 object-cover rounded cursor-pointer ${

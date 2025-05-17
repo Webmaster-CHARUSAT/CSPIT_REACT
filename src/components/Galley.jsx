@@ -41,6 +41,7 @@ const StackedCards = ({ category, images, onClick }) => {
                     transition-transform duration-300 ease-in-out"
         >
           <img 
+          loading="lazy"
             src={displayImages[0]} 
             alt={`${category} Event 1`}
             className="w-full h-full object-cover"
@@ -57,6 +58,7 @@ const StackedCards = ({ category, images, onClick }) => {
             src={displayImages[1]} 
             alt={`${category} Event 2`}
             className="w-full h-full object-cover"
+            loading="lazy"
           />
         </div>
         
@@ -69,6 +71,7 @@ const StackedCards = ({ category, images, onClick }) => {
             src={displayImages[2]} 
             alt={`${category} Event 3`}
             className="w-full h-full object-cover"
+            loading="lazy"
           />
         </div>
       </div>
@@ -165,6 +168,7 @@ const GalleryModal = ({ isOpen, category, images, onClose }) => {
             src={images[currentIndex]} 
             alt={`${category} Event`}
             className="max-h-full w-auto transition-transform duration-200"
+            loading="lazy"
           />
           
           <button 
@@ -187,6 +191,7 @@ const GalleryModal = ({ isOpen, category, images, onClose }) => {
             <img
               key={index}
               src={img}
+              loading="lazy"
               alt={`Thumbnail ${index + 1}`}
               className={`w-20 h-[60px] cursor-pointer rounded transition-transform hover:scale-110 object-cover
                 ${currentIndex === index ? 'border-2 border-blue-500' : 'border-2 border-transparent'}`}

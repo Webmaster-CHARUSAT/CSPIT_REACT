@@ -37,6 +37,7 @@ const ImageSlider = () => {
     <div className="relative w-full h-64 md:h-[90vh] overflow-hidden">
       {/* Slide Image */}
       <img
+      loading="lazy"
         src={images[current]}
         alt={`Slide ${current + 1}`}
         className="w-full h-full object-cover transition-all duration-700"

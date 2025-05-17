@@ -151,7 +151,7 @@ const submenuMap = {
 };
 
 const mainNav = [
-  { label: "ABOUT US", to: "./about_us.html", external: true },
+  { label: "ABOUT US", to: "/about", external: true },
   { label: "ACADEMICS", submenu: true },
   { label: "CENTRES", submenu: true },
   { label: "COMMITTEES", submenu: true },
@@ -304,6 +304,7 @@ const Tempnav = () => {
       <div className="flex lg:hidden bg-[#e1e1e1] text-white text-xs justify-between items-center px-4 h-16">
         <span className="font-bold tracking-widest flex items-center h-full">
           <img
+          loading="lazy"
             src="images/CSPIT_Logo.png"
             alt="CSPIT Logo"
             className="h-[50px] w-full bg-white"

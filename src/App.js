@@ -66,6 +66,8 @@ import TestimonialsSection from './components/Testimonials';
 import MessageSection from './components/Message';
 import GallerySection from './components/Galley';
 import Footer from './components/Footer';
+import CommunitySlider from './components/Community';
+import AboutUsSection from './components/AboutUsSection';
 function HomePage() {
   return (
     <>
@@ -91,7 +93,8 @@ function HomePage() {
       <br/>
       <MessageSection />
       <GallerySection />
-      <Footer />
+      <CommunitySlider />
+      
     </>
   );
 }
@@ -112,7 +115,9 @@ function App() {
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/club/:clubId" element={<ClubDetails />} />
+          <Route path="/about" element={<AboutUsSection/>} />
         </Routes>
+        <Footer />
       </div>
 
   );
