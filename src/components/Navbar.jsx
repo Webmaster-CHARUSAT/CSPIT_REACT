@@ -84,7 +84,7 @@ const submenuMap = {
     },
     {
       label: "Anti-Drug",
-      to: "./Resources/Anti.drug.circular.pdf",
+      to: "./files/Anti.drug.circular.pdf",
       external: true,
     },
   ],
@@ -104,12 +104,12 @@ const submenuMap = {
     },
     {
       label: "Student Handbook",
-      to: "drive.html?folderId=1LgF2k8N_GeRCs-O50PvXUiywW-Bk8Lyw&heading=STUDENT%20HANDBOOK",
+      to: "/drive?folderId=1LgF2k8N_GeRCs-O50PvXUiywW-Bk8Lyw&heading=STUDENT%20HANDBOOK",
       external: true,
     },
     {
       label: "Syllabus",
-      to: "drive.html?folderId=1CrY0oeDZrnVZRuBwtTIp3MVIs9EoXCl2&heading=SYLLABUS",
+      to: "/drive?folderId=1CrY0oeDZrnVZRuBwtTIp3MVIs9EoXCl2&heading=SYLLABUS",
       external: true,
     },
     {
@@ -134,17 +134,17 @@ const submenuMap = {
     },
     {
       label: "Question Papers",
-      to: "drive.html?folderId=1U1hIPybwqdsF9Nn_K6QKom0Kg5yAWCaW&heading=QUESTION%20PAPERS",
+      to: "/drive?folderId=1U1hIPybwqdsF9Nn_K6QKom0Kg5yAWCaW&heading=QUESTION%20PAPERS",
       external: true,
     },
     {
       label: "Academic Calender",
-      to: "drive.html?folderId=1EWfAd0mJ3MIVNA7Ct3XnHfS6aKpG2NeJ&heading=ACADEMIC%20CALENDER",
+      to: "/drive?folderId=1EWfAd0mJ3MIVNA7Ct3XnHfS6aKpG2NeJ&heading=ACADEMIC%20CALENDER",
       external: true,
     },
     {
       label: "Student Support Policy",
-      to: "./Resources/student_support_policy_UGSF_PGSF.pdf",
+      to: "./files/student_support_policy_UGSF_PGSF.pdf",
       external: true,
     },
   ],
