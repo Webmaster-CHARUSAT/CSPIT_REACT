@@ -208,7 +208,12 @@ const Tempnav = () => {
         </div>
         {/* Logo */}
         <div className="absolute top-0 left-0 w-[150px] h-[100px] border-r border-gray-300 flex items-center justify-center bg-white z-20">
-          <a href="index.html">
+          <a
+            href="/"
+            className="block"
+            target="_self"
+            rel="noopener noreferrer"
+          >
             <img
               src="/images/CSPIT_Logo.png"
               alt="CSPIT Logo"
@@ -304,7 +309,7 @@ const Tempnav = () => {
       <div className="flex lg:hidden bg-[#e1e1e1] text-white text-xs justify-between items-center px-4 h-16">
         <span className="font-bold tracking-widest flex items-center h-full">
           <img
-          loading="lazy"
+            loading="lazy"
             src="/images/CSPIT_Logo.png"
             alt="CSPIT Logo"
             className="h-[50px] w-full bg-white"
