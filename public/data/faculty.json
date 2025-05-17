@@ -79,7 +79,7 @@
       "Machine Learning",
       "Deep Learning"
     ],
-    "image_src": "CSPIT_Faculty/CSE/ABHISHEK.webp",
+    "image_src": "/CSPIT_Faculty/CSE/ABHISHEK.webp",
     "subjects": [
       "Operating System",
       "Machine Learning",
@@ -117,7 +117,7 @@
       "Advanced Machining",
       "3D Printing"
     ],
-    "image_src": "CSPIT_Faculty/Mechanical/AKASH.webp",
+    "image_src": "/CSPIT_Faculty/Mechanical/AKASH.webp",
     "subjects": [
       "Casting and Joining Processes",
       "Metal Casting Technology",
@@ -144,7 +144,7 @@
       "Cybersecurity",
       "Information Security"
     ],
-    "image_src": "CSPIT_Faculty/CSE/AKSHITA.webp",
+    "image_src": "/CSPIT_Faculty/CSE/AKSHITA.webp",
     "subjects": [
       "Cyber Security & Cyber Law",
       "Ethical Hacking",
@@ -174,7 +174,7 @@
       "Data Sciecne",
       "Deep Learning"
     ],
-    "image_src": "CSPIT_Faculty/CSE/AMIT.webp",
+    "image_src": "/CSPIT_Faculty/CSE/AMIT.webp",
     "subjects": [
       "Data Structure & Algorithms",
       "Design & Analysis of Algorithms",
@@ -217,7 +217,7 @@
       "Environmental Impact Assessment",
       "Design of treatment units"
     ],
-    "image_src": "CSPIT_Faculty/Civil/AMIT_KUMAR.webp",
+    "image_src": "/CSPIT_Faculty/Civil/AMIT_KUMAR.webp",
     "subjects": [
       "Environmental Engineering",
       "Surveying",
@@ -246,7 +246,7 @@
       "Automobile",
       "Engine and Emissions"
     ],
-    "image_src": "CSPIT_Faculty/Mechanical/ANAND.webp",
+    "image_src": "/CSPIT_Faculty/Mechanical/ANAND.webp",
     "subjects": [
       "Basics of Mechanical Engineering",
       "Design of Machine Elements",
@@ -281,7 +281,7 @@
       "Microprocessor and microcontroller",
       "Metamaterial Antenna design"
     ],
-    "image_src": "CSPIT_Faculty/IT/ANERI.webp",
+    "image_src": "/CSPIT_Faculty/IT/ANERI.webp",
     "subjects": [
       "IoT",
       "Computer Architecture & Microprocessor Interface",
@@ -308,7 +308,7 @@
       "Analog and Digital Electronics",
       "Internet of things"
     ],
-    "image_src": "CSPIT_Faculty/Electrical/ANKURBHAI.webp",
+    "image_src": "/CSPIT_Faculty/Electrical/ANKURBHAI.webp",
     "subjects": [
       "Basics of Electronics & Electrical Engineering",
       "Analog and Digital Electronics",
@@ -341,7 +341,7 @@
       "DBMS",
       "Operating Systems"
     ],
-    "image_src": "CSPIT_Faculty/CE/ARPITA.webp",
+    "image_src": "/CSPIT_Faculty/CE/ARPITA.webp",
     "subjects": [
       "Cloud Computing",
       "Client Server Technology",
@@ -385,7 +385,7 @@
       "Digital system design",
       "wireless communication"
     ],
-    "image_src": "CSPIT_Faculty/Electronics/ARPITA.webp",
+    "image_src": "/CSPIT_Faculty/Electronics/ARPITA.webp",
     "subjects": [
       "Digital Electronics",
       "Digital System Design",
@@ -425,7 +425,7 @@
       "Software Engineering",
       "Project Management"
     ],
-    "image_src": "CSPIT_Faculty/CE/ASHWINKUMAR.webp",
+    "image_src": "/CSPIT_Faculty/CE/ASHWINKUMAR.webp",
     "subjects": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -478,7 +478,7 @@
       "Embedded Systems",
       "Internet of Things"
     ],
-    "image_src": "CSPIT_Faculty/CE/ASIFIQBAL YAVARMIYA THAKOR.webp",
+    "image_src": "/CSPIT_Faculty/CE/ASIFIQBAL YAVARMIYA THAKOR.webp",
     "subjects": [
       "Digital Electronics",
       "Computer Organization and Architecture",
@@ -508,7 +508,7 @@
       "Machine Learning",
       "DSA and DAA"
     ],
-    "image_src": "CSPIT_Faculty/CSE/AVANI.webp",
+    "image_src": "/CSPIT_Faculty/CSE/AVANI.webp",
     "subjects": [
       "DAA",
       "DBMS",
@@ -534,7 +534,7 @@
       "Structural engineering",
       "Earthquake Engineering"
     ],
-    "image_src": "CSPIT_Faculty/AIML/BHARGAV.webp",
+    "image_src": "/CSPIT_Faculty/AIML/BHARGAV.webp",
     "subjects": [
       "Structural Dynamics and Earthquake Engineering",
       "Advanced Earthquake Engineering",
@@ -581,7 +581,7 @@
       "Nanofluid",
       "Heat Transfer"
     ],
-    "image_src": "CSPIT_Faculty/Mechanical/BHAVIN.webp",
+    "image_src": "/CSPIT_Faculty/Mechanical/BHAVIN.webp",
     "subjects": [
       "Engineering Thermodynamics",
       "Heat and Mass Transfer",
@@ -615,7 +615,7 @@
       "Large Language Models",
       "MANET"
     ],
-    "image_src": "CSPIT_Faculty/IT/BIMAL HARIVADAN PATEL.webp",
+    "image_src": "/CSPIT_Faculty/IT/BIMAL HARIVADAN PATEL.webp",
     "subjects": [
       "Computer Networks",
       "Software Engineering",
@@ -651,7 +651,7 @@
       "Internet of Things",
       "Wireless Sensor Network"
     ],
-    "image_src": "CSPIT_Faculty/Electronics/BRIJESH LAXMANBHAI KUNDALIYA.webp",
+    "image_src": "/CSPIT_Faculty/Electronics/BRIJESH LAXMANBHAI KUNDALIYA.webp",
     "subjects": [
       "1) Digital Electronics",
       "2) Basic of Electronics",
@@ -687,7 +687,7 @@
       "Computer Networks",
       "Python"
     ],
-    "image_src": "CSPIT_Faculty/CSE/BRINDA.webp",
+    "image_src": "/CSPIT_Faculty/CSE/BRINDA.webp",
     "subjects": [
       "Java",
       "Python",
@@ -716,7 +716,7 @@
       "Battery Thermal Management System",
       "Nanofluids"
     ],
-    "image_src": "CSPIT_Faculty/Mechanical/DATTATRAYA.webp",
+    "image_src": "/CSPIT_Faculty/Mechanical/DATTATRAYA.webp",
     "subjects": [
       "Fluid Mechanics",
       "Dynamics of Compressible flow",
@@ -746,7 +746,7 @@
       "Internet of Things",
       "Wireless Computing"
     ],
-    "image_src": "CSPIT_Faculty/CE/DEEPKUMAR.webp",
+    "image_src": "/CSPIT_Faculty/CE/DEEPKUMAR.webp",
     "subjects": [
       "1) Python",
       "2)  Internet of Things",
@@ -783,7 +783,7 @@
       "Antenna & RF microwave",
       "Signal Processing"
     ],
-    "image_src": "CSPIT_Faculty/Electronics/DHARA.webp",
+    "image_src": "/CSPIT_Faculty/Electronics/DHARA.webp",
     "subjects": [
       "Basics of Electrical and Electronics Engineering",
       "Digital Circuits Design",
@@ -816,7 +816,7 @@
     "research_interests": [
       "Web Technology"
     ],
-    "image_src": "CSPIT_Faculty/CSE/DHARA.webp",
+    "image_src": "/CSPIT_Faculty/CSE/DHARA.webp",
     "subjects": [
       "Software Engineering",
       "Cloud Computing",
@@ -851,7 +851,7 @@
       "Wireless Communication",
       "vehicular communications"
     ],
-    "image_src": "CSPIT_Faculty/Electronics/DHARMENDRASINH.webp",
+    "image_src": "/CSPIT_Faculty/Electronics/DHARMENDRASINH.webp",
     "subjects": [
       "Solid State Electronics",
       "Digital Electronics and Logic Design",
@@ -887,7 +887,7 @@
       "Deep Learning",
       "ASP .NET"
     ],
-    "image_src": "CSPIT_Faculty/CSE/DHARMENDRASINH.webp",
+    "image_src": "/CSPIT_Faculty/CSE/DHARMENDRASINH.webp",
     "subjects": [
       "Machine Learning",
       "Artificial Intelligence",
@@ -918,7 +918,7 @@
       "Data Mining",
       "Theory of Computation"
     ],
-    "image_src": "CSPIT_Faculty/CE/DHAVALKUMAR.webp",
+    "image_src": "/CSPIT_Faculty/CE/DHAVALKUMAR.webp",
     "subjects": [
       "Theory of Computation",
       "Design & Analysis of Algoirthms",
@@ -949,7 +949,7 @@
       "UI/UX",
       "Fog Computing"
     ],
-    "image_src": "CSPIT_Faculty/IT/DHAVALKUMAR.webp",
+    "image_src": "/CSPIT_Faculty/IT/DHAVALKUMAR.webp",
     "subjects": [
       "Web Technology",
       "ICT",
@@ -980,7 +980,7 @@
       "Theory of Computation",
       "Compiler Construction."
     ],
-    "image_src": "CSPIT_Faculty/AIML/DHEERAJ.webp",
+    "image_src": "/CSPIT_Faculty/AIML/DHEERAJ.webp",
     "subjects": [
       "Data structure & algorithm",
       "Design and analysis of algorithm",
@@ -1010,7 +1010,7 @@
       "Production Engineering",
       "Engineering Management"
     ],
-    "image_src": "CSPIT_Faculty/Mechanical/GAJANAN.webp",
+    "image_src": "/CSPIT_Faculty/Mechanical/GAJANAN.webp",
     "subjects": [
       "Production and Operation management.",
       "Operation Researc",
@@ -1045,7 +1045,7 @@
     "research_interests": [
       "Construction Project Management"
     ],
-    "image_src": "CSPIT_Faculty/Civil/GARGI.webp",
+    "image_src": "/CSPIT_Faculty/Civil/GARGI.webp",
     "subjects": [
       "Fundamentals of Civil Engineering",
       "Environmental Sciences",
@@ -1082,7 +1082,7 @@
     "research_interests": [
       "CAD, Additive Manufacturing, Machine Learning"
     ],
-    "image_src": "CSPIT_Faculty/AIML/GAURANG.webp",
+    "image_src": "/CSPIT_Faculty/AIML/GAURANG.webp",
     "subjects": [
       "MATERIAL SCIENCE & TECHNOLOGY",
       "Design Concepts and Machine Drawing"
@@ -1110,7 +1110,7 @@
     "research_interests": [
       "MACHINE LEARNING, DEEP LEARNING, COMPUTER VISION"
     ],
-    "image_src": "CSPIT_Faculty/AIML/GAURAV.webp",
+    "image_src": "/CSPIT_Faculty/AIML/GAURAV.webp",
     "subjects": [
       "C & C++ PROGRAMMING, DIGITAL ELECTRONICS, DATA COMMUNICATION NETWORK, EMBEDDED SYSTEM"
     ],
@@ -1132,7 +1132,7 @@
     "research_interests": [
       "Digital Signal Processing, BioNAMedical Image Processing, Mobile and Satellite Communication"
     ],
-    "image_src": "CSPIT_Faculty/Electronics/HARDIK P MODI.webp",
+    "image_src": "/CSPIT_Faculty/Electronics/HARDIK P MODI.webp",
     "subjects": [
       "Digital Signal Processing, Digital Image Processing, Design Testing and Verification, Basic C Programming, Programming in JAVA, Modelling using Verilog ,Machine Learning"
     ],
@@ -1160,7 +1160,7 @@
     "research_interests": [
       "Manufacturing engineering, Metal matrix composite"
     ],
-    "image_src": "CSPIT_Faculty/Mechanical/HARMISH.webp",
+    "image_src": "/CSPIT_Faculty/Mechanical/HARMISH.webp",
     "subjects": [
       "Workshop practices, Manufacturing engineering, Metrology and quality control, Theory of machine, Fundamentals of mechanical engineering"
     ],
@@ -1184,7 +1184,7 @@
     "research_interests": [
       "Computer Vision, Internet of Things, VLSI Technologies"
     ],
-    "image_src": "CSPIT_Faculty/CSE/HARSHUL.webp",
+    "image_src": "/CSPIT_Faculty/CSE/HARSHUL.webp",
     "subjects": [
       "Microprocessor and Computer Organization, Digital Electronics, Embedded Systems, Data Communication and Networking, ICT Workshop, ,Image Processing and Computer Vision, ProjectNAII,ProjectNAIII, SGPNAIV"
     ],
@@ -1209,7 +1209,7 @@
     "research_interests": [
       "Natural language processing"
     ],
-    "image_src": "CSPIT_Faculty/CSE/HEMANG.webp",
+    "image_src": "/CSPIT_Faculty/CSE/HEMANG.webp",
     "subjects": [
       "Computer Concepts & Programming, Data Structures & Algorithms, Artificial Intelligence, Operating System, Design & Analysis of Algorithms, Theory of Computation, Machine Learning, Design of Language Processor"
     ],
@@ -1239,7 +1239,7 @@
     "research_interests": [
       "Environmental Engineering, Solid Waste Management, Environmental Science"
     ],
-    "image_src": "CSPIT_Faculty/Civil/HEMANGI.webp",
+    "image_src": "/CSPIT_Faculty/Civil/HEMANGI.webp",
     "subjects": [
       "Environmental Engineering I, Waste Management in Smart Cities, Environmental Sciences, Environmental Sustainability & Climate Change"
     ],
@@ -1261,7 +1261,7 @@
     "research_interests": [
       "Machine Learning, LLM, Time series forecasting"
     ],
-    "image_src": "CSPIT_Faculty/IT/HEMANT NANDLALBHAI YADAV.webp",
+    "image_src": "/CSPIT_Faculty/IT/HEMANT NANDLALBHAI YADAV.webp",
     "subjects": [
       "Machine Learning, Deep learning , Python Programming"
     ],
@@ -1290,7 +1290,7 @@
     "research_interests": [
       "Data Structures , Cloud Computing, Machine Learning"
     ],
-    "image_src": "CSPIT_Faculty/AIML/JALPA.webp",
+    "image_src": "/CSPIT_Faculty/AIML/JALPA.webp",
     "subjects": [
       "C/C++, Data Structures, Operating System, Cryptography"
     ],
@@ -1312,7 +1312,7 @@
     "research_interests": [
       "Data Privacy, Machine Learning, Full Stack Development"
     ],
-    "image_src": "CSPIT_Faculty/IT/JALPESH.webp",
+    "image_src": "/CSPIT_Faculty/IT/JALPESH.webp",
     "subjects": [
       "Java Programming, Web Technologies, Full Stack Web Development, Data Science, Mobile Application Development"
     ],
@@ -1340,7 +1340,7 @@
     "research_interests": [
       "Concrete Technology, Reinforced  Concrete Structural Design,"
     ],
-    "image_src": "CSPIT_Faculty/Civil/JAY.webp",
+    "image_src": "/CSPIT_Faculty/Civil/JAY.webp",
     "subjects": [
       "•\tFundamental of Civil Engineering",
       "•\tEngineering Mechanics",
@@ -1374,7 +1374,7 @@
     "research_interests": [
       "Aritficial Inetlligent & Machine Learning, Electric Vehicle, Smart Grid"
     ],
-    "image_src": "CSPIT_Faculty/CSE/JIGAR.webp",
+    "image_src": "/CSPIT_Faculty/CSE/JIGAR.webp",
     "subjects": [
       "Machine Learning, Depp Learning Applications and AI"
     ],
@@ -1398,7 +1398,7 @@
     "research_interests": [
       "Microcontrollers, PLC & IA, Power System"
     ],
-    "image_src": "CSPIT_Faculty/Electrical/JIGNESHKUMAR.webp",
+    "image_src": "/CSPIT_Faculty/Electrical/JIGNESHKUMAR.webp",
     "subjects": [
       "•\tCE391 Python for Data Analytics",
       "•\tEE145 Basics of Electronics & Electrical Engineering",
@@ -1433,7 +1433,7 @@
     "research_interests": [
       "Embedded system and Micro controller programming, Power Electronics, Signal Processing, Numerical relaying, Microgrid converter control, Dspace real time simulator, Matlab Modelling"
     ],
-    "image_src": "CSPIT_Faculty/Electrical/JIVANADHAR.webp",
+    "image_src": "/CSPIT_Faculty/Electrical/JIVANADHAR.webp",
     "subjects": [
       "Power Electronics, Microcontroller applications, advanced microcontrollers, Electrical vehicle and renewable, Digital Signal Processing, Digital Electronics, Embedded system, Power system Protection"
     ],
@@ -1457,7 +1457,7 @@
     "research_interests": [
       "Nano tribology, wettability, thermal properties of nanostructured materials and Thin Film Coatings"
     ],
-    "image_src": "CSPIT_Faculty/Mechanical/KAMLESH.webp",
+    "image_src": "/CSPIT_Faculty/Mechanical/KAMLESH.webp",
     "subjects": [
       "Thermal Engineering, Fluid mechanics, Advanced Materials, Surface Engineering, Advanced Power Generation System"
     ],
@@ -1481,7 +1481,7 @@
     "research_interests": [
       "Metamaterials, Frequency Selective Surfaces, Antennas"
     ],
-    "image_src": "CSPIT_Faculty/Electronics/KANWAR.webp",
+    "image_src": "/CSPIT_Faculty/Electronics/KANWAR.webp",
     "subjects": [
       "Electromagnetic Theory, RF & Microwave Engineering, Microwave Antennas, Analog & Digital Communication, Optical Communication, Satellite & Radar Engineering, Analog Circuits, Digital Electronics"
     ],
@@ -1509,7 +1509,7 @@
     "research_interests": [
       "Tribology, Advanced ceramics, Polymer composites"
     ],
-    "image_src": "CSPIT_Faculty/Mechanical/RANDHAWA.webp",
+    "image_src": "/CSPIT_Faculty/Mechanical/RANDHAWA.webp",
     "subjects": [
       "Operations Research, Optimization Techniques, Production Technology, Production and Operations Management, Industrial Engineering & Management, Product Design & Value Engineering, Advanced Optimization Techniques, Machining and Forming Processes, Advanced Materials"
     ],
@@ -1537,7 +1537,7 @@
     "research_interests": [
       "Designing of planar,NAMIMO antennas, Microcontroller and Microprocessor, Programming using Arduino, Digital Electronics"
     ],
-    "image_src": "CSPIT_Faculty/Electronics/KILLOL.webp",
+    "image_src": "/CSPIT_Faculty/Electronics/KILLOL.webp",
     "subjects": [
       "Microcontroller, Microprocessor and Interfacing, Digital Electronics, Antenna and Wave Propagation, Circuits and Networks, Control Theory"
     ],
@@ -1565,7 +1565,7 @@
     "research_interests": [
       "Power Electronics, Renewable Energy, Electric Vehicle Technology, Smart Grids and Microgrids"
     ],
-    "image_src": "CSPIT_Faculty/Electrical/KunalBhatt.webp",
+    "image_src": "/CSPIT_Faculty/Electrical/KunalBhatt.webp",
     "subjects": [
       "Power Electronics, Electrical Drives, Flexible AC Transmission system, Power Quality and FACTS"
     ],
@@ -1589,7 +1589,7 @@
     "research_interests": [
       "Machine Learning, Deep Learning"
     ],
-    "image_src": "CSPIT_Faculty/CE/KRUNALKUMAR.webp",
+    "image_src": "/CSPIT_Faculty/CE/KRUNALKUMAR.webp",
     "subjects": [
       "Machine Learning, Python Programming"
     ],
@@ -1612,7 +1612,7 @@
       "Manufacturing of composites, Design of Experiments, Machining of",
       "Composites"
     ],
-    "image_src": "CSPIT_Faculty/Mechanical/KUNDAN.webp",
+    "image_src": "/CSPIT_Faculty/Mechanical/KUNDAN.webp",
     "subjects": [
       "Machining and Forming Processes, Computer Aided Design, Computer Aided Manufacturing, Hydraulics & Pneumatics, Unconventional Machining Processes, CNC Technology & Programming."
     ],
@@ -1638,7 +1638,7 @@
       "Finite Element Analysis",
       "Application of MR Damper"
     ],
-    "image_src": "CSPIT_Faculty/Mechanical/MADHAV.webp",
+    "image_src": "/CSPIT_Faculty/Mechanical/MADHAV.webp",
     "subjects": [
       "Dynamics of Machines",
       "Machines & Mechanism",
@@ -1669,7 +1669,7 @@
     "research_interests": [
       "Blockchain, Cryptography, Cybersecurity"
     ],
-    "image_src": "CSPIT_Faculty/IT/MADHAV.webp",
+    "image_src": "/CSPIT_Faculty/IT/MADHAV.webp",
     "subjects": [
       "Blockchain, Cryptography, Cybersecurity, Computer Networking, Operating Systems"
     ],
@@ -1699,7 +1699,7 @@
     "research_interests": [
       "ELECTRIC VEHICLES, POWER ELECTRONICS, CONTROL SYSTEMS"
     ],
-    "image_src": "CSPIT_Faculty/Electrical/MAHAMMADSOAIB.webp",
+    "image_src": "/CSPIT_Faculty/Electrical/MAHAMMADSOAIB.webp",
     "subjects": [
       "Basics of Electrical & Electronics , Circuit Theory, Control Systems, Basics of Electric Vehicles , Power Electronics & Drives NAI, Power Electronics & Drives NAII , Special Electrical Machines, HYBRID AND ELECTRICAL VEHICLES, CONTROL OF ELECTRIC MOTORS FOR VEHICULAR APPLICATIONS,EV AND SMART GRID,"
     ],
@@ -1723,7 +1723,7 @@
     "research_interests": [
       "BioNAelectronics and Communication Systems"
     ],
-    "image_src": "CSPIT_Faculty/Electronics/MANTHAN SUDHIRBHAI MANAVADARIA.webp",
+    "image_src": "/CSPIT_Faculty/Electronics/MANTHAN SUDHIRBHAI MANAVADARIA.webp",
     "subjects": [
       "Basic Digital Electronics, Electronic Devices and Measurements, Optical Communication, Digital Communication, Radar Systems"
     ],
@@ -1759,7 +1759,7 @@
     "research_interests": [
       "Information Security, Blockchain Technology, Web Development"
     ],
-    "image_src": "CSPIT_Faculty/CE/MARTIN.webp",
+    "image_src": "/CSPIT_Faculty/CE/MARTIN.webp",
     "subjects": [
       "Blockchain Technology, Information Security, Cryptography & Network Security, Advanced Web Technology, Java Programming, Database Management System, Ethical Hacking, Service Oriented  Computing."
     ],
@@ -1787,7 +1787,7 @@
     "research_interests": [
       "Computer Aided Design, Finite Element Analysis, Machine Design"
     ],
-    "image_src": "CSPIT_Faculty/AIML/MAULIK.webp",
+    "image_src": "/CSPIT_Faculty/AIML/MAULIK.webp",
     "subjects": [
       "Computer Aided Design, Design of Transmission System, Design Concept and Machine Drawing, Elements of Engineering, Mechanical Workshop"
     ],
@@ -1818,7 +1818,7 @@
     "research_interests": [
       "Programming in C, Programming in C++ , Programming in Java , Deep Learning, Data Base Management System"
     ],
-    "image_src": "CSPIT_Faculty/CE/MAYURI.webp",
+    "image_src": "/CSPIT_Faculty/CE/MAYURI.webp",
     "subjects": [
       "Computer Concepts and Programming, Object Oriented Programming with C++, Database Management Systems, CE251Java Programming , Programming in Python, ICT Workshop Practices, Creativity and Problem Solving Skills, Software Engineering, Data Warehousing and Data Mining."
     ],
@@ -1846,7 +1846,7 @@
     "research_interests": [
       "Metal Casting and Composites"
     ],
-    "image_src": "CSPIT_Faculty/Mechanical/MAYURKUMAR.webp",
+    "image_src": "/CSPIT_Faculty/Mechanical/MAYURKUMAR.webp",
     "subjects": [
       "\tCasting and Welding Processes",
       "\tAdvances in Manufacturing Technology",
@@ -1880,7 +1880,7 @@
     "research_interests": [
       "Construction Project Management, Building Construction, Construction Technology"
     ],
-    "image_src": "CSPIT_Faculty/Civil/MEGHA.webp",
+    "image_src": "/CSPIT_Faculty/Civil/MEGHA.webp",
     "subjects": [
       "Building Construction, Construction Project management, construction Technology, Green Built environment, Green Building rating system"
     ],
@@ -1906,7 +1906,7 @@
     "research_interests": [
       "Geotechnical testing, Geotechnical NA Earthquake Engineering"
     ],
-    "image_src": "CSPIT_Faculty/Civil/MEHULKUMAR.webp",
+    "image_src": "/CSPIT_Faculty/Civil/MEHULKUMAR.webp",
     "subjects": [
       "Geotechnical Engineering, Professional Practices, Foundation Engineering, Engineering Mechanics and Environmental Sciences"
     ],
@@ -1931,7 +1931,7 @@
     "research_interests": [
       "High Voltage Engineering, Transformer oil based Nanofluids"
     ],
-    "image_src": "CSPIT_Faculty/Electrical/MIHIR_BHATT.webp",
+    "image_src": "/CSPIT_Faculty/Electrical/MIHIR_BHATT.webp",
     "subjects": [
       "High Voltage Engineering, Synchronous and DC Machines, Transformers and Induction Machine, Commissioning and Testing of Electrical Equipments, Electrical Measurements and Industrial Instrumentation, Basics of Electronics and Electrical Engineering"
     ],
@@ -1957,7 +1957,7 @@
     "research_interests": [
       "Renewable Energy Sources, Wind Energy, DFIG Wind Turbines"
     ],
-    "image_src": "CSPIT_Faculty/Electrical/MIHIR_SIDDHARTH.webp",
+    "image_src": "/CSPIT_Faculty/Electrical/MIHIR_SIDDHARTH.webp",
     "subjects": [
       "Basics of Electronics and electrical Engineering, Electrical Machine Design, Matlab Programming, Control of Electric Motors for Vehicular Application"
     ],
@@ -1982,7 +1982,7 @@
     "research_interests": [
       "AI,Generative models,LLMs"
     ],
-    "image_src": "CSPIT_Faculty/IT/MIKINKBHAI RAKESHBHAI PATEL.webp",
+    "image_src": "/CSPIT_Faculty/IT/MIKINKBHAI RAKESHBHAI PATEL.webp",
     "subjects": [
       "Artificial Intelligence,Machine Learning,Data Visulisation,Python Programming,Java Programming,C & CPP Programming,"
     ],
@@ -2012,7 +2012,7 @@
     "research_interests": [
       "Embedded System, IoT, Computer Vision"
     ],
-    "image_src": "CSPIT_Faculty/Electronics/MIRAL MUKESHBHAI DESAI.webp",
+    "image_src": "/CSPIT_Faculty/Electronics/MIRAL MUKESHBHAI DESAI.webp",
     "subjects": [
       "At PG Level",
       " Real Time Operating System  Real Time Embedded System",
@@ -2044,7 +2044,7 @@
     "research_interests": [
       "Deep Learning, Large Language Model"
     ],
-    "image_src": "CSPIT_Faculty/CE/MRUGENDRASINH.webp",
+    "image_src": "/CSPIT_Faculty/CE/MRUGENDRASINH.webp",
     "subjects": [
       "Machine Learning, Deep Learning, Java Programming, Advanced Web Technology"
     ],
@@ -2068,7 +2068,7 @@
     "research_interests": [
       "Deep Learning , Data  Structure , Computer Network"
     ],
-    "image_src": "CSPIT_Faculty/CE/MUSKAN CHANDRAKANT DAVE.webp",
+    "image_src": "/CSPIT_Faculty/CE/MUSKAN CHANDRAKANT DAVE.webp",
     "subjects": [
       "Computer Network , Data Structure , Distributed Computing"
     ],
@@ -2092,7 +2092,7 @@
       "Structural Analysis & Design",
       "Engineering Mechanics"
     ],
-    "image_src": "CSPIT_Faculty/Civil/NEHA.webp",
+    "image_src": "/CSPIT_Faculty/Civil/NEHA.webp",
     "subjects": [
       "Engineering Mechanics",
       "Mechanics of Structures",
@@ -2128,7 +2128,7 @@
     "research_interests": [
       "Machine Learning, Deep Learning, MultiNAModal Information Retrieval"
     ],
-    "image_src": "CSPIT_Faculty/CE/NIKITABEN.webp",
+    "image_src": "/CSPIT_Faculty/CE/NIKITABEN.webp",
     "subjects": [
       "Data Structures & Algorithms, Design and analysis of Algorithms, Theory of Computation, Compiler Construction, Operating System, Machine Learning"
     ],
@@ -2152,7 +2152,7 @@
     "research_interests": [
       "Electrical Power system, Power system Dynamics, Power system Protection"
     ],
-    "image_src": "CSPIT_Faculty/Electrical/NILAYKUMAR.webp",
+    "image_src": "/CSPIT_Faculty/Electrical/NILAYKUMAR.webp",
     "subjects": [
       "Power system Protection, Fault Analysis and Switchgear, Basics of Electronics and Electrical Engineering, Digital Electronics, Maintenance of Household Apparatus."
     ],
@@ -2181,7 +2181,7 @@
     "research_interests": [
       "Data Analytics, AI & Machine Learning"
     ],
-    "image_src": "CSPIT_Faculty/AIML/NIRAV.webp",
+    "image_src": "/CSPIT_Faculty/AIML/NIRAV.webp",
     "subjects": [
       "Database Management System, Languge Processors, Operating System, Machine Learning"
     ],
@@ -2214,7 +2214,7 @@
     "research_interests": [
       "Finite Element Analysis, Composite Structures, Bridge Engineering, Design of Steel and RCC Structures,"
     ],
-    "image_src": "CSPIT_Faculty/Civil/NIRPEX.webp",
+    "image_src": "/CSPIT_Faculty/Civil/NIRPEX.webp",
     "subjects": [
       "Master of Technology (Postgraduate Programme)",
       "\tCL743 Finite Element Analysis",
@@ -2255,7 +2255,7 @@
     "research_interests": [
       "Image Processing, Graph Theory , Computer Networks"
     ],
-    "image_src": "CSPIT_Faculty/AIML/NISHANT.webp",
+    "image_src": "/CSPIT_Faculty/AIML/NISHANT.webp",
     "subjects": [
       "Computer Networks, Operating Systems, Data communication and Networking"
     ],
@@ -2277,7 +2277,7 @@
     "research_interests": [
       "Machine Learning, Deep Learning, Computer Vision"
     ],
-    "image_src": "CSPIT_Faculty/IT/NISHAT.webp",
+    "image_src": "/CSPIT_Faculty/IT/NISHAT.webp",
     "subjects": [
       "C, C++ , JAVA, Operating System , Computer Network, Information Security, Data Mining"
     ],
@@ -2305,7 +2305,7 @@
     "research_interests": [
       "DBMS , software engineering"
     ],
-    "image_src": "CSPIT_Faculty/AIML/NIYATI.webp",
+    "image_src": "/CSPIT_Faculty/AIML/NIYATI.webp",
     "subjects": [
       "DBMS , Fundamental  Of Software Engineering, Essential Of Digital Marketing , Basic Of Cloud Computing."
     ],
@@ -2327,7 +2327,7 @@
     "research_interests": [
       "Deep Learning, Internet of Things, Big Data Analytics, Programming in C"
     ],
-    "image_src": "CSPIT_Faculty/CE/PARMANANDKUMAR SAHDEVBHAI PATEL.webp",
+    "image_src": "/CSPIT_Faculty/CE/PARMANANDKUMAR SAHDEVBHAI PATEL.webp",
     "subjects": [
       "Big data Analytics, Programming in C,  Data Mining and Business Analytics"
     ],
@@ -2349,7 +2349,7 @@
     "research_interests": [
       "Cyber Forensic, Cloud Computing"
     ],
-    "image_src": "CSPIT_Faculty/IT/PARTH.webp",
+    "image_src": "/CSPIT_Faculty/IT/PARTH.webp",
     "subjects": [
       "Computer Architecture and Organization, Operating Systems, Data Structure and Algorithms, Java Programming, Full Stack Application Development, Cryptography and Network Security, Cloud Computing, Computer Networking"
     ],
@@ -2390,7 +2390,7 @@
     "research_interests": [
       "Web Application development"
     ],
-    "image_src": "CSPIT_Faculty/IT/PAVITRA.webp",
+    "image_src": "/CSPIT_Faculty/IT/PAVITRA.webp",
     "subjects": [
       "Fullstack Development",
       "Web Technology",
@@ -2418,7 +2418,7 @@
     "research_interests": [
       "Engineering Mechanics, Structural Analysis, Advanced structural Analysis"
     ],
-    "image_src": "CSPIT_Faculty/Civil/PINAL.webp",
+    "image_src": "/CSPIT_Faculty/Civil/PINAL.webp",
     "subjects": [
       "Engineering Mechanics , Mechanics of Solids, Structural AnalysisNAI, Structural AnalysisNAII, Structural AnalysisNAIII, Advanced structural Analysis and Building Services ,Elements of Engineering, Infrastructure Management, Water resourses engineering  etc"
     ],
@@ -2444,7 +2444,7 @@
     "research_interests": [
       "Artificial Intelligence, Cryptography, Web Development"
     ],
-    "image_src": "CSPIT_Faculty/CSE/pinal.webp",
+    "image_src": "/CSPIT_Faculty/CSE/pinal.webp",
     "subjects": [
       "C, C++, Machine Learning, Artificial Intelligence, WebTechnology, CRNS, DS&A, Analysis and Design of Algorithm"
     ],
@@ -2468,7 +2468,7 @@
     "research_interests": [
       "Reconfigurable antennas, Wireless Communication"
     ],
-    "image_src": "CSPIT_Faculty/Electronics/POONAM.webp",
+    "image_src": "/CSPIT_Faculty/Electronics/POONAM.webp",
     "subjects": [
       "RF & Microwave Engineering, System Verilog, Electromagnetics and Antenna Technology, VLSI Technology, Analog Circuits & Applications, Control Systems, Network Theory, Digital Electronics, Basics of Electronics Engineering"
     ],
@@ -2492,7 +2492,7 @@
     "research_interests": [
       "Advance Power System Protection, Signal and System, Integration of Renewable Energy, Electrical Vehicle"
     ],
-    "image_src": "CSPIT_Faculty/Electrical/PRATIK.webp",
+    "image_src": "/CSPIT_Faculty/Electrical/PRATIK.webp",
     "subjects": [
       "Electrical Measurement and Measuring Instruments, Transformer and DC Machines, Induction and Synchronous Machines, Electrical Power Systems, Advances In Power Systems, Power System Protections, Network Analysis, Digital Signal Processing, Electrical Power Generations"
     ],
@@ -2516,7 +2516,7 @@
     "research_interests": [
       "local electricity market, renewable energy, optimization"
     ],
-    "image_src": "CSPIT_Faculty/Electrical/pratikmochi.webp",
+    "image_src": "/CSPIT_Faculty/Electrical/pratikmochi.webp",
     "subjects": [
       "Modeling and Control of Renewable Energy Sources, Electrical Machines"
     ],
@@ -2542,7 +2542,7 @@
       "Cyber Security & Digital Forensics,",
       "Cloud Computing"
     ],
-    "image_src": "CSPIT_Faculty/IT/PRITESHKUMAR.webp",
+    "image_src": "/CSPIT_Faculty/IT/PRITESHKUMAR.webp",
     "subjects": [
       "Cyber Security & Law (PG)",
       "Information & Network Security (PG)",
@@ -2601,7 +2601,7 @@
       "Deep Learning",
       "Image and Video Processing and Surveillance"
     ],
-    "image_src": "CSPIT_Faculty/IT/PRIYANKA.webp",
+    "image_src": "/CSPIT_Faculty/IT/PRIYANKA.webp",
     "subjects": [
       "1) Artificial Intelligence",
       "2) Neural Network",
@@ -2660,7 +2660,7 @@
     "research_interests": [
       "Magnerorehological Elastomer, machining of Composite materials"
     ],
-    "image_src": "CSPIT_Faculty/Mechanical/PUNIT.webp",
+    "image_src": "/CSPIT_Faculty/Mechanical/PUNIT.webp",
     "subjects": [
       "Design Concepts and Machine Drawing, Theory of Machines, CAD/CAM, Elements of Engineering, Creativity Problem Solving and Innovation"
     ],
@@ -2684,7 +2684,7 @@
     "research_interests": [
       "Data Structures, Design and Analysis of Algorithms, Language Processor"
     ],
-    "image_src": "CSPIT_Faculty/IT/PURVI.webp",
+    "image_src": "/CSPIT_Faculty/IT/PURVI.webp",
     "subjects": [
       "Data Structures and Algorithms, Design and Analysis of Algorithms, Language Processor, Competitive Programming Essentials"
     ],
@@ -2711,7 +2711,7 @@
     "research_interests": [
       "Cyber Security, Blockchain and Database Management Systems"
     ],
-    "image_src": "CSPIT_Faculty/IT/RAJNIK.webp",
+    "image_src": "/CSPIT_Faculty/IT/RAJNIK.webp",
     "subjects": [
       "Database Management System, Computer Network, Cryptography and Network Security."
     ],
@@ -2742,7 +2742,7 @@
     "research_interests": [
       "Internet Technologies, Cloud Computing"
     ],
-    "image_src": "CSPIT_Faculty/IT/RaviPatel.webp",
+    "image_src": "/CSPIT_Faculty/IT/RaviPatel.webp",
     "subjects": [
       "Web Technologies, Cloud Computing, DevOps"
     ],
@@ -2770,7 +2770,7 @@
     "research_interests": [
       "Image Processing,Operating System,DBMS"
     ],
-    "image_src": "CSPIT_Faculty/CE/RIKITA.webp",
+    "image_src": "/CSPIT_Faculty/CE/RIKITA.webp",
     "subjects": [
       "OS,ADA,C,IMAGE PROCESSING"
     ],
@@ -2794,7 +2794,7 @@
     "research_interests": [
       "Computer Network, Internet of Things, Cloud Computing"
     ],
-    "image_src": "CSPIT_Faculty/CE/RITESH.webp",
+    "image_src": "/CSPIT_Faculty/CE/RITESH.webp",
     "subjects": [
       "Parallel Computing (UG),Data Communication I and II (UG),Advanced Computer Architecture (UG),Computer Architecture and Peripheral (UG),Linux Operating System (UG & PG),Mobile Computing & Wireless Communication (UG and PG),Cloud Computing (UG and PG),Advanced Computer Network (UG and PG),Internet of Things (UG and PG),Intelligent Networks (PG),Research methodology (Ph.D.),Information and Communication Technology (UG),Programming in C & C++ ( UG)"
     ],
@@ -2826,7 +2826,7 @@
     "research_interests": [
       "Machine Learning, Deep Learning, Operating System"
     ],
-    "image_src": "CSPIT_Faculty/CE/RONAKKUMAR.webp",
+    "image_src": "/CSPIT_Faculty/CE/RONAKKUMAR.webp",
     "subjects": [
       "Machine Learning, Operating System, Digital Electronics, Computer Organization"
     ],
@@ -2850,7 +2850,7 @@
     "research_interests": [
       "Deep Learning, Cloud Computing , Spring Boot"
     ],
-    "image_src": "CSPIT_Faculty/CE/RONAKKUMAR_ RAJNIKANT.webp",
+    "image_src": "/CSPIT_Faculty/CE/RONAKKUMAR_ RAJNIKANT.webp",
     "subjects": [
       "Java Programming , Advanced Java Technology , Python , Cloud Computing , DBMS, C++"
     ],
@@ -2876,7 +2876,7 @@
     "research_interests": [
       "Polymeric Composite, Engineering Graphics, Mechanical/Tribological Characterization"
     ],
-    "image_src": "CSPIT_Faculty/Mechanical/SAGAR.webp",
+    "image_src": "/CSPIT_Faculty/Mechanical/SAGAR.webp",
     "subjects": [
       "Engineering Graphics, Engineering Drawing, Engineering Physics, Artificial Intelligence"
     ],
@@ -2907,7 +2907,7 @@
     "research_interests": [
       "Wireless Communication, Analog Electronics"
     ],
-    "image_src": "CSPIT_Faculty/Electronics/SAGARKUMAR.webp",
+    "image_src": "/CSPIT_Faculty/Electronics/SAGARKUMAR.webp",
     "subjects": [
       "Digital Communication, Error Control Coding, Information",
       "Theory, Wireless Communication, Microprocessor, Digital Logic Design, Analog",
@@ -2938,7 +2938,7 @@
     "research_interests": [
       "Computer Vision, Design and analysis of Algorithms, Machine Learning"
     ],
-    "image_src": "CSPIT_Faculty/IT/SANKETKUMAR.webp",
+    "image_src": "/CSPIT_Faculty/IT/SANKETKUMAR.webp",
     "subjects": [
       "Computer Vision",
       "Design and Analysis of Algorithms",
@@ -2972,7 +2972,7 @@
     "research_interests": [
       "Algorithms, Machine Learning"
     ],
-    "image_src": "CSPIT_Faculty/CE/SARITA.webp",
+    "image_src": "/CSPIT_Faculty/CE/SARITA.webp",
     "subjects": [
       "Data Structures and Algorithms, Design and Analysis of Algorithms, Operating System, Machine Learning"
     ],
@@ -2996,7 +2996,7 @@
     "research_interests": [
       "THERMAL ENGINEERING, RENEWABLE ENERGY,"
     ],
-    "image_src": "CSPIT_Faculty/Mechanical/SATAYU.webp",
+    "image_src": "/CSPIT_Faculty/Mechanical/SATAYU.webp",
     "subjects": [
       "Combustion Process, Thermal Engineering, Fluid Machines, Alternate Energy Sources."
     ],
@@ -3020,7 +3020,7 @@
     "research_interests": [
       "Information Security, Software Engineering, Mobile Application Development"
     ],
-    "image_src": "CSPIT_Faculty/CE/SNEHA.webp",
+    "image_src": "/CSPIT_Faculty/CE/SNEHA.webp",
     "subjects": [
       "Software Engineering, Information Security, Software Quality management & Assuarance,Data structure, Mobile Application Development"
     ],
@@ -3046,7 +3046,7 @@
     "research_interests": [
       "Audio processing, Machine learning and Deep learning"
     ],
-    "image_src": "CSPIT_Faculty/AIML/SPOORTHY.webp",
+    "image_src": "/CSPIT_Faculty/AIML/SPOORTHY.webp",
     "subjects": [
       "IRM, CCP"
     ],
@@ -3072,7 +3072,7 @@
     "research_interests": [
       "C/C++, Web development, Python"
     ],
-    "image_src": "CSPIT_Faculty/CSE/SRUSHTI.webp",
+    "image_src": "/CSPIT_Faculty/CSE/SRUSHTI.webp",
     "subjects": [
       "C, c++, full stack development (MERN)"
     ],
@@ -3096,7 +3096,7 @@
     "research_interests": [
       "Control Systems, Fault Diagnosis, System Modeling"
     ],
-    "image_src": "CSPIT_Faculty/Electronics/TIGMANSHU.webp",
+    "image_src": "/CSPIT_Faculty/Electronics/TIGMANSHU.webp",
     "subjects": [
       "Control Systems, Microcontroller, Process Control, Process Instrumentation"
     ],
@@ -3122,7 +3122,7 @@
     "research_interests": [
       "Image Processing, Theory of Computation, Compiler"
     ],
-    "image_src": "CSPIT_Faculty/CE/TRUSHA.webp",
+    "image_src": "/CSPIT_Faculty/CE/TRUSHA.webp",
     "subjects": [
       "TOC, Compiler, Image Processing, Python, Microprocessor, OO with C++, C, OS, DSA, UML"
     ],
@@ -3146,17 +3146,17 @@
     "research_interests": [
       "Antennas, Computer Networks, Microwave Engineering"
     ],
-    "image_src": "CSPIT_Faculty/Electronics/TRUSHIT.webp",
+    "image_src": "/CSPIT_Faculty/Electronics/TRUSHIT.webp",
     "subjects": [
       "Electromagnetic Theory, Computer Networks, Python Programming, Analog Electronics"
     ],
     "research_projects": [],
     "teaching": [
-      "https://www.charusat.ac.in/cspit/trushitupadhyaya#Projects"
+      "https://www.charusat.ac.in/CSPIT/trushitupadhyaya#Projects"
     ],
     "email": "trushitupadhyay.ec@charusat.ac.in",
     "linkedin": "https://www.linkedin.com/in/tkupadhyaya/",
-    "website": "https://www.charusat.ac.in/cspit/trushitupadhyaya",
+    "website": "https://www.charusat.ac.in/CSPIT/trushitupadhyaya",
     "scholar": "https://scholar.google.com/citations?user=GzsxoNAoAAAAJ&hl=en&oi=ao",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/161263",
     "awards": [],
@@ -3174,7 +3174,7 @@
     "research_interests": [
       "Antenna Design, RF and Microwave Engineering"
     ],
-    "image_src": "CSPIT_Faculty/Electronics/UPESH.webp",
+    "image_src": "/CSPIT_Faculty/Electronics/UPESH.webp",
     "subjects": [
       "Digital Electronics, Control Systems, and Digital Signal Processing"
     ],
@@ -3207,7 +3207,7 @@
     "research_interests": [
       "IOT,DBMS,PYTHON"
     ],
-    "image_src": "CSPIT_Faculty/CSE/VAIBHAVI.webp",
+    "image_src": "/CSPIT_Faculty/CSE/VAIBHAVI.webp",
     "subjects": [
       "c,c++,IOT,DBMS,JAVA,PYTHON"
     ],
@@ -3231,7 +3231,7 @@
     "research_interests": [
       "Data Structures and Algorithms, Design and Analysis of Algorithms, Competitive Programming"
     ],
-    "image_src": "CSPIT_Faculty/CE/VAISHALI.webp",
+    "image_src": "/CSPIT_Faculty/CE/VAISHALI.webp",
     "subjects": [
       "Data Structures and Algorithms, Design and Analysis of Algorithms, Competitive Programming"
     ],
@@ -3255,7 +3255,7 @@
     "research_interests": [
       "Power System, Energy management and Audit, Optimization"
     ],
-    "image_src": "CSPIT_Faculty/Electrical/VIBHABEN.webp",
+    "image_src": "/CSPIT_Faculty/Electrical/VIBHABEN.webp",
     "subjects": [
       "EPTD, Energy audit, conservation and management, BEE, Digital Electronics, simulation lab"
     ],
@@ -3281,7 +3281,7 @@
     "research_interests": [
       "Blockchain Technology, Data Structures & Algorithms, Java Programming"
     ],
-    "image_src": "CSPIT_Faculty/CSE/VIDISHA.webp",
+    "image_src": "/CSPIT_Faculty/CSE/VIDISHA.webp",
     "subjects": [
       "Java Programming, Data Structure & Algorithms, Database Management Systems, Design & Analysis of Algorithms, Competitive Programming, Blockchain Technology & Applications"
     ],
@@ -3305,7 +3305,7 @@
     "research_interests": [
       "Machining of Polymer Matrix Composite, Computer Aided Engineering"
     ],
-    "image_src": "CSPIT_Faculty/Mechanical/VIJAYKUMAR.webp",
+    "image_src": "/CSPIT_Faculty/Mechanical/VIJAYKUMAR.webp",
     "subjects": [
       "Computer Aided Engineering, CAD & CAM, Machine Design, Engineering Graphics"
     ],
@@ -3333,7 +3333,7 @@
     "research_interests": [
       "Structural Engineering, Base Isolation"
     ],
-    "image_src": "CSPIT_Faculty/Civil/VIJAYKUMAR.webp",
+    "image_src": "/CSPIT_Faculty/Civil/VIJAYKUMAR.webp",
     "subjects": [
       "CLUE501"
     ],
@@ -3357,7 +3357,7 @@
     "research_interests": [
       "Material characterization, Design of machines, Metallurgy"
     ],
-    "image_src": "CSPIT_Faculty/Mechanical/VIKAS.webp",
+    "image_src": "/CSPIT_Faculty/Mechanical/VIKAS.webp",
     "subjects": [
       "Engineering Graphics",
       "Material Engineering & Metallurgy",
@@ -3392,7 +3392,7 @@
     "research_interests": [
       "Earthquake engineering, Structural Engineering, Concrete Technology"
     ],
-    "image_src": "CSPIT_Faculty/Civil/VIPUL.webp",
+    "image_src": "/CSPIT_Faculty/Civil/VIPUL.webp",
     "subjects": [
       "M.O.S, E.M, C.T, S.D.E.E, B.R.R, S.ANA1,S.ANA2,S.ANA3, Design of Structures, B.C.T, E.S"
     ],
@@ -3418,7 +3418,7 @@
     "research_interests": [
       "Metal Casting, Material Science, Engineering Drawing, Creativity, probelm solving and innovation"
     ],
-    "image_src": "CSPIT_Faculty/Mechanical/VIRAL.webp",
+    "image_src": "/CSPIT_Faculty/Mechanical/VIRAL.webp",
     "subjects": [
       "Metal Casting, Material science, Engineering drawing, creativity, problem solving and innovation. pneumatic and hydraulic systems"
     ],
@@ -3440,7 +3440,7 @@
     "research_interests": [
       "Wireless Communication, Embedded System"
     ],
-    "image_src": "CSPIT_Faculty/Electronics/VISHAL.webp",
+    "image_src": "/CSPIT_Faculty/Electronics/VISHAL.webp",
     "subjects": [
       "Python Programming",
       "Basics of Electronics Engineering",
