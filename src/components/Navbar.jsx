@@ -2,8 +2,8 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
 const topLinks = [
-  { to: "/placement", label: "Placement", external: false },
-  { to: "/gallery", label: "Gallery", external: false },
+  { to: "#placement", label: "Placement", external: false },
+  { to: "#gallery", label: "Gallery", external: false },
   { to: "./news-letter-Dec-Mar-2025", label: "Newsletter", external: true },
   {
     to: "https://www.charusat.ac.in/scholarship",

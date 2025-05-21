@@ -444,7 +444,7 @@ function HonorsMinorAccordion({ data }) {
               font-[Montserrat]
               `}
             style={{
-              fontFamily: "Montserrat,sans-serif",
+              // fontFamily: "Montserrat,sans-serif",
               fontSize: "1.1rem",
             }}
             onClick={() => setOpenIndex(openIndex === idx ? -1 : idx)}
@@ -478,7 +478,7 @@ const HonorsMinorProgramsSection = () => (
       <h3
         className="mb-2 font-bold"
         style={{
-          fontFamily: "Playfair, serif",
+          // fontFamily: "Playfair, serif",
           fontSize: "xx-large",
         }}
       >

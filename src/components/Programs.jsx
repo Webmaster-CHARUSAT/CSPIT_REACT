@@ -115,17 +115,20 @@ const Programs = () => (
   <section
     id="programs"
     className=" pt-6 pb-12"
-    style={{ fontFamily: "Roboto,sans-serif" , background:'#e1e1e1' }}
+    style={{  background:'#e1e1e1' }}
   >
     <div className="max-w-7xl mx-auto px-4">
-      <h2 className="text-center text-2xl sm:text-3xl font-bold mb-4 tracking-wide">
-        PROGRAMS OFFERED
-      </h2>
+      <h2
+  className="text-center mb-4 tracking-wide"
+  style={{ fontSize: "2.5rem", fontWeight: 900 }}
+>
+  PROGRAMS OFFERED
+</h2>
 
       {/* UG Programs */}
       <div id="under-graduate-programs">
         <h3
-          className="mb-2 font-bold"
+          className="mb-2 font-medium"
           style={{
             fontFamily: "Playfair, serif",
             fontSize: "xx-large",
@@ -144,7 +147,7 @@ const Programs = () => (
       {/* PG Programs */}
       <div className="mt-16">
         <h3
-          className="mb-2 font-bold"
+          className="mb-2 font-medium"
           style={{
             fontFamily: "Playfair, serif",
             fontSize: "xx-large",
