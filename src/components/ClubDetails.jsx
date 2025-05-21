@@ -243,7 +243,8 @@ const ClubDetails = () => {
                 </div>
 
                 {/* Event Modal */}
-                <div className="modal fade" id={`eventModal-${index}`} tabIndex="-1" aria-labelledby={`eventModalLabel-${index}`} aria-hidden="true">
+                <div className="modal fade" id={`eventModal-${index}`} tabIndex="-1" aria-labelledby={`eventModalLabel-${index}`} aria-hidden="true"
+                style={{ maxHeight: "100vh", overflowY: "auto" }}>
                   <div className="modal-dialog modal-lg">
                     <div className="modal-content">
                       <div className="modal-header">
