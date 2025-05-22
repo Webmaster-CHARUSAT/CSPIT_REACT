@@ -120,7 +120,9 @@ const Programs = () => (
     <div className="max-w-7xl mx-auto px-4">
       <h2
   className="text-center mb-4 tracking-wide"
-  style={{ fontSize: "2.5rem", fontWeight: 900 }}
+  style={{ fontSize: "2.5rem", fontWeight:"bold",
+    fontFamily:"Roboto, sans-serif",
+   }}
 >
   PROGRAMS OFFERED
 </h2>

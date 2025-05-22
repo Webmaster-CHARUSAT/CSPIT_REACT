@@ -57,12 +57,15 @@ const ResearchThrustAreas = () => {
   return (
     <section id="thrust-areas" className="container mx-auto px-4 py-10"
     style={{ background: 'var(--bg-light' }}>
-      <h2 className="text-center text-3xl font-bold mb-10">
+      <h2 className="text-center text-3xl font-bold mb-10"
+      style={{ fontSize: "2.5rem", fontWeight:"bold",
+    fontFamily:"Roboto, sans-serif",
+   }}>
         RESEARCH THRUST AREAS
       </h2>
 
       {/* First Row: 5 Circles */}
-      <div className="flex flex-wrap justify-center gap-x-4 gap-y-8 mb-8">
+      <div className="flex flex-wrap justify-center gap-x-0 gap-y-8 mb-8">
         {firstRowItems.map((area, index) => (
           <div key={index} className="w-full sm:w-[45%] md:w-[30%] lg:w-[18%] flex flex-col items-center">
             <div className="group relative w-[200px] h-[200px] rounded-full overflow-hidden border-transparent hover:border-[10px] hover:border-[#0056b3] transition-all duration-400">
@@ -83,7 +86,7 @@ const ResearchThrustAreas = () => {
       {/* Second Row: 4 Circles (Centered) */}
       <div className="flex flex-wrap justify-center gap-x-0 gap-y-8">
         {secondRowItems.map((area, index) => (
-          <div key={index} className="w-full sm:w-[45%] md:w-[30%] lg:w-[22%] flex flex-col items-center">
+          <div key={index} className="w-full sm:w-[40%] md:w-[25%] lg:w-[18%] flex flex-col items-center">
             <div className="group relative w-[200px] h-[200px] rounded-full overflow-hidden border-transparent hover:border-[10px] hover:border-[#0056b3] transition-all duration-400">
               <img
                 src={area.image}

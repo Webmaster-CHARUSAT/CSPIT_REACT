@@ -98,7 +98,7 @@ function HomePage() {
       <br/>
       <MessageSection />
       <GallerySection />
-      <CommunitySlider />
+      {/* <CommunitySlider /> */}
       
     </>
   );

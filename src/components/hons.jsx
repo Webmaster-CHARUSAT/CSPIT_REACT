@@ -395,7 +395,7 @@ function AccordionTable({ headers, rows }) {
                   key={j}
                   rowSpan={cell.rowspan}
                   colSpan={cell.colspan}
-                  className="border border-black text-left align-top px-2 py-3 font-normal text-[14px] font-[Montserrat] text-black"
+                  className="border border-black text-left align-top px-2 py-3 font-normal text-[14px] text-black"
                 >
                   {cell.label.split("\n").map((line, idx) => (
                     <span key={idx}>
@@ -414,7 +414,7 @@ function AccordionTable({ headers, rows }) {
               {row.map((cell, j) => (
                 <td
                   key={j}
-                  className="border border-black text-left align-top px-2 py-3 font-[Montserrat] text-[14px] text-black"
+                  className="border border-black text-left align-top px-2 py-3 text-[14px] text-black"
                 >
                   {cell}
                 </td>
@@ -441,7 +441,6 @@ function HonorsMinorAccordion({ data }) {
               bg-gray-100 rounded-t-lg text-lg font-semibold
               transition
               hover:bg-gray-200
-              font-[Montserrat]
               `}
             style={{
               // fontFamily: "Montserrat,sans-serif",
@@ -472,15 +471,15 @@ function HonorsMinorAccordion({ data }) {
 
 // Main Section Component
 const HonorsMinorProgramsSection = () => (
-  <section className="py-8"
+  <section className="py-8 container"
   style={{ background: 'var(--bg-light' }}>
-    <div className="max-w-7xl mx-auto">
+    <div className=" container">
       <h3
-        className="mb-2 font-bold"
+        className="mb-2 font-medium"
         style={{
-          // fontFamily: "Playfair, serif",
-          fontSize: "xx-large",
-        }}
+            fontFamily: "Playfair, serif",
+            fontSize: "xx-large",
+          }}
       >
         B. Tech. with Honors and Minor Degree Programs
       </h3>

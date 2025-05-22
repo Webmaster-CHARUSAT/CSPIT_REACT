@@ -203,7 +203,10 @@ const StudentProjects = () => {
         id="students-work"
       >
         <div className="container">
-          <h2 className="text-white text-center font-bold text-2xl md:text-3xl tracking-tight mb-8">
+          <h2 className="text-white text-center font-bold text-2xl md:text-3xl tracking-tight mb-8"
+          style={{ fontSize: "2.5rem", fontWeight:"bold",
+    fontFamily:"Roboto, sans-serif",
+   }}>
             STUDENTS PROJECTS
           </h2>
           <div

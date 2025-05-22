@@ -157,11 +157,14 @@ const ScalarsSection = () => {
       id="scalars"
     >
       <div className="container">
-        <h2 className="text-white text-center font-bold text-4xl mb-16">
+        <h2 className="text-white text-center font-bold text-4xl mb-16"
+        style={{ fontSize: "2.5rem", fontWeight:"bold",
+    fontFamily:"Roboto, sans-serif",
+   }}>
           SCALARS
         </h2>
         
-        <div className="flex flex-wrap justify-center max-w-6xl mx-auto mb-20">
+        <div className="flex flex-wrap justify-center max-w-7xl mx-auto mb-20">
           {statsData.slice(0, 4).map((stat, index) => (
             <div key={index} className="w-full sm:w-1/2 md:w-1/4 mb-8">
               <StatItem
@@ -175,7 +178,7 @@ const ScalarsSection = () => {
           ))}
         </div>
         
-        <div className="flex flex-wrap justify-center max-w-6xl mx-auto">
+        <div className="flex flex-wrap justify-center max-w-7xl mx-auto">
           {statsData.slice(4).map((stat, index) => (
             <div key={index + 4} className="w-full sm:w-1/2 md:w-1/4 mb-8">
               <StatItem

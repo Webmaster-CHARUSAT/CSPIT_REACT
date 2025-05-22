@@ -79,12 +79,15 @@ const societies = [
   { src: "images/Student_Chapters/acm.webp", alt: "ACM" },
 ];
 
-const CARD_SIZE = "w-[140px] h-[140px] min-w-[120px] max-w-[160px]";
+const CARD_SIZE = "w-[150px] h-[150px] min-w-[120px] max-w-[160px]";
 
 const ProfessionalSocietiesSection = () => (
   <section className="w-full py-8 px-0"
   style={{ background: 'var(--bg-blue' }}>
-    <h2 className="text-white text-center font-bold text-2xl md:text-3xl tracking-tight mb-8">
+    <h2 className="text-white text-center font-bold text-2xl md:text-3xl tracking-tight mb-8"
+    style={{ fontSize: "2.5rem", fontWeight:"bold",
+    fontFamily:"Roboto, sans-serif",
+   }}>
       STUDENT CHAPTERS / BRANCHES
     </h2>
     <div className="max-w-[1280px] mx-auto px-[7%] md:px-[5%]">
@@ -94,23 +97,36 @@ const ProfessionalSocietiesSection = () => (
           "
         style={{
           // limit width so only 5 cards per row on desktop
-          maxWidth: "900px",
+          maxWidth: "1280px",
           marginLeft: "auto",
           marginRight: "auto",
         }}
       >
         {societies.map((item, idx) => (
           <div
-            key={idx}
-            className={`bg-white rounded-xl flex items-center justify-center shadow transition aspect-square ${CARD_SIZE}`}
-          >
-            <img
-              src={item.src}
-              alt={item.alt}
-              loading="lazy"
-              className="max-w-[90%] max-h-[90%] object-contain rounded-lg"
-            />
-          </div>
+              key={idx}
+              className="
+                bg-white
+                rounded-xl
+                flex
+                items-center
+                justify-center
+                shadow
+                transition
+                aspect-square
+                w-[80px] h-[80px]
+                sm:w-[120px] sm:h-[120px]
+                md:w-[140px] md:h-[140px]
+                lg:w-[180px] lg:h-[180px]
+                "
+            >
+              <img
+                src={item.src}
+                alt={item.alt}
+                loading="lazy"
+                className="max-w-[90%] max-h-[90%] object-contain rounded-lg"
+              />
+            </div>
         ))}
       </div>
     </div>

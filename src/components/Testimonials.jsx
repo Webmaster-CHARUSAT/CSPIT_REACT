@@ -174,7 +174,10 @@ const TestimonialsSection = () => {
     <section className="py-12" id="testimonials"
     style={{ background: 'var(--bg-blue' }}>
       <div className="container mx-auto px-4">
-        <h2 className="text-center text-white text-3xl font-bold mb-8">
+        <h2 className="text-center text-white text-2xl font-bold mb-8"
+        style={{ fontSize: "2.5rem", fontWeight:"bold",
+    fontFamily:"Roboto, sans-serif",
+   }}>
           TESTIMONIALS
         </h2>
         

@@ -75,8 +75,11 @@ const RecruitersSection = () => {
     style={{background:'var(--bg-light)'}}>
       <div className="container">
         {/* Section Title */}
-        <h2 className="text-center font-bold text-2xl md:text-3xl lg:text-4xl mb-10 text-gray-800">
-          Prominent Recruiters
+        <h2 className="text-center font-bold text-2xl md:text-3xl lg:text-4xl mb-10 text-gray-800"
+        style={{ fontSize: "2.5rem", fontWeight:"bold",
+    fontFamily:"Roboto, sans-serif",
+   }}>
+          PROMINENT RECRUITERS
         </h2>
         
         {/* Placement Statistics */}
