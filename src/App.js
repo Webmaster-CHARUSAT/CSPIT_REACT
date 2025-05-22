@@ -50,7 +50,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './styles/main.css';
 import ImageSlider from './components/ImageSlider';
 import NavBar from './components/Navbar';
-import AboutUs from './components/AboutUs';
 import Programs from './components/Programs';
 import HonorsMinorProgramsSection from './components/hons';
 import IndustryCoursesSection from './components/IndustryCourses';
@@ -73,13 +72,15 @@ import ResearchFacilities from './components/ResearchFacilities';
 import FacultySection from './components/Faculty';
 import FacultyDetails from './components/FacultyDetail';
 import DriveContentViewer from './components/Drive';
+import AboutSection from './components/Welcome';
+
 function HomePage() {
   return (
     <>
       <div className="pt-10 md:pt-[100px]">
         <ImageSlider />
       </div>
-      <AboutUs />
+      <AboutSection/>
       <Programs />
       <HonorsMinorProgramsSection />
       <IndustryCoursesSection />
