@@ -167,7 +167,8 @@ const StudentProjects = () => {
         prev === 0 ? selectedProject.images.length - 1 : prev - 1
       );
     }
-  };  const ProjectCard = ({ project }) => (
+  };
+  const ProjectCard = ({ project }) => (
     <div
       className="project-item rounded-xl overflow-hidden shadow-md bg-white flex flex-col cursor-pointer border-2 p-1 border-white w-full max-w-[280px]"
       onClick={() => openProjectPopup(project)}
@@ -179,19 +180,19 @@ const StudentProjects = () => {
           className="w-full h-full object-cover"
           loading="lazy"
         />
+      </div>      <div className="p-2 text-center relative z-[5]">
+        <p className="text-gray-800 font-medium project-title">{project.shortTitle}</p>
       </div>
-      <div className="p-2 text-center relative z-[3]">
-        <p className="text-gray-800 font-medium">{project.shortTitle}</p>
-      </div>
-      <div className="hover-text">
-        VIEW MORE
-      </div>
+      <div className="hover-text">VIEW MORE</div>
     </div>
   );
   return (
-    <>      {/* Minimal custom CSS for specific hover effects */}      <style jsx="true">{`
-        .project-item {
-          transition: transform 0.4s ease, border 0.3s ease, box-shadow 0.3s ease;
+    <>
+      {" "}
+      {/* Minimal custom CSS for specific hover effects */}{" "}
+      <style jsx="true">{`        .project-item {
+          transition: transform 0.4s ease, border 0.3s ease,
+            box-shadow 0.3s ease;
           position: relative;
           overflow: hidden;
           height: 380px;
@@ -217,15 +218,17 @@ const StudentProjects = () => {
           pointer-events: none;
         }
 
+        .project-item:hover .project-title {
+          color: black;
+          position: relative;
+          z-index: 0;
+        }
+
         .project-item img {
           transition: transform 0.3s ease;
           width: 100%;
           height: 100%;
           object-fit: cover;
-        }
-
-        .project-item:hover img {
-          transform: scale(1.1);
         }
 
         .hover-text {
@@ -234,8 +237,6 @@ const StudentProjects = () => {
           left: 50%;
           transform: translate(-50%, -50%);
           font-size: 16px;
-          font-family: "Poppins", sans-serif;
-          color: #fff;
           padding: 10px 20px;
           white-space: normal;
           text-align: center;
@@ -256,18 +257,24 @@ const StudentProjects = () => {
           opacity: 1;
           transform: translate(-50%, -50%);
         }
-      `}</style>      <section
+      `}</style>
+      <section
         className="section-container py-12"
-        style={{ background: 'var(--bg-blue' }}
+        style={{ background: "var(--bg-blue" }}
         id="students-work"
       >
         <div className="container mx-auto px-2 max-w-7xl">
-          <h2 className="text-white text-center font-bold text-2xl md:text-3xl tracking-tight mb-12"
-          style={{ fontSize: "2.5rem", fontWeight:"bold",
-    fontFamily:"Roboto, sans-serif",
-   }}>
+          <h2
+            className="text-white text-center font-bold text-2xl md:text-3xl tracking-tight mb-12"
+            style={{
+              fontSize: "2.5rem",
+              fontWeight: "bold",
+              fontFamily: "Roboto, sans-serif",
+            }}
+          >
             STUDENTS PROJECTS
-          </h2><div
+          </h2>
+          <div
             className="
         grid
         grid-cols-1
@@ -285,7 +292,6 @@ const StudentProjects = () => {
           </div>
         </div>
       </section>
-
       {/* Project Popup */}
       {selectedProject && (
         <div className="fixed inset-0 bg-black bg-opacity-80 z-50 flex items-center justify-center p-4 overflow-y-auto">
@@ -307,7 +313,7 @@ const StudentProjects = () => {
                 <div className="lg:w-1/2">
                   <div className="relative bg-gray-100 rounded-lg overflow-hidden h-[400px]">
                     <img
-                    loading="lazy"
+                      loading="lazy"
                       src={selectedProject.images[currentImageIndex]}
                       alt={`${selectedProject.title} image`}
                       className="w-full h-full object-contain"
