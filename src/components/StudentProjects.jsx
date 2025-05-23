@@ -167,56 +167,116 @@ const StudentProjects = () => {
         prev === 0 ? selectedProject.images.length - 1 : prev - 1
       );
     }
-  };
-
-  const ProjectCard = ({ project }) => (
+  };  const ProjectCard = ({ project }) => (
     <div
-      className="group rounded-xl overflow-hidden shadow-md hover:shadow-xl hover:scale-105 transition-all duration-300 bg-white flex flex-col h-full cursor-pointer"
+      className="project-item rounded-xl overflow-hidden shadow-md bg-white flex flex-col cursor-pointer border-2 p-1 border-white w-full max-w-[280px]"
       onClick={() => openProjectPopup(project)}
     >
-      <div className="relative">
+      <div className="relative h-[300px]">
         <img
           src={project.thumbnail}
           alt={project.shortTitle}
-          className="w-full h-[300px] object-cover p-2 rounded-xl"
+          className="w-full h-full object-cover"
           loading="lazy"
         />
-        <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 flex items-center justify-center transition-all duration-300 rounded-xl m-2">
-          <p className="text-white text-lg font-bold uppercase opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-            <span className="border-2 border-yellow-500 rounded px-4 py-2 hover:bg-yellow-500 hover:text-gray-900">
-              Know More
-            </span>
-          </p>
-        </div>
       </div>
-      <div className="p-2 text-center flex-grow flex items-end justify-center">
+      <div className="p-2 text-center relative z-[3]">
         <p className="text-gray-800 font-medium">{project.shortTitle}</p>
+      </div>
+      <div className="hover-text">
+        VIEW MORE
       </div>
     </div>
   );
-
   return (
-    <>
-      <section
-        className="section-container"
+    <>      {/* Minimal custom CSS for specific hover effects */}      <style jsx="true">{`
+        .project-item {
+          transition: transform 0.4s ease, border 0.3s ease, box-shadow 0.3s ease;
+          position: relative;
+          overflow: hidden;
+          height: 380px;
+          width: 100%;
+        }
+
+        .project-item:hover {
+          transform: scale(1.05);
+          border: #e4ba14 7px solid !important;
+          z-index: 10;
+          box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+        }
+
+        .project-item:hover::after {
+          content: "";
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          background: rgba(0, 0, 0, 0.85);
+          z-index: 1;
+          pointer-events: none;
+        }
+
+        .project-item img {
+          transition: transform 0.3s ease;
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+        }
+
+        .project-item:hover img {
+          transform: scale(1.1);
+        }
+
+        .hover-text {
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          font-size: 16px;
+          font-family: "Poppins", sans-serif;
+          color: #fff;
+          padding: 10px 20px;
+          white-space: normal;
+          text-align: center;
+          max-width: 90%;
+          opacity: 0;
+          transition: opacity 0.3s ease, transform 0.3s ease;
+          z-index: 2;
+          text-transform: uppercase;
+          font-weight: bold;
+          pointer-events: none;
+          border: 2px solid #e4ba14;
+          border-radius: 4px;
+          background-color: rgba(228, 186, 20, 0.2);
+          letter-spacing: 1px;
+        }
+
+        .project-item:hover .hover-text {
+          opacity: 1;
+          transform: translate(-50%, -50%);
+        }
+      `}</style>      <section
+        className="section-container py-12"
         style={{ background: 'var(--bg-blue' }}
         id="students-work"
       >
-        <div className="container">
-          <h2 className="text-white text-center font-bold text-2xl md:text-3xl tracking-tight mb-8"
+        <div className="container mx-auto px-2 max-w-7xl">
+          <h2 className="text-white text-center font-bold text-2xl md:text-3xl tracking-tight mb-12"
           style={{ fontSize: "2.5rem", fontWeight:"bold",
     fontFamily:"Roboto, sans-serif",
    }}>
             STUDENTS PROJECTS
-          </h2>
-          <div
+          </h2><div
             className="
         grid
         grid-cols-1
         md:grid-cols-2
         lg:grid-cols-4
-        gap-6
+        gap-8
         content-container-wide
+        px-4
+        justify-items-center
       "
           >
             {projectsData.map((project, idx) => (
