@@ -73,6 +73,7 @@ import FacultySection from './components/Faculty';
 import FacultyDetails from './components/FacultyDetail';
 import DriveContentViewer from './components/Drive';
 import AboutSection from './components/Welcome';
+import ECC from './components/ECC';
 
 function HomePage() {
   return (
@@ -127,6 +128,11 @@ function App() {
           <Route path='/faculty' element={<FacultySection />} />
           <Route path="/faculty/:name" element={<FacultyDetails />} />
           <Route path='/drive' element={<DriveContentViewer />} />
+          <Route path="/ECC" element={
+            <div className='pt-10 md:pt-[100px]'>
+              <ECC />
+            </div>
+          } />
         </Routes>
         <Footer />
       </div>

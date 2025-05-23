@@ -64,7 +64,7 @@ const submenuMap = {
       to: "https://isc.charusat.ac.in/",
       external: true,
     },
-    { label: "Energy Conservation Cell", to: "./ecc.html", external: true },
+    { label: "Energy Conservation Cell", to: "/ECC", external: true },
   ],
   COMMITTEES: [
     {
