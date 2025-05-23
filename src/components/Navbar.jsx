@@ -9,8 +9,7 @@ const topLinks = [
     to: "https://www.charusat.ac.in/scholarship",
     label: "Scholarships",
     external: true,
-  },
-  { to: "/faculty", label: "Faculty & Staff", external: true },
+  },  { to: "/faculty", label: "Faculty & Staff", external: true },
   { to: "https://alumni.charusat.ac.in/", label: "Alumni", external: true },
   { to: "#contact-us", label: "Contact Us", external: false },
 ];
@@ -160,6 +159,8 @@ const mainNav = [
 ];
 
 function NavLink({ to, label, external, ...props }) {
+  const isHome = window.location.pathname === '/';
+
   if (external) {
     return (
       <a href={to} target="_blank" rel="noopener noreferrer" {...props}>
@@ -167,13 +168,36 @@ function NavLink({ to, label, external, ...props }) {
       </a>
     );
   }
-  if ((to || "").startsWith("#")) {
+    // Special case for Contact Us - should scroll to footer on any page
+  if (to === "#contact-us") {
     return (
       <a href={to} {...props}>
         {label}
       </a>
     );
   }
+  
+  if ((to || "").startsWith("#") || (to || "").includes("/#")) {
+    // Remove any leading slash before the hash if present
+    const cleanTo = to.replace(/^\/?(.*)$/, "$1");
+    
+    if (isHome) {
+      // If we're already on the home page, use normal hash navigation
+      return (
+        <a href={`#${cleanTo.split("#")[1]}`} {...props}>
+          {label}
+        </a>
+      );
+    } else {
+      // If we're on another page, go to home page with hash
+      return (
+        <a href={`/#${cleanTo.split("#")[1]}`} {...props}>
+          {label}
+        </a>
+      );
+    }
+  }
+  
   return (
     <Link to={to} {...props}>
       {label}
