@@ -83,7 +83,7 @@ const RecruitersSection = () => {
         </h2>
         
         {/* Placement Statistics */}
-        <div className="grid grid-cols-1 md:grid-cols-6 gap-6 mb-16">
+        <div className="container grid grid-cols-1 md:grid-cols-3 gap-10 mb-16 max-w-6xl">
           {stats.map((stat, index) => (
             <div key={index} className="transform transition hover:-translate-y-2 hover:shadow-xl">
               <div className="bg-gradient-to-br from-white to-gray-100 rounded-xl shadow-md p-6 text-center relative overflow-hidden">
