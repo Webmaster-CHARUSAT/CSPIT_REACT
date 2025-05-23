@@ -95,7 +95,7 @@ const FacultyDetails = () => {
                   src={faculty.image_src.replace(/\\/g, "/")}
                   alt={faculty.name}
                   style={{ backgroundColor: "#a9a9a9" }}
-                  className="w-full h-[300px] object-cover rounded-lg border-[3px] border-[#0066b3] shadow-[10px_10px_20px_rgba(0,0,0,0.5)] mx-auto transition-transform duration-300 hover:scale-105"
+                  className="w-full h-[350px] object-cover rounded-lg border-[3px] border-[#0066b3] shadow-[10px_10px_20px_rgba(0,0,0,0.5)] mx-auto transition-transform duration-300 hover:scale-105"
                 />
               )}
             </div>
