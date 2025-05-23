@@ -194,7 +194,7 @@ const Tempnav = () => {
       {/* Top bar */}
       <div className="relative hidden lg:block">
         <div className="hidden lg:flex relative">
-          <div className="bg-[#0056b3] text-white flex justify-end text-sm pl-[170px] w-full">
+          <div className="bg-[#0056b3] text-white flex justify-end text-bold font-bold pl-[170px] w-full">
             {topLinks.map(({ to, label, external }) => (
               <NavLink
                 key={label}
