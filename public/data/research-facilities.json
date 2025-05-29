@@ -850,24 +850,6 @@
         "img": "images/facilities/IT/IT_4.webp"
     },
     {
-        "department": "IT",
-        "name": "View Sonic Digital Board",
-        "spec": [
-            "OPS PC-15000",
-            "Processor = intel i5-10210U",
-            "RAM = 8GB DDR4",
-            "HDD = 256 GB SSD"
-        ],
-        "use_cases": [
-            "Software group project presentation",
-            "expert lecture and online meetings",
-            "AWS academy hands-on lab",
-            "Whiteboard usage for subject lab",
-            "Lecture notes generate and saved"
-        ],
-        "img": "images/facilities/IT/IT_5.webp"
-    },
-    {
         "department": "AIML",
         "name": "Motorola Solutions Research and Innovation Center (Computer Lab)",
         "spec": [
