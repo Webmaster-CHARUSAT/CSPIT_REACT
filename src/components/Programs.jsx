@@ -78,7 +78,7 @@ const ProgramCard = ({ title, img, link }) => (
     href={link}
     target="_blank"
     rel="noopener noreferrer"
-    className="card-link block group transition"
+    className="block group transition-all duration-300 ease-in-out hover:-translate-y-2 hover:shadow-xl"
   >
     <div className="bg-white rounded-[15px] shadow hover:shadow-lg transition h-full flex flex-col overflow-hidden">
       <img
@@ -88,11 +88,11 @@ const ProgramCard = ({ title, img, link }) => (
         className="w-full h-[170px] object-cover rounded-t-[15px] card-img-top"
       />
       <div className="flex-1 flex items-center justify-center px-2 py-3">
-        <h5
+        <h4
           className="
             card-title 
             text-center 
-            font-medium 
+            font-bold 
             text-base 
             sm:text-lg 
             transition-colors 
@@ -105,7 +105,7 @@ const ProgramCard = ({ title, img, link }) => (
           }}
         >
           {title}
-        </h5>
+        </h4>
       </div>
     </div>
   </a>
@@ -147,7 +147,7 @@ const Programs = () => (
       </div>
 
       {/* PG Programs */}
-      <div className="mt-16">
+      <div className="mt-16" id="post-graduate-programs">
         <h3
           className="mb-2 font-medium"
           style={{
