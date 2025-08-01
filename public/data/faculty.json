@@ -1427,30 +1427,6 @@
     ]
   },
   {
-    "name": "Mr. Jivanadhar Joshi",
-    "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech.",
-    "research_interests": [
-      "Embedded system and Micro controller programming, Power Electronics, Signal Processing, Numerical relaying, Microgrid converter control, Dspace real time simulator, Matlab Modelling"
-    ],
-    "image_src": "/CSPIT_Faculty/Electrical/JIVANADHAR.webp",
-    "subjects": [
-      "Power Electronics, Microcontroller applications, advanced microcontrollers, Electrical vehicle and renewable, Digital Signal Processing, Digital Electronics, Embedded system, Power system Protection"
-    ],
-    "research_projects": [],
-    "teaching": [
-      "STATCOM/ 'Voltage control in Electrical Power Grid/ GUJCOST"
-    ],
-    "email": "jivanadharjoshi.ee@charusat.ac.in",
-    "linkedin": "https://www.linkedin.com/in/jiva-dhar-joshi-a76a12ab/",
-    "website": "",
-    "scholar": "https://scholar.google.com/citations?user=CgbzrYMAAAAJ&hl=en",
-    "vidwan": "",
-    "awards": [],
-    "memberships": [],
-    "certifications": []
-  },
-  {
     "name": "Dr. Kamlesh Chauhan",
     "title": "ASSOCIATE PROFESSOR",
     "degree": "Ph. D.",
@@ -2342,47 +2318,7 @@
     "memberships": [],
     "certifications": []
   },
-  {
-    "name": "Dr. Parth Shah",
-    "title": "PROFESSOR, HEAD (IT)",
-    "degree": "Ph. D.",
-    "research_interests": [
-      "Cyber Forensic, Cloud Computing"
-    ],
-    "image_src": "/CSPIT_Faculty/IT/PARTH.webp",
-    "subjects": [
-      "Computer Architecture and Organization, Operating Systems, Data Structure and Algorithms, Java Programming, Full Stack Application Development, Cryptography and Network Security, Cloud Computing, Computer Networking"
-    ],
-    "research_projects": [],
-    "teaching": [
-      "Received a grant of INR 50,000 from GUJCOST to arrange the workshop on ”AWS Machine Learning” 2022-23",
-      "Received a grant of INR 40,000 from GUJCOST to arrange the workshop on ”Cyber security and Digital forensics” 2022-23",
-      "Received a grant of INR 25,000 from GUJCOST to arrange the workshop on ”Recent Trends in Front end Web Technologies: REACTJS” 2021-22",
-      "Received a grant of INR 3,52,333 from AICTE to arrange STTP under AQIS on ”AWS Alexa Skill Development” 2019-20",
-      "Received a grant of INR 40,000 from GUJCOST to arrange the workshop on ”Developing Block Chain Technologies application using Ethereum” 2019-20",
-      "Received a grant of INR 50,000 from GUJCOST to arrange the conference on ”International Conference on Emerging Trends in Engineering, Science, and Technology” 2018-19",
-      "Received a grant of INR 15,900 from GUJCOST to develop a prototype on ”Book location Grabber using RFID” 2015-16",
-      "Received a grant of INR 30,000 from GUJCOST to arrange the workshop on ”Security issues in the Internet of Things (IOTs) software perspective” 2015-16",
-      "Received a grant of INR 24,000 from CSI to arrange the ”ESM Workshop” 2014-15",
-      "Received a grant of INR 40,000 from MHRD to arrange the two-week workshop on ”Computer Programming” 2014-15",
-      "Received a grant of INR 30,000 from GUJCOST to arrange the workshop on ”Simulation of Wired and Wireless Computer Network ” 2014-15",
-      "Received a grant of INR 35,000 from GUJCOST to arrange the workshop on ”Advanced Computing and Big Data” 2013-14"
-    ],
-    "email": "parthshah.ce@charusat.ac.in",
-    "linkedin": "https://www.linkedin.com/in/shah-parth-d/",
-    "website": "https://learnwithparth.in/",
-    "scholar": "https://scholar.google.co.in/citations?user=Z32oT0oAAAAJ&hl=en",
-    "vidwan": "https://vidwan.inflibnet.ac.in/profile/124948",
-    "awards": [],
-    "memberships": [
-      "1 Association for Computing Machinery (Senior Member)",
-      "2 Computer Society of India (Life Member)"
-    ],
-    "certifications": [
-      "AWS Solution Architect Associate",
-      "EC Council  Certified Ethical Hacking"
-    ]
-  },
+  
   {
     "name": "Mr. Pavitra Modi",
     "title": "ASSISTANT PROFESSOR",
@@ -2679,7 +2615,7 @@
   },
   {
     "name": "Dr. Purvi Prajapati",
-    "title": "ASSISTANT PROFESSOR",
+    "title": "ASSISTANT PROFESSOR, HEAD (IT)",
     "degree": "Ph. D.",
     "research_interests": [
       "Data Structures, Design and Analysis of Algorithms, Language Processor"
@@ -3013,32 +2949,7 @@
       "Google Advanced Data Analytics"
     ]
   },
-  {
-    "name": "Dr. Sneha Padhiar",
-    "title": "ASSISTANT PROFESSOR",
-    "degree": "Ph. D.",
-    "research_interests": [
-      "Information Security, Software Engineering, Mobile Application Development"
-    ],
-    "image_src": "/CSPIT_Faculty/CE/SNEHA.webp",
-    "subjects": [
-      "Software Engineering, Information Security, Software Quality management & Assuarance,Data structure, Mobile Application Development"
-    ],
-    "research_projects": [],
-    "teaching": [],
-    "email": "snehapadhiar.ce@charusat.ac.in",
-    "linkedin": "https://www.linkedin.com/in/sneha-padhiar-4aaa17146/",
-    "website": "",
-    "scholar": "https://scholar.google.co.in/citations?user=czHooD4AAAAJ&hl=en",
-    "vidwan": "",
-    "awards": [],
-    "memberships": [
-      "SCRS"
-    ],
-    "certifications": [
-      "-"
-    ]
-  },
+  
   {
     "name": "Dr. Spoorthy V",
     "title": "ASSISTANT PROFESSOR",
@@ -3152,11 +3063,11 @@
     ],
     "research_projects": [],
     "teaching": [
-      "https://www.charusat.ac.in/CSPIT/trushitupadhyaya#Projects"
+      "https://www.charusat.ac.in/cspit/trushitupadhyaya#Projects"
     ],
     "email": "trushitupadhyay.ec@charusat.ac.in",
     "linkedin": "https://www.linkedin.com/in/tkupadhyaya/",
-    "website": "https://www.charusat.ac.in/CSPIT/trushitupadhyaya",
+    "website": "https://www.charusat.ac.in/cspit/trushitupadhyaya",
     "scholar": "https://scholar.google.com/citations?user=GzsxoNAoAAAAJ&hl=en&oi=ao",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/161263",
     "awards": [],
