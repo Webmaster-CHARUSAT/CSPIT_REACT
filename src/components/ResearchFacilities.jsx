@@ -88,7 +88,7 @@ const ResearchFacilities = () => {
                 <div key={index} className="h-full">
                   <div 
                     className="h-full rounded-xl overflow-hidden border-none bg-white/90 shadow-lg transition-all duration-300 hover:-translate-y-2.5 hover:shadow-xl hover:shadow-blue-200 cursor-pointer"
-                    onClick={() => openInstrumentModal(instrument)}
+                    // onClick={() => openInstrumentModal(instrument)}
                   >
                     <img 
                       src={instrument.image} 
