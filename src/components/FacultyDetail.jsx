@@ -70,7 +70,7 @@ const FacultyDetails = () => {
 
      /*  <ul className="list-decimal pl-5 space-y-1"> */
     return (
-      <ul className=" pl-5 space-y-1">
+      <ul className=" pl-5 space-y-1 " style={{ listStyleType: 'disc' }} >
         {items.map((item, index) => {
           const text =
             propName && typeof item === "object" ? item[propName] : item;
