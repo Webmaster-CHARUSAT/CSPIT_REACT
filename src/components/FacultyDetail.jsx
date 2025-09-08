@@ -69,7 +69,7 @@ const FacultyDetails = () => {
     const urlRegex = /(https?:\/\/[^\s]+)/g;
 
     return (
-      <ol className="list-decimal pl-5 space-y-1">
+      <ul className="list-decimal pl-5 space-y-1">
         {items.map((item, index) => {
           const text =
             propName && typeof item === "object" ? item[propName] : item;
@@ -107,7 +107,7 @@ const FacultyDetails = () => {
             </li>
           );
         })}
-      </ol>
+      </ul>
     );
   };
 
