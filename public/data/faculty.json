@@ -3028,11 +3028,16 @@
     "title": "PROFESSOR, PRINCIPAL",
     "degree": "Ph. D.",
     "research_interests": [
-      "Antennas, Computer Networks, Microwave Engineering"
+      "Antennas",
+      "Computer Networks", 
+      "Microwave Engineering"
     ],
     "image_src": "/CSPIT_Faculty/Electronics/TRUSHIT.webp",
     "subjects": [
-      "Electromagnetic Theory, Computer Networks, Python Programming, Analog Electronics"
+      "Electromagnetic Theory", 
+      "Computer Networks", 
+      "Python Programming", 
+      "Analog Electronics"
     ],
     "research_projects": [],
     "teaching": [
@@ -3045,10 +3050,12 @@
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/161263",
     "awards": [],
     "memberships": [
-      "IEEE, ISTE"
+      "IEEE",
+      "ISTE"
     ],
     "certifications": [
-      "CISCO CERTIFIED NETWORK ASSOCIATE, CISCO CERTIFIED ACADEMY INSTRUCTOR"
+      "CISCO CERTIFIED NETWORK ASSOCIATE", 
+      "CISCO CERTIFIED ACADEMY INSTRUCTOR"
     ]
   },
   {
@@ -3056,7 +3063,8 @@
     "title": "ASSOCIATE PROFESSOR, HEAD (EC)",
     "degree": "Ph. D.",
     "research_interests": [
-      "Antenna Design, RF and Microwave Engineering"
+      "Antenna Design", 
+      "RF and Microwave Engineering"
     ],
     "image_src": "/CSPIT_Faculty/Electronics/UPESH.webp",
     "subjects": [
