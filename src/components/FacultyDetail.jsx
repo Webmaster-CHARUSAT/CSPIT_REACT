@@ -68,8 +68,9 @@ const FacultyDetails = () => {
     // URL detection regex
     const urlRegex = /(https?:\/\/[^\s]+)/g;
 
+     /*  <ul className="list-decimal pl-5 space-y-1"> */
     return (
-      <ul className="list-decimal pl-5 space-y-1">
+      <ul className=" pl-5 space-y-1">
         {items.map((item, index) => {
           const text =
             propName && typeof item === "object" ? item[propName] : item;
