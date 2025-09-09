@@ -32,9 +32,7 @@
       "Research Paper Award for the paper entitled \"Facial emotion recognition with inter-modality-attention-transformer-based self-supervised learning\" at CHARUSAT on 28th January, 2025 for publication in Electronics Journal",
       "Research Achievement Award for the paper entitled \"Comprehensive Analysis on Sentiment Analysis using Bidirectional Sequential Models\" at CHARUSAT on Annual Felicitation Day of CSPIT (7th March, 2025) for achieving the best paper award."
     ],
-    "memberships": [
-      "Soft Computing Research Society (SCRS)"
-    ],
+    "memberships": ["Soft Computing Research Society (SCRS)"],
     "certifications": []
   },
   {
@@ -75,10 +73,7 @@
     "name": "Mr. Abhishek Patel",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech., Ph. D. (Pursuing)",
-    "research_interests": [
-      "Machine Learning",
-      "Deep Learning"
-    ],
+    "research_interests": ["Machine Learning", "Deep Learning"],
     "image_src": "/CSPIT_Faculty/CSE/ABHISHEK.webp",
     "subjects": [
       "Operating System",
@@ -140,10 +135,7 @@
     "name": "Ms. Akshita Kadam",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
-    "research_interests": [
-      "Cybersecurity",
-      "Information Security"
-    ],
+    "research_interests": ["Cybersecurity", "Information Security"],
     "image_src": "/CSPIT_Faculty/CSE/AKSHITA.webp",
     "subjects": [
       "Cyber Security & Cyber Law",
@@ -161,19 +153,13 @@
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/577297",
     "awards": [],
     "memberships": [],
-    "certifications": [
-      "Certified Information Security Manager® (CISM®)"
-    ]
+    "certifications": ["Certified Information Security Manager® (CISM®)"]
   },
   {
     "name": "Dr. Amit Thakkar",
     "title": "PROFESSOR, HEAD (CSE)",
     "degree": "Ph. D.",
-    "research_interests": [
-      "Machine Learning",
-      "Data Sciecne",
-      "Deep Learning"
-    ],
+    "research_interests": ["Machine Learning", "Data Sciecne", "Deep Learning"],
     "image_src": "/CSPIT_Faculty/CSE/AMIT.webp",
     "subjects": [
       "Data Structure & Algorithms",
@@ -198,15 +184,9 @@
     "website": "",
     "scholar": "https://scholar.google.com/citations?user=pcd7FfgAAAAJ&hl=en",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/157508",
-    "awards": [
-      "Best Research Paper Award"
-    ],
-    "memberships": [
-      "Computer Society of India (CSI)"
-    ],
-    "certifications": [
-      "Microsoft Certified: Azure AI Fundamentals"
-    ]
+    "awards": ["Best Research Paper Award"],
+    "memberships": ["Computer Society of India (CSI)"],
+    "certifications": ["Microsoft Certified: Azure AI Fundamentals"]
   },
   {
     "name": "Dr. Amit Kumar",
@@ -233,19 +213,13 @@
     "vidwan": "",
     "awards": [],
     "memberships": [],
-    "certifications": [
-      "Internal Auditor ISO/IEC 17025-2017"
-    ]
+    "certifications": ["Internal Auditor ISO/IEC 17025-2017"]
   },
   {
     "name": "Mr. Anand Patel",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech. CAD/CAM",
-    "research_interests": [
-      "Design",
-      "Automobile",
-      "Engine and Emissions"
-    ],
+    "research_interests": ["Design", "Automobile", "Engine and Emissions"],
     "image_src": "/CSPIT_Faculty/Mechanical/ANAND.webp",
     "subjects": [
       "Basics of Mechanical Engineering",
@@ -336,11 +310,7 @@
     "name": "Dr. Arpita Shah",
     "title": "ASSISTANT PROFESSOR",
     "degree": "Ph. D.",
-    "research_interests": [
-      "Cloud Computing",
-      "DBMS",
-      "Operating Systems"
-    ],
+    "research_interests": ["Cloud Computing", "DBMS", "Operating Systems"],
     "image_src": "/CSPIT_Faculty/CE/ARPITA.webp",
     "subjects": [
       "Cloud Computing",
@@ -358,23 +328,15 @@
       "Digital Electronics"
     ],
     "research_projects": [],
-    "teaching": [
-      "iDoc, iLearn NA CELTIC System Pvt. Ltd."
-    ],
+    "teaching": ["iDoc, iLearn NA CELTIC System Pvt. Ltd."],
     "email": "arpitapatel.ce@charusat.ac.in",
     "linkedin": "https://www.linkedin.com/in/arpitajshah/",
     "website": "",
     "scholar": "https://scholar.google.co.in/citations?user=EPi3DjcAAAAJ",
     "vidwan": "",
-    "awards": [
-      "Enduring commitment award - CHARUSAT"
-    ],
-    "memberships": [
-      "Soft Computing Research Society (SCRS)"
-    ],
-    "certifications": [
-      "Oracle Certified Associate"
-    ]
+    "awards": ["Enduring commitment award - CHARUSAT"],
+    "memberships": ["Soft Computing Research Society (SCRS)"],
+    "certifications": ["Oracle Certified Associate"]
   },
   {
     "name": "Dr. Arpita Patel",
@@ -454,10 +416,10 @@
     "scholar": "",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/162639",
     "awards": [
-      "•Won best innovative idea presentation for “Creating Favorable Environment for Innovation and Entrepreneurship on Campuses” at GMDC, Ahmeabad organized by iCreate (International Center for entrepreneurship and technology) among 75 participants from various engineering colleges of Gujarat.",
-      "•Won best Research Paper Award in ISCENA2021 International Conference, Delhi",
-      "•Won 3 times Research Paper Appreciation Award in 2019, 2020, and",
-      "•Won Best Pedagogy Practice Award by IQAC, CHARUSAT in"
+      "Won best innovative idea presentation for “Creating Favorable Environment for Innovation and Entrepreneurship on Campuses” at GMDC, Ahmeabad organized by iCreate (International Center for entrepreneurship and technology) among 75 participants from various engineering colleges of Gujarat.",
+      "Won best Research Paper Award in ISCENA2021 International Conference, Delhi",
+      "Won 3 times Research Paper Appreciation Award in 2019, 2020, and",
+      "Won Best Pedagogy Practice Award by IQAC, CHARUSAT in"
     ],
     "memberships": [
       "CSI Associate Life Member",
@@ -465,9 +427,7 @@
       "CII-HR Panel member",
       "CII-Industry Academia Panel member"
     ],
-    "certifications": [
-      "Microsoft Certifed Professional (MCP)"
-    ]
+    "certifications": ["Microsoft Certifed Professional (MCP)"]
   },
   {
     "name": "Mr. Asifiqbal Thakor",
@@ -504,17 +464,9 @@
     "name": "Ms. Avani Khokhariya",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
-    "research_interests": [
-      "Machine Learning",
-      "DSA and DAA"
-    ],
+    "research_interests": ["Machine Learning", "DSA and DAA"],
     "image_src": "/CSPIT_Faculty/CSE/AVANI.webp",
-    "subjects": [
-      "DAA",
-      "DBMS",
-      "DSA",
-      "C programming"
-    ],
+    "subjects": ["DAA", "DBMS", "DSA", "C programming"],
     "research_projects": [],
     "teaching": [],
     "email": "avanikhokhariya.cse@charusat.ac.in",
@@ -530,10 +482,7 @@
     "name": "Mr. Bhargav Shobhana",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. E.",
-    "research_interests": [
-      "Structural engineering",
-      "Earthquake Engineering"
-    ],
+    "research_interests": ["Structural engineering", "Earthquake Engineering"],
     "image_src": "/CSPIT_Faculty/AIML/BHARGAV.webp",
     "subjects": [
       "Structural Dynamics and Earthquake Engineering",
@@ -563,9 +512,7 @@
       "Teacher's Associateship for Research Excellence (TARE, SERB-DST) fellow, 15/12/2020",
       "CHARUSAT Research Award, CHARUSAT, 28/01/2025)"
     ],
-    "memberships": [
-      "The Institution of Engineers (India)"
-    ],
+    "memberships": ["The Institution of Engineers (India)"],
     "certifications": [
       "The fundamentals of digital marketing by Google",
       "Foundations: Data, Data, Everywhere by Google",
@@ -576,11 +523,7 @@
     "name": "Dr. Bhavin Mehta",
     "title": "ASSISTANT PROFESSOR",
     "degree": "Ph. D.",
-    "research_interests": [
-      "Solar Collectors",
-      "Nanofluid",
-      "Heat Transfer"
-    ],
+    "research_interests": ["Solar Collectors", "Nanofluid", "Heat Transfer"],
     "image_src": "/CSPIT_Faculty/Mechanical/BHAVIN.webp",
     "subjects": [
       "Engineering Thermodynamics",
@@ -599,9 +542,7 @@
     "website": "",
     "scholar": "https://scholar.google.co.in/citations?user=yKAH5YMAAAAJ",
     "vidwan": "",
-    "awards": [
-      "Best presentation award in 2023,24"
-    ],
+    "awards": ["Best presentation award in 2023,24"],
     "memberships": [],
     "certifications": []
   },
@@ -622,9 +563,7 @@
       "Wireless Sensor Networks"
     ],
     "research_projects": [],
-    "teaching": [
-      "ATAL Grant(1,11,133),GUJCOST(30000)"
-    ],
+    "teaching": ["ATAL Grant(1,11,133),GUJCOST(30000)"],
     "email": "bimalpatel.it@charusat.ac.in",
     "linkedin": "https://www.linkedin.com/in/bimal-patel-b7504849/",
     "website": "",
@@ -635,12 +574,8 @@
       "Best Practice Award on Teaching and Learning at A Symposium on Pedagogical Practices: A key to Outcome Based Education.",
       "Best Research Paper Award in Conference RAME"
     ],
-    "memberships": [
-      "Soft Computing Research Society(SCRS)"
-    ],
-    "certifications": [
-      "NPTEL Introduction to Internet of Things"
-    ]
+    "memberships": ["Soft Computing Research Society(SCRS)"],
+    "certifications": ["NPTEL Introduction to Internet of Things"]
   },
   {
     "name": "Dr. Brijesh Kundaliya",
@@ -653,12 +588,12 @@
     ],
     "image_src": "/CSPIT_Faculty/Electronics/BRIJESH LAXMANBHAI KUNDALIYA.webp",
     "subjects": [
-      "1) Digital Electronics",
-      "2) Basic of Electronics",
-      "3) Embedded Systems",
-      "4) Embedded Linux",
-      "5) Data Communication & Networking",
-      "6) Optical Communication"
+      "Digital Electronics",
+      "Basic of Electronics",
+      "Embedded Systems",
+      "Embedded Linux",
+      "Data Communication & Networking",
+      "Optical Communication"
     ],
     "research_projects": [],
     "teaching": [],
@@ -667,26 +602,18 @@
     "website": "",
     "scholar": "https://scholar.google.com/citations?user=dHkQ5D4AAAAJ&hl=en",
     "vidwan": "",
-    "awards": [
-      "Top 1% in Digital Electronics course by NPTEL on October 2024"
-    ],
+    "awards": ["Top 1% in Digital Electronics course by NPTEL on October 2024"],
     "memberships": [
       "Institution of Electronics and Telecommunication Engineers",
       "Soft Computing Research Society"
     ],
-    "certifications": [
-      "Networking Fundamental By Microsoft Technology"
-    ]
+    "certifications": ["Networking Fundamental By Microsoft Technology"]
   },
   {
     "name": "Ms. Brinda Patel",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
-    "research_interests": [
-      "Cloud Computing",
-      "Computer Networks",
-      "Python"
-    ],
+    "research_interests": ["Cloud Computing", "Computer Networks", "Python"],
     "image_src": "/CSPIT_Faculty/CSE/BRINDA.webp",
     "subjects": [
       "Java",
@@ -732,9 +659,7 @@
     "scholar": "https://scholar.google.com/citations?hl=en&user=WHEk0F0AAAAJ",
     "vidwan": "",
     "awards": [],
-    "memberships": [
-      "ISTE"
-    ],
+    "memberships": ["ISTE"],
     "certifications": []
   },
   {
@@ -768,21 +693,14 @@
       "Best Research Paper  Award at MA-NIT Bhopal (9/11/2024)",
       "Best Research Paper  Award at NIT Agartala(24/11/2024)"
     ],
-    "memberships": [
-      "SCRS"
-    ],
-    "certifications": [
-      "AWS Cloud Practitioner"
-    ]
+    "memberships": ["SCRS"],
+    "certifications": ["AWS Cloud Practitioner"]
   },
   {
     "name": "Ms. Dhara Patel",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. E.",
-    "research_interests": [
-      "Antenna & RF microwave",
-      "Signal Processing"
-    ],
+    "research_interests": ["Antenna & RF microwave", "Signal Processing"],
     "image_src": "/CSPIT_Faculty/Electronics/DHARA.webp",
     "subjects": [
       "Basics of Electrical and Electronics Engineering",
@@ -804,18 +722,14 @@
     "scholar": "https://scholar.google.co.in/citations?user=zKU1jLEAAAAJ&hl=en",
     "vidwan": "",
     "awards": [],
-    "memberships": [
-      "ISTE"
-    ],
+    "memberships": ["ISTE"],
     "certifications": []
   },
   {
     "name": "Mrs. Dhara Solanki",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
-    "research_interests": [
-      "Web Technology"
-    ],
+    "research_interests": ["Web Technology"],
     "image_src": "/CSPIT_Faculty/CSE/DHARA.webp",
     "subjects": [
       "Software Engineering",
@@ -835,9 +749,7 @@
       "Metor at AnitaB.org since 2020",
       "Facilitator by Google since 2019"
     ],
-    "memberships": [
-      "IEEE"
-    ],
+    "memberships": ["IEEE"],
     "certifications": [
       "Microsoft Certified: Azure Fundamentals",
       "Microsoft Certified: Azure AI Fundamentals"
@@ -882,11 +794,7 @@
     "name": "Mr. Dharmendrasinh Rathod",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech., Ph. D. (Pursuing)",
-    "research_interests": [
-      "Machine Learning",
-      "Deep Learning",
-      "ASP .NET"
-    ],
+    "research_interests": ["Machine Learning", "Deep Learning", "ASP .NET"],
     "image_src": "/CSPIT_Faculty/CSE/DHARMENDRASINH.webp",
     "subjects": [
       "Machine Learning",
@@ -902,22 +810,15 @@
     "website": "https://sites.google.com/charusat.ac.in/dharmendrasinhrathod/home",
     "scholar": "https://scholar.google.co.in/citations?hl=en&user=WvgwnokAAAAJ",
     "vidwan": "",
-    "awards": [
-      "Top Performing Mentor for the NPTEL Course DBMS"
-    ],
-    "memberships": [
-      "IEEE (Professional) and ISTE"
-    ],
+    "awards": ["Top Performing Mentor for the NPTEL Course DBMS"],
+    "memberships": ["IEEE (Professional) and ISTE"],
     "certifications": []
   },
   {
     "name": "Dr. Dhavalkumar Bhoi",
     "title": "ASSISTANT PROFESSOR",
     "degree": "Ph. D.",
-    "research_interests": [
-      "Data Mining",
-      "Theory of Computation"
-    ],
+    "research_interests": ["Data Mining", "Theory of Computation"],
     "image_src": "/CSPIT_Faculty/CE/DHAVALKUMAR.webp",
     "subjects": [
       "Theory of Computation",
@@ -932,9 +833,7 @@
     "website": "",
     "scholar": "https://scholar.google.com/citations?user=XZ5fiT8AAAAJ&hl=en",
     "vidwan": "",
-    "awards": [
-      "Enduring Commitment Award by CHARUSAT"
-    ],
+    "awards": ["Enduring Commitment Award by CHARUSAT"],
     "memberships": [
       "SOFT COMPUTING RESEARCH SOCIETY (SCRS)",
       "International Association of Engineers (IAENG)"
@@ -945,10 +844,7 @@
     "name": "Mr. Dhavalkumar Patel",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. E.",
-    "research_interests": [
-      "UI/UX",
-      "Fog Computing"
-    ],
+    "research_interests": ["UI/UX", "Fog Computing"],
     "image_src": "/CSPIT_Faculty/IT/DHAVALKUMAR.webp",
     "subjects": [
       "Web Technology",
@@ -964,12 +860,8 @@
     "scholar": "https://scholar.google.com/citations?hl=en&authuser=1&user=45V2ChUAAAAJ",
     "vidwan": "",
     "awards": [],
-    "memberships": [
-      "ACM"
-    ],
-    "certifications": [
-      "Microsoft Azure AZ-900"
-    ]
+    "memberships": ["ACM"],
+    "certifications": ["Microsoft Azure AZ-900"]
   },
   {
     "name": "Mr. Dheeraj Shringi",
@@ -1013,16 +905,15 @@
     "image_src": "/CSPIT_Faculty/Mechanical/GAJANAN.webp",
     "subjects": [
       "Production and Operation management.",
-      "Operation Researc",
-      "h.",
+      "Operation Research",
       "Mechanical Measurement and metrology.",
       "Industrial maintenance and safety Engineering.",
-      "5\tManufacturing of planning and control",
-      "6\tOccupational health and safety",
-      "7\tIndustrial Engineering and Management",
+      "Manufacturing of planning and control",
+      "Occupational health and safety",
+      "Industrial Engineering and Management",
       "Quality Engineering & Assurance",
       "Energy Engineering and Economics",
-      "10\tProduct development and value Engineering"
+      "Product development and value Engineering"
     ],
     "research_projects": [],
     "teaching": [],
@@ -1042,9 +933,7 @@
     "name": "Ms. Gargi Ray",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
-    "research_interests": [
-      "Construction Project Management"
-    ],
+    "research_interests": ["Construction Project Management"],
     "image_src": "/CSPIT_Faculty/Civil/GARGI.webp",
     "subjects": [
       "Fundamentals of Civil Engineering",
@@ -1071,17 +960,14 @@
     ],
     "memberships": [],
     "certifications": [
-      "Certified ‘IGBC Accredited Professional – Associate’ by Indian Green Building Council, CII on",
-      "September 2021"
+      "Certified ‘IGBC Accredited Professional – Associate’ by Indian Green Building Council, CII on September 2021"
     ]
   },
   {
     "name": "Mr. Gaurang Patel",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
-    "research_interests": [
-      "CAD, Additive Manufacturing, Machine Learning"
-    ],
+    "research_interests": ["CAD", "Additive Manufacturing", "Machine Learning"],
     "image_src": "/CSPIT_Faculty/AIML/GAURANG.webp",
     "subjects": [
       "MATERIAL SCIENCE & TECHNOLOGY",
@@ -1089,8 +975,7 @@
     ],
     "research_projects": [],
     "teaching": [
-      "AI Enabled Smart Bin NA Student Startup & Innovation Policy (SSIP",
-      "0), GOG"
+      "AI Enabled Smart Bin NA Student Startup & Innovation Policy (SSIP), GOG"
     ],
     "email": "gaurangpatel.me@charusat.ac.in",
     "linkedin": "https://www.linkedin.com/in/gaurang-patel-a99266119/",
@@ -1099,20 +984,23 @@
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/164076",
     "awards": [],
     "memberships": [],
-    "certifications": [
-      "CSWA SOLIDWORKS CAD design Associate"
-    ]
+    "certifications": ["CSWA SOLIDWORKS CAD design Associate"]
   },
   {
     "name": "Mr. Gaurav Gautam",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
     "research_interests": [
-      "MACHINE LEARNING, DEEP LEARNING, COMPUTER VISION"
+      "MACHINE LEARNING",
+      "DEEP LEARNING",
+      "COMPUTER VISION"
     ],
     "image_src": "/CSPIT_Faculty/AIML/GAURAV.webp",
     "subjects": [
-      "C & C++ PROGRAMMING, DIGITAL ELECTRONICS, DATA COMMUNICATION NETWORK, EMBEDDED SYSTEM"
+      "C & C++ PROGRAMMING",
+      "DIGITAL ELECTRONICS",
+      "DATA COMMUNICATION NETWORK",
+      "EMBEDDED SYSTEM"
     ],
     "research_projects": [],
     "teaching": [],
@@ -1130,11 +1018,19 @@
     "title": "ASSOCIATE PROFESSOR",
     "degree": "Ph. D.",
     "research_interests": [
-      "Digital Signal Processing, BioNAMedical Image Processing, Mobile and Satellite Communication"
+      "Digital Signal Processing",
+      "BioMedical Image Processing",
+      "Mobile and Satellite Communication"
     ],
     "image_src": "/CSPIT_Faculty/Electronics/HARDIK P MODI.webp",
     "subjects": [
-      "Digital Signal Processing, Digital Image Processing, Design Testing and Verification, Basic C Programming, Programming in JAVA, Modelling using Verilog ,Machine Learning"
+      "Digital Signal Processing",
+      "Digital Image Processing",
+      "Design Testing and Verification",
+      "Basic C Programming",
+      "Programming in JAVA",
+      "Modelling using Verilog",
+      "Machine Learning"
     ],
     "research_projects": [],
     "teaching": [],
@@ -1143,26 +1039,25 @@
     "website": "",
     "scholar": "https://scholar.google.com/citations?user=ay8NAQY0AAAAJ&hl=en&oi=ao",
     "vidwan": "",
-    "awards": [
-      "CHARUSAT Research Paper Award, IEEE Reviewer"
-    ],
-    "memberships": [
-      "IEEE,ISTE"
-    ],
-    "certifications": [
-      "Google Business Intelligence"
-    ]
+    "awards": ["CHARUSAT Research Paper Award, IEEE Reviewer"],
+    "memberships": ["IEEE", "ISTE"],
+    "certifications": ["Google Business Intelligence"]
   },
   {
     "name": "Mr. Harmish Bhatt",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
     "research_interests": [
-      "Manufacturing engineering, Metal matrix composite"
+      "Manufacturing engineering",
+      "Metal matrix composite"
     ],
     "image_src": "/CSPIT_Faculty/Mechanical/HARMISH.webp",
     "subjects": [
-      "Workshop practices, Manufacturing engineering, Metrology and quality control, Theory of machine, Fundamentals of mechanical engineering"
+      "Workshop practices",
+      "Manufacturing engineering",
+      "Metrology and quality control",
+      "Theory of machine",
+      "Fundamentals of mechanical engineering"
     ],
     "research_projects": [],
     "teaching": [],
@@ -1172,9 +1067,7 @@
     "scholar": "https://scholar.google.com/citations?user=Btcd_4YAAAAJ&hl=en&authuser=1",
     "vidwan": "",
     "awards": [],
-    "memberships": [
-      "International Association of Engineers (IAENG)"
-    ],
+    "memberships": ["International Association of Engineers (IAENG)"],
     "certifications": []
   },
   {
@@ -1182,36 +1075,48 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech., Ph. D. (Pursuing)",
     "research_interests": [
-      "Computer Vision, Internet of Things, VLSI Technologies"
+      "Computer Vision",
+      "Internet of Things",
+      "VLSI Technologies"
     ],
     "image_src": "/CSPIT_Faculty/CSE/HARSHUL.webp",
     "subjects": [
-      "Microprocessor and Computer Organization, Digital Electronics, Embedded Systems, Data Communication and Networking, ICT Workshop, ,Image Processing and Computer Vision, ProjectNAII,ProjectNAIII, SGPNAIV"
+      "Microprocessor and Computer Organization",
+      "Digital Electronics",
+      "Embedded Systems",
+      "Data Communication and Networking",
+      "ICT Workshop",
+      "Image Processing and Computer Vision",
+      "ProjectNAII",
+      "ProjectNAIII",
+      "SGPNAIV"
     ],
     "research_projects": [],
     "teaching": [],
-    "email": "harshulyagnik.cs@charusat.a.cin",
+    "email": "harshulyagnik.cs@charusat.ac.in",
     "linkedin": "https://www.linkedin.com/in/harshul-yagnik-81a6a022/",
     "website": "",
     "scholar": "https://scholar.google.com/citations?user=6dNAaVTEAAAAJ&hl=en",
     "vidwan": "",
     "awards": [],
-    "memberships": [
-      "3 IEEE and",
-      "ISTE"
-    ],
+    "memberships": ["3 IEEE and ISTE"],
     "certifications": []
   },
   {
     "name": "Mr. Hemang Thakar",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech., Ph. D. (Pursuing)",
-    "research_interests": [
-      "Natural language processing"
-    ],
+    "research_interests": ["Natural language processing"],
     "image_src": "/CSPIT_Faculty/CSE/HEMANG.webp",
     "subjects": [
-      "Computer Concepts & Programming, Data Structures & Algorithms, Artificial Intelligence, Operating System, Design & Analysis of Algorithms, Theory of Computation, Machine Learning, Design of Language Processor"
+      "Computer Concepts & Programming",
+      "Data Structures & Algorithms",
+      "Artificial Intelligence",
+      "Operating System",
+      "Design & Analysis of Algorithms",
+      "Theory of Computation",
+      "Machine Learning",
+      "Design of Language Processor"
     ],
     "research_projects": [],
     "teaching": [],
@@ -1221,9 +1126,7 @@
     "scholar": "https://scholar.google.com/citations?user=VKYfJKAAAAAJ&hl=en&authuser=1",
     "vidwan": "",
     "awards": [],
-    "memberships": [
-      "SCRS"
-    ],
+    "memberships": ["SCRS"],
     "certifications": [
       "NPTEL certificate",
       "subjects:- Applied Natural Language Processing",
@@ -1237,11 +1140,16 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
     "research_interests": [
-      "Environmental Engineering, Solid Waste Management, Environmental Science"
+      "Environmental Engineering",
+      "Solid Waste Management",
+      "Environmental Science"
     ],
     "image_src": "/CSPIT_Faculty/Civil/HEMANGI.webp",
     "subjects": [
-      "Environmental Engineering I, Waste Management in Smart Cities, Environmental Sciences, Environmental Sustainability & Climate Change"
+      "Environmental Engineering I",
+      "Waste Management in Smart Cities",
+      "Environmental Sciences",
+      "Environmental Sustainability & Climate Change"
     ],
     "research_projects": [],
     "teaching": [],
@@ -1259,12 +1167,12 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech., Ph. D. (Pursuing)",
     "research_interests": [
-      "Machine Learning, LLM, Time series forecasting"
+      "Machine Learning",
+      "LLM",
+      "Time series forecasting"
     ],
     "image_src": "/CSPIT_Faculty/IT/HEMANT NANDLALBHAI YADAV.webp",
-    "subjects": [
-      "Machine Learning, Deep learning , Python Programming"
-    ],
+    "subjects": ["Machine Learning", "Deep learning", "Python Programming"],
     "research_projects": [],
     "teaching": [
       "CSGR Grant",
@@ -1276,45 +1184,29 @@
     "scholar": "https://scholar.google.com/citations?hl=en&user=C7s6c8kAAAAJ",
     "vidwan": "",
     "awards": [],
-    "memberships": [
-      "ACM"
-    ],
+    "memberships": ["ACM"],
     "certifications": [
-      "Deep learning Specialization, AWS Academy Machine Learning Foundation, MLOps Specialization"
+      "Deep learning Specialization",
+      "AWS Academy Machine Learning Foundation",
+      "MLOps Specialization"
     ]
-  },
-  {
-    "name": "Ms. Jalpa Ardeshana",
-    "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech.",
-    "research_interests": [
-      "Data Structures , Cloud Computing, Machine Learning"
-    ],
-    "image_src": "/CSPIT_Faculty/AIML/JALPA.webp",
-    "subjects": [
-      "C/C++, Data Structures, Operating System, Cryptography"
-    ],
-    "research_projects": [],
-    "teaching": [],
-    "email": "jalpaardeshana.aiml@charusat.ac.in",
-    "linkedin": "https://www.linkedin.com/in/jalpa-ardesha--381496b7/",
-    "website": "",
-    "scholar": "https://scholar.google.com/citations?hl=en&user=geQNAr_QAAAAJ",
-    "vidwan": "https://vidwan.inflibnet.ac.in/profile/319102",
-    "awards": [],
-    "memberships": [],
-    "certifications": []
   },
   {
     "name": "Mr. Jalpesh Vasa",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech., Ph. D. (Pursuing)",
     "research_interests": [
-      "Data Privacy, Machine Learning, Full Stack Development"
+      "Data Privacy",
+      "Machine Learning",
+      "Full Stack Development"
     ],
     "image_src": "/CSPIT_Faculty/IT/JALPESH.webp",
     "subjects": [
-      "Java Programming, Web Technologies, Full Stack Web Development, Data Science, Mobile Application Development"
+      "Java Programming",
+      "Web Technologies",
+      "Full Stack Web Development",
+      "Data Science",
+      "Mobile Application Development"
     ],
     "research_projects": [],
     "teaching": [],
@@ -1326,33 +1218,30 @@
     "awards": [
       "Best Mentor Award NA NPTEL, SPOCNASIH, Best Paper Award at RAMENA2024 Conference, SPOCNAKAVACHNA2023"
     ],
-    "memberships": [
-      "SCRS (Soft Computing Research Society) - 2024-04-15-5421"
-    ],
-    "certifications": [
-      "AWS cloud Practitioner Certification"
-    ]
+    "memberships": ["SCRS (Soft Computing Research Society) - 2024-04-15-5421"],
+    "certifications": ["AWS cloud Practitioner Certification"]
   },
   {
     "name": "Mr. Jay Bhavsar",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
     "research_interests": [
-      "Concrete Technology, Reinforced  Concrete Structural Design,"
+      "Concrete Technology",
+      "Reinforced Concrete Structural Design"
     ],
     "image_src": "/CSPIT_Faculty/Civil/JAY.webp",
     "subjects": [
-      "•\tFundamental of Civil Engineering",
-      "•\tEngineering Mechanics",
-      "•\tBasics of Environment Engineering",
-      "•\tMechanics of Solids",
-      "•\tConcrete Technology",
-      "•\tSurveying",
-      "•\tStructural Analysis",
-      "•\tDesign of Concrete Structure",
-      "•\tRepair and Rehabilitation",
-      "•\tEstimation and Costing",
-      "•\tBridge Engineering"
+      "Fundamental of Civil Engineering",
+      "Engineering Mechanics",
+      "Basics of Environment Engineering",
+      "Mechanics of Solids",
+      "Concrete Technology",
+      "Surveying",
+      "Structural Analysis",
+      "Design of Concrete Structure",
+      "Repair and Rehabilitation",
+      "Estimation and Costing",
+      "Bridge Engineering"
     ],
     "research_projects": [],
     "teaching": [],
@@ -1372,12 +1261,12 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "Ph. D.",
     "research_interests": [
-      "Aritficial Inetlligent & Machine Learning, Electric Vehicle, Smart Grid"
+      "Artificial Intelligence & Machine Learning",
+      "Electric Vehicle",
+      "Smart Grid"
     ],
     "image_src": "/CSPIT_Faculty/CSE/JIGAR.webp",
-    "subjects": [
-      "Machine Learning, Depp Learning Applications and AI"
-    ],
+    "subjects": ["Machine Learning", "Deep Learning Applications and AI"],
     "research_projects": [],
     "teaching": [],
     "email": "jigarsarda.ee@charusat.ac.in",
@@ -1386,32 +1275,28 @@
     "scholar": "http://scholar.google.co.in/citations?user=u0drCToAAAAJ",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/161234",
     "awards": [],
-    "memberships": [
-      "IEEE"
-    ],
+    "memberships": ["IEEE"],
     "certifications": []
   },
   {
     "name": "Mr. Jigneshkumar Patel",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M.E., Ph. D. (Pursuing)",
-    "research_interests": [
-      "Microcontrollers, PLC & IA, Power System"
-    ],
+    "research_interests": ["Microcontrollers", "PLC & IA", "Power System"],
     "image_src": "/CSPIT_Faculty/Electrical/JIGNESHKUMAR.webp",
     "subjects": [
-      "•\tCE391 Python for Data Analytics",
-      "•\tEE145 Basics of Electronics & Electrical Engineering",
-      "•\tEE246 Microcontroller and Microprocessors",
-      "•\tEE284 Python Programming",
-      "•\tEE288 Maintenance of Household Apparatus",
-      "•\tEE347 PLCs and Industrial Automation",
-      "•\tEE371 Advanced Microcontrollers",
-      "•\tEE441 Power System Operation and Control",
-      "•\tEE476 Advances in Power System",
-      "•\tFS101A Foundation Course on Mathematics and Physics",
-      "•\tIT143 Fundamentals of Computer Programming",
-      "•\tIT250 Digital Electronics"
+      "CE391 Python for Data Analytics",
+      "EE145 Basics of Electronics & Electrical Engineering",
+      "EE246 Microcontroller and Microprocessors",
+      "EE284 Python Programming",
+      "EE288 Maintenance of Household Apparatus",
+      "EE347 PLCs and Industrial Automation",
+      "EE371 Advanced Microcontrollers",
+      "EE441 Power System Operation and Control",
+      "EE476 Advances in Power System",
+      "FS101A Foundation Course on Mathematics and Physics",
+      "IT143 Fundamentals of Computer Programming",
+      "IT250 Digital Electronics"
     ],
     "research_projects": [],
     "teaching": [],
@@ -1422,20 +1307,24 @@
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/161247",
     "awards": [],
     "memberships": [],
-    "certifications": [
-      "-"
-    ]
+    "certifications": ["-"]
   },
   {
     "name": "Dr. Kamlesh Chauhan",
     "title": "ASSOCIATE PROFESSOR",
     "degree": "Ph. D.",
     "research_interests": [
-      "Nano tribology, wettability, thermal properties of nanostructured materials and Thin Film Coatings"
+      "Nano tribology",
+      "wettability",
+      "thermal properties of nanostructured materials and Thin Film Coatings"
     ],
     "image_src": "/CSPIT_Faculty/Mechanical/KAMLESH.webp",
     "subjects": [
-      "Thermal Engineering, Fluid mechanics, Advanced Materials, Surface Engineering, Advanced Power Generation System"
+      "Thermal Engineering",
+      "Fluid mechanics",
+      "Advanced Materials",
+      "Surface Engineering",
+      "Advanced Power Generation System"
     ],
     "research_projects": [],
     "teaching": [],
@@ -1445,9 +1334,7 @@
     "scholar": "https://scholar.google.co.in/citations?user=EdcHNAY0AAAAJ&hl=en",
     "vidwan": "",
     "awards": [],
-    "memberships": [
-      "ISTE"
-    ],
+    "memberships": ["ISTE"],
     "certifications": []
   },
   {
@@ -1455,11 +1342,20 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "Ph. D.",
     "research_interests": [
-      "Metamaterials, Frequency Selective Surfaces, Antennas"
+      "Metamaterials",
+      "Frequency Selective Surfaces",
+      "Antennas"
     ],
     "image_src": "/CSPIT_Faculty/Electronics/KANWAR.webp",
     "subjects": [
-      "Electromagnetic Theory, RF & Microwave Engineering, Microwave Antennas, Analog & Digital Communication, Optical Communication, Satellite & Radar Engineering, Analog Circuits, Digital Electronics"
+      "Electromagnetic Theory",
+      "RF & Microwave Engineering",
+      "Microwave Antennas",
+      "Analog & Digital Communication",
+      "Optical Communication",
+      "Satellite & Radar Engineering",
+      "Analog Circuits",
+      "Digital Electronics"
     ],
     "research_projects": [],
     "teaching": [],
@@ -1469,11 +1365,10 @@
     "scholar": "http://scholar.google.co.in/citations?user=8PHY6YUAAAAJ",
     "vidwan": "",
     "awards": [
-      "Outstanding Woman Researcher in Metamaterials, Venus International Women Awards (VIWA 2024) by Venus International Foundation, Chennai"
+      "Outstanding Woman Researcher in Metamaterials",
+      "Venus International Women Awards (VIWA 2024) by Venus International Foundation, Chennai"
     ],
-    "memberships": [
-      "IEEE, EuMA, IE, IETE, ISTE"
-    ],
+    "memberships": ["IEEE", "EuMA", "IE", "IETE", "ISTE"],
     "certifications": [
       "Metamaterials and Metasurface using Circuit Theory under CCE-Proficience Programme, IISc Bengaluru"
     ]
@@ -1483,11 +1378,21 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "Ph. D.",
     "research_interests": [
-      "Tribology, Advanced ceramics, Polymer composites"
+      "Tribology",
+      "Advanced ceramics",
+      "Polymer composites"
     ],
     "image_src": "/CSPIT_Faculty/Mechanical/RANDHAWA.webp",
     "subjects": [
-      "Operations Research, Optimization Techniques, Production Technology, Production and Operations Management, Industrial Engineering & Management, Product Design & Value Engineering, Advanced Optimization Techniques, Machining and Forming Processes, Advanced Materials"
+      "Operations Research",
+      "Optimization Techniques",
+      "Production Technology",
+      "Production and Operations Management",
+      "Industrial Engineering & Management",
+      "Product Design & Value Engineering",
+      "Advanced Optimization Techniques",
+      "Machining and Forming Processes",
+      "Advanced Materials"
     ],
     "research_projects": [],
     "teaching": [
@@ -1498,12 +1403,8 @@
     "website": "",
     "scholar": "https://scholar.google.co.in/citations?user=fhXEWz0AAAAJ&hl=en",
     "vidwan": "",
-    "awards": [
-      "Appreciation/Recognition for research by CHARUSAT"
-    ],
-    "memberships": [
-      "International Association of Engineers (IAENG)"
-    ],
+    "awards": ["Appreciation/Recognition for research by CHARUSAT"],
+    "memberships": ["International Association of Engineers (IAENG)"],
     "certifications": []
   },
   {
@@ -1511,17 +1412,26 @@
     "title": "ASSOCIATE PROFESSOR",
     "degree": "Ph. D.",
     "research_interests": [
-      "Designing of planar,NAMIMO antennas, Microcontroller and Microprocessor, Programming using Arduino, Digital Electronics"
+      "Designing of planar",
+      "NAMIMO antennas",
+      "Microcontroller and Microprocessor",
+      "Programming using Arduino",
+      "Digital Electronics"
     ],
     "image_src": "/CSPIT_Faculty/Electronics/KILLOL.webp",
     "subjects": [
-      "Microcontroller, Microprocessor and Interfacing, Digital Electronics, Antenna and Wave Propagation, Circuits and Networks, Control Theory"
+      "Microcontroller",
+      "Microprocessor and Interfacing",
+      "Digital Electronics",
+      "Antenna and Wave Propagation",
+      "Circuits and Networks",
+      "Control Theory"
     ],
     "research_projects": [],
     "teaching": [
       "Experimental Simulation of Lightning and Development of Lightning Detection Antenna for Future Planetary Missions NA ISRONAPRL",
       "Development of Dielectric Resonator Antenna Array for Wireless Communication NA CHARUSAT",
-      "Biological electronic circuit made from blood serum, blood and silicon rubber tubular harness _NAGUJCOST"
+      "Biological electronic circuit made from blood serum, blood and silicon rubber tubular harness   NAGUJCOST"
     ],
     "email": "killolpandya.ec@charusat.ac.in",
     "linkedin": "https://www.linkedin.com/in/dr-killol-pandya-275443252/",
@@ -1529,9 +1439,7 @@
     "scholar": "https://scholar.google.com/citations?hl=en&user=8RJPubMAAAAJ",
     "vidwan": "",
     "awards": [],
-    "memberships": [
-      "IEEE"
-    ],
+    "memberships": ["IEEE"],
     "certifications": []
   },
   {
@@ -1539,11 +1447,17 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "Ph. D.",
     "research_interests": [
-      "Power Electronics, Renewable Energy, Electric Vehicle Technology, Smart Grids and Microgrids"
+      "Power Electronics",
+      "Renewable Energy",
+      "Electric Vehicle Technology",
+      "Smart Grids and Microgrids"
     ],
     "image_src": "/CSPIT_Faculty/Electrical/KunalBhatt.webp",
     "subjects": [
-      "Power Electronics, Electrical Drives, Flexible AC Transmission system, Power Quality and FACTS"
+      "Power Electronics",
+      "Electrical Drives",
+      "Flexible AC Transmission system",
+      "Power Quality and FACTS"
     ],
     "research_projects": [],
     "teaching": [],
@@ -1553,22 +1467,16 @@
     "scholar": "https://scholar.google.com/citations?user=uOw9E3kAAAAJ&hl=en",
     "vidwan": "",
     "awards": [],
-    "memberships": [
-      "IEEE"
-    ],
+    "memberships": ["IEEE"],
     "certifications": []
   },
   {
     "name": "Mr. Krunalkumar Maheriya",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
-    "research_interests": [
-      "Machine Learning, Deep Learning"
-    ],
+    "research_interests": ["Machine Learning", "Deep Learning"],
     "image_src": "/CSPIT_Faculty/CE/KRUNALKUMAR.webp",
-    "subjects": [
-      "Machine Learning, Python Programming"
-    ],
+    "subjects": ["Machine Learning", "Python Programming"],
     "research_projects": [],
     "teaching": [],
     "email": "krunalmaheriya.ce@charusat.ac.in",
@@ -1578,31 +1486,6 @@
     "vidwan": "",
     "awards": [],
     "memberships": [],
-    "certifications": []
-  },
-  {
-    "name": "Dr. Kundan Patel",
-    "title": "ASSOCIATE PROFESSOR",
-    "degree": "Ph. D.",
-    "research_interests": [
-      "Manufacturing of composites, Design of Experiments, Machining of",
-      "Composites"
-    ],
-    "image_src": "/CSPIT_Faculty/Mechanical/KUNDAN.webp",
-    "subjects": [
-      "Machining and Forming Processes, Computer Aided Design, Computer Aided Manufacturing, Hydraulics & Pneumatics, Unconventional Machining Processes, CNC Technology & Programming."
-    ],
-    "research_projects": [],
-    "teaching": [],
-    "email": "kundanpatel.me@charusat.ac.in",
-    "linkedin": "www.linkedin.com/in/kundan-patel-b9508b27b",
-    "website": "",
-    "scholar": "https://scholar.google.co.in/citations?user=DoBv8TUAAAAJ&hl=en",
-    "vidwan": "https://vidwan.inflibnet.ac.in/profile/161365",
-    "awards": [],
-    "memberships": [
-      "ISTE"
-    ],
     "certifications": []
   },
   {
@@ -1634,20 +1517,20 @@
     "vidwan": "",
     "awards": [],
     "memberships": [],
-    "certifications": [
-      "Istec Vibration Category 1+ Certification"
-    ]
+    "certifications": ["Istec Vibration Category 1+ Certification"]
   },
   {
     "name": "Mr. Madhav Ajwalia",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. E.",
-    "research_interests": [
-      "Blockchain, Cryptography, Cybersecurity"
-    ],
+    "research_interests": ["Blockchain", "Cryptography", "Cybersecurity"],
     "image_src": "/CSPIT_Faculty/IT/MADHAV.webp",
     "subjects": [
-      "Blockchain, Cryptography, Cybersecurity, Computer Networking, Operating Systems"
+      "Blockchain",
+      "Cryptography",
+      "Cybersecurity",
+      "Computer Networking",
+      "Operating Systems"
     ],
     "research_projects": [],
     "teaching": [
@@ -1661,9 +1544,7 @@
     "awards": [
       "1st prize at national level Ideathon on “Blockchain Solution for Sustainable Development Goals” organized by Kerala Blockchain Academy."
     ],
-    "memberships": [
-      "IEEE,"
-    ],
+    "memberships": ["IEEE,"],
     "certifications": [
       "\"Certified Blockchain Associate\" by Kerala Blockchain Academy, “Certified 365 fundamentals” by Microsoft, “Certified Security, Compliance and Identity Fundamentals” by Microsoft, “Certified Azure Fundamentals” by Microsoft"
     ]
@@ -1673,11 +1554,22 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M.E., Ph. D. (Pursuing)",
     "research_interests": [
-      "ELECTRIC VEHICLES, POWER ELECTRONICS, CONTROL SYSTEMS"
+      "ELECTRIC VEHICLES",
+      "POWER ELECTRONICS",
+      "CONTROL SYSTEMS"
     ],
     "image_src": "/CSPIT_Faculty/Electrical/MAHAMMADSOAIB.webp",
     "subjects": [
-      "Basics of Electrical & Electronics , Circuit Theory, Control Systems, Basics of Electric Vehicles , Power Electronics & Drives NAI, Power Electronics & Drives NAII , Special Electrical Machines, HYBRID AND ELECTRICAL VEHICLES, CONTROL OF ELECTRIC MOTORS FOR VEHICULAR APPLICATIONS,EV AND SMART GRID,"
+      "Basics of Electrical & Electronics",
+      "Circuit Theory",
+      "Control Systems",
+      "Basics of Electric Vehicles",
+      "Power Electronics & Drives NAI",
+      "Power Electronics & Drives NAII",
+      "Special Electrical Machines",
+      "HYBRID AND ELECTRICAL VEHICLES",
+      "CONTROL OF ELECTRIC MOTORS FOR VEHICULAR APPLICATIONS",
+      "EV AND SMART GRID"
     ],
     "research_projects": [],
     "teaching": [],
@@ -1687,21 +1579,21 @@
     "scholar": "https://scholar.google.com/citations?user=nBfQKK0AAAAJ&hl=en",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/161553",
     "awards": [],
-    "memberships": [
-      "IEEE"
-    ],
+    "memberships": ["IEEE"],
     "certifications": []
   },
   {
     "name": "Dr. Manthan Manavadaria",
     "title": "ASSISTANT PROFESSOR",
     "degree": "Ph. D.",
-    "research_interests": [
-      "BioNAelectronics and Communication Systems"
-    ],
+    "research_interests": ["BioNAelectronics and Communication Systems"],
     "image_src": "/CSPIT_Faculty/Electronics/MANTHAN SUDHIRBHAI MANAVADARIA.webp",
     "subjects": [
-      "Basic Digital Electronics, Electronic Devices and Measurements, Optical Communication, Digital Communication, Radar Systems"
+      "Basic Digital Electronics",
+      "Electronic Devices and Measurements",
+      "Optical Communication",
+      "Digital Communication",
+      "Radar Systems"
     ],
     "research_projects": [],
     "teaching": [
@@ -1713,15 +1605,8 @@
     "website": "",
     "scholar": "https://scholar.google.co.in/citations?user=8bZS9UYAAAAJ",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/162640",
-    "awards": [
-      "CHARUSAT Research Paper Award"
-    ],
-    "memberships": [
-      "IE (India),",
-      "ISTE,",
-      "IETE,",
-      "SAISE"
-    ],
+    "awards": ["CHARUSAT Research Paper Award"],
+    "memberships": ["IE (India),", "ISTE,", "IETE,", "SAISE"],
     "certifications": [
       "Google Data Analytics",
       "ARPIT-2020 (Electronic Systems for Sensor Application)",
@@ -1733,11 +1618,20 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "Ph. D.",
     "research_interests": [
-      "Information Security, Blockchain Technology, Web Development"
+      "Information Security",
+      "Blockchain Technology",
+      "Web Development"
     ],
     "image_src": "/CSPIT_Faculty/CE/MARTIN.webp",
     "subjects": [
-      "Blockchain Technology, Information Security, Cryptography & Network Security, Advanced Web Technology, Java Programming, Database Management System, Ethical Hacking, Service Oriented  Computing."
+      "Blockchain Technology",
+      "Information Security",
+      "Cryptography & Network Security",
+      "Advanced Web Technology",
+      "Java Programming",
+      "Database Management System",
+      "Ethical Hacking",
+      "Service Oriented  Computing."
     ],
     "research_projects": [],
     "teaching": [
@@ -1751,9 +1645,7 @@
     "scholar": "https://scholar.google.com/citations?user=DNAwd8QgAAAAJ&hl=en",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/161788",
     "awards": [],
-    "memberships": [
-      "Soft Computing Research Society (SCRS)"
-    ],
+    "memberships": ["Soft Computing Research Society (SCRS)"],
     "certifications": []
   },
   {
@@ -1761,20 +1653,26 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech. CAD/CAM",
     "research_interests": [
-      "Computer Aided Design, Finite Element Analysis, Machine Design"
+      "Computer Aided Design",
+      "Finite Element Analysis",
+      "Machine Design"
     ],
     "image_src": "/CSPIT_Faculty/AIML/MAULIK.webp",
     "subjects": [
-      "Computer Aided Design, Design of Transmission System, Design Concept and Machine Drawing, Elements of Engineering, Mechanical Workshop"
+      "Computer Aided Design",
+      "Design of Transmission System",
+      "Design Concept and Machine Drawing",
+      "Elements of Engineering",
+      "Mechanical Workshop"
     ],
     "research_projects": [],
     "teaching": [
-      ") Project on Design and Development of Calorimetric Dummy Load for 42 GHz/ 200 kW/ 3 second gyrotron for startup studies in Aditya Tolamak NA IPR, BRNS, DAE",
-      ") Project on Design, Development and Testing of 3NAstage translational along with one rotational motorized system for optical elements NA CHARUSAT SEED RESEARCH GRANT, CHARUSAT",
-      ") Design and Development of Flexure based Precision Positioning System for Optical Systems NA iCreate Club, CHARUSAT",
-      ") Design and Development of OnNABoard Focusing Camera NA SAC, ISRO,",
-      ") Design and Development of Cloud Monitoring Camera NA SAC, ISRO",
-      ") Design and Development of Reflect Array Antenna NA ISRO Respond, DoS"
+      "Project on Design and Development of Calorimetric Dummy Load for 42 GHz/ 200 kW/ 3 second gyrotron for startup studies in Aditya Tolamak NA IPR, BRNS, DAE",
+      "Project on Design, Development and Testing of 3NAstage translational along with one rotational motorized system for optical elements NA CHARUSAT SEED RESEARCH GRANT, CHARUSAT",
+      "Design and Development of Flexure based Precision Positioning System for Optical Systems NA iCreate Club, CHARUSAT",
+      "Design and Development of OnNABoard Focusing Camera NA SAC, ISRO,",
+      "Design and Development of Cloud Monitoring Camera NA SAC, ISRO",
+      "Design and Development of Reflect Array Antenna NA ISRO Respond, DoS"
     ],
     "email": "maulikshah.me@charusat.ac.in",
     "linkedin": "www.linkedin.com/in/maulik-shah-30b483119",
@@ -1783,7 +1681,10 @@
     "vidwan": "",
     "awards": [],
     "memberships": [
-      "Space Society of Mechanical Engineers (SSME), Society of Automotive Engineers (SAE), Composite Excellence Centre for Asia (CECA), Indian Society for Technical Education (ISTE)"
+      "Space Society of Mechanical Engineers (SSME)",
+      "Society of Automotive Engineers (SAE)",
+      "Composite Excellence Centre for Asia (CECA)",
+      "Indian Society for Technical Education (ISTE)"
     ],
     "certifications": []
   },
@@ -1792,11 +1693,23 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
     "research_interests": [
-      "Programming in C, Programming in C++ , Programming in Java , Deep Learning, Data Base Management System"
+      "Programming in C",
+      "Programming in C++",
+      "Programming in Java",
+      "Deep Learning",
+      "Data Base Management System"
     ],
     "image_src": "/CSPIT_Faculty/CE/MAYURI.webp",
     "subjects": [
-      "Computer Concepts and Programming, Object Oriented Programming with C++, Database Management Systems, CE251Java Programming , Programming in Python, ICT Workshop Practices, Creativity and Problem Solving Skills, Software Engineering, Data Warehousing and Data Mining."
+      "Computer Concepts and Programming",
+      "Object Oriented Programming with C++",
+      "Database Management Systems",
+      "CE251Java Programming",
+      "Programming in Python",
+      "ICT Workshop Practices",
+      "Creativity and Problem Solving Skills",
+      "Software Engineering",
+      "Data Warehousing and Data Mining."
     ],
     "research_projects": [],
     "teaching": [],
@@ -1808,35 +1721,27 @@
     "awards": [
       "Secured First Rank in XXVII Gujarat Science Congress in Thesis/Poster presentation of Proposed Idea jointly organized by Charotar University of Science and Technology and Gujarat Science Academy (G.S.A)."
     ],
-    "memberships": [
-      "Soft Computing Research Society"
-    ],
-    "certifications": [
-      "Not Applicable"
-    ]
+    "memberships": ["Soft Computing Research Society"],
+    "certifications": ["Not Applicable"]
   },
   {
     "name": "Dr. Mayurkumar Sutaria",
     "title": "PROFESSOR",
     "degree": "Ph. D.",
-    "research_interests": [
-      "Metal Casting and Composites"
-    ],
+    "research_interests": ["Metal Casting and Composites"],
     "image_src": "/CSPIT_Faculty/Mechanical/MAYURKUMAR.webp",
     "subjects": [
-      "\tCasting and Welding Processes",
-      "\tAdvances in Manufacturing Technology",
-      "\tComputerNAaided Engineering",
-      "\tComputational Fluid Dynamics",
-      "\tFinite Element Method",
-      "\tOperations Research",
-      "\tAdvanced Engineering Optimization Techniques"
+      "Casting and Welding Processes",
+      "Advances in Manufacturing Technology",
+      "Computer-Aided Engineering",
+      "Computational Fluid Dynamics",
+      "Finite Element Method",
+      "Operations Research",
+      "Advanced Engineering Optimization Techniques"
     ],
     "research_projects": [],
     "teaching": [
-      "\tSMART (Sustainable Metalcasting using Advanced Research and Technology) Foundry 2020 \t          \t\t\t\t\t\t\t      A network project in collaboration with CSIRNANIIS Trivandrum, CSIRNACMERI Durgapur, IIT Bombay, VNIT Nagpur, COEP Pune, Jadavpur University Kolkata, BHGCET Rajkot, SGGS Nanded, and DKTE Kolhapur Funded under: Technology Systems Development Programme (TSDP) Scheme of DST   \t Duration: 09/2016NA 06/2021 Project ID: DST/TSG/AMT/2015/332\t Project Fund: INR 924 Lakhs (INR",
-      "5 Lakhs utilized at CHARUSAT) Role: CoNAPrincipal Investigator\t \tTimeNAvarying Performance Evaluation of Boundary Mould Elements (FeedNAaids) for Effective Application of CAD and Simulation Technologies in Indian Foundries  A  project to support Research and Development for PG Program\t           Funded under: Research Promotion Scheme (RPS) of AICTE   \t Duration: 09/2015NA 08/2018 Project ID: 8NA209/RIFD/RPS/POLICYNA1/2014NA15\t Project Fund: INR",
-      "88 Lakhs Role: Principal Investigator  \tNetwork Enabled Online Casting Simulation System (ENAFoundry) \t      A model project in collaboration with IIT Bombay and SGSITS Indore  \t\t\t Funded under: NKN Mission, Ministry of Comm. & IT, Govt. of India\t Duration: 07/2011NA 06/2014 Project ID: 110417/GEN/ND Project Fund: INR 152 Lakhs Role: CoNAInvestigator"
+      "SMART (Sustainable Metalcasting using Advanced Research and Technology) Foundry 2020 A network project in collaboration with CSIRNANIIS Trivandrum, CSIRNACMERI Durgapur, IIT Bombay, VNIT Nagpur, COEP Pune, Jadavpur University Kolkata, BHGCET Rajkot, SGGS Nanded, and DKTE Kolhapur Funded under: Technology Systems Development Programme (TSDP) Scheme of DST Duration: 09/2016 - 06/2021 Project ID: DST/TSG/AMT/2015/332 Project Fund: INR 924 Lakhs (INR 5 Lakhs utilized at CHARUSAT) Role: Co-Principal Investigator Time-Varying Performance Evaluation of Boundary Mould Elements (Feed-Aids) for Effective Application of CAD and Simulation Technologies in Indian Foundries A project to support Research and Development for PG Program Funded under: Research Promotion Scheme (RPS) of AICTE Duration: 09/2015 - 08/2018 Project ID: 8-NA209/RIFD/RPS/POLICY-NA1/2014-15 Project Fund: INR 88 Lakhs Role: Principal Investigator Network Enabled Online Casting Simulation System (ENA-Foundry) A model project in collaboration with IIT Bombay and SGSITS Indore Funded under: NKN Mission, Ministry of Comm. & IT, Govt. of India Duration: 07/2011 - 06/2014 Project ID: 110417/GEN/ND Project Fund: INR 152 Lakhs Role: Co-Investigator"
     ],
     "email": "mayursutaria.me@charusat.ac.in",
     "linkedin": "https://www.linkedin.com/in/prof-mayur-sutaria/",
@@ -1844,9 +1749,7 @@
     "scholar": "https://scholar.google.com/citations?user=HT_9zKsAAAAJ&hl=en",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/161259",
     "awards": [],
-    "memberships": [
-      "ISTE, AMM"
-    ],
+    "memberships": ["ISTE", "AMM"],
     "certifications": []
   },
   {
@@ -1854,11 +1757,17 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. E.",
     "research_interests": [
-      "Construction Project Management, Building Construction, Construction Technology"
+      "Construction Project Management",
+      "Building Construction",
+      "Construction Technology"
     ],
     "image_src": "/CSPIT_Faculty/Civil/MEGHA.webp",
     "subjects": [
-      "Building Construction, Construction Project management, construction Technology, Green Built environment, Green Building rating system"
+      "Building Construction",
+      "Construction Project management",
+      "construction Technology",
+      "Green Built environment",
+      "Green Building rating system"
     ],
     "research_projects": [],
     "teaching": [],
@@ -1869,7 +1778,8 @@
     "vidwan": "",
     "awards": [],
     "memberships": [
-      "Institute of Engineer India, The Indian society for Technical Education,"
+      "Institute of Engineer India",
+      "The Indian society for Technical Education"
     ],
     "certifications": [
       "Certified \"IGBC Accredited Professional – Associate’ by Indian Green Building Council, CII"
@@ -1880,11 +1790,15 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
     "research_interests": [
-      "Geotechnical testing, Geotechnical NA Earthquake Engineering"
+      "Geotechnical testing",
+      "Geotechnical NA Earthquake Engineering"
     ],
     "image_src": "/CSPIT_Faculty/Civil/MEHULKUMAR.webp",
     "subjects": [
-      "Geotechnical Engineering, Professional Practices, Foundation Engineering, Engineering Mechanics and Environmental Sciences"
+      "Geotechnical Engineering",
+      "Professional Practices",
+      "Foundation Engineering",
+      "Engineering Mechanics and Environmental Sciences"
     ],
     "research_projects": [],
     "teaching": [],
@@ -1905,11 +1819,17 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "Ph. D.",
     "research_interests": [
-      "High Voltage Engineering, Transformer oil based Nanofluids"
+      "High Voltage Engineering",
+      "Transformer oil based Nanofluids"
     ],
     "image_src": "/CSPIT_Faculty/Electrical/MIHIR_BHATT.webp",
     "subjects": [
-      "High Voltage Engineering, Synchronous and DC Machines, Transformers and Induction Machine, Commissioning and Testing of Electrical Equipments, Electrical Measurements and Industrial Instrumentation, Basics of Electronics and Electrical Engineering"
+      "High Voltage Engineering",
+      "Synchronous and DC Machines",
+      "Transformers and Induction Machine",
+      "Commissioning and Testing of Electrical Equipments",
+      "Electrical Measurements and Industrial Instrumentation",
+      "Basics of Electronics and Electrical Engineering"
     ],
     "research_projects": [],
     "teaching": [],
@@ -1918,12 +1838,8 @@
     "website": "https://sites.google.com/a/charusat.ac.in/mihirNAbhattNAee/home/aboutNAme?pli=1",
     "scholar": "https://scholar.google.com/citations?user=wv3uMysAAAAJ&hl=en&oi=ao",
     "vidwan": "",
-    "awards": [
-      "Enduring Commitment Award"
-    ],
-    "memberships": [
-      "IEEE"
-    ],
+    "awards": ["Enduring Commitment Award"],
+    "memberships": ["IEEE"],
     "certifications": []
   },
   {
@@ -1931,11 +1847,16 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M.E. (Ph. D. Pursuing)",
     "research_interests": [
-      "Renewable Energy Sources, Wind Energy, DFIG Wind Turbines"
+      "Renewable Energy Sources",
+      "Wind Energy",
+      "DFIG Wind Turbines"
     ],
     "image_src": "/CSPIT_Faculty/Electrical/MIHIR_SIDDHARTH.webp",
     "subjects": [
-      "Basics of Electronics and electrical Engineering, Electrical Machine Design, Matlab Programming, Control of Electric Motors for Vehicular Application"
+      "Basics of Electronics and electrical Engineering",
+      "Electrical Machine Design",
+      "Matlab Programming",
+      "Control of Electric Motors for Vehicular Application"
     ],
     "research_projects": [],
     "teaching": [
@@ -1956,27 +1877,28 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
     "research_interests": [
-      "AI,Generative models,LLMs"
+      "Artificial Intelligence",
+      "Generative models",
+      "LLMs"
     ],
     "image_src": "/CSPIT_Faculty/IT/MIKINKBHAI RAKESHBHAI PATEL.webp",
     "subjects": [
-      "Artificial Intelligence,Machine Learning,Data Visulisation,Python Programming,Java Programming,C & CPP Programming,"
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Visulisation",
+      "Python Programming",
+      "Java Programming",
+      "C & CPP Programming"
     ],
     "research_projects": [],
-    "teaching": [
-      "I received travel grant of 4500 for Phd clinic"
-    ],
+    "teaching": ["I received travel grant of 4500 for Phd clinic"],
     "email": "mikinpatel.it@charusat.ac.in",
     "linkedin": "https://www.linkedin.com/in/mikin-patel-24191386/",
     "website": "",
     "scholar": "https://scholar.google.com/citations?user=uPdz75AAAAAJ&hl=en",
     "vidwan": "",
-    "awards": [
-      "CHARUSAT Research Paper award"
-    ],
-    "memberships": [
-      "ACM"
-    ],
+    "awards": ["CHARUSAT Research Paper award"],
+    "memberships": ["ACM"],
     "certifications": [
       "Microsoft Certified: Security, Compliance, and Identity Fundamentals"
     ]
@@ -1985,17 +1907,12 @@
     "name": "Dr. Miral Desai",
     "title": "ASSISTANT PROFESSOR",
     "degree": "Ph. D.",
-    "research_interests": [
-      "Embedded System, IoT, Computer Vision"
-    ],
+    "research_interests": ["Embedded System", "IoT", "Computer Vision"],
     "image_src": "/CSPIT_Faculty/Electronics/MIRAL MUKESHBHAI DESAI.webp",
     "subjects": [
-      "At PG Level",
-      " Real Time Operating System  Real Time Embedded System",
-      " At UG Level",
-      " Network Theory  Digital Logic Design  Microcontroller & Application  Microprocessor & Interfacing  Embedded System",
-      "6",
-      " Embedded Linux  Prototyping Electronics with Arduino  Elements of Internet of Things  Robotics  Mobile Application Development  Basic C Programming  Applied Programming  Sensor Network"
+      "At PG Level: Real Time Operating System ,Real Time Embedded System",
+      "At UG Level: Network Theory , Digital Logic Design, Microcontroller & Application , Microprocessor & Interfacing Embedded System",
+      "Embedded Linux : Prototyping Electronics with Arduino , Elements of Internet of Things , Robotics ,Mobile Application Development , Basic C Programming ,Applied Programming , Sensor Network"
     ],
     "research_projects": [],
     "teaching": [
@@ -2008,21 +1925,20 @@
     "scholar": "https://scholar.google.co.in/citations?user=PnnESEIAAAAJ&hl=en",
     "vidwan": "https://charusat.irins.org/profile/161484",
     "awards": [],
-    "memberships": [
-      "IEEE, ISTE"
-    ],
+    "memberships": ["IEEE, ISTE"],
     "certifications": []
   },
   {
     "name": "Dr. Mrugendrasinh Rahevar",
     "title": "ASSISTANT PROFESSOR",
     "degree": "Ph. D.",
-    "research_interests": [
-      "Deep Learning, Large Language Model"
-    ],
+    "research_interests": ["Deep Learning", "Large Language Model"],
     "image_src": "/CSPIT_Faculty/CE/MRUGENDRASINH.webp",
     "subjects": [
-      "Machine Learning, Deep Learning, Java Programming, Advanced Web Technology"
+      "Machine Learning",
+      "Deep Learning",
+      "Java Programming",
+      "Advanced Web Technology"
     ],
     "research_projects": [],
     "teaching": [],
@@ -2032,9 +1948,7 @@
     "scholar": "https://scholar.google.co.in/citations?user=4B7R2dsAAAAJ&hl=en",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/161357",
     "awards": [],
-    "memberships": [
-      "SCRS"
-    ],
+    "memberships": ["SCRS"],
     "certifications": []
   },
   {
@@ -2042,12 +1956,12 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
     "research_interests": [
-      "Deep Learning , Data  Structure , Computer Network"
+      "Deep Learning",
+      "Data Structure",
+      "Computer Network"
     ],
     "image_src": "/CSPIT_Faculty/CE/MUSKAN CHANDRAKANT DAVE.webp",
-    "subjects": [
-      "Computer Network , Data Structure , Distributed Computing"
-    ],
+    "subjects": ["Computer Network", "Data Structure", "Distributed Computing"],
     "research_projects": [],
     "teaching": [],
     "email": "muskandave.ce@charusat.ac.in",
@@ -2088,9 +2002,7 @@
     "website": "",
     "scholar": "https://scholar.google.com/citations?user=lM7FyB8AAAAJ&hl=en",
     "vidwan": "",
-    "awards": [
-      "Top Performing Mentor July-October 2018 by NPTEL"
-    ],
+    "awards": ["Top Performing Mentor July-October 2018 by NPTEL"],
     "memberships": [
       "American Concrete Institute (ACI)",
       "Indian Concrete Institute (ICI)"
@@ -2102,11 +2014,18 @@
     "title": "ASSOCIATE PROFESSOR, HEAD (CE)",
     "degree": "Ph. D.",
     "research_interests": [
-      "Machine Learning, Deep Learning, MultiNAModal Information Retrieval"
+      "Machine Learning",
+      "Deep Learning",
+      "Multi-Modal Information Retrieval"
     ],
     "image_src": "/CSPIT_Faculty/CE/NIKITABEN.webp",
     "subjects": [
-      "Data Structures & Algorithms, Design and analysis of Algorithms, Theory of Computation, Compiler Construction, Operating System, Machine Learning"
+      "Data Structures & Algorithms",
+      "Design and analysis of Algorithms",
+      "Theory of Computation",
+      "Compiler Construction",
+      "Operating System",
+      "Machine Learning"
     ],
     "research_projects": [],
     "teaching": [],
@@ -2116,9 +2035,7 @@
     "scholar": "https://scholar.google.co.in/citations?user=9PPANA6oAAAAJ&hl=en",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/162190",
     "awards": [],
-    "memberships": [
-      "ACM"
-    ],
+    "memberships": ["ACM"],
     "certifications": []
   },
   {
@@ -2126,11 +2043,17 @@
     "title": "ASSOCIATE PROFESSOR, HEAD (EE)",
     "degree": "Ph. D.",
     "research_interests": [
-      "Electrical Power system, Power system Dynamics, Power system Protection"
+      "Electrical Power system",
+      "Power system Dynamics",
+      "Power system Protection"
     ],
     "image_src": "/CSPIT_Faculty/Electrical/NILAYKUMAR.webp",
     "subjects": [
-      "Power system Protection, Fault Analysis and Switchgear, Basics of Electronics and Electrical Engineering, Digital Electronics, Maintenance of Household Apparatus."
+      "Power system Protection",
+      "Fault Analysis and Switchgear",
+      "Basics of Electronics and Electrical Engineering",
+      "Digital Electronics",
+      "Maintenance of Household Apparatus."
     ],
     "research_projects": [],
     "teaching": [
@@ -2143,28 +2066,23 @@
     "scholar": "https://scholar.google.com/citations?user=vuRSwu0AAAAJ&hl=en",
     "vidwan": "https://vidwan.inflibnet.ac.in//profile/161243/MTYxMjQz",
     "awards": [],
-    "memberships": [
-      "IEEE, ISTE"
-    ],
-    "certifications": [
-      "Energy Auditor, Energy Manager"
-    ]
+    "memberships": ["IEEE, ISTE"],
+    "certifications": ["Energy Auditor, Energy Manager"]
   },
   {
     "name": "Dr. Nirav Bhatt",
     "title": "ASSOCIATE PROFESSOR, HEAD (AIML)",
     "degree": "Ph. D.",
-    "research_interests": [
-      "Data Analytics, AI & Machine Learning"
-    ],
+    "research_interests": ["Data Analytics", "AI & Machine Learning"],
     "image_src": "/CSPIT_Faculty/AIML/NIRAV.webp",
     "subjects": [
-      "Database Management System, Languge Processors, Operating System, Machine Learning"
+      "Database Management System",
+      "Language Processors",
+      "Operating System",
+      "Machine Learning"
     ],
     "research_projects": [],
-    "teaching": [
-      "AI based Engage Engine NA Genuin INC."
-    ],
+    "teaching": ["AI based Engage Engine NA Genuin INC."],
     "email": "niravbhatt.it@charusat.ac.in",
     "linkedin": "https://www.linkedin.com/in/dr-nirav-bhatt/",
     "website": "",
@@ -2175,9 +2093,7 @@
       "Top Performing Mentor Award for the Course \"Database Management System\" by SWAYAMNANPTEL.",
       "Fostering Ecosystem Bridging Goverment, Academia and Industry by AICTE & Texas Instruments."
     ],
-    "memberships": [
-      "ACM"
-    ],
+    "memberships": ["ACM"],
     "certifications": [
       "Oracle Cloud Data Management Certified Foundation Associate.",
       "Microsoft Technology Associate: Database Administration Fundamentals"
@@ -2188,26 +2104,29 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
     "research_interests": [
-      "Finite Element Analysis, Composite Structures, Bridge Engineering, Design of Steel and RCC Structures,"
+      "Finite Element Analysis",
+      "Composite Structures",
+      "Bridge Engineering",
+      "Design of Steel and RCC Structures"
     ],
     "image_src": "/CSPIT_Faculty/Civil/NIRPEX.webp",
     "subjects": [
       "Master of Technology (Postgraduate Programme)",
-      "\tCL743 Finite Element Analysis",
-      "\tCL771 Bridge Engineering",
-      "\tCL762 Design of Prestressed Concrete Structures",
-      "\tCL768 Design of Composite Structures",
-      "\tCL766 Design of Tall Structures",
-      "\tCL745 Design Practice NA II",
+      "CL743 Finite Element Analysis",
+      "CL771 Bridge Engineering",
+      "CL762 Design of Prestressed Concrete Structures",
+      "CL768 Design of Composite Structures",
+      "CL766 Design of Tall Structures",
+      "CL745 Design Practice NA II",
       "Bachelor of Technology (Undergraduate Programme)",
-      "\tCL143 Engineering Mechanics",
-      "\tME145 Elements of Engineering",
-      "\tME243 Mechanics of Solids",
-      "\tCL452 Design of Steel Structures",
-      "\tCL451 Design of Reinforced Concrete Structures",
-      "\tCL341 Structural Analysis – II",
-      "\tCL244 Fluid Mechanics – I",
-      "\tCl374 Architectural Design of Facilities"
+      "CL143 Engineering Mechanics",
+      "ME145 Elements of Engineering",
+      "ME243 Mechanics of Solids",
+      "CL452 Design of Steel Structures",
+      "CL451 Design of Reinforced Concrete Structures",
+      "CL341 Structural Analysis – II",
+      "CL244 Fluid Mechanics – I",
+      "Cl374 Architectural Design of Facilities"
     ],
     "research_projects": [],
     "teaching": [],
@@ -2216,9 +2135,7 @@
     "website": "",
     "scholar": "https://scholar.google.com/citations?hl=en&user=bw_FhnsAAAAJ",
     "vidwan": "https://charusat.irins.org/profile/161262",
-    "awards": [
-      "CHARUSAT Research Paper Award"
-    ],
+    "awards": ["CHARUSAT Research Paper Award"],
     "memberships": [],
     "certifications": [
       "ISO 9001:2015 Internal Auditor (Quality Management System Training)"
@@ -2233,7 +2150,9 @@
     ],
     "image_src": "/CSPIT_Faculty/AIML/NISHANT.webp",
     "subjects": [
-      "Computer Networks, Operating Systems, Data communication and Networking"
+      "Computer Networks",
+      "Operating Systems",
+      "Data communication and Networking"
     ],
     "research_projects": [],
     "teaching": [],
@@ -2251,11 +2170,19 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
     "research_interests": [
-      "Machine Learning, Deep Learning, Computer Vision"
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision"
     ],
     "image_src": "/CSPIT_Faculty/IT/NISHAT.webp",
     "subjects": [
-      "C, C++ , JAVA, Operating System , Computer Network, Information Security, Data Mining"
+      "C",
+      "C++",
+      "JAVA",
+      "Operating System",
+      "Computer Network",
+      "Information Security",
+      "Data Mining"
     ],
     "research_projects": [],
     "teaching": [],
@@ -2264,26 +2191,24 @@
     "website": "",
     "scholar": "https://scholar.google.com/citations?user=x4qOV9QAAAAJ&hl=en",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/157778",
-    "awards": [
-      "Top performing mentor for various NPTEL Courses."
-    ],
-    "memberships": [
-      "ACM"
-    ],
+    "awards": ["Top performing mentor for various NPTEL Courses."],
+    "memberships": ["ACM"],
     "certifications": [
-      "Red Hat Systems Administration , Microsoft Certified (Azure Fundamentals)"
+      "Red Hat Systems Administration",
+      "Microsoft Certified (Azure Fundamentals)"
     ]
   },
   {
     "name": "Ms. Niyati Patel",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
-    "research_interests": [
-      "DBMS , software engineering"
-    ],
+    "research_interests": ["DBMS", "software engineering"],
     "image_src": "/CSPIT_Faculty/AIML/NIYATI.webp",
     "subjects": [
-      "DBMS , Fundamental  Of Software Engineering, Essential Of Digital Marketing , Basic Of Cloud Computing."
+      "DBMS",
+      "Fundamental  Of Software Engineering",
+      "Essential Of Digital Marketing",
+      "Basic Of Cloud Computing"
     ],
     "research_projects": [],
     "teaching": [],
@@ -2301,11 +2226,16 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. E.",
     "research_interests": [
-      "Deep Learning, Internet of Things, Big Data Analytics, Programming in C"
+      "Deep Learning",
+      "Internet of Things",
+      "Big Data Analytics",
+      "Programming in C"
     ],
     "image_src": "/CSPIT_Faculty/CE/PARMANANDKUMAR SAHDEVBHAI PATEL.webp",
     "subjects": [
-      "Big data Analytics, Programming in C,  Data Mining and Business Analytics"
+      "Big data Analytics",
+      "Programming in C",
+      "Data Mining and Business Analytics"
     ],
     "research_projects": [],
     "teaching": [],
@@ -2318,20 +2248,13 @@
     "memberships": [],
     "certifications": []
   },
-  
   {
     "name": "Mr. Pavitra Modi",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
-    "research_interests": [
-      "Web Application development"
-    ],
+    "research_interests": ["Web Application development"],
     "image_src": "/CSPIT_Faculty/IT/PAVITRA.webp",
-    "subjects": [
-      "Fullstack Development",
-      "Web Technology",
-      "Devops"
-    ],
+    "subjects": ["Fullstack Development", "Web Technology", "Devops"],
     "research_projects": [],
     "teaching": [],
     "email": "pavitramodi.it@charusat.ac.in",
@@ -2340,23 +2263,29 @@
     "scholar": "",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/405778",
     "awards": [],
-    "memberships": [
-      "ACM"
-    ],
-    "certifications": [
-      "Salesforce B2C Commerce  Developer"
-    ]
+    "memberships": ["ACM"],
+    "certifications": ["Salesforce B2C Commerce  Developer"]
   },
   {
     "name": "Mrs. Pinal Patel",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. E.",
     "research_interests": [
-      "Engineering Mechanics, Structural Analysis, Advanced structural Analysis"
+      "Engineering Mechanics",
+      "Structural Analysis",
+      "Advanced structural Analysis"
     ],
     "image_src": "/CSPIT_Faculty/Civil/PINAL.webp",
     "subjects": [
-      "Engineering Mechanics , Mechanics of Solids, Structural AnalysisNAI, Structural AnalysisNAII, Structural AnalysisNAIII, Advanced structural Analysis and Building Services ,Elements of Engineering, Infrastructure Management, Water resourses engineering  etc"
+      "Engineering Mechanics",
+      "Mechanics of Solids",
+      "Structural AnalysisNAI",
+      "Structural AnalysisNAII",
+      "Structural AnalysisNAIII",
+      "Advanced structural Analysis and Building Services",
+      "Elements of Engineering",
+      "Infrastructure Management",
+      "Water resources engineering etc"
     ],
     "research_projects": [],
     "teaching": [],
@@ -2378,11 +2307,20 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. E. Ph. D. (Pursuing)",
     "research_interests": [
-      "Artificial Intelligence, Cryptography, Web Development"
+      "Artificial Intelligence",
+      "Cryptography",
+      "Web Development"
     ],
     "image_src": "/CSPIT_Faculty/CSE/pinal.webp",
     "subjects": [
-      "C, C++, Machine Learning, Artificial Intelligence, WebTechnology, CRNS, DS&A, Analysis and Design of Algorithm"
+      "C",
+      "C++",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "WebTechnology",
+      "CRNS",
+      "DS&A",
+      "Analysis and Design of Algorithm"
     ],
     "research_projects": [],
     "teaching": [],
@@ -2392,21 +2330,25 @@
     "scholar": "",
     "vidwan": "",
     "awards": [],
-    "memberships": [
-      "CSI, ISTE, IEEE, IEI"
-    ],
+    "memberships": ["CSI", "ISTE", "IEEE", "IEI"],
     "certifications": []
   },
   {
     "name": "Dr. Poonam Thanki",
     "title": "ASSISTANT PROFESSOR",
     "degree": "Ph. D.",
-    "research_interests": [
-      "Reconfigurable antennas, Wireless Communication"
-    ],
+    "research_interests": ["Reconfigurable antennas, Wireless Communication"],
     "image_src": "/CSPIT_Faculty/Electronics/POONAM.webp",
     "subjects": [
-      "RF & Microwave Engineering, System Verilog, Electromagnetics and Antenna Technology, VLSI Technology, Analog Circuits & Applications, Control Systems, Network Theory, Digital Electronics, Basics of Electronics Engineering"
+      "RF & Microwave Engineering",
+      "System Verilog",
+      "Electromagnetics and Antenna Technology",
+      "VLSI Technology",
+      "Analog Circuits & Applications",
+      "Control Systems",
+      "Network Theory",
+      "Digital Electronics",
+      "Basics of Electronics Engineering"
     ],
     "research_projects": [],
     "teaching": [],
@@ -2416,9 +2358,7 @@
     "scholar": "https://scholar.google.co.in/citations?user=Rq27pX4AAAAJ",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/161473",
     "awards": [],
-    "memberships": [
-      "ISTE--"
-    ],
+    "memberships": ["ISTE--"],
     "certifications": []
   },
   {
@@ -2426,11 +2366,22 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. E.",
     "research_interests": [
-      "Advance Power System Protection, Signal and System, Integration of Renewable Energy, Electrical Vehicle"
+      "Advance Power System Protection",
+      "Signal and System",
+      "Integration of Renewable Energy",
+      "Electrical Vehicle"
     ],
     "image_src": "/CSPIT_Faculty/Electrical/PRATIK.webp",
     "subjects": [
-      "Electrical Measurement and Measuring Instruments, Transformer and DC Machines, Induction and Synchronous Machines, Electrical Power Systems, Advances In Power Systems, Power System Protections, Network Analysis, Digital Signal Processing, Electrical Power Generations"
+      "Electrical Measurement and Measuring Instruments",
+      "Transformer and DC Machines",
+      "Induction and Synchronous Machines",
+      "Electrical Power Systems",
+      "Advances In Power Systems",
+      "Power System Protections",
+      "Network Analysis",
+      "Digital Signal Processing",
+      "Electrical Power Generations"
     ],
     "research_projects": [],
     "teaching": [],
@@ -2440,9 +2391,7 @@
     "scholar": "https://scholar.google.com/citations?hl=en&user=cMCUvyAAAAAJ&view_op=list_works&gmla=ALUCkoUdSG7qC13eppKXsmxnuHlZcaVdGS2AYChWWuu4KKifCcQdTFPKkW_gf45TFNjyh7DXZ2tc",
     "vidwan": "",
     "awards": [],
-    "memberships": [
-      "Renewal Pending in IEEE"
-    ],
+    "memberships": ["Renewal Pending in IEEE"],
     "certifications": []
   },
   {
@@ -2450,11 +2399,14 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "Ph. D.",
     "research_interests": [
-      "local electricity market, renewable energy, optimization"
+      "local electricity market",
+      "renewable energy",
+      "optimization"
     ],
     "image_src": "/CSPIT_Faculty/Electrical/pratikmochi.webp",
     "subjects": [
-      "Modeling and Control of Renewable Energy Sources, Electrical Machines"
+      "Modeling and Control of Renewable Energy Sources",
+      "Electrical Machines"
     ],
     "research_projects": [],
     "teaching": [],
@@ -2464,9 +2416,7 @@
     "scholar": "https://scholar.google.com/citations?user=l1CN7eEAAAAJ&hl=no&oi=ao",
     "vidwan": "",
     "awards": [],
-    "memberships": [
-      "IEEE"
-    ],
+    "memberships": ["IEEE"],
     "certifications": []
   },
   {
@@ -2539,21 +2489,21 @@
     ],
     "image_src": "/CSPIT_Faculty/IT/PRIYANKA.webp",
     "subjects": [
-      "1) Artificial Intelligence",
-      "2) Neural Network",
-      "3) Machine Learning",
-      "4) Computer Vision",
-      "5) Deep Learning",
-      "6) Programming with Python",
-      "7) Programming in C",
-      "8) Programming in C++",
-      "9) Object Oriented Programming",
-      "10) Programming in Python",
-      "11) Python for Machine Learning",
-      "12) Web technology",
-      "13) Web Engineering",
-      "14) Data Structure",
-      "15) Software Engineering"
+      "Artificial Intelligence",
+      "Neural Network",
+      "Machine Learning",
+      "Computer Vision",
+      "Deep Learning",
+      "Programming with Python",
+      "Programming in C",
+      "Programming in C++",
+      "Object Oriented Programming",
+      "Programming in Python",
+      "Python for Machine Learning",
+      "Web technology",
+      "Web Engineering",
+      "Data Structure",
+      "Software Engineering"
     ],
     "research_projects": [],
     "teaching": [
@@ -2568,25 +2518,23 @@
     "scholar": "https://scholar.google.com/citations?user=QbP_oDgAAAAJ&hl=en",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/157782",
     "awards": [
-      "1)Best Paper Award for research paper \"Pore-Based Fingerprint Recognition: An Exploration of Performance and Robustness\" at ICAIIE",
-      "2)Best Paper Award for research paper \"Investigating Age-Invariant Face Recognition Using PCA, LBP, Walsh Hadamard Transform with Neural Network\" at International Conference on Signal and Speech Processing (ICSSP-14).",
+      "Best Paper Award for research paper \"Pore-Based Fingerprint Recognition: An Exploration of Performance and Robustness\" at ICAIIE",
+      "Best Paper Award for research paper \"Investigating Age-Invariant Face Recognition Using PCA, LBP, Walsh Hadamard Transform with Neural Network\" at International Conference on Signal and Speech Processing (ICSSP-14).",
       "Charusat Research Paper Award",
-      "1)        CHARUSAT Research Paper Appreciation Award-2025",
-      "2)        CHARUSAT Research Paper Appreciation Award-2024",
-      "3)        CHARUSAT Research Paper Appreciation Award-2023",
-      "4)        CHARUSAT Research Paper Appreciation Award-2022",
-      "5)        CHARUSAT Research Paper Appreciation Award-2021"
+      "CHARUSAT Research Paper Appreciation Award-2025",
+      "CHARUSAT Research Paper Appreciation Award-2024",
+      "CHARUSAT Research Paper Appreciation Award-2023",
+      "CHARUSAT Research Paper Appreciation Award-2022",
+      "CHARUSAT Research Paper Appreciation Award-2021"
     ],
-    "memberships": [
-      "lifetime member of computer society of india"
-    ],
+    "memberships": ["lifetime member of computer society of india"],
     "certifications": [
-      "1)  IBM AI Developer Professional Certificate(2020)",
-      "2) IBM AI Developer Professional Certificate(2023)",
-      "3) IBM AI Foundations for Everyone Specialization",
-      "4) IBM AI Developer",
-      "5) Deep Learning in Computer Vision",
-      "6) DeepLearning.AI"
+      "IBM AI Developer Professional Certificate(2020)",
+      "IBM AI Developer Professional Certificate(2023)",
+      "IBM AI Foundations for Everyone Specialization",
+      "IBM AI Developer",
+      "Deep Learning in Computer Vision",
+      "DeepLearning.AI"
     ]
   },
   {
@@ -2594,11 +2542,16 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "Ph. D.",
     "research_interests": [
-      "Magnerorehological Elastomer, machining of Composite materials"
+      "Magnerorehological Elastomer",
+      "machining of Composite materials"
     ],
     "image_src": "/CSPIT_Faculty/Mechanical/PUNIT.webp",
     "subjects": [
-      "Design Concepts and Machine Drawing, Theory of Machines, CAD/CAM, Elements of Engineering, Creativity Problem Solving and Innovation"
+      "Design Concepts and Machine Drawing",
+      "Theory of Machines",
+      "CAD/CAM",
+      "Elements of Engineering",
+      "Creativity Problem Solving and Innovation"
     ],
     "research_projects": [],
     "teaching": [],
@@ -2609,7 +2562,8 @@
     "vidwan": "",
     "awards": [],
     "memberships": [
-      "Composites Excellence Center of Asia, International Society for Research and Development"
+      "Composites Excellence Center of Asia",
+      "International Society for Research and Development"
     ],
     "certifications": []
   },
@@ -2618,11 +2572,16 @@
     "title": "ASSISTANT PROFESSOR, HEAD (IT)",
     "degree": "Ph. D.",
     "research_interests": [
-      "Data Structures, Design and Analysis of Algorithms, Language Processor"
+      "Data Structures",
+      "Design and Analysis of Algorithms",
+      "Language Processor"
     ],
     "image_src": "/CSPIT_Faculty/IT/PURVI.webp",
     "subjects": [
-      "Data Structures and Algorithms, Design and Analysis of Algorithms, Language Processor, Competitive Programming Essentials"
+      "Data Structures and Algorithms",
+      "Design and Analysis of Algorithms",
+      "Language Processor",
+      "Competitive Programming Essentials"
     ],
     "research_projects": [],
     "teaching": [],
@@ -2632,11 +2591,9 @@
     "scholar": "https://scholar.google.com/citations?hl=en&user=73kf6mwAAAAJ",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/159905",
     "awards": [],
-    "memberships": [
-      "ACM"
-    ],
+    "memberships": ["ACM"],
     "certifications": [
-      "•\tMicrosoft Certified Networking Fundamentals ,",
+      "Microsoft Certified Networking Fundamentals",
       "certification on National Programming Aptitude Test"
     ]
   },
@@ -2645,11 +2602,15 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
     "research_interests": [
-      "Cyber Security, Blockchain and Database Management Systems"
+      "Cyber Security",
+      "Blockchain",
+      "Database Management Systems"
     ],
     "image_src": "/CSPIT_Faculty/IT/RAJNIK.webp",
     "subjects": [
-      "Database Management System, Computer Network, Cryptography and Network Security."
+      "Database Management System",
+      "Computer Network",
+      "Cryptography and Network Security"
     ],
     "research_projects": [],
     "teaching": [],
@@ -2659,57 +2620,39 @@
     "scholar": "https://scholar.google.com/citations?hl=en&user=hoSwurEAAAAJ",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/405915",
     "awards": [
-      "NA Top Performing Mentor for NPTEL (Government) Online Course “Database Management System” during JulNADec",
-      "NA Android Forensics with Belka soft (Non Government) for their score of 100% in the training course. Award Date : 19/03/2024",
-      "NA Top Performing Mentor for NPTEL (Government) Online Course “Computer Network” from DecNAMarch",
-      "NA Top Performing Mentor for NPTEL (Government) Online Course “Database Management System” during JulNADec"
+      "Top Performing Mentor for NPTEL (Government) Online Course “Database Management System” during Jul-Dec",
+      "Android Forensics with Belka soft (Non Government) for their score of 100% in the training course. Award Date : 19/03/2024",
+      "Top Performing Mentor for NPTEL (Government) Online Course “Computer Network” from Dec-Mar",
+      "Top Performing Mentor for NPTEL (Government) Online Course “Database Management System” during Jul-Dec"
     ],
-    "memberships": [
-      "ACM"
-    ],
-    "certifications": [
-      "NPTEL Certification (Blockchain Technology)"
-    ]
+    "memberships": ["ACM"],
+    "certifications": ["NPTEL Certification (Blockchain Technology)"]
   },
   {
     "name": "Mr. Ravikumar Patel",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
-    "research_interests": [
-      "Internet Technologies, Cloud Computing"
-    ],
+    "research_interests": ["Internet Technologies", "Cloud Computing"],
     "image_src": "/CSPIT_Faculty/IT/RaviPatel.webp",
-    "subjects": [
-      "Web Technologies, Cloud Computing, DevOps"
-    ],
+    "subjects": ["Web Technologies", "Cloud Computing", "DevOps"],
     "research_projects": [],
-    "teaching": [
-      "23000 NA Gujcost"
-    ],
+    "teaching": ["23000-Gujcost"],
     "email": "ravipatel.it@charusat.ac.in",
     "linkedin": "https://www.linkedin.com/in/ravi-patel-13686b19/",
     "website": "",
     "scholar": "https://scholar.google.com/citations?hl=en&user=X65QSvsAAAAJ",
     "vidwan": "https://charusat.irins.org/profile/157512",
     "awards": [],
-    "memberships": [
-      "IAENG"
-    ],
-    "certifications": [
-      "AWS Solution Architecture Associate"
-    ]
+    "memberships": ["IAENG"],
+    "certifications": ["AWS Solution Architecture Associate"]
   },
   {
     "name": "Ms. Rikita Chokshi",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
-    "research_interests": [
-      "Image Processing,Operating System,DBMS"
-    ],
+    "research_interests": ["Image Processing", "Operating System", "DBMS"],
     "image_src": "/CSPIT_Faculty/CE/RIKITA.webp",
-    "subjects": [
-      "OS,ADA,C,IMAGE PROCESSING"
-    ],
+    "subjects": ["OS", "ADA", "C", "IMAGE PROCESSING"],
     "research_projects": [],
     "teaching": [],
     "email": "rikitachokshi.ce@charusat.ac.in",
@@ -2718,9 +2661,7 @@
     "scholar": "https://scholar.google.com/citations?user=lZwcaOgAAAAJ&hl=en",
     "vidwan": "",
     "awards": [],
-    "memberships": [
-      "IEEE, ISTE"
-    ],
+    "memberships": ["IEEE", "ISTE"],
     "certifications": []
   },
   {
@@ -2728,15 +2669,29 @@
     "title": "PROFESSOR",
     "degree": "Ph. D.",
     "research_interests": [
-      "Computer Network, Internet of Things, Cloud Computing"
+      "Computer Network",
+      "Internet of Things",
+      "Cloud Computing"
     ],
     "image_src": "/CSPIT_Faculty/CE/RITESH.webp",
     "subjects": [
-      "Parallel Computing (UG),Data Communication I and II (UG),Advanced Computer Architecture (UG),Computer Architecture and Peripheral (UG),Linux Operating System (UG & PG),Mobile Computing & Wireless Communication (UG and PG),Cloud Computing (UG and PG),Advanced Computer Network (UG and PG),Internet of Things (UG and PG),Intelligent Networks (PG),Research methodology (Ph.D.),Information and Communication Technology (UG),Programming in C & C++ ( UG)"
+      "Parallel Computing (UG)",
+      "Data Communication I and II (UG)",
+      "Advanced Computer Architecture (UG)",
+      "Computer Architecture and Peripheral (UG)",
+      "Linux Operating System (UG & PG)",
+      "Mobile Computing & Wireless Communication (UG and PG)",
+      "Cloud Computing (UG and PG)",
+      "Advanced Computer Network (UG and PG)",
+      "Internet of Things (UG and PG)",
+      "Intelligent Networks (PG)",
+      "Research methodology (Ph.D.)",
+      "Information and Communication Technology (UG)",
+      "Programming in C & C++ ( UG)"
     ],
     "research_projects": [],
     "teaching": [
-      "eNAGovernance Project from GU and RRU: Total amuont: 40 Lakh",
+      "e-Governance Project from GU and RRU: Total amount: 40 Lakh",
       "Patent on NetSEM is applied",
       "seed project grant on RFID based attendance system"
     ],
@@ -2745,26 +2700,25 @@
     "website": "https://sites.google.com/charusat.ac.in/riteshpatel/",
     "scholar": "https://scholar.google.com/citations?hl=en&user=AHODKrIAAAAJ",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/162684",
-    "awards": [
-      "Best Teacher Awards 2017"
-    ],
-    "memberships": [
-      "CSI,IETF"
-    ],
-    "certifications": [
-      "CCNA Instructor, CCNSP Instructor"
-    ]
+    "awards": ["Best Teacher Awards 2017"],
+    "memberships": ["CSI", "IETF"],
+    "certifications": ["CCNA Instructor", "CCNSP Instructor"]
   },
   {
     "name": "Mr. RonakKumar Patel",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
     "research_interests": [
-      "Machine Learning, Deep Learning, Operating System"
+      "Machine Learning",
+      "Deep Learning",
+      "Operating System"
     ],
     "image_src": "/CSPIT_Faculty/CE/RONAKKUMAR.webp",
     "subjects": [
-      "Machine Learning, Operating System, Digital Electronics, Computer Organization"
+      "Machine Learning",
+      "Operating System",
+      "Digital Electronics",
+      "Computer Organization"
     ],
     "research_projects": [],
     "teaching": [],
@@ -2774,21 +2728,22 @@
     "scholar": "https://scholar.google.com/citations?hl=en&authuser=1&user=2QHTKj4AAAAJ",
     "vidwan": "",
     "awards": [],
-    "memberships": [
-      "ACM"
-    ],
+    "memberships": ["ACM"],
     "certifications": []
   },
   {
     "name": "Mr. Ronakkumar Patel",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
-    "research_interests": [
-      "Deep Learning, Cloud Computing , Spring Boot"
-    ],
+    "research_interests": ["Deep Learning", "Cloud Computing", "Spring Boot"],
     "image_src": "/CSPIT_Faculty/CE/RONAKKUMAR_ RAJNIKANT.webp",
     "subjects": [
-      "Java Programming , Advanced Java Technology , Python , Cloud Computing , DBMS, C++"
+      "Java Programming",
+      "Advanced Java Technology",
+      "Python",
+      "Cloud Computing",
+      "DBMS",
+      "C++"
     ],
     "research_projects": [],
     "teaching": [],
@@ -2797,12 +2752,8 @@
     "website": "",
     "scholar": "https://scholar.google.com/citations?user=27sbIakAAAAJ&hl=en&authuser=2",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/233857",
-    "awards": [
-      "Best Mentor Award by NPTEL"
-    ],
-    "memberships": [
-      "SCRS"
-    ],
+    "awards": ["Best Mentor Award by NPTEL"],
+    "memberships": ["SCRS"],
     "certifications": []
   },
   {
@@ -2810,61 +2761,58 @@
     "title": "ASSOCIATE PROFESSOR",
     "degree": "Ph. D.",
     "research_interests": [
-      "Polymeric Composite, Engineering Graphics, Mechanical/Tribological Characterization"
+      "Polymeric Composite",
+      "Engineering Graphics",
+      "Mechanical/Tribological Characterization"
     ],
     "image_src": "/CSPIT_Faculty/Mechanical/SAGAR.webp",
     "subjects": [
-      "Engineering Graphics, Engineering Drawing, Engineering Physics, Artificial Intelligence"
+      "Engineering Graphics",
+      "Engineering Drawing",
+      "Engineering Physics",
+      "Artificial Intelligence"
     ],
     "research_projects": [],
     "teaching": [
-      "Principal Investigator (PI) fDevelopment and characterization of biodegradable composite materialNA CHARUSAT seed project (Amount Sanctioned",
-      "00 Lakhs) | Three Years DurationNA Completed Project, under CHARUSAT SEED RESEARCH GRANT."
+      "Principal Investigator (PI) for Development and characterization of biodegradable composite material under CHARUSAT seed project (Amount Sanctioned: 00 Lakhs) | Three Years Duration | Completed Project, under CHARUSAT SEED RESEARCH GRANT."
     ],
     "email": "sagarchokshi.me@charusat.ac.in",
     "linkedin": "https://www.linkedin.com/in/dr-sagar-chokshi-8646601a/",
     "website": "",
     "scholar": "https://scholar.google.com/citations?hl=en&user=utkNAZT0AAAAJ",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/161284",
-    "awards": [
-      "Received Various Research Paper Awards"
-    ],
-    "memberships": [
-      "ISTE (LM 82407), CECA (20207067)"
-    ],
-    "certifications": [
-      "-"
-    ]
+    "awards": ["Received Various Research Paper Awards"],
+    "memberships": ["ISTE (LM 82407)", "CECA (20207067)"],
+    "certifications": [""]
   },
   {
     "name": "Dr. Sagarkumar Patel",
     "title": "ASSOCIATE PROFESSOR",
     "degree": "Ph. D.",
-    "research_interests": [
-      "Wireless Communication, Analog Electronics"
-    ],
+    "research_interests": ["Wireless Communication", "Analog Electronics"],
     "image_src": "/CSPIT_Faculty/Electronics/SAGARKUMAR.webp",
     "subjects": [
-      "Digital Communication, Error Control Coding, Information",
-      "Theory, Wireless Communication, Microprocessor, Digital Logic Design, Analog",
-      "Electronic Circuits, Prototyping with Arduino uno."
+      "Digital Communication",
+      "Error Control Coding",
+      "Information Theory",
+      "Wireless Communication",
+      "Microprocessor",
+      "Digital Logic Design",
+      "Analog",
+      "Electronic Circuits",
+      "Prototyping with Arduino uno."
     ],
     "research_projects": [],
     "teaching": [
-      "Received and successfully completed Research project grant feed on Implementation and Performance Analysis of Novel spatial Modulation aided wireless communication in heterogeneous condition received from Charotar UniNA versity of Science and Technology, CHARUSAT"
+      "Received and successfully completed Research project grant feed on Implementation and Performance Analysis of Novel spatial Modulation aided wireless communication in heterogeneous condition received from Charotar University of Science and Technology, CHARUSAT"
     ],
     "email": "sagarpatel.ec@charusat.ac.in",
     "linkedin": "https://www.linkedin.com/in/sagarkumar-patel-0bb94bb5/",
     "website": "",
     "scholar": "https://scholar.google.com/citations?hl=en&user=B5Ebe5EAAAAJ&view_op=list_works&authuser=1",
     "vidwan": "https://charusat.irins.org/profile/161487",
-    "awards": [
-      "CHARUSAT Research Paper Award"
-    ],
-    "memberships": [
-      "IEEE- Senior Member",
-      "ISTE"
-    ],
+    "awards": ["CHARUSAT Research Paper Award"],
+    "memberships": ["IEEE- Senior Member", "ISTE"],
     "certifications": []
   },
   {
@@ -2872,7 +2820,9 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "Ph. D.",
     "research_interests": [
-      "Computer Vision, Design and analysis of Algorithms, Machine Learning"
+      "Computer Vision",
+      "Design and analysis of Algorithms",
+      "Machine Learning"
     ],
     "image_src": "/CSPIT_Faculty/IT/SANKETKUMAR.webp",
     "subjects": [
@@ -2891,26 +2841,24 @@
     "website": "https://sites.google.com/charusat.ac.in/sanketsuthar/home",
     "scholar": "https://scholar.google.co.in/citations?user=1gTYp1EAAAAJ&hl=en",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/157511",
-    "awards": [
-      "Best Paper Award in 2018 and Research paper award in 2022"
-    ],
-    "memberships": [
-      "ACM"
-    ],
+    "awards": ["Best Paper Award in 2018 and Research paper award in 2022"],
+    "memberships": ["ACM"],
     "certifications": [
-      "AWS cloud practitioner certification, Microsoft Azure Fundamentals"
+      "AWS cloud practitioner certification",
+      "Microsoft Azure Fundamentals"
     ]
   },
   {
     "name": "Ms. Sarita Thummar",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. E.",
-    "research_interests": [
-      "Algorithms, Machine Learning"
-    ],
+    "research_interests": ["Algorithms", "Machine Learning"],
     "image_src": "/CSPIT_Faculty/CE/SARITA.webp",
     "subjects": [
-      "Data Structures and Algorithms, Design and Analysis of Algorithms, Operating System, Machine Learning"
+      "Data Structures and Algorithms",
+      "Design and Analysis of Algorithms",
+      "Operating System",
+      "Machine Learning"
     ],
     "research_projects": [],
     "teaching": [],
@@ -2920,21 +2868,20 @@
     "scholar": "https://scholar.google.com/citations?hl=en&user=YoLhwy4AAAAJ",
     "vidwan": "",
     "awards": [],
-    "memberships": [
-      "ACM"
-    ],
+    "memberships": ["ACM"],
     "certifications": []
   },
   {
     "name": "Mr. Satayu Travadi",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. E.",
-    "research_interests": [
-      "THERMAL ENGINEERING, RENEWABLE ENERGY,"
-    ],
+    "research_interests": ["THERMAL ENGINEERING", "RENEWABLE ENERGY"],
     "image_src": "/CSPIT_Faculty/Mechanical/SATAYU.webp",
     "subjects": [
-      "Combustion Process, Thermal Engineering, Fluid Machines, Alternate Energy Sources."
+      "Combustion Process",
+      "Thermal Engineering",
+      "Fluid Machines",
+      "Alternate Energy Sources"
     ],
     "research_projects": [],
     "teaching": [],
@@ -2945,21 +2892,15 @@
     "vidwan": "",
     "awards": [],
     "memberships": [],
-    "certifications": [
-      "Google Advanced Data Analytics"
-    ]
+    "certifications": ["Google Advanced Data Analytics"]
   },
   {
     "name": "Ms. Srushti Gajjar",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
-    "research_interests": [
-      "C/C++, Web development, Python"
-    ],
+    "research_interests": ["C/C++", "Web development", "Python"],
     "image_src": "/CSPIT_Faculty/CSE/SRUSHTI.webp",
-    "subjects": [
-      "C, c++, full stack development (MERN)"
-    ],
+    "subjects": ["C", "C++", "full stack development (MERN)"],
     "research_projects": [],
     "teaching": [],
     "email": "srushtigajjar.cse@charusat.ac.in",
@@ -2969,20 +2910,23 @@
     "vidwan": "",
     "awards": [],
     "memberships": [],
-    "certifications": [
-      "2 nptel certification"
-    ]
+    "certifications": ["2 nptel certification"]
   },
   {
     "name": "Mr. Tigmanshu Patel",
     "title": "ASSISTANT PROFESSOR",
     "degree": "Ph. D. (Pursuing)",
     "research_interests": [
-      "Control Systems, Fault Diagnosis, System Modeling"
+      "Control Systems",
+      "Fault Diagnosis",
+      "System Modeling"
     ],
     "image_src": "/CSPIT_Faculty/Electronics/TIGMANSHU.webp",
     "subjects": [
-      "Control Systems, Microcontroller, Process Control, Process Instrumentation"
+      "Control Systems",
+      "Microcontroller",
+      "Process Control",
+      "Process Instrumentation"
     ],
     "research_projects": [],
     "teaching": [],
@@ -2992,23 +2936,30 @@
     "scholar": "https://scholar.google.com/citations?user=xp9zRscAAAAJ&hl=en&authuser=1",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/497943",
     "awards": [],
-    "memberships": [
-      "ISTE, ISA"
-    ],
-    "certifications": [
-      "Trainer, Automation Technologies,"
-    ]
+    "memberships": ["ISTE", "ISA"],
+    "certifications": ["Trainer", "Automation Technologies"]
   },
   {
     "name": "Ms. Trusha Patel",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. E.",
     "research_interests": [
-      "Image Processing, Theory of Computation, Compiler"
+      "Image Processing",
+      "Theory of Computation",
+      "Compiler"
     ],
     "image_src": "/CSPIT_Faculty/CE/TRUSHA.webp",
     "subjects": [
-      "TOC, Compiler, Image Processing, Python, Microprocessor, OO with C++, C, OS, DSA, UML"
+      "TOC",
+      "Compiler",
+      "Image Processing",
+      "Python",
+      "Microprocessor",
+      "OO with C++",
+      "C",
+      "OS",
+      "DSA",
+      "UML"
     ],
     "research_projects": [],
     "teaching": [],
@@ -3018,9 +2969,7 @@
     "scholar": "https://scholar.google.co.in/citations?hl=en&user=qo0yaJYAAAAJ",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/161355",
     "awards": [],
-    "memberships": [
-      "ACM"
-    ],
+    "memberships": ["ACM"],
     "certifications": []
   },
   {
@@ -3029,32 +2978,27 @@
     "degree": "Ph. D.",
     "research_interests": [
       "Antennas",
-      "Computer Networks", 
+      "Computer Networks",
       "Microwave Engineering"
     ],
     "image_src": "/CSPIT_Faculty/Electronics/TRUSHIT.webp",
     "subjects": [
-      "Electromagnetic Theory", 
-      "Computer Networks", 
-      "Python Programming", 
+      "Electromagnetic Theory",
+      "Computer Networks",
+      "Python Programming",
       "Analog Electronics"
     ],
     "research_projects": [],
-    "teaching": [
-      "https://www.charusat.ac.in/cspit/trushitupadhyaya#Projects"
-    ],
+    "teaching": ["https://www.charusat.ac.in/cspit/trushitupadhyaya#Projects"],
     "email": "trushitupadhyay.ec@charusat.ac.in",
     "linkedin": "https://www.linkedin.com/in/tkupadhyaya/",
     "website": "https://www.charusat.ac.in/cspit/trushitupadhyaya",
     "scholar": "https://scholar.google.com/citations?user=Gzsxo-oAAAAJ",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/161263",
     "awards": [],
-    "memberships": [
-      "IEEE",
-      "ISTE"
-    ],
+    "memberships": ["IEEE", "ISTE"],
     "certifications": [
-      "CISCO CERTIFIED NETWORK ASSOCIATE", 
+      "CISCO CERTIFIED NETWORK ASSOCIATE",
       "CISCO CERTIFIED ACADEMY INSTRUCTOR"
     ]
   },
@@ -3062,47 +3006,34 @@
     "name": "Dr. Upesh Patel",
     "title": "ASSOCIATE PROFESSOR, HEAD (EC)",
     "degree": "Ph. D.",
-    "research_interests": [
-      "Antenna Design", 
-      "RF and Microwave Engineering"
-    ],
+    "research_interests": ["Antenna Design", "RF and Microwave Engineering"],
     "image_src": "/CSPIT_Faculty/Electronics/UPESH.webp",
     "subjects": [
-      "Digital Electronics, Control Systems, and Digital Signal Processing"
+      "Digital Electronics",
+      "Control Systems",
+      "Digital Signal Processing"
     ],
     "research_projects": [],
     "teaching": [
-      "1) Received grant of",
-      "5lakhs from GUJCOST at ROBOFEST",
-      "0       2) Research project under RESPOND scheme in collaboration with PRL and ISRO worth",
-      "33lakhs"
+      "Received grant of 5lakhs from GUJCOST at ROBOFEST",
+      "Research project under RESPOND scheme in collaboration with PRL and ISRO worth 33lakhs"
     ],
     "email": "upeshpatel.ec@charusat.ac.in",
     "linkedin": "https://www.linkedin.com/in/dr-upesh-patel-875878138/",
     "website": "",
     "scholar": "https://scholar.google.com/citations?user=WNHbpVgAAAAJ&hl=en",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/161506",
-    "awards": [
-      "Research Paper awards"
-    ],
-    "memberships": [
-      "IEEE"
-    ],
-    "certifications": [
-      "-"
-    ]
+    "awards": ["Research Paper awards"],
+    "memberships": ["IEEE"],
+    "certifications": ["-"]
   },
   {
     "name": "Ms. Vaibhavi Patel",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
-    "research_interests": [
-      "IOT,DBMS,PYTHON"
-    ],
+    "research_interests": ["IOT", "DBMS", "PYTHON"],
     "image_src": "/CSPIT_Faculty/CSE/VAIBHAVI.webp",
-    "subjects": [
-      "c,c++,IOT,DBMS,JAVA,PYTHON"
-    ],
+    "subjects": ["c", "c++", "IOT", "DBMS", "JAVA", "PYTHON"],
     "research_projects": [],
     "teaching": [],
     "email": "vaibhavipatel.cse@charusat.ac.in",
@@ -3112,20 +3043,22 @@
     "vidwan": "",
     "awards": [],
     "memberships": [],
-    "certifications": [
-      "NPTEL-Internet of Things"
-    ]
+    "certifications": ["NPTEL-Internet of Things"]
   },
   {
     "name": "Mrs. Vaishali Koria",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
     "research_interests": [
-      "Data Structures and Algorithms, Design and Analysis of Algorithms, Competitive Programming"
+      "Data Structures and Algorithms",
+      "Design and Analysis of Algorithms",
+      "Competitive Programming"
     ],
     "image_src": "/CSPIT_Faculty/CE/VAISHALI.webp",
     "subjects": [
-      "Data Structures and Algorithms, Design and Analysis of Algorithms, Competitive Programming"
+      "Data Structures and Algorithms",
+      "Design and Analysis of Algorithms",
+      "Competitive Programming"
     ],
     "research_projects": [],
     "teaching": [],
@@ -3135,9 +3068,7 @@
     "scholar": "https://scholar.google.com/citations?user=SmfwZw8AAAAJ&hl=en",
     "vidwan": "",
     "awards": [],
-    "memberships": [
-      "ACM"
-    ],
+    "memberships": ["ACM"],
     "certifications": []
   },
   {
@@ -3145,11 +3076,18 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. E., Ph. D. (Pursuing)",
     "research_interests": [
-      "Power System, Energy management and Audit, Optimization"
+      "Power System",
+      "Energy management and Audit",
+      "Optimization"
     ],
     "image_src": "/CSPIT_Faculty/Electrical/VIBHABEN.webp",
     "subjects": [
-      "EPTD, Energy audit, conservation and management, BEE, Digital Electronics, simulation lab"
+      "EPTD",
+      "Energy audit",
+      "conservation and management",
+      "BEE",
+      "Digital Electronics",
+      "simulation lab"
     ],
     "research_projects": [],
     "teaching": [],
@@ -3158,12 +3096,8 @@
     "website": "ttps://sites.google.com/d/1xJdh9zyy2j_6Kqqo0EhVO3vXa0K7NAosJ/p/1bp6QPxndoLp5nt6i8NIFWq2z3rJJ1i2i/edit",
     "scholar": "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=HDdsZFsAAAAJ&scilu=&scisig=AJY4_hMAAAAAZxidz75RZUbVraeNHOVGYgbAfP0&gmla=ALUCkoUwv9xfR7EENoQtBn_aiKaqTyzZ1X2kORl9NANAL4aBw5WcKwjoDCVXVaogYeCbraaig0PTa5IzrpT_DyD12VltNAODcDk1Nt3fM0&sciund=7577126703303180020",
     "vidwan": "",
-    "awards": [
-      "SSIP winner in public utility 2019NA20"
-    ],
-    "memberships": [
-      "ISTE"
-    ],
+    "awards": ["SSIP winner in public utility 2019NA20"],
+    "memberships": ["ISTE"],
     "certifications": []
   },
   {
@@ -3171,11 +3105,18 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech., Ph. D. (Pursuing)",
     "research_interests": [
-      "Blockchain Technology, Data Structures & Algorithms, Java Programming"
+      "Blockchain Technology",
+      "Data Structures & Algorithms",
+      "Java Programming"
     ],
     "image_src": "/CSPIT_Faculty/CSE/VIDISHA.webp",
     "subjects": [
-      "Java Programming, Data Structure & Algorithms, Database Management Systems, Design & Analysis of Algorithms, Competitive Programming, Blockchain Technology & Applications"
+      "Java Programming",
+      "Data Structure & Algorithms",
+      "Database Management Systems",
+      "Design & Analysis of Algorithms",
+      "Competitive Programming",
+      "Blockchain Technology & Applications"
     ],
     "research_projects": [],
     "teaching": [],
@@ -3186,20 +3127,22 @@
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/405779",
     "awards": [],
     "memberships": [],
-    "certifications": [
-      "Ethical Hacking"
-    ]
+    "certifications": ["Ethical Hacking"]
   },
   {
     "name": "Dr. Vijaykumar Chaudhary",
     "title": "PROFESSOR, DEAN (FTE) & HEAD (ME)",
     "degree": "Ph. D.",
     "research_interests": [
-      "Machining of Polymer Matrix Composite, Computer Aided Engineering"
+      "Machining of Polymer Matrix Composite",
+      "Computer Aided Engineering"
     ],
     "image_src": "/CSPIT_Faculty/Mechanical/VIJAYKUMAR.webp",
     "subjects": [
-      "Computer Aided Engineering, CAD & CAM, Machine Design, Engineering Graphics"
+      "Computer Aided Engineering",
+      "CAD & CAM",
+      "Machine Design",
+      "Engineering Graphics"
     ],
     "research_projects": [],
     "teaching": [
@@ -3211,24 +3154,16 @@
     "scholar": "https://scholar.google.com/citations?hl=en&user=U_KjZU0AAAAJ",
     "vidwan": "https://vidwan.inflibnet.ac.in/profile/161226",
     "awards": [],
-    "memberships": [
-      "Institution of Engineers (IE), ISTE, AMM, ISRD"
-    ],
-    "certifications": [
-      "Autodesk certifications on AutoCAD"
-    ]
+    "memberships": ["Institution of Engineers (IE), ISTE, AMM, ISRD"],
+    "certifications": ["Autodesk certifications on AutoCAD"]
   },
   {
     "name": "Dr. Vijaykumar Panchal",
     "title": "PROFESSOR, HEAD (CL)",
     "degree": "Ph. D.",
-    "research_interests": [
-      "Structural Engineering, Base Isolation"
-    ],
+    "research_interests": ["Structural Engineering", "Base Isolation"],
     "image_src": "/CSPIT_Faculty/Civil/VIJAYKUMAR.webp",
-    "subjects": [
-      "CLUE501"
-    ],
+    "subjects": ["CLUE501"],
     "research_projects": [],
     "teaching": [],
     "email": "vijaypanchal.cv@charusat.ac.in",
@@ -3236,9 +3171,7 @@
     "website": "",
     "scholar": "https://scholar.google.com/citations?hl=en&user=CnYWPlQAAAAJ",
     "vidwan": "",
-    "awards": [
-      "Best research paper award"
-    ],
+    "awards": ["Best research paper award"],
     "memberships": [],
     "certifications": []
   },
@@ -3247,7 +3180,9 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. E.",
     "research_interests": [
-      "Material characterization, Design of machines, Metallurgy"
+      "Material characterization",
+      "Design of machines",
+      "Metallurgy"
     ],
     "image_src": "/CSPIT_Faculty/Mechanical/VIKAS.webp",
     "subjects": [
@@ -3282,25 +3217,33 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. E.",
     "research_interests": [
-      "Earthquake engineering, Structural Engineering, Concrete Technology"
+      "Earthquake engineering",
+      "Structural Engineering",
+      "Concrete Technology"
     ],
     "image_src": "/CSPIT_Faculty/Civil/VIPUL.webp",
     "subjects": [
-      "M.O.S, E.M, C.T, S.D.E.E, B.R.R, S.ANA1,S.ANA2,S.ANA3, Design of Structures, B.C.T, E.S"
+      "M.O.S",
+      "E.M",
+      "C.T",
+      "S.D.E.E",
+      "B.R.R",
+      "S.ANA1",
+      "S.ANA2",
+      "S.ANA3",
+      "Design of Structures",
+      "B.C.T",
+      "E.S"
     ],
     "research_projects": [],
-    "teaching": [
-      "N.A"
-    ],
+    "teaching": ["N.A"],
     "email": "vipulvyas.cv@charusat.ac.in",
     "linkedin": "https://www.linkedin.com/in/vipul-vyas-19214bab/",
     "website": "N.A",
     "scholar": "https://scholar.google.com/citations?user=HT_XVAkAAAAJ&hl=en",
     "vidwan": "",
     "awards": [],
-    "memberships": [
-      "STRUCTURAL ENGINEERING FORUM OF INDIA [SEFI]"
-    ],
+    "memberships": ["STRUCTURAL ENGINEERING FORUM OF INDIA [SEFI]"],
     "certifications": []
   },
   {
@@ -3308,11 +3251,20 @@
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech. CAD/CAM",
     "research_interests": [
-      "Metal Casting, Material Science, Engineering Drawing, Creativity, probelm solving and innovation"
+      "Metal Casting",
+      "Material Science",
+      "Engineering Drawing",
+      "Creativity",
+      "problem solving and innovation"
     ],
     "image_src": "/CSPIT_Faculty/Mechanical/VIRAL.webp",
     "subjects": [
-      "Metal Casting, Material science, Engineering drawing, creativity, problem solving and innovation. pneumatic and hydraulic systems"
+      "Metal Casting",
+      "Material science",
+      "Engineering drawing",
+      "creativity",
+      "problem solving and innovation",
+      "pneumatic and hydraulic systems"
     ],
     "research_projects": [],
     "teaching": [],
@@ -3329,9 +3281,7 @@
     "name": "Mr. Vishal Shah",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M.E.",
-    "research_interests": [
-      "Wireless Communication, Embedded System"
-    ],
+    "research_interests": ["Wireless Communication", "Embedded System"],
     "image_src": "/CSPIT_Faculty/Electronics/VISHAL.webp",
     "subjects": [
       "Python Programming",
@@ -3349,8 +3299,6 @@
     "vidwan": "",
     "awards": [],
     "memberships": [],
-    "certifications": [
-      "Google Advanced Data Analytics Capstone"
-    ]
+    "certifications": ["Google Advanced Data Analytics Capstone"]
   }
 ]

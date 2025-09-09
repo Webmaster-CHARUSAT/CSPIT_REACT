@@ -89,5 +89,52 @@
     "certifications": [
       "-"
     ]
-  }
+  },
+  {
+    "name": "Ms. Jalpa Ardeshana",
+    "title": "ASSISTANT PROFESSOR",
+    "degree": "M. Tech.",
+    "research_interests": [
+      "Data Structures , Cloud Computing, Machine Learning"
+    ],
+    "image_src": "/CSPIT_Faculty/AIML/JALPA.webp",
+    "subjects": [
+      "C/C++, Data Structures, Operating System, Cryptography"
+    ],
+    "research_projects": [],
+    "teaching": [],
+    "email": "jalpaardeshana.aiml@charusat.ac.in",
+    "linkedin": "https://www.linkedin.com/in/jalpa-ardesha--381496b7/",
+    "website": "",
+    "scholar": "https://scholar.google.com/citations?hl=en&user=geQNAr_QAAAAJ",
+    "vidwan": "https://vidwan.inflibnet.ac.in/profile/319102",
+    "awards": [],
+    "memberships": [],
+    "certifications": []
+  },
+  {
+    "name": "Dr. Kundan Patel",
+    "title": "ASSOCIATE PROFESSOR",
+    "degree": "Ph. D.",
+    "research_interests": [
+      "Manufacturing of composites, Design of Experiments, Machining of",
+      "Composites"
+    ],
+    "image_src": "/CSPIT_Faculty/Mechanical/KUNDAN.webp",
+    "subjects": [
+      "Machining and Forming Processes, Computer Aided Design, Computer Aided Manufacturing, Hydraulics & Pneumatics, Unconventional Machining Processes, CNC Technology & Programming."
+    ],
+    "research_projects": [],
+    "teaching": [],
+    "email": "kundanpatel.me@charusat.ac.in",
+    "linkedin": "www.linkedin.com/in/kundan-patel-b9508b27b",
+    "website": "",
+    "scholar": "https://scholar.google.co.in/citations?user=DoBv8TUAAAAJ&hl=en",
+    "vidwan": "https://vidwan.inflibnet.ac.in/profile/161365",
+    "awards": [],
+    "memberships": [
+      "ISTE"
+    ],
+    "certifications": []
+  } 
 ]
