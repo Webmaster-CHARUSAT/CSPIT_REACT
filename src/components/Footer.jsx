@@ -52,18 +52,19 @@ const Footer = () => {
       content: (
         <ul className="space-y-3">
           {[
-            "Information Technology",
-            "Civil Engineering",
-            "Electronics & Communication Engineering",
-            "Mechanical Engineering",
-            "Computer Engineering",
-            "Electrical Engineering",
-            "Computer Science and Engineering"
-          ].map((dept, index) => (
+            { dept: "Information Technology", link: "https://www.charusat.ac.in/documents/pdfs/data_1/1-4-2/1.4.2_FTE_IT_23-24.pdf" },
+            { dept: "Civil Engineering", link: "https://charusat.ac.in/documents/pdfs/data_1/1-4-2/1.4.2_FTE_CL_23-24.pdf" },
+            { dept: "Electronics & Communication Engineering", link: "https://charusat.ac.in/documents/pdfs/data_1/1-4-2/1.4.2_FTE_EC_23-24.pdf" },
+            { dept: "Mechanical Engineering", link: "https://charusat.ac.in/documents/pdfs/data_1/1-4-2/1.4.2_FTE_ME_23-24.pdf" },
+            { dept: "Computer Engineering", link: "https://charusat.ac.in/documents/pdfs/data_1/1-4-2/1.4.2_FTE_CE_23-24.pdf" },
+            { dept: "Electrical Engineering", link: "https://charusat.ac.in/documents/pdfs/data_1/1-4-2/1.4.2_FTE_EE_23-24.pdf" },
+            { dept: "Computer Science and Engineering", link: "#" },
+            { dept: "Artificial Intelligence & Machine Learning", link: "https://charusat.ac.in/documents/pdfs/data_1/1-4-2/1.4.2_FTE_AIML_23-24.pdf" },
+          ].map((item, index) => (
             <li key={index} className="flex flex-col md:flex-row justify-between border-b border-gray-600 pb-2">
-              <span className="font-medium">{dept}</span>
+              <span className="font-medium">{item.dept}</span>
               <span className="mt-1 md:mt-0">
-                <a href="" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">2023-2024</a>
+                <a href={item.link} target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">2023-2024</a>
               </span>
             </li>
           ))}
