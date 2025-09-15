@@ -95,58 +95,63 @@ const submenuMap = {
     },
     { label: "Research Projects", to: "/research-project", external: true },
   ],
-  "STUDENT CORNER": [
-    {
-      label: "Code Of Conduct",
-      to: "https://www.charusat.ac.in/documents/pdfs/data_1/Code_Of_Conduct/Student%20code%20of%20Conduct.pdf",
-      external: true,
-    },
-    {
-      label: "Student Handbook",
-      to: "/drive?folderId=1LgF2k8N_GeRCs-O50PvXUiywW-Bk8Lyw&heading=STUDENT%20HANDBOOK",
-      external: true,
-    },
-    {
-      label: "Syllabus",
-      to: "/drive?folderId=1CrY0oeDZrnVZRuBwtTIp3MVIs9EoXCl2&heading=SYLLABUS",
-      external: true,
-    },
-    {
-      label: "Request Transcript",
-      to: "https://charusat.edu.in:912/OthPaymentApp/",
-      external: true,
-    },
-    {
-      label: "Pay Fees",
-      to: "https://charusat.edu.in:912/FeesPaymentApp/",
-      external: true,
-    },
-    {
-      label: "View Result",
-      to: "https://charusat.edu.in:912/Uniexamresult/",
-      external: true,
-    },
-    {
-      label: "i-create",
-      to: "https://icreate.charusat.ac.in/",
-      external: true,
-    },
-    {
-      label: "Question Papers",
-      to: "/drive?folderId=1U1hIPybwqdsF9Nn_K6QKom0Kg5yAWCaW&heading=QUESTION%20PAPERS",
-      external: true,
-    },
-    {
-      label: "Academic Calender",
-      to: "/drive?folderId=1EWfAd0mJ3MIVNA7Ct3XnHfS6aKpG2NeJ&heading=ACADEMIC%20CALENDER",
-      external: true,
-    },
-    {
-      label: "Student Support Policy",
-      to: "./files/student_support_policy_UGSF_PGSF.pdf",
-      external: true,
-    },
-  ],
+  // "STUDENT CORNER": [
+  //   {
+  //     label: "Code Of Conduct",
+  //     to: "https://www.charusat.ac.in/documents/pdfs/data_1/Code_Of_Conduct/Student%20code%20of%20Conduct.pdf",
+  //     external: true,
+  //   },
+  //   {
+  //     label: "Student Handbook",
+  //     to: "/drive?folderId=1LgF2k8N_GeRCs-O50PvXUiywW-Bk8Lyw&heading=STUDENT%20HANDBOOK",
+  //     external: true,
+  //   },
+  //   {
+  //     label: "Syllabus",
+  //     to: "/drive?folderId=1CrY0oeDZrnVZRuBwtTIp3MVIs9EoXCl2&heading=SYLLABUS",
+  //     external: true,
+  //   },
+  //   {
+  //     label: "Request Transcript",
+  //     to: "https://charusat.edu.in:912/OthPaymentApp/",
+  //     external: true,
+  //   },
+  //   {
+  //     label: "Pay Fees",
+  //     to: "https://charusat.edu.in:912/FeesPaymentApp/",
+  //     external: true,
+  //   },
+  //   {
+  //     label: "View Result",
+  //     to: "https://charusat.edu.in:912/Uniexamresult/",
+  //     external: true,
+  //   },
+  //   {
+  //     label: "i-create",
+  //     to: "https://icreate.charusat.ac.in/",
+  //     external: true,
+  //   },
+  //   {
+  //     label: "Question Papers",
+  //     to: "/drive?folderId=1U1hIPybwqdsF9Nn_K6QKom0Kg5yAWCaW&heading=QUESTION%20PAPERS",
+  //     external: true,
+  //   },
+  //   {
+  //     label: "Academic Calender",
+  //     to: "/drive?folderId=1EWfAd0mJ3MIVNA7Ct3XnHfS6aKpG2NeJ&heading=ACADEMIC%20CALENDER",
+  //     external: true,
+  //   },
+  //   {
+  //     label: "Student Support Policy",
+  //     to: "./files/student_support_policy_UGSF_PGSF.pdf",
+  //     external: true,
+  //   },
+  //   {
+  //     label: "Skill Augmentation Course Guidelines ",
+  //     to: "./files/Annexure 1 Activity points - Updated_12 May 2025.pdf",
+  //     external: true,
+  //   }
+  // ],
 };
 
 const mainNav = [
@@ -155,7 +160,7 @@ const mainNav = [
   { label: "CENTRES", submenu: true },
   { label: "COMMITTEES", submenu: true },
   { label: "RESEARCH", submenu: true },
-  { label: "STUDENT CORNER", submenu: true },
+  { label: "STUDENT CORNER", to: "/StudentCorner", external: true },
 ];
 
 function NavLink({ to, label, external, ...props }) {

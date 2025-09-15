@@ -74,6 +74,8 @@ import FacultyDetails from './components/FacultyDetail';
 import DriveContentViewer from './components/Drive';
 import AboutSection from './components/Welcome';
 import ECC from './components/ECC';
+import StudentCornerPage from './components/StudentCorner';
+
 
 function HomePage() {
   return (
@@ -123,6 +125,7 @@ function App() {
           <Route path="/" element={<HomePage />} />
           <Route path="/club/:clubId" element={<ClubDetails />} />
           <Route path="/about" element={<AboutUsSection/>} />
+          <Route path="/StudentCorner" element={<StudentCornerPage />} />
           <Route path="/research-project" element={<ResearchProjects />} />
           <Route path="/research-facilities" element={<ResearchFacilities />} />
           <Route path='/faculty' element={<FacultySection />} />
