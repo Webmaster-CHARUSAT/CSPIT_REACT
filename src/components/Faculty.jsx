@@ -24,6 +24,9 @@ const FacultySection = () => {
   const handleFacultyClick = (facultyName) => {
     // Using React Router navigation instead of direct URL manipulation
     navigate(`/faculty/${encodeURIComponent(facultyName)}`);
+
+    // ----------- Opening in new tab -----------
+    // window.open(`/faculty/${encodeURIComponent(facultyName)}`, '_blank');
   };
 
   return (
