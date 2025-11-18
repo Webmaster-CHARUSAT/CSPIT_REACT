@@ -75,7 +75,8 @@ import DriveContentViewer from './components/Drive';
 import AboutSection from './components/Welcome';
 import ECC from './components/ECC';
 import StudentCornerPage from './components/StudentCorner';
-
+import EventsSection from './components/Events';
+import EventsPage from './components/EventsPage';
 
 function HomePage() {
   return (
@@ -91,6 +92,8 @@ function HomePage() {
       <ProfessionalSocietiesSection />
       <br />
       <StudentClubsSection />
+      <br/>
+      <EventsSection />
       <br/>
       <StudentProjectsSection />
       <RecruitersSection />
@@ -136,6 +139,7 @@ function App() {
               <ECC />
             </div>
           } />
+          <Route path="/events" element={<EventsPage />} />
         </Routes>
         <Footer />
       </div>

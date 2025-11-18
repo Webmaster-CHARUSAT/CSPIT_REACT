@@ -1,0 +1,164 @@
+[
+  {
+    "id": "gallery-aws-commuinity-day",
+    "title": "AWS Commuinity Day",
+    "shortTitle": "AWS Commuinity Day",
+    "thumbnail": "/images/gallery/AWS Commuinity Day/aws1.webp",
+    "images": [
+      "/images/gallery/AWS Commuinity Day/aws1.webp",
+      "/images/gallery/AWS Commuinity Day/aws2.webp",
+      "/images/gallery/AWS Commuinity Day/aws3.webp",
+      "/images/gallery/AWS Commuinity Day/aws5.webp",
+      "/images/gallery/AWS Commuinity Day/aws7.webp"
+    ],
+    "description": "AWS Commuinity Day event gallery.",
+    "date": "01 November 2025"
+  },
+  {
+    "id": "gallery-civil-endowment-chair",
+    "title": "Civil Endowment Chair",
+    "shortTitle": "Civil Endowment Chair",
+    "thumbnail": "/images/gallery/Civil Endowment Chair/civil_end_1.webp",
+    "images": [
+      "/images/gallery/Civil Endowment Chair/civil_end_1.webp",
+      "/images/gallery/Civil Endowment Chair/civil_end_10.webp",
+      "/images/gallery/Civil Endowment Chair/civil_end_11.webp",
+      "/images/gallery/Civil Endowment Chair/civil_end_2.webp",
+      "/images/gallery/Civil Endowment Chair/civil_end_3.webp",
+      "/images/gallery/Civil Endowment Chair/civil_end_4.webp",
+      "/images/gallery/Civil Endowment Chair/civil_end_5.webp",
+      "/images/gallery/Civil Endowment Chair/civil_end_6.webp",
+      "/images/gallery/Civil Endowment Chair/civil_end_7.webp",
+      "/images/gallery/Civil Endowment Chair/civil_end_8.webp"
+    ],
+    "description": "Civil Endowment Chair event gallery.",
+    "date": "10 November 2025"
+  },
+  {
+    "id": "gallery-cultural",
+    "title": "Cultural Events",
+    "shortTitle": "Cultural Events",
+    "thumbnail": "/images/gallery/Cultural/cultural1.webp",
+    "images": [
+      "/images/gallery/Cultural/cultural1.webp",
+      "/images/gallery/Cultural/cultural2.webp",
+      "/images/gallery/Cultural/cultural3.webp",
+      "/images/gallery/Cultural/cultural4.webp",
+      "/images/gallery/Cultural/cultural5.webp",
+      "/images/gallery/Cultural/cultural6.webp",
+      "/images/gallery/Cultural/cultural7.webp",
+      "/images/gallery/Cultural/spoural1.webp",
+      "/images/gallery/Cultural/spoural2.webp",
+      "/images/gallery/Cultural/spoural3.webp"
+    ],
+    "description": "Cultural event gallery.",
+    "date": "15 November 2025"
+  },
+  {
+    "id": "gallery-dosehack",
+    "title": "dosehack",
+    "shortTitle": "dosehack",
+    "thumbnail": "/images/gallery/dosehack/dose0.webp",
+    "images": [
+      "/images/gallery/dosehack/dose0.webp",
+      "/images/gallery/dosehack/dose1.webp",
+      "/images/gallery/dosehack/dose2.webp",
+      "/images/gallery/dosehack/dose7.webp",
+      "/images/gallery/dosehack/dose9.webp"
+    ],
+    "description": "dosehack event gallery.",
+    "date": "10 November 2025"
+  },
+  {
+    "id": "gallery-mechanical-endowment-chair",
+    "title": "Mechanical Endowment Chair",
+    "shortTitle": "Mechanical Endowment Chair",
+    "thumbnail": "/images/gallery/Mechanical Endowment Chair/mech1.webp",
+    "images": [
+      "/images/gallery/Mechanical Endowment Chair/mech1.webp",
+      "/images/gallery/Mechanical Endowment Chair/mech10.webp",
+      "/images/gallery/Mechanical Endowment Chair/mech11.webp",
+      "/images/gallery/Mechanical Endowment Chair/mech12.webp",
+      "/images/gallery/Mechanical Endowment Chair/mech2.webp",
+      "/images/gallery/Mechanical Endowment Chair/mech3.webp",
+      "/images/gallery/Mechanical Endowment Chair/mech4.webp",
+      "/images/gallery/Mechanical Endowment Chair/mech5.webp",
+      "/images/gallery/Mechanical Endowment Chair/mech6.webp",
+      "/images/gallery/Mechanical Endowment Chair/mech7.webp"
+    ],
+    "description": "Mechanical Endowment Chair event gallery.",
+    "date": "10 September 2025"
+  },
+  {
+    "id": "gallery-semiconductor",
+    "title": "semiconductor",
+    "shortTitle": "semiconductor",
+    "thumbnail": "/images/gallery/semiconductor/semi2.webp",
+    "images": [
+      "/images/gallery/semiconductor/semi2.webp",
+      "/images/gallery/semiconductor/semi3.webp",
+      "/images/gallery/semiconductor/semi4.webp",
+      "/images/gallery/semiconductor/semi5.webp",
+      "/images/gallery/semiconductor/semi6.png",
+      "/images/gallery/semiconductor/semi6.webp"
+    ],
+    "description": "semiconductor event gallery.",
+    "date": "01 August 2025"
+  },
+  {
+    "id": "gallery-sports",
+    "title": "Sports",
+    "shortTitle": "Sports",
+    "thumbnail": "/images/gallery/Sports/chess1.webp",
+    "images": [
+      "/images/gallery/Sports/chess1.webp",
+      "/images/gallery/Sports/chess2.webp",
+      "/images/gallery/Sports/cricketboys.webp",
+      "/images/gallery/Sports/cricketboys1.webp",
+      "/images/gallery/Sports/cricketfac.webp",
+      "/images/gallery/Sports/cricketgirls.webp",
+      "/images/gallery/Sports/DSC00690_11_11zon.webp",
+      "/images/gallery/Sports/esports.webp",
+      "/images/gallery/Sports/footballgirls.webp",
+      "/images/gallery/Sports/frisbee.webp"
+    ],
+    "description": "Sports event gallery.",
+    "date": "15 August 2025"
+  },
+  {
+    "id": "gallery-technical",
+    "title": "Technical",
+    "shortTitle": "Technical",
+    "thumbnail": "/images/gallery/Technical/experttalk.webp",
+    "images": [
+      "/images/gallery/Technical/experttalk.webp",
+      "/images/gallery/Technical/innotech1.webp",
+      "/images/gallery/Technical/odoo1.webp",
+      "/images/gallery/Technical/odoo2.webp",
+      "/images/gallery/Technical/odoo3.webp",
+      "/images/gallery/Technical/semi1.webp",
+      "/images/gallery/Technical/semiconductor2.webp",
+      "/images/gallery/Technical/semiconductor3.webp",
+      "/images/gallery/Technical/tech1.webp",
+      "/images/gallery/Technical/tech2.webp"
+    ],
+    "description": "Technical event gallery.",
+    "date": "20 May 2025"
+  },
+  {
+    "id": "gallery-tedx",
+    "title": "TEDx",
+    "shortTitle": "TEDx",
+    "thumbnail": "/images/gallery/TEDx/ted10.webp",
+    "images": [
+      "/images/gallery/TEDx/ted10.webp",
+      "/images/gallery/TEDx/ted15.webp",
+      "/images/gallery/TEDx/ted18.webp",
+      "/images/gallery/TEDx/ted5.webp",
+      "/images/gallery/TEDx/_ted1.webp",
+      "/images/gallery/TEDx/_ted4.webp"
+    ],
+    "description": "TEDx event gallery.",
+    "date": "10 March 2025"
+  }
+]
