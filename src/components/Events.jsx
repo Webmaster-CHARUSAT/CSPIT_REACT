@@ -212,7 +212,7 @@ const EventsSection = () => {
         </div>
       </section>
 
-      {/* Event Popup - Option 2: Card Style */}
+      {/* Event Popup  */}
       {selectedEvent && (
         <div className="fixed inset-0 z-50 flex items-center justify-center p-4" style={{ backgroundColor: 'rgba(0, 0, 0, 0.9)' }}>
           <div className="bg-white rounded-2xl w-full max-w-5xl max-h-[90vh] overflow-auto relative shadow-2xl">
