@@ -287,6 +287,7 @@ const EventsSection = () => {
                         onClick={prevSlide}
                         className="absolute left-1 top-1/2 -translate-y-1/2 bg-white/50 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg transition"
                       >
+                        
                         <FontAwesomeIcon
                           icon={faChevronLeft}
                           className="w-5 h-5"
