@@ -1,164 +1,64 @@
 [
   {
-    "id": "gallery-aws-commuinity-day",
-    "title": "AWS Commuinity Day",
-    "shortTitle": "AWS Commuinity Day",
-    "thumbnail": "/images/gallery/AWS Commuinity Day/aws1.webp",
+    "id": "fundamentals-of-ux-workshop",
+    "title": "Workshop on Fundamentals of UX",
+    "thumbnail": "/images/Events/Fundamentals_UX/thumbnail.webp",
     "images": [
-      "/images/gallery/AWS Commuinity Day/aws1.webp",
-      "/images/gallery/AWS Commuinity Day/aws2.webp",
-      "/images/gallery/AWS Commuinity Day/aws3.webp",
-      "/images/gallery/AWS Commuinity Day/aws5.webp",
-      "/images/gallery/AWS Commuinity Day/aws7.webp"
+      "/images/Events/Fundamentals_UX/1.webp",
+      "/images/Events/Fundamentals_UX/2.webp",
+      "/images/Events/Fundamentals_UX/3.webp",
+      "/images/Events/Fundamentals_UX/4.webp",
+      "/images/Events/Fundamentals_UX/5.webp",
+      "/images/Events/Fundamentals_UX/6.webp"
     ],
-    "description": "AWS Commuinity Day event gallery.",
-    "date": "01 November 2025"
+    "description": "The Smt. Kundanben Dinsha Patel Department of Information Technology, CHARUSAT, organized a workshop on “Hands-on Design Thinking & User Experience (UX): Bridging Empathy with Logic” on September 16, 2025, at 628A, A7 Building. Ms. Palak Jadhav, Director – UX at Lemon Yellow LLP, served as the expert speaker and guided 47 participants through key UX fundamentals and modern UI trends. The workshop covered essential principles such as Hick’s Law, Miller’s Law, Fitts’s Law, Jakob’s Law, Cognitive Load, Aesthetic Usability, and more. Students also engaged in hands-on activities using Figma, effectively connecting theoretical concepts with practical application.",
+    "date": "16 September 2025"
   },
   {
-    "id": "gallery-civil-endowment-chair",
-    "title": "Civil Endowment Chair",
-    "shortTitle": "Civil Endowment Chair",
-    "thumbnail": "/images/gallery/Civil Endowment Chair/civil_end_1.webp",
+    "id": "fundamentals-of-network-security-workshop",
+    "title": "Workshop - Fundamentals of Network Sniffing",
+    "thumbnail": "/images/Events/Fundamentals_Network_Sniffing/thumbnail.webp",
     "images": [
-      "/images/gallery/Civil Endowment Chair/civil_end_1.webp",
-      "/images/gallery/Civil Endowment Chair/civil_end_10.webp",
-      "/images/gallery/Civil Endowment Chair/civil_end_11.webp",
-      "/images/gallery/Civil Endowment Chair/civil_end_2.webp",
-      "/images/gallery/Civil Endowment Chair/civil_end_3.webp",
-      "/images/gallery/Civil Endowment Chair/civil_end_4.webp",
-      "/images/gallery/Civil Endowment Chair/civil_end_5.webp",
-      "/images/gallery/Civil Endowment Chair/civil_end_6.webp",
-      "/images/gallery/Civil Endowment Chair/civil_end_7.webp",
-      "/images/gallery/Civil Endowment Chair/civil_end_8.webp"
+      "/images/Events/Fundamentals_Network_Sniffing/1.webp",
+      "/images/Events/Fundamentals_Network_Sniffing/2.webp",
+      "/images/Events/Fundamentals_Network_Sniffing/3.webp",
+      "/images/Events/Fundamentals_Network_Sniffing/4.webp",
+      "/images/Events/Fundamentals_Network_Sniffing/5.webp",
+      "/images/Events/Fundamentals_Network_Sniffing/6.webp"
     ],
-    "description": "Civil Endowment Chair event gallery.",
-    "date": "10 November 2025"
+    "description": "Successfully organized a One-Day Workshop on Wireshark for Beginners on 22/09/2025, exclusively for Semester 3 CSPIT-IT students. The session was delivered by Mr. Ankit Bilwankar, Founder of Vivekananda IT Institute, a renowned Trainer and Cyber Security Consultant. Students gained hands-on experience in network fundamentals, packet analysis, and real-time traffic monitoring, which enhanced their understanding of networking concepts and improved their troubleshooting and problem-solving skills.",
+    "date": "22 September 2025"
   },
   {
-    "id": "gallery-cultural",
-    "title": "Cultural Events",
-    "shortTitle": "Cultural Events",
-    "thumbnail": "/images/gallery/Cultural/cultural1.webp",
+    "id": "mathematical-foundation-of-machine-learning-expert-talk",
+    "title": "Mathematical Foundations of Machine Learning",
+    "thumbnail": "/images/Events/Mathematical_Foundation_ML/1.webp",
     "images": [
-      "/images/gallery/Cultural/cultural1.webp",
-      "/images/gallery/Cultural/cultural2.webp",
-      "/images/gallery/Cultural/cultural3.webp",
-      "/images/gallery/Cultural/cultural4.webp",
-      "/images/gallery/Cultural/cultural5.webp",
-      "/images/gallery/Cultural/cultural6.webp",
-      "/images/gallery/Cultural/cultural7.webp",
-      "/images/gallery/Cultural/spoural1.webp",
-      "/images/gallery/Cultural/spoural2.webp",
-      "/images/gallery/Cultural/spoural3.webp"
+      "/images/Events/Mathematical_Foundation_ML/1.webp",
+      "/images/Events/Mathematical_Foundation_ML/2.webp",
+      "/images/Events/Mathematical_Foundation_ML/3.webp",
+      "/images/Events/Mathematical_Foundation_ML/4.webp",
+      "/images/Events/Mathematical_Foundation_ML/5.webp"
     ],
-    "description": "Cultural event gallery.",
-    "date": "15 November 2025"
+    "description": "Dr. Jignesh Bhatt from IIIT Vadodara delivered an expert talk on the mathematical foundations of machine learning. The session covered key concepts of linear algebra, probability theory, and regression analysis, highlighting their crucial role in building effective ML models. Participants gained insights into the mathematical underpinnings of prediction and classification techniques in machine learning.",
+    "date": "26 September 2025"
   },
   {
-    "id": "gallery-dosehack",
-    "title": "dosehack",
-    "shortTitle": "dosehack",
-    "thumbnail": "/images/gallery/dosehack/dose0.webp",
+    "id": "capacity-building-program-support-staff",
+    "title": "Capacity Building Program for Support Staff",
+    "thumbnail": "/images/Events/Capacity_Building_Program_Support_Staff/1.webp",
     "images": [
-      "/images/gallery/dosehack/dose0.webp",
-      "/images/gallery/dosehack/dose1.webp",
-      "/images/gallery/dosehack/dose2.webp",
-      "/images/gallery/dosehack/dose7.webp",
-      "/images/gallery/dosehack/dose9.webp"
+      "/images/Events/Capacity_Building_Program_Support_Staff/1.webp",
+      "/images/Events/Capacity_Building_Program_Support_Staff/2.webp",
+      "/images/Events/Capacity_Building_Program_Support_Staff/3.webp",
+      "/images/Events/Capacity_Building_Program_Support_Staff/4.webp",
+      "/images/Events/Capacity_Building_Program_Support_Staff/5.webp",
+      "/images/Events/Capacity_Building_Program_Support_Staff/6.webp",
+      "/images/Events/Capacity_Building_Program_Support_Staff/7.webp",
+      "/images/Events/Capacity_Building_Program_Support_Staff/8.webp",
+      "/images/Events/Capacity_Building_Program_Support_Staff/9.webp"
     ],
-    "description": "dosehack event gallery.",
-    "date": "10 November 2025"
-  },
-  {
-    "id": "gallery-mechanical-endowment-chair",
-    "title": "Mechanical Endowment Chair",
-    "shortTitle": "Mechanical Endowment Chair",
-    "thumbnail": "/images/gallery/Mechanical Endowment Chair/mech1.webp",
-    "images": [
-      "/images/gallery/Mechanical Endowment Chair/mech1.webp",
-      "/images/gallery/Mechanical Endowment Chair/mech10.webp",
-      "/images/gallery/Mechanical Endowment Chair/mech11.webp",
-      "/images/gallery/Mechanical Endowment Chair/mech12.webp",
-      "/images/gallery/Mechanical Endowment Chair/mech2.webp",
-      "/images/gallery/Mechanical Endowment Chair/mech3.webp",
-      "/images/gallery/Mechanical Endowment Chair/mech4.webp",
-      "/images/gallery/Mechanical Endowment Chair/mech5.webp",
-      "/images/gallery/Mechanical Endowment Chair/mech6.webp",
-      "/images/gallery/Mechanical Endowment Chair/mech7.webp"
-    ],
-    "description": "Mechanical Endowment Chair event gallery.",
-    "date": "10 September 2025"
-  },
-  {
-    "id": "gallery-semiconductor",
-    "title": "semiconductor",
-    "shortTitle": "semiconductor",
-    "thumbnail": "/images/gallery/semiconductor/semi2.webp",
-    "images": [
-      "/images/gallery/semiconductor/semi2.webp",
-      "/images/gallery/semiconductor/semi3.webp",
-      "/images/gallery/semiconductor/semi4.webp",
-      "/images/gallery/semiconductor/semi5.webp",
-      "/images/gallery/semiconductor/semi6.png",
-      "/images/gallery/semiconductor/semi6.webp"
-    ],
-    "description": "semiconductor event gallery.",
-    "date": "01 August 2025"
-  },
-  {
-    "id": "gallery-sports",
-    "title": "Sports",
-    "shortTitle": "Sports",
-    "thumbnail": "/images/gallery/Sports/chess1.webp",
-    "images": [
-      "/images/gallery/Sports/chess1.webp",
-      "/images/gallery/Sports/chess2.webp",
-      "/images/gallery/Sports/cricketboys.webp",
-      "/images/gallery/Sports/cricketboys1.webp",
-      "/images/gallery/Sports/cricketfac.webp",
-      "/images/gallery/Sports/cricketgirls.webp",
-      "/images/gallery/Sports/DSC00690_11_11zon.webp",
-      "/images/gallery/Sports/esports.webp",
-      "/images/gallery/Sports/footballgirls.webp",
-      "/images/gallery/Sports/frisbee.webp"
-    ],
-    "description": "Sports event gallery.",
-    "date": "15 August 2025"
-  },
-  {
-    "id": "gallery-technical",
-    "title": "Technical",
-    "shortTitle": "Technical",
-    "thumbnail": "/images/gallery/Technical/experttalk.webp",
-    "images": [
-      "/images/gallery/Technical/experttalk.webp",
-      "/images/gallery/Technical/innotech1.webp",
-      "/images/gallery/Technical/odoo1.webp",
-      "/images/gallery/Technical/odoo2.webp",
-      "/images/gallery/Technical/odoo3.webp",
-      "/images/gallery/Technical/semi1.webp",
-      "/images/gallery/Technical/semiconductor2.webp",
-      "/images/gallery/Technical/semiconductor3.webp",
-      "/images/gallery/Technical/tech1.webp",
-      "/images/gallery/Technical/tech2.webp"
-    ],
-    "description": "Technical event gallery.",
-    "date": "20 May 2025"
-  },
-  {
-    "id": "gallery-tedx",
-    "title": "TEDx",
-    "shortTitle": "TEDx",
-    "thumbnail": "/images/gallery/TEDx/ted10.webp",
-    "images": [
-      "/images/gallery/TEDx/ted10.webp",
-      "/images/gallery/TEDx/ted15.webp",
-      "/images/gallery/TEDx/ted18.webp",
-      "/images/gallery/TEDx/ted5.webp",
-      "/images/gallery/TEDx/_ted1.webp",
-      "/images/gallery/TEDx/_ted4.webp"
-    ],
-    "description": "TEDx event gallery.",
-    "date": "10 March 2025"
+    "description": "The Department of Information Technology, CHARUSAT, organized a Capacity Building Program for Supporting Staff on 28th September 2025 at Lab No. 613, A-7 Building, CSPIT. The sessions focused on health and wellness, highlighting preventive tips, physical well-being, and the risks of tobacco consumption. Participants were also introduced to digital and financial literacy, covering basic mobile and internet use, cybersecurity awareness, and government schemes such as Ayushman Bharat and ESIC. The program proved beneficial in enhancing awareness and empowering staff with essential knowledge.",
+    "date": "29 September 2025"
   }
 ]

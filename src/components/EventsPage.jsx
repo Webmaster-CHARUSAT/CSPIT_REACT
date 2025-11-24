@@ -10,20 +10,31 @@ import {
   faFilter,
   faChevronLeft,
   faChevronRight,
-  faXmark,
-  faFaceFrown
+  faFaceFrown,
 } from "@fortawesome/free-solid-svg-icons";
 
 const MONTHS = [
-  "January","February","March","April","May","June",
-  "July","August","September","October","November","December"
+  "January",
+  "February",
+  "March",
+  "April",
+  "May",
+  "June",
+  "July",
+  "August",
+  "September",
+  "October",
+  "November",
+  "December",
 ];
 const YEARS = ["2025", "2024"];
 
 function parseEventDate(dateStr) {
   if (!dateStr || typeof dateStr !== "string") return null;
   const lower = dateStr.toLowerCase();
-  const monthIndex = MONTHS.map(m => m.toLowerCase()).findIndex(m => lower.includes(m));
+  const monthIndex = MONTHS.map((m) => m.toLowerCase()).findIndex((m) =>
+    lower.includes(m)
+  );
   const yearMatch = dateStr.match(/(20\d{2})/);
   const dayMatch = dateStr.match(/\b([0-3]?\d)\b/);
   const year = yearMatch ? Number(yearMatch[1]) : NaN;
@@ -44,11 +55,11 @@ const CustomDropdown = ({ value, options, onChange, icon, label }) => {
         setIsOpen(false);
       }
     };
-    document.addEventListener('mousedown', handleClickOutside);
-    return () => document.removeEventListener('mousedown', handleClickOutside);
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => document.removeEventListener("mousedown", handleClickOutside);
   }, []);
 
-  const selectedLabel = typeof value === 'number' ? MONTHS[value] : value;
+  const selectedLabel = typeof value === "number" ? MONTHS[value] : value;
 
   return (
     <div ref={dropdownRef} className="relative">
@@ -59,22 +70,27 @@ const CustomDropdown = ({ value, options, onChange, icon, label }) => {
         <FontAwesomeIcon icon={icon} className="w-5 h-5 text-gray-500" />
         <div className="flex-1 text-left">
           <div className="text-xs text-gray-500 font-medium">{label}</div>
-          <div className="text-sm font-semibold text-gray-800">{selectedLabel}</div>
+          <div className="text-sm font-semibold text-gray-800">
+            {selectedLabel}
+          </div>
         </div>
-        <FontAwesomeIcon 
+        <FontAwesomeIcon
           icon={faChevronDown}
-          className={`w-4 h-4 text-gray-500 transition-transform duration-200 ${isOpen ? 'rotate-180' : ''}`}
+          className={`w-4 h-4 text-gray-500 transition-transform duration-200 ${
+            isOpen ? "rotate-180" : ""
+          }`}
         />
       </button>
 
       {isOpen && (
         <div className="absolute top-full left-0 mt-2 w-full bg-white rounded-lg shadow-xl border border-gray-200 py-2 z-30 max-h-64 overflow-y-auto">
           {options.map((opt, idx) => {
-            const optValue = typeof opt === 'object' ? opt.value : idx;
-            const optLabel = typeof opt === 'object' ? opt.label : opt;
-            const isSelected = typeof value === 'number' 
-              ? value === optValue 
-              : value === optValue;
+            const optValue = typeof opt === "object" ? opt.value : idx;
+            const optLabel = typeof opt === "object" ? opt.label : opt;
+            const isSelected =
+              typeof value === "number"
+                ? value === optValue
+                : value === optValue;
 
             return (
               <button
@@ -85,14 +101,17 @@ const CustomDropdown = ({ value, options, onChange, icon, label }) => {
                 }}
                 className={`w-full text-left px-4 py-2.5 text-sm transition-colors duration-150 ${
                   isSelected
-                    ? 'bg-blue-50 text-blue-700 font-semibold'
-                    : 'text-gray-700 hover:bg-gray-50'
+                    ? "bg-blue-50 text-blue-700 font-semibold"
+                    : "text-gray-700 hover:bg-gray-50"
                 }`}
               >
                 <div className="flex items-center justify-between">
                   <span>{optLabel}</span>
                   {isSelected && (
-                    <FontAwesomeIcon icon={faCheck} className="w-4 h-4 text-blue-600" />
+                    <FontAwesomeIcon
+                      icon={faCheck}
+                      className="w-4 h-4 text-blue-600"
+                    />
                   )}
                 </div>
               </button>
@@ -109,28 +128,34 @@ const EventsPage = () => {
   const [selectedEvent, setSelectedEvent] = useState(null);
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const [loading, setLoading] = useState(true);
+  const autoSlideRef = useRef(null); // add
 
   const now = new Date();
   const defaultYear = String(now.getFullYear());
   const defaultMonthIndex = now.getMonth();
 
-  const [yearFilter, setYearFilter] = useState(YEARS.includes(defaultYear) ? defaultYear : YEARS[0]);
+  const [yearFilter, setYearFilter] = useState(
+    YEARS.includes(defaultYear) ? defaultYear : YEARS[0]
+  );
   const [monthFilter, setMonthFilter] = useState(defaultMonthIndex);
-  const [allMode, setAllMode] = useState(false);
+  // Change default to show all events
+  const [allMode, setAllMode] = useState(true);
 
   useEffect(() => {
-    fetch('/data/events.json')
-      .then(r => r.json())
-      .then(data => {
-        const withMeta = (data || []).map(e => {
-          const meta = parseEventDate(e.date);
-          return meta ? { ...e, __meta: meta } : null;
-        }).filter(Boolean);
+    fetch("/data/events.json")
+      .then((r) => r.json())
+      .then((data) => {
+        const withMeta = (data || [])
+          .map((e) => {
+            const meta = parseEventDate(e.date);
+            return meta ? { ...e, __meta: meta } : null;
+          })
+          .filter(Boolean);
         withMeta.sort((a, b) => b.__meta.jsDate - a.__meta.jsDate);
         setEventsData(withMeta);
       })
-      .catch(err => {
-        console.error('Error fetching events:', err);
+      .catch((err) => {
+        console.error("Error fetching events:", err);
         setEventsData([]);
       })
       .finally(() => setLoading(false));
@@ -138,17 +163,21 @@ const EventsPage = () => {
 
   const filtered = useMemo(() => {
     if (allMode) return eventsData;
-    return eventsData.filter(e => {
+    return eventsData.filter((e) => {
       const yOk = String(e.__meta.year) === String(yearFilter);
-      const mOk = typeof monthFilter === "number" ? e.__meta.monthIndex === monthFilter : true;
+      const mOk =
+        typeof monthFilter === "number"
+          ? e.__meta.monthIndex === monthFilter
+          : true;
       return yOk && mOk;
     });
   }, [eventsData, yearFilter, monthFilter, allMode]);
 
   const openEventPopup = (event) => {
-    const images = Array.isArray(event.images) && event.images.length > 0
-      ? event.images
-      : [event.thumbnail || "https://placehold.co/600x400"];
+    const images =
+      Array.isArray(event.images) && event.images.length > 0
+        ? event.images
+        : [event.thumbnail || "https://placehold.co/600x400"];
     setSelectedEvent({ ...event, images });
     setCurrentImageIndex(0);
     document.body.style.overflow = "hidden";
@@ -157,7 +186,28 @@ const EventsPage = () => {
   const closeEventPopup = () => {
     setSelectedEvent(null);
     document.body.style.overflow = "auto";
+    if (autoSlideRef.current) {
+      clearInterval(autoSlideRef.current);
+      autoSlideRef.current = null;
+    }
   };
+
+  // Auto-slide when modal is open
+  useEffect(() => {
+    if (!selectedEvent || !selectedEvent.images || selectedEvent.images.length <= 1) return;
+    if (autoSlideRef.current) clearInterval(autoSlideRef.current);
+    autoSlideRef.current = setInterval(() => {
+      setCurrentImageIndex((prev) =>
+        prev === selectedEvent.images.length - 1 ? 0 : prev + 1
+      );
+    },2500);
+    return () => {
+      if (autoSlideRef.current) {
+        clearInterval(autoSlideRef.current);
+        autoSlideRef.current = null;
+      }
+    };
+  }, [selectedEvent]);
 
   const nextSlide = () => {
     if (selectedEvent) {
@@ -180,19 +230,19 @@ const EventsPage = () => {
       className="event-card rounded-xl overflow-hidden shadow-md bg-white flex flex-col cursor-pointer border-2 p-1 border-white w-full"
       onClick={() => openEventPopup(event)}
     >
-      <div className="relative h-[300px]">
+      <div className="relative h-[300px] flex-shrink-0">
         <img
           src={event.thumbnail || "https://placehold.co/600x400"}
-          alt={event.shortTitle}
-          className="w-full h-full object-cover"
+          alt={event.title}
+          className="w-full h-full object-cover rounded-xl"
           loading="lazy"
         />
       </div>
-      <div className="p-4 text-center relative z-[5]">
-        <p className="text-gray-800 font-medium event-card-title text-lg">
-          {event.shortTitle}
+      <div className="p-4 text-center relative z-[5] flex-1 flex flex-col justify-between min-h-[120px]">
+        <p className="text-gray-800 font-semibold event-card-title text-sm leading-tight line-clamp-3 mb-2">
+          {event.title}
         </p>
-        <p className="text-sm text-gray-600 mt-2">📅 {event.date}</p>
+        <p className="text-xs text-gray-600 mt-auto pt-2">📅 {event.date}</p>
       </div>
       <div className="hover-text text-white">VIEW DETAILS</div>
     </div>
@@ -202,31 +252,85 @@ const EventsPage = () => {
     <>
       <style jsx="true">{`
         .event-card {
-          transition: transform 0.4s ease, border 0.3s ease, box-shadow 0.3s ease;
-          position: relative; overflow: hidden; height: 430px;
+          transition: transform 0.4s ease, border 0.3s ease,
+            box-shadow 0.3s ease;
+          position: relative;
+          overflow: hidden;
+          height: 420px;
         }
-        .event-card:hover { transform: scale(1.05); border: #e4ba14 7px solid !important; z-index: 10; box-shadow: 0 10px 25px rgba(0,0,0,0.2); }
-        .event-card:hover::after { content:""; position:absolute; inset:0; background:rgba(0,0,0,0.85); z-index:1; pointer-events:none; }
-        .event-card:hover .event-card-title { color:black; position:relative; z-index:0; }
-        .event-card img { transition: transform 0.3s ease; width:100%; height:100%; object-fit:cover; }
-        .hover-text { position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); font-size:16px; padding:10px 20px;
-          white-space:normal; text-align:center; max-width:90%; opacity:0; transition:opacity 0.3s ease, transform 0.3s ease; z-index:2;
-          text-transform:uppercase; font-weight:bold; pointer-events:none; border:2px solid #e4ba14; border-radius:4px; background-color:rgba(228,186,20,0.2); letter-spacing:1px; }
-        .event-card:hover .hover-text { opacity:1; transform:translate(-50%,-50%); }
+        .event-card:hover {
+          transform: scale(1.05);
+          border: #e4ba14 7px solid !important;
+          z-index: 10;
+          box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+        }
+        .event-card:hover::after {
+          content: "";
+          position: absolute;
+          inset: 0;
+          background: rgba(0, 0, 0, 0.85);
+          z-index: 1;
+          pointer-events: none;
+        }
+        .event-card:hover .event-card-title {
+          color: black;
+          position: relative;
+          z-index: 0;
+        }
+        .event-card img {
+          transition: transform 0.3s ease;
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+        }
+        .hover-text {
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          font-size: 14px;
+          padding: 10px 20px;
+          white-space: normal;
+          text-align: center;
+          max-width: 90%;
+          opacity: 0;
+          transition: opacity 0.3s ease, transform 0.3s ease;
+          z-index: 2;
+          text-transform: uppercase;
+          font-weight: bold;
+          pointer-events: none;
+          border: 2px solid #e4ba14;
+          border-radius: 4px;
+          background-color: rgba(228, 186, 20, 0.2);
+          letter-spacing: 1px;
+        }
+        .event-card:hover .hover-text {
+          opacity: 1;
+          transform: translate(-50%, -50%);
+        }
+        .line-clamp-3 {
+          display: -webkit-box;
+          -webkit-line-clamp: 3;
+          -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
       `}</style>
 
       {/* Header */}
       <div className="bg-gradient-to-r from-[#0056b3] to-[#2081e9] text-white mt-24"></div>
       <div className="bg-gradient-to-r from-[#0056b3] to-[#2081e9] text-white py-10 text-center shadow-md relative">
-        <h1 className="text-4xl font-bold tracking-wider uppercase">All Academic Enrichment Activities Events</h1>
-        <p className="text-lg opacity-90">Browse by year and month or view everything</p>
+        <h1 className="text-4xl font-bold tracking-wider uppercase">
+          All Academic Enrichment Activities Events
+        </h1>
+        <p className="text-lg opacity-90">
+          Browse by year and month or view everything
+        </p>
       </div>
 
       {/* Modern Filter Toolbar */}
-      <div className="bg-white border-b shadow-sm sticky top-0 z-20">
-        <div className="max-w-7xl mx-auto px-4 py-5">
+      <div className="bg-white border-b shadow-sm top-0 z-20 ">
+        <div className=" py-3 container">
           <div className="container flex flex-col lg:flex-row items-stretch lg:items-center justify-between gap-4">
-            
             {/* Left: All Events Button */}
             <button
               onClick={() => setAllMode(true)}
@@ -245,12 +349,14 @@ const EventsPage = () => {
 
             {/* Right: Filter Controls */}
             <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3">
-              
               {/* Year Filter */}
               <CustomDropdown
                 value={yearFilter}
-                options={YEARS.map(y => ({ value: y, label: y }))}
-                onChange={(val) => { setYearFilter(val); setAllMode(false); }}
+                options={YEARS.map((y) => ({ value: y, label: y }))}
+                onChange={(val) => {
+                  setYearFilter(val);
+                  setAllMode(false);
+                }}
                 icon={faCalendar}
                 label="Year"
               />
@@ -259,7 +365,10 @@ const EventsPage = () => {
               <CustomDropdown
                 value={monthFilter}
                 options={MONTHS}
-                onChange={(val) => { setMonthFilter(val); setAllMode(false); }}
+                onChange={(val) => {
+                  setMonthFilter(val);
+                  setAllMode(false);
+                }}
                 icon={faClock}
                 label="Month"
               />
@@ -268,24 +377,26 @@ const EventsPage = () => {
               <button
                 onClick={() => {
                   setAllMode(false);
-                  setYearFilter(YEARS.includes(defaultYear) ? defaultYear : YEARS[0]);
+                  setYearFilter(
+                    YEARS.includes(defaultYear) ? defaultYear : YEARS[0]
+                  );
                   setMonthFilter(defaultMonthIndex);
                 }}
                 className="group flex items-center justify-center gap-2 px-4 py-2.5 rounded-lg bg-white hover:bg-blue-50 border border-gray-300 text-sm font-medium text-gray-700 hover:text-blue-600 transition-all duration-200"
                 title="Reset to current month"
               >
-                <FontAwesomeIcon 
-                  icon={faRotateRight} 
-                  className="w-4 h-4 transition-transform group-hover:rotate-180 duration-300" 
+                <FontAwesomeIcon
+                  icon={faRotateRight}
+                  className="w-4 h-4 transition-transform group-hover:rotate-180 duration-300"
                 />
-                <span className="hidden sm:inline">This Month</span>
+                <span className="sm:inline">This Month</span>
               </button>
             </div>
           </div>
 
           {/* Active Filter Indicator */}
           {!allMode && (
-            <div className="mt-3 flex items-center gap-2 text-xs text-gray-600">
+            <div className="container mt-3 flex items-center gap-2 text-xs text-gray-600">
               <FontAwesomeIcon icon={faFilter} className="w-3.5 h-3.5" />
               <span className="font-medium">Filtered by:</span>
               <span className="bg-blue-100 text-blue-800 px-2 py-0.5 rounded-full font-semibold">
@@ -298,7 +409,7 @@ const EventsPage = () => {
       </div>
 
       {/* Grid */}
-      <section className="py-12 bg-gray-50">
+      <section className="py-12 bg-[#e1e1e1] ">
         <div className="container mx-auto px-4 max-w-7xl">
           {loading ? (
             <div className="text-center text-gray-600 text-xl py-20">
@@ -307,9 +418,16 @@ const EventsPage = () => {
             </div>
           ) : filtered.length === 0 ? (
             <div className="text-center py-20">
-              <FontAwesomeIcon icon={faFaceFrown} className="w-16 h-16 text-gray-400 mx-auto mb-4" />
-              <p className="text-gray-600 text-xl font-medium">No events found</p>
-              <p className="text-gray-500 text-sm mt-2">Try adjusting your filters or view all events</p>
+              <FontAwesomeIcon
+                icon={faFaceFrown}
+                className="w-16 h-16 text-gray-400 mx-auto mb-4"
+              />
+              <p className="text-gray-600 text-xl font-medium">
+                No events found
+              </p>
+              <p className="text-gray-500 text-sm mt-2">
+                Try adjusting your filters or view all events
+              </p>
             </div>
           ) : (
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8 justify-items-center">
@@ -323,79 +441,89 @@ const EventsPage = () => {
 
       {/* Popup (card style) */}
       {selectedEvent && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center p-2" style={{ backgroundColor: 'rgba(0, 0, 0, 0.9)' }}>
-          <div className="bg-white rounded-2xl w-full max-w-5xl max-h-[90vh] overflow-auto relative shadow-2xl">
-            <button
-              onClick={closeEventPopup}
-              className="absolute top-6 right-6 bg-gray-100 hover:bg-red-600 hover:text-white rounded-full w-10 h-10 flex items-center justify-center text-2xl font-bold text-gray-700 transition-all duration-200 z-10"
-            >
-              <FontAwesomeIcon icon={faXmark} className="w-5 h-5" />
-            </button>
-
-            <div className="flex flex-col lg:flex-row">
-              {/* Left: Image Carousel */}
-              <div className="lg:w-1/2 bg-gray-100 p-2">
-                <div className="relative bg-white rounded-xl overflow-hidden shadow-lg mb-4">
-                  <img
-                    loading="lazy"
-                    src={selectedEvent.images[currentImageIndex]}
-                    alt={selectedEvent.title}
-                    className="w-full h-80 object-cover"
-                  />
-                  
-                  {selectedEvent.images.length > 1 && (
-                    <>
-                      <button
-                        onClick={prevSlide}
-                        className="absolute left-1 top-1/2 -translate-y-1/2 bg-white/50 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg transition"
-                      >
-                        <FontAwesomeIcon icon={faChevronLeft} className="w-5 h-5" />
-                      </button>
-                      <button
-                        onClick={nextSlide}
-                        className="absolute right-1 top-1/2 -translate-y-1/2 bg-white/50 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg transition"
-                      >
-                        <FontAwesomeIcon icon={faChevronRight} className="w-5 h-5" />
-                      </button>
-                    </>
-                  )}
-                </div>
-
-                {selectedEvent.images.length > 1 && (
-                  <div className="flex justify-center gap-2">
-                    {selectedEvent.images.map((_, idx) => (
-                      <button
-                        key={idx}
-                        onClick={() => setCurrentImageIndex(idx)}
-                        className={`w-2.5 h-2.5 rounded-full transition ${idx === currentImageIndex ? "bg-blue-600 w-8" : "bg-gray-300"}`}
-                      />
-                    ))}
+              <div
+                className="fixed inset-0 z-50 flex items-center justify-center p-2"
+                style={{ backgroundColor: "rgba(0, 0, 0, 0.9)" }}
+              >
+                <div className="bg-[#e1e1e1] rounded-2xl w-full max-w-6xl max-h-[90vh] overflow-auto relative shadow-2xl">
+                  <button
+                    onClick={closeEventPopup}
+                    className="absolute top-6 right-6 bg-gray-100 hover:bg-red-600 hover:text-white rounded-full w-10 h-10 flex items-center justify-center text-2xl font-bold text-gray-700 transition-all duration-200 z-10"
+                  >
+                    ×
+                  </button>
+                  <div className="flex flex-col lg:flex-row min-h-500px]">
+                    <div className="lg:w-1/2 p-2 flex items-center justify-center">
+                      <div className="w-full">
+                        <div className="relative bg-white rounded-xl overflow-hidden shadow-lg mb-4">
+                          <img
+                            loading="lazy"
+                            src={selectedEvent.images[currentImageIndex]}
+                            alt={selectedEvent.title}
+                            className="w-full h-80 object-cover rounded-2xl"
+                          />
+                          {selectedEvent.images.length > 1 && (
+                            <>
+                              <button
+                                onClick={prevSlide}
+                                className="absolute left-1 top-1/2 -translate-y-1/2 bg-white/50 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg transition"
+                              >
+                                <FontAwesomeIcon
+                                  icon={faChevronLeft}
+                                  className="w-5 h-5"
+                                />
+                              </button>
+                              <button
+                                onClick={nextSlide}
+                                className="absolute right-1 top-1/2 -translate-y-1/2 bg-white/50 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg transition"
+                              >
+                                <FontAwesomeIcon
+                                  icon={faChevronRight}
+                                  className="w-5 h-5"
+                                />
+                              </button>
+                            </>
+                          )}
+                        </div>
+                        {selectedEvent.images.length > 1 && (
+                          <div className="flex justify-center gap-2">
+                            {selectedEvent.images.map((_, idx) => (
+                              <button
+                                key={idx}
+                                onClick={() => setCurrentImageIndex(idx)}
+                                className={`w-2.5 h-2.5 rounded-full transition ${
+                                  idx === currentImageIndex
+                                    ? "bg-blue-600 w-8"
+                                    : "bg-gray-300"
+                                }`}
+                              />
+                            ))}
+                          </div>
+                        )}
+                      </div>
+                    </div>
+                    <div className="lg:w-1/2 p-8">
+                      <div className="mb-6">
+                        <span className="inline-block bg-blue-100 text-blue-700 px-4 py-1 rounded-full text-sm font-semibold mb-4">
+                          📅 {selectedEvent.date}
+                        </span>
+                        <h2 className="text-3xl font-bold text-gray-900 mb-4">
+                          {selectedEvent.title}
+                        </h2>
+                      </div>
+                      <div className="prose prose-lg">
+                        <h3 className="text-xl font-bold text-gray-800 mb-3">
+                          About this Event
+                        </h3>
+                        <p className="text-gray-600 text-justify leading-relaxed">
+                          {selectedEvent.description}
+                        </p>
+                      </div>
+                    </div>
                   </div>
-                )}
-              </div>
-
-              {/* Right: Content */}
-              <div className="lg:w-1/2 p-8">
-                <div className="mb-6">
-                  <span className="inline-block bg-blue-100 text-blue-700 px-4 py-1 rounded-full text-sm font-semibold mb-4">
-                    📅 {selectedEvent.date}
-                  </span>
-                  <h2 className="text-3xl font-bold text-gray-900 mb-4">
-                    {selectedEvent.title}
-                  </h2>
-                </div>
-
-                <div className="prose prose-lg">
-                  <h3 className="text-xl font-bold text-gray-800 mb-3">About this Event</h3>
-                  <p className="text-gray-600 leading-relaxed">
-                    {selectedEvent.description}
-                  </p>
                 </div>
               </div>
-            </div>
-          </div>
-        </div>
-      )}
+            )}  
     </>
   );
 };

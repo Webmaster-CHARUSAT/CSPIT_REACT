@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Link } from "react-router-dom";
 import {
@@ -38,28 +38,25 @@ const EventsSection = () => {
   const [selectedEvent, setSelectedEvent] = useState(null);
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const [loading, setLoading] = useState(true);
+  const autoSlideRef = useRef(null); // add
 
   useEffect(() => {
     fetch("/data/events.json")
       .then((r) => r.json())
       .then((data) => {
-        const now = new Date();
-        const curY = now.getFullYear();
-        const curM = now.getMonth();
         const withMeta = (data || [])
           .map((e) => {
             const meta = parseEventDate(e.date);
-            return { ...e, __meta: meta };
+            return meta ? { ...e, __meta: meta } : null;
           })
-          .filter((e) => e.__meta); // keep only parsable dates
+          .filter(Boolean);
 
-        // Filter this month/year and sort by date desc, take first 4
-        const thisMonth = withMeta
-          .filter((e) => e.__meta.year === curY && e.__meta.monthIndex === curM)
+        // Most recent 4 events (any month/year)
+        const recent = withMeta
           .sort((a, b) => b.__meta.jsDate - a.__meta.jsDate)
           .slice(0, 4);
 
-        setEventsData(thisMonth);
+        setEventsData(recent);
       })
       .catch((err) => {
         console.error("Error fetching events:", err);
@@ -82,7 +79,28 @@ const EventsSection = () => {
   const closeEventPopup = () => {
     setSelectedEvent(null);
     document.body.style.overflow = "auto";
+    if (autoSlideRef.current) {
+      clearInterval(autoSlideRef.current);
+      autoSlideRef.current = null;
+    }
   };
+
+  // Auto-slide when modal is open
+  useEffect(() => {
+    if (!selectedEvent || !selectedEvent.images || selectedEvent.images.length <= 1) return;
+    if (autoSlideRef.current) clearInterval(autoSlideRef.current);
+    autoSlideRef.current = setInterval(() => {
+      setCurrentImageIndex((prev) =>
+        prev === selectedEvent.images.length - 1 ? 0 : prev + 1
+      );
+    }, 2500);
+    return () => {
+      if (autoSlideRef.current) {
+        clearInterval(autoSlideRef.current);
+        autoSlideRef.current = null;
+      }
+    };
+  }, [selectedEvent]);
 
   const nextSlide = () => {
     if (selectedEvent) {
@@ -108,16 +126,20 @@ const EventsSection = () => {
       <div className="relative h-[300px] max-h-[300px] w-full overflow-hidden rounded-lg">
         <img
           src={event.thumbnail || "https://placehold.co/600x400"}
-          alt={event.shortTitle}
+          alt={event.title}
           className="w-full h-full object-cover"
           loading="lazy"
         />
       </div>
-      <div className="p-4 text-center relative z-[5] flex items-center justify-center min-h-[80px]">
+      {/* <div className="p-4 text-center relative z-[5] flex items-center justify-center min-h-[80px]">
         <h3 className="text-gray-900  text-lg leading-tight project-title ">
-          {event.shortTitle}
+          {event.title}
         </h3>
+      </div> */}
+      <div className="p-2 text-center relative z-[5]">
+        <p className="text-gray-800 font-medium project-title">{event.title}</p>
       </div>
+      
       <div className="hover-text">VIEW MORE</div>
     </div>
   );
@@ -265,61 +287,62 @@ const EventsSection = () => {
           className="fixed inset-0 z-50 flex items-center justify-center p-2"
           style={{ backgroundColor: "rgba(0, 0, 0, 0.9)" }}
         >
-          <div className="bg-white rounded-2xl w-full max-w-5xl max-h-[90vh] overflow-auto relative shadow-2xl">
+          <div className="bg-[#e1e1e1] rounded-2xl w-full max-w-6xl max-h-[90vh] overflow-auto relative shadow-2xl">
             <button
               onClick={closeEventPopup}
               className="absolute top-6 right-6 bg-gray-100 hover:bg-red-600 hover:text-white rounded-full w-10 h-10 flex items-center justify-center text-2xl font-bold text-gray-700 transition-all duration-200 z-10"
             >
               ×
             </button>
-            <div className="flex flex-col lg:flex-row">
-              <div className="lg:w-1/2 bg-gray-100 p-2">
-                <div className="relative bg-white rounded-xl overflow-hidden shadow-lg mb-4">
-                  <img
-                    loading="lazy"
-                    src={selectedEvent.images[currentImageIndex]}
-                    alt={selectedEvent.title}
-                    className="w-full h-80 object-cover"
-                  />
+            <div className="flex flex-col lg:flex-row min-h-500px]">
+              <div className="lg:w-1/2  p-2 flex items-center justify-center">
+                <div className="w-full">
+                  <div className="relative bg-white rounded-xl overflow-hidden shadow-lg mb-4">
+                    <img
+                      loading="lazy"
+                      src={selectedEvent.images[currentImageIndex]}
+                      alt={selectedEvent.title}
+                      className="w-full h-80 object-cover rounded-2xl"
+                    />
+                    {selectedEvent.images.length > 1 && (
+                      <>
+                        <button
+                          onClick={prevSlide}
+                          className="absolute left-1 top-1/2 -translate-y-1/2 bg-white/50 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg transition"
+                        >
+                          <FontAwesomeIcon
+                            icon={faChevronLeft}
+                            className="w-5 h-5"
+                          />
+                        </button>
+                        <button
+                          onClick={nextSlide}
+                          className="absolute right-1 top-1/2 -translate-y-1/2 bg-white/50 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg transition"
+                        >
+                          <FontAwesomeIcon
+                            icon={faChevronRight}
+                            className="w-5 h-5"
+                          />
+                        </button>
+                      </>
+                    )}
+                  </div>
                   {selectedEvent.images.length > 1 && (
-                    <>
-                      <button
-                        onClick={prevSlide}
-                        className="absolute left-1 top-1/2 -translate-y-1/2 bg-white/50 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg transition"
-                      >
-                        
-                        <FontAwesomeIcon
-                          icon={faChevronLeft}
-                          className="w-5 h-5"
+                    <div className="flex justify-center gap-2">
+                      {selectedEvent.images.map((_, idx) => (
+                        <button
+                          key={idx}
+                          onClick={() => setCurrentImageIndex(idx)}
+                          className={`w-2.5 h-2.5 rounded-full transition ${
+                            idx === currentImageIndex
+                              ? "bg-blue-600 w-8"
+                              : "bg-gray-300"
+                          }`}
                         />
-                      </button>
-                      <button
-                        onClick={nextSlide}
-                        className="absolute right-1 top-1/2 -translate-y-1/2 bg-white/50 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg transition"
-                      >
-                        <FontAwesomeIcon
-                          icon={faChevronRight}
-                          className="w-5 h-5"
-                        />
-                      </button>
-                    </>
+                      ))}
+                    </div>
                   )}
                 </div>
-                {selectedEvent.images.length > 1 && (
-                  <div className="flex justify-center gap-2">
-                    {selectedEvent.images.map((_, idx) => (
-                      <button
-                        key={idx}
-                        onClick={() => setCurrentImageIndex(idx)}
-                        className={`w-2.5 h-2.5 rounded-full transition ${
-                          idx === currentImageIndex
-                            ? "bg-blue-600 w-8"
-                            : "bg-gray-300"
-                        }`}
-                      />
-                    ))}
-                  </div>
-                )}
               </div>
               <div className="lg:w-1/2 p-8">
                 <div className="mb-6">
@@ -334,7 +357,7 @@ const EventsSection = () => {
                   <h3 className="text-xl font-bold text-gray-800 mb-3">
                     About this Event
                   </h3>
-                  <p className="text-gray-600 leading-relaxed">
+                  <p className="text-gray-600 text-justify leading-relaxed">
                     {selectedEvent.description}
                   </p>
                 </div>
