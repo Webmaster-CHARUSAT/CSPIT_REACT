@@ -6,13 +6,6 @@
     "About": "Together as a team AWS Cloud Club CHARUSAT aims to provide a platform for the intellectuals to learn and explore the cloud fundamentals of AWS. AS part of the club we assure that every individual gets something productive out of this cub. AWS Cloud Club CHARUSAT intends to bring developers under one roof to create a community to inspire many. The club will be channeled into propagating learning and teaching symbiotically. ",
     "Faculty Coordinators": [
       {
-        "Name": "Dr. Parth Shah",
-        "Role": "faculty coordinator",
-        "Email": "parthshah.it@charusat.ac.in",
-        "Phone": "99999",
-        "Image": "/CSPIT_Faculty/IT/PARTH.webp"
-      },
-      {
         "Name": "Dr. Sanket Suthar",
         "Role": "faculty coordinator",
         "Email": "sanketsuthar.it@charusat.ac.in",
@@ -965,7 +958,7 @@
         "Report": "/images/Student Club/CFC/CODE.PY-2.0/report.pdf"
       },
       {
-        "Name": "EXPLORE, LEARN, CREATE: THE ARDUINO HANDS-ON EXPERIENCE",
+        "Name": "Explore, Learn, Create: The Arduino Hands-on Experience",
         "Date": "16/03/2024",
         "Description": "The Arduino Workshop aimed to introduce participants to the fundamentals of Arduino, an open-source electronics platform. The workshop covered various aspects including understanding Arduino, basic projects, and interfacing with different sensors like ultrasonic, IR, 7 segment, pushbutton, onboard LED, designing and simulation of circuits in proteus software. ",
         "Images": [
@@ -977,7 +970,7 @@
         "Report": "/images/Student Club/CFC/Workshop_1_Arduino_1/report.pdf"
       },
       {
-        "Name": "EXPLORE, LEARN, CREATE: THE ARDUINO HANDS-ON EXPERIENCE",
+        "Name": "Explore, Learn, Create: The Arduino Hands-on Experience",
         "Date": "26/09/2024",
         "Description": "The Arduino Workshop aimed to introduce participants to the fundamentals of Arduino, an open-source electronics platform. The workshop covered various aspects including understanding Arduino, basic projects, and interfacing with different sensors like ultrasonic, 7 segment, onboard LED. ",
         "Images": [
