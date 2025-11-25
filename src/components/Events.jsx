@@ -287,63 +287,64 @@ const EventsSection = () => {
           className="fixed inset-0 z-50 flex items-center justify-center p-2"
           style={{ backgroundColor: "rgba(0, 0, 0, 0.9)" }}
         >
-          <div className="bg-[#e1e1e1] rounded-2xl w-full max-w-6xl max-h-[90vh] overflow-auto relative shadow-2xl">
+          <div className="bg-[#e1e1e1] rounded-2xl w-full max-w-6xl max-h-[90vh] overflow-y-auto relative shadow-2xl">
             <button
               onClick={closeEventPopup}
               className="absolute top-6 right-6 bg-gray-100 hover:bg-red-600 hover:text-white rounded-full w-10 h-10 flex items-center justify-center text-2xl font-bold text-gray-700 transition-all duration-200 z-10"
             >
               ×
             </button>
-            <div className="flex flex-col lg:flex-row min-h-500px]">
-              <div className="lg:w-1/2  p-2 flex items-center justify-center">
-                <div className="w-full">
-                  <div className="relative bg-white rounded-xl overflow-hidden shadow-lg mb-4">
-                    <img
-                      loading="lazy"
-                      src={selectedEvent.images[currentImageIndex]}
-                      alt={selectedEvent.title}
-                      className="w-full h-80 object-cover rounded-2xl"
-                    />
-                    {selectedEvent.images.length > 1 && (
-                      <>
-                        <button
-                          onClick={prevSlide}
-                          className="absolute left-1 top-1/2 -translate-y-1/2 bg-white/50 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg transition"
-                        >
-                          <FontAwesomeIcon
-                            icon={faChevronLeft}
-                            className="w-5 h-5"
-                          />
-                        </button>
-                        <button
-                          onClick={nextSlide}
-                          className="absolute right-1 top-1/2 -translate-y-1/2 bg-white/50 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg transition"
-                        >
-                          <FontAwesomeIcon
-                            icon={faChevronRight}
-                            className="w-5 h-5"
-                          />
-                        </button>
-                      </>
-                    )}
-                  </div>
+            <div className="flex flex-col lg:flex-row min-h-[500px]">
+              {/* Left: fixed-height image container with object-contain */}
+              <div className="lg:w-1/2 p-2 flex flex-col justify-center">
+                <div className="relative bg-[#e1e1e1] overflow-hidden h-[250px] sm:h-[300px] md:h-[350px] lg:h-[400px] mb-4">
+                  <img
+                    loading="lazy"
+                    src={selectedEvent.images[currentImageIndex]}
+                    alt={selectedEvent.title}
+                    className="w-full h-full rounded-xl object-contain object-center"
+                  />
                   {selectedEvent.images.length > 1 && (
-                    <div className="flex justify-center gap-2">
-                      {selectedEvent.images.map((_, idx) => (
-                        <button
-                          key={idx}
-                          onClick={() => setCurrentImageIndex(idx)}
-                          className={`w-2.5 h-2.5 rounded-full transition ${
-                            idx === currentImageIndex
-                              ? "bg-blue-600 w-8"
-                              : "bg-gray-300"
-                          }`}
+                    <>
+                      <button
+                        onClick={prevSlide}
+                        className="absolute left-1 top-1/2 -translate-y-1/2 bg-white/50 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg transition"
+                      >
+                        <FontAwesomeIcon
+                          icon={faChevronLeft}
+                          className="w-5 h-5"
                         />
-                      ))}
-                    </div>
+                      </button>
+                      <button
+                        onClick={nextSlide}
+                        className="absolute right-1 top-1/2 -translate-y-1/2 bg-white/50 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg transition"
+                      >
+                        <FontAwesomeIcon
+                          icon={faChevronRight}
+                          className="w-5 h-5"
+                        />
+                      </button>
+                    </>
                   )}
                 </div>
+                {selectedEvent.images.length > 1 && (
+                  <div className="flex justify-center gap-2">
+                    {selectedEvent.images.map((_, idx) => (
+                      <button
+                        key={idx}
+                        onClick={() => setCurrentImageIndex(idx)}
+                        className={`w-2.5 h-2.5 rounded-full transition ${
+                          idx === currentImageIndex
+                            ? "bg-blue-600 w-8"
+                            : "bg-gray-300"
+                        }`}
+                      />
+                    ))}
+                  </div>
+                )}
               </div>
+
+              {/* Right: details */}
               <div className="lg:w-1/2 p-8">
                 <div className="mb-6">
                   <span className="inline-block bg-blue-100 text-blue-700 px-4 py-1 rounded-full text-sm font-semibold mb-4">
