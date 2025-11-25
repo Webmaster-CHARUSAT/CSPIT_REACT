@@ -120,14 +120,14 @@ const EventsSection = () => {
 
   const EventCard = ({ event }) => (
     <div
-      className="project-item rounded-xl overflow-hidden shadow-md bg-white flex flex-col cursor-pointer border-2 p-1 border-white w-full max-w-[280px]"
+      className="project-item rounded-xl overflow-hidden shadow-md bg-white flex flex-col cursor-pointer border-2 p-1 border-white w-full"
       onClick={() => openEventPopup(event)}
     >
       <div className="relative h-[300px] max-h-[300px] w-full overflow-hidden rounded-lg">
         <img
           src={event.thumbnail || "https://placehold.co/600x400"}
           alt={event.title}
-          className="w-full h-full object-cover"
+          className="w-full h-full"
           loading="lazy"
         />
       </div>
@@ -153,14 +153,13 @@ const EventsSection = () => {
       >
         <div className="container mx-auto px-2 max-w-7xl">
           <h2
-            className="text-white text-center font-bold text-2xl md:text-3xl tracking-tight mb-12"
+            className="text-white text-center font-bold text-xl sm:text-2xl md:text-3xl lg:text-4xl tracking-tight mb-12 leading-tight sm:leading-snug px-4"
             style={{
-              fontSize: "2.5rem",
               fontWeight: "bold",
               fontFamily: "Roboto, sans-serif",
             }}
           >
-            ACADEMIC ENRICHMENT ACTIVITIES EVENT
+            ACADEMIC ENRICHMENT ACTIVITIES GLIMPSES
           </h2>
           <div className="text-center text-white">Loading events...</div>
         </div>
@@ -205,7 +204,7 @@ const EventsSection = () => {
           transition: transform 0.3s ease;
           width: 100%;
           height: 100%;
-          object-fit: cover;
+          object-fit: fill !important;
         }
         .hover-text {
           position: absolute;
@@ -241,14 +240,14 @@ const EventsSection = () => {
       >
         <div className="container mx-auto px-2 max-w-7xl">
           <h2
-            className="text-white text-center font-bold text-2xl md:text-3xl tracking-tight mb-12"
+            className="text-white text-center font-bold mb-8"
             style={{
               fontSize: "2.5rem",
               fontWeight: "bold",
               fontFamily: "Roboto, sans-serif",
             }}
           >
-            ACADEMIC ENRICHMENT ACTIVITIES EVENT
+            ACADEMIC ENRICHMENT ACTIVITIES GLIMPSES
           </h2>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 content-container-wide px-4 justify-items-center">

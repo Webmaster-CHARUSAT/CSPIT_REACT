@@ -265,7 +265,7 @@ const StudentProjects = () => {
       >
         <div className="container mx-auto px-2 max-w-7xl">
           <h2
-            className="text-white text-center font-bold text-2xl md:text-3xl tracking-tight mb-12"
+            className="text-white text-center font-bold mb-8"
             style={{
               fontSize: "2.5rem",
               fontWeight: "bold",

@@ -230,19 +230,19 @@ const EventsPage = () => {
       className="event-card rounded-xl overflow-hidden shadow-md bg-white flex flex-col cursor-pointer border-2 p-1 border-white w-full"
       onClick={() => openEventPopup(event)}
     >
-      <div className="relative h-[300px] flex-shrink-0">
+      <div className="relative h-[300px] max-h-[300px] w-full overflow-hidden rounded-lg">
         <img
           src={event.thumbnail || "https://placehold.co/600x400"}
           alt={event.title}
-          className="w-full h-full object-cover rounded-xl"
+          className="w-full h-full"
           loading="lazy"
         />
       </div>
-      <div className="p-4 text-center relative z-[5] flex-1 flex flex-col justify-between min-h-[120px]">
+      <div className="p-2 text-center relative z-[5]">
         <p className="text-gray-800 font-semibold event-card-title text-sm leading-tight line-clamp-3 mb-2">
           {event.title}
         </p>
-        <p className="text-xs text-gray-600 mt-auto pt-2">📅 {event.date}</p>
+        {/* <p className="text-xs text-gray-600 mt-auto pt-2">📅 {event.date}</p> */}
       </div>
       <div className="hover-text text-white">VIEW DETAILS</div>
     </div>
@@ -256,7 +256,8 @@ const EventsPage = () => {
             box-shadow 0.3s ease;
           position: relative;
           overflow: hidden;
-          height: 420px;
+          height: 380px;
+          width: 100%;
         }
         .event-card:hover {
           transform: scale(1.05);
@@ -281,7 +282,7 @@ const EventsPage = () => {
           transition: transform 0.3s ease;
           width: 100%;
           height: 100%;
-          object-fit: cover;
+          object-fit: fill !important;
         }
         .hover-text {
           position: absolute;
@@ -320,7 +321,7 @@ const EventsPage = () => {
       <div className="bg-gradient-to-r from-[#0056b3] to-[#2081e9] text-white mt-24"></div>
       <div className="bg-gradient-to-r from-[#0056b3] to-[#2081e9] text-white py-10 text-center shadow-md relative">
         <h1 className="text-4xl font-bold tracking-wider uppercase">
-          All Academic Enrichment Activities Events
+          All Academic Enrichment Activities Glimpses
         </h1>
         <p className="text-lg opacity-90">
           Browse by year and month or view everything
@@ -440,68 +441,69 @@ const EventsPage = () => {
       </section>
 
       {/* Popup (card style) */}
-      {selectedEvent && (
+       {selectedEvent && (
               <div
                 className="fixed inset-0 z-50 flex items-center justify-center p-2"
                 style={{ backgroundColor: "rgba(0, 0, 0, 0.9)" }}
               >
-                <div className="bg-[#e1e1e1] rounded-2xl w-full max-w-6xl max-h-[90vh] overflow-auto relative shadow-2xl">
+                <div className="bg-[#e1e1e1] rounded-2xl w-full max-w-6xl max-h-[90vh] overflow-y-auto relative shadow-2xl">
                   <button
                     onClick={closeEventPopup}
                     className="absolute top-6 right-6 bg-gray-100 hover:bg-red-600 hover:text-white rounded-full w-10 h-10 flex items-center justify-center text-2xl font-bold text-gray-700 transition-all duration-200 z-10"
                   >
                     ×
                   </button>
-                  <div className="flex flex-col lg:flex-row min-h-500px]">
-                    <div className="lg:w-1/2 p-2 flex items-center justify-center">
-                      <div className="w-full">
-                        <div className="relative bg-white rounded-xl overflow-hidden shadow-lg mb-4">
-                          <img
-                            loading="lazy"
-                            src={selectedEvent.images[currentImageIndex]}
-                            alt={selectedEvent.title}
-                            className="w-full h-80 object-cover rounded-2xl"
-                          />
-                          {selectedEvent.images.length > 1 && (
-                            <>
-                              <button
-                                onClick={prevSlide}
-                                className="absolute left-1 top-1/2 -translate-y-1/2 bg-white/50 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg transition"
-                              >
-                                <FontAwesomeIcon
-                                  icon={faChevronLeft}
-                                  className="w-5 h-5"
-                                />
-                              </button>
-                              <button
-                                onClick={nextSlide}
-                                className="absolute right-1 top-1/2 -translate-y-1/2 bg-white/50 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg transition"
-                              >
-                                <FontAwesomeIcon
-                                  icon={faChevronRight}
-                                  className="w-5 h-5"
-                                />
-                              </button>
-                            </>
-                          )}
-                        </div>
+                  <div className="flex flex-col lg:flex-row min-h-[500px]">
+                    {/* Left: fixed-height image container with object-contain */}
+                    <div className="lg:w-1/2 p-2 flex flex-col justify-center">
+                      <div className="relative bg-[#e1e1e1] overflow-hidden h-[250px] sm:h-[300px] md:h-[350px] lg:h-[400px] mb-4">
+                        <img
+                          loading="lazy"
+                          src={selectedEvent.images[currentImageIndex]}
+                          alt={selectedEvent.title}
+                          className="w-full h-full rounded-xl object-contain object-center"
+                        />
                         {selectedEvent.images.length > 1 && (
-                          <div className="flex justify-center gap-2">
-                            {selectedEvent.images.map((_, idx) => (
-                              <button
-                                key={idx}
-                                onClick={() => setCurrentImageIndex(idx)}
-                                className={`w-2.5 h-2.5 rounded-full transition ${
-                                  idx === currentImageIndex
-                                    ? "bg-blue-600 w-8"
-                                    : "bg-gray-300"
-                                }`}
+                          <>
+                            <button
+                              onClick={prevSlide}
+                              className="absolute left-1 top-1/2 -translate-y-1/2 bg-white/50 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg transition"
+                            >
+                              <FontAwesomeIcon
+                                icon={faChevronLeft}
+                                className="w-5 h-5"
                               />
-                            ))}
-                          </div>
+                            </button>
+                            <button
+                              onClick={nextSlide}
+                              className="absolute right-1 top-1/2 -translate-y-1/2 bg-white/50 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg transition"
+                            >
+                              <FontAwesomeIcon
+                                icon={faChevronRight}
+                                className="w-5 h-5"
+                              />
+                            </button>
+                          </>
                         )}
                       </div>
+                      {selectedEvent.images.length > 1 && (
+                        <div className="flex justify-center gap-2">
+                          {selectedEvent.images.map((_, idx) => (
+                            <button
+                              key={idx}
+                              onClick={() => setCurrentImageIndex(idx)}
+                              className={`w-2.5 h-2.5 rounded-full transition ${
+                                idx === currentImageIndex
+                                  ? "bg-blue-600 w-8"
+                                  : "bg-gray-300"
+                              }`}
+                            />
+                          ))}
+                        </div>
+                      )}
                     </div>
+      
+                    {/* Right: details */}
                     <div className="lg:w-1/2 p-8">
                       <div className="mb-6">
                         <span className="inline-block bg-blue-100 text-blue-700 px-4 py-1 rounded-full text-sm font-semibold mb-4">
@@ -523,7 +525,7 @@ const EventsPage = () => {
                   </div>
                 </div>
               </div>
-            )}  
+            )}
     </>
   );
 };
