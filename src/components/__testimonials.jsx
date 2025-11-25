@@ -91,7 +91,6 @@ const TestimonialsSection = () => {
   const [autoScroll, setAutoScroll] = useState(true);
   const [isTransitioning, setIsTransitioning] = useState(false);
   const [cardsToShow, setCardsToShow] = useState(3);
-  const [expandedCards, setExpandedCards] = useState(new Set());
   
   // Detect screen size and set cardsToShow accordingly
   useEffect(() => {
@@ -133,7 +132,6 @@ const TestimonialsSection = () => {
   // Reset displayIndex when cardsToShow changes
   useEffect(() => {
     setDisplayIndex(cardsToShow);
-    setExpandedCards(new Set()); // Reset expanded cards when screen size changes
   }, [cardsToShow]);
   
   // Handle smooth transition when reaching the end or beginning
@@ -183,17 +181,6 @@ const TestimonialsSection = () => {
     setDisplayIndex(prevIndex => prevIndex - 1);
   };
   
-  const toggleExpand = (key) => {
-    setExpandedCards(prev => {
-      const newSet = new Set();
-      // Only add the clicked card if it wasn't already expanded
-      if (!prev.has(key)) {
-        newSet.add(key);
-      }
-      return newSet;
-    });
-  };
-  
   // Calculate which testimonials are currently visible
   const getVisibleIndices = () => {
     const realIndex = (displayIndex - cardsToShow + testimonials.length) % testimonials.length;
@@ -234,50 +221,33 @@ const TestimonialsSection = () => {
               className={`flex transition-transform duration-500 ${isTransitioning ? 'ease-in-out' : 'duration-0'}`}
               style={{ transform: `translateX(-${(displayIndex - cardsToShow) * (100 / cardsToShow)}%)` }}
             >
-              {circularTestimonials.map((testimonial, idx) => {
-                const isExpanded = expandedCards.has(testimonial.key);
-                const isLongText = testimonial.testimonial.length > 200;
-                
-                return (
-                  <div
-                    key={testimonial.key}
-                    className="flex-shrink-0 px-3"
-                    style={{ width: `${100 / cardsToShow}%` }}
-                  >
-                    <div className="bg-white rounded-lg shadow-lg p-6 h-full flex flex-col justify-between">
-                      <div className="flex flex-col items-center mb-4">
-                        <img
-                          src={testimonial.imageSrc}
-                          alt={testimonial.name}
-                          className="w-24 h-24 rounded-full object-cover border-2 border-blue-300"
-                          loading="lazy"
-                        />
-                        <h3 className="text-lg font-semibold mt-3">{testimonial.name}</h3>
-                        <p className="text-sm text-gray-500">{testimonial.designation}</p>
-                      </div>
-                      <div className="flex-grow flex flex-col">
-                        <p className="text-gray-700  text-justify italic mb-2">
-                          "{isExpanded 
-                            ? testimonial.testimonial 
-                            : (isLongText 
-                              ? testimonial.testimonial.substring(0, 200) + '...' 
-                              : testimonial.testimonial)}"
-                        </p>
-                        {isLongText && (
-                          <div className="mt-auto flex justify-end">
-                            <button
-                              onClick={() => toggleExpand(testimonial.key)}
-                              className="text-blue-600 hover:text-blue-800 font-medium text-sm transition-colors duration-200"
-                            >
-                              {isExpanded ? 'Read Less' : 'Read More'}
-                            </button>
-                          </div>
-                        )}
-                      </div>
+              {circularTestimonials.map((testimonial, idx) => (
+                <div
+                  key={testimonial.key}
+                  className="flex-shrink-0 px-3"
+                  style={{ width: `${100 / cardsToShow}%` }}
+                >
+                  <div className="bg-white rounded-lg shadow-lg p-6 h-full flex flex-col">
+                    <div className="flex flex-col items-center mb-4">
+                      <img
+                        src={testimonial.imageSrc}
+                        alt={testimonial.name}
+                        className="w-24 h-24 rounded-full object-cover border-2 border-blue-300"
+                        loading="lazy"
+                      />
+                      <h3 className="text-lg font-semibold mt-3">{testimonial.name}</h3>
+                      <p className="text-sm text-gray-500">{testimonial.designation}</p>
+                    </div>
+                    <div className="flex-grow">
+                      <p className="text-gray-700 text-center italic">
+                        "{testimonial.testimonial.length > 200 
+                          ? testimonial.testimonial.substring(0, 200) + '...' 
+                          : testimonial.testimonial}"
+                      </p>
                     </div>
                   </div>
-                );
-              })}
+                </div>
+              ))}
             </div>
           </div>
 
