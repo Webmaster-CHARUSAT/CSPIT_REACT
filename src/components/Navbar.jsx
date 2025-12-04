@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
 const topLinks = [
+  { to: "/events", label: "Events", external: true },
   { to: "#placement", label: "Placement", external: false },
   { to: "#gallery", label: "Gallery", external: false },
   { to: "/news-letter-Jul-Sep-2025/", label: "Newsletter", external: true },

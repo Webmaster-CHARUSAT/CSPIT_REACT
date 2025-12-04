@@ -354,9 +354,9 @@ const EventsSection = () => {
                   </h2>
                 </div>
                 <div className="prose prose-lg">
-                  <h3 className="text-xl font-bold text-gray-800 mb-3">
+                  {/* <h3 className="text-xl font-bold text-gray-800 mb-3">
                     About this Event
-                  </h3>
+                  </h3> */}
                   <p className="text-gray-600 text-justify leading-relaxed">
                     {selectedEvent.description}
                   </p>

@@ -59,7 +59,12 @@ const CustomDropdown = ({ value, options, onChange, icon, label }) => {
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, []);
 
-  const selectedLabel = typeof value === "number" ? MONTHS[value] : value;
+  const selectedLabel =
+    value === null || value === undefined
+      ? "All"
+      : typeof value === "number"
+      ? MONTHS[value]
+      : value;
 
   return (
     <div ref={dropdownRef} className="relative">
@@ -88,7 +93,9 @@ const CustomDropdown = ({ value, options, onChange, icon, label }) => {
             const optValue = typeof opt === "object" ? opt.value : idx;
             const optLabel = typeof opt === "object" ? opt.label : opt;
             const isSelected =
-              typeof value === "number"
+              value === null || value === undefined
+                ? false
+                : typeof value === "number"
                 ? value === optValue
                 : value === optValue;
 
@@ -137,9 +144,10 @@ const EventsPage = () => {
   const [yearFilter, setYearFilter] = useState(
     YEARS.includes(defaultYear) ? defaultYear : YEARS[0]
   );
-  const [monthFilter, setMonthFilter] = useState(defaultMonthIndex);
   // Change default to show all events
   const [allMode, setAllMode] = useState(true);
+  // Make month filter empty when allMode is true
+  const [monthFilter, setMonthFilter] = useState(null);
 
   useEffect(() => {
     fetch("/data/events.json")
@@ -162,13 +170,13 @@ const EventsPage = () => {
   }, []);
 
   const filtered = useMemo(() => {
-    if (allMode) return eventsData;
+    if (allMode) return eventsData; // show all
     return eventsData.filter((e) => {
       const yOk = String(e.__meta.year) === String(yearFilter);
       const mOk =
         typeof monthFilter === "number"
           ? e.__meta.monthIndex === monthFilter
-          : true;
+          : true; // if month is null, don't filter by month
       return yOk && mOk;
     });
   }, [eventsData, yearFilter, monthFilter, allMode]);
@@ -321,10 +329,10 @@ const EventsPage = () => {
       <div className="bg-gradient-to-r from-[#0056b3] to-[#2081e9] text-white mt-24"></div>
       <div className="bg-gradient-to-r from-[#0056b3] to-[#2081e9] text-white py-10 text-center shadow-md relative">
         <h1 className="text-4xl font-bold tracking-wider uppercase">
-          All Academic Enrichment Activities Glimpses
+          Academic Enrichment Activities Glimpses
         </h1>
         <p className="text-lg opacity-90">
-          Browse by year and month or view everything
+          Workshops, seminars, and hands-on activities to strengthen skills and enrich academic growth.
         </p>
       </div>
 
@@ -334,7 +342,10 @@ const EventsPage = () => {
           <div className="container flex flex-col lg:flex-row items-stretch lg:items-center justify-between gap-4">
             {/* Left: All Events Button */}
             <button
-              onClick={() => setAllMode(true)}
+              onClick={() => {
+                setAllMode(true);
+                setMonthFilter(null); // clear month when All Events selected
+              }}
               className={`group relative inline-flex items-center justify-center gap-2 px-6 py-2.5 rounded-lg font-semibold text-sm transition-all duration-200 ${
                 allMode
                   ? "bg-gradient-to-r from-blue-600 to-blue-700 text-white shadow-md"
@@ -356,7 +367,7 @@ const EventsPage = () => {
                 options={YEARS.map((y) => ({ value: y, label: y }))}
                 onChange={(val) => {
                   setYearFilter(val);
-                  setAllMode(false);
+                  setAllMode(false); // enable filtering only when user selects
                 }}
                 icon={faCalendar}
                 label="Year"
@@ -368,14 +379,14 @@ const EventsPage = () => {
                 options={MONTHS}
                 onChange={(val) => {
                   setMonthFilter(val);
-                  setAllMode(false);
+                  setAllMode(false); // enable filtering only when user selects
                 }}
                 icon={faClock}
                 label="Month"
               />
 
               {/* Reset Button */}
-              <button
+              {/* <button
                 onClick={() => {
                   setAllMode(false);
                   setYearFilter(
@@ -391,7 +402,7 @@ const EventsPage = () => {
                   className="w-4 h-4 transition-transform group-hover:rotate-180 duration-300"
                 />
                 <span className="sm:inline">This Month</span>
-              </button>
+              </button> */}
             </div>
           </div>
 
@@ -514,9 +525,9 @@ const EventsPage = () => {
                         </h2>
                       </div>
                       <div className="prose prose-lg">
-                        <h3 className="text-xl font-bold text-gray-800 mb-3">
+                        {/* <h3 className="text-xl font-bold text-gray-800 mb-3">
                           About this Event
-                        </h3>
+                        </h3> */}
                         <p className="text-gray-600 text-justify leading-relaxed">
                           {selectedEvent.description}
                         </p>
