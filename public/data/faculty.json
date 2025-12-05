@@ -545,6 +545,31 @@
     "certifications": []
   },
   {
+  "name": "Bijal Suthar",
+  "title": "Assistant Professor",
+  "degree": "M.Tech , Phd (pursuing)",
+  "research_interests": [
+    "DBMS",
+    "Design and analysis of Algorithms"
+  ],
+  "image_src": "/CSPIT_Faculty/CE/BIJAL_SUTHAR.webp",
+  "subjects": [
+    "DBMS",
+    "Bigdata Analytics",
+    "Computer Organization"
+  ],
+  "research_projects": [],
+  "teaching": [],
+  "email": "bijalsuthar.ce@charusat.ac.in",
+  "linkedin": "",
+  "website": "",
+  "scholar": "",
+  "vidwan": "https://vidwan.inflibnet.ac.in/profile/125869",
+  "awards": [],
+  "memberships": [],
+  "certifications": []
+},
+  {
     "name": "Dr. Bimal Patel",
     "title": "ASSOCIATE PROFESSOR",
     "degree": "Ph. D.",
@@ -1040,6 +1065,29 @@
     "awards": ["CHARUSAT Research Paper Award", "IEEE Reviewer"],
     "memberships": ["IEEE", "ISTE"],
     "certifications": ["Google Business Intelligence"]
+  },
+  {
+    "name": "Dr. Hardik Jayswal",
+    "title": "ASSISTANT PROFESSOR",
+    "degree": "Ph. D.",
+    "research_interests": [
+      "Image Processing",
+      "Soft Computing",
+      "Software Engineering"
+    ],
+    "image_src": "/CSPIT_Faculty/AIML/HARDIK_JAYSWAL.webp",
+    "subjects": [
+    ],
+    "research_projects": [],
+    "teaching": [],
+    "email": "",
+    "linkedin": "https://www.linkedin.com/in/hardik-jayswal-546706a0/",
+    "website": "",
+    "scholar": "",
+    "vidwan": "https://vidwan.inflibnet.ac.in/profile/162360",
+    "awards": [],
+    "memberships": [],
+    "certifications": []
   },
   {
     "name": "Mr. Harmish Bhatt",
@@ -1949,6 +1997,35 @@
     "memberships": ["SCRS"],
     "certifications": []
   },
+  {
+  "name": "Mukti Patel",
+  "title": "Assistant Professor",
+  "degree": "M.E Computer Engineering , Phd (pursuing)",
+  "research_interests": [
+    "Networking",
+    "Cyber Security"
+  ],
+  "image_src": "/CSPIT_Faculty/AIML/MUKTI_PATEL.webp",
+  "subjects": [
+    "Cloud Computing",
+    "Network Security",
+    "Web Technologies",
+    "DBMS",
+    "Operating System"
+  ],
+  "research_projects": [],
+  "teaching": [],
+  "email": "muktipatel.aiml@charusat.ac.in",
+  "linkedin": "",
+  "website": "",
+  "scholar": "",
+  "vidwan": "https://vidwan.inflibnet.ac.in/profile/602160",
+  "awards": [
+    "Given paper presentation on “METHOD OF CERTIFICATE REVOCATION IN PKI” and secure 3rd prize in national conference at “Futurism 2012” of PDEA’s College of Engg, Pune."
+  ],
+  "memberships": [],
+  "certifications": []
+},  
   {
     "name": "Ms. Muskan Dave",
     "title": "ASSISTANT PROFESSOR",
