@@ -44,7 +44,7 @@ function parseEventDate(dateStr) {
   return { year, monthIndex, day, jsDate };
 }
 
-// Custom Dropdown Component
+// Custom Dropdown Component for Year only
 const CustomDropdown = ({ value, options, onChange, icon, label }) => {
   const [isOpen, setIsOpen] = useState(false);
   const dropdownRef = useRef(null);
@@ -59,29 +59,21 @@ const CustomDropdown = ({ value, options, onChange, icon, label }) => {
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, []);
 
-  const selectedLabel =
-    value === null || value === undefined
-      ? "All"
-      : typeof value === "number"
-      ? MONTHS[value]
-      : value;
+  const selectedLabel = value;
 
   return (
-    <div ref={dropdownRef} className="relative">
+    <div ref={dropdownRef} className="relative w-full">
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="flex items-center gap-2 bg-gray-50 hover:bg-gray-100 rounded-lg px-4 py-2.5 border border-gray-200 transition-all duration-200 min-w-[160px] group"
+        className="flex items-center justify-center gap-2 bg-gray-100 hover:bg-gray-200 rounded-lg px-6 py-2.5 border border-gray-300 transition-all duration-200 group h-full w-full"
       >
-        <FontAwesomeIcon icon={icon} className="w-5 h-5 text-gray-500" />
-        <div className="flex-1 text-left">
-          <div className="text-xs text-gray-500 font-medium">{label}</div>
-          <div className="text-sm font-semibold text-gray-800">
-            {selectedLabel}
-          </div>
-        </div>
+        <FontAwesomeIcon icon={icon} className="w-4 h-4 text-gray-700" />
+        <span className="text-sm font-semibold text-gray-700">
+          {selectedLabel}
+        </span>
         <FontAwesomeIcon
           icon={faChevronDown}
-          className={`w-4 h-4 text-gray-500 transition-transform duration-200 ${
+          className={`w-4 h-4 text-gray-700 transition-transform duration-200 ${
             isOpen ? "rotate-180" : ""
           }`}
         />
@@ -89,15 +81,10 @@ const CustomDropdown = ({ value, options, onChange, icon, label }) => {
 
       {isOpen && (
         <div className="absolute top-full left-0 mt-2 w-full bg-white rounded-lg shadow-xl border border-gray-200 py-2 z-30 max-h-64 overflow-y-auto">
-          {options.map((opt, idx) => {
-            const optValue = typeof opt === "object" ? opt.value : idx;
+          {options.map((opt) => {
+            const optValue = typeof opt === "object" ? opt.value : opt;
             const optLabel = typeof opt === "object" ? opt.label : opt;
-            const isSelected =
-              value === null || value === undefined
-                ? false
-                : typeof value === "number"
-                ? value === optValue
-                : value === optValue;
+            const isSelected = value === optValue;
 
             return (
               <button
@@ -135,18 +122,15 @@ const EventsPage = () => {
   const [selectedEvent, setSelectedEvent] = useState(null);
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const [loading, setLoading] = useState(true);
-  const autoSlideRef = useRef(null); // add
+  const autoSlideRef = useRef(null);
 
   const now = new Date();
   const defaultYear = String(now.getFullYear());
-  const defaultMonthIndex = now.getMonth();
 
   const [yearFilter, setYearFilter] = useState(
     YEARS.includes(defaultYear) ? defaultYear : YEARS[0]
   );
-  // Change default to show all events
   const [allMode, setAllMode] = useState(true);
-  // Make month filter empty when allMode is true
   const [monthFilter, setMonthFilter] = useState(null);
 
   useEffect(() => {
@@ -170,13 +154,13 @@ const EventsPage = () => {
   }, []);
 
   const filtered = useMemo(() => {
-    if (allMode) return eventsData; // show all
+    if (allMode) return eventsData;
     return eventsData.filter((e) => {
       const yOk = String(e.__meta.year) === String(yearFilter);
       const mOk =
         typeof monthFilter === "number"
           ? e.__meta.monthIndex === monthFilter
-          : true; // if month is null, don't filter by month
+          : true;
       return yOk && mOk;
     });
   }, [eventsData, yearFilter, monthFilter, allMode]);
@@ -200,7 +184,6 @@ const EventsPage = () => {
     }
   };
 
-  // Auto-slide when modal is open
   useEffect(() => {
     if (!selectedEvent || !selectedEvent.images || selectedEvent.images.length <= 1) return;
     if (autoSlideRef.current) clearInterval(autoSlideRef.current);
@@ -250,7 +233,6 @@ const EventsPage = () => {
         <p className="text-gray-800 font-semibold event-card-title text-sm leading-tight line-clamp-3 mb-2">
           {event.title}
         </p>
-        {/* <p className="text-xs text-gray-600 mt-auto pt-2">📅 {event.date}</p> */}
       </div>
       <div className="hover-text text-white">VIEW DETAILS</div>
     </div>
@@ -336,17 +318,17 @@ const EventsPage = () => {
         </p>
       </div>
 
-      {/* Modern Filter Toolbar */}
-      <div className="bg-white border-b shadow-sm top-0 z-20 ">
-        <div className=" py-3 container">
-          <div className="container flex flex-col lg:flex-row items-stretch lg:items-center justify-between gap-4">
-            {/* Left: All Events Button */}
+      {/* Modern Filter Toolbar with Month Tabs */}
+      <div className="bg-white border-b shadow-sm top-0 z-20">
+        <div className="py-3 container">
+          {/* Year Filter and All Events Button */}
+          <div className="container flex flex-col sm:flex-row items-stretch sm:items-center justify-between gap-4 mb-4">
             <button
               onClick={() => {
                 setAllMode(true);
-                setMonthFilter(null); // clear month when All Events selected
+                setMonthFilter(null);
               }}
-              className={`group relative inline-flex items-center justify-center gap-2 px-6 py-2.5 rounded-lg font-semibold text-sm transition-all duration-200 ${
+              className={`group relative inline-flex items-center justify-center gap-2 px-6 py-2.5 rounded-lg font-semibold text-sm transition-all duration-200 w-full sm:w-auto ${
                 allMode
                   ? "bg-gradient-to-r from-blue-600 to-blue-700 text-white shadow-md"
                   : "bg-gray-100 text-gray-700 hover:bg-gray-200 border border-gray-300"
@@ -359,55 +341,46 @@ const EventsPage = () => {
               )}
             </button>
 
-            {/* Right: Filter Controls */}
-            <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3">
-              {/* Year Filter */}
+            <div className="w-full sm:w-auto">
               <CustomDropdown
                 value={yearFilter}
                 options={YEARS.map((y) => ({ value: y, label: y }))}
                 onChange={(val) => {
                   setYearFilter(val);
-                  setAllMode(false); // enable filtering only when user selects
+                  if (monthFilter !== null) {
+                    setAllMode(false);
+                  }
                 }}
                 icon={faCalendar}
                 label="Year"
               />
+            </div>
+          </div>
 
-              {/* Month Filter */}
-              <CustomDropdown
-                value={monthFilter}
-                options={MONTHS}
-                onChange={(val) => {
-                  setMonthFilter(val);
-                  setAllMode(false); // enable filtering only when user selects
-                }}
-                icon={faClock}
-                label="Month"
-              />
-
-              {/* Reset Button */}
-              {/* <button
-                onClick={() => {
-                  setAllMode(false);
-                  setYearFilter(
-                    YEARS.includes(defaultYear) ? defaultYear : YEARS[0]
-                  );
-                  setMonthFilter(defaultMonthIndex);
-                }}
-                className="group flex items-center justify-center gap-2 px-4 py-2.5 rounded-lg bg-white hover:bg-blue-50 border border-gray-300 text-sm font-medium text-gray-700 hover:text-blue-600 transition-all duration-200"
-                title="Reset to current month"
-              >
-                <FontAwesomeIcon
-                  icon={faRotateRight}
-                  className="w-4 h-4 transition-transform group-hover:rotate-180 duration-300"
-                />
-                <span className="sm:inline">This Month</span>
-              </button> */}
+          {/* Month Tabs - Grid Layout */}
+          <div className="container">
+            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-12 gap-2">
+              {MONTHS.map((month, idx) => (
+                <button
+                  key={idx}
+                  onClick={() => {
+                    setMonthFilter(idx);
+                    setAllMode(false);
+                  }}
+                  className={`px-3 py-2.5 rounded-lg font-medium text-xs sm:text-sm whitespace-nowrap transition-all duration-200 ${
+                    !allMode && monthFilter === idx
+                      ? "bg-gradient-to-r from-blue-600 to-blue-700 text-white shadow-md transform scale-105"
+                      : "bg-gray-100 text-gray-700 hover:bg-[#e1e1e1] border border-gray-300"
+                  }`}
+                >
+                  {month}
+                </button>
+              ))}
             </div>
           </div>
 
           {/* Active Filter Indicator */}
-          {!allMode && (
+          {!allMode && monthFilter !== null && (
             <div className="container mt-3 flex items-center gap-2 text-xs text-gray-600">
               <FontAwesomeIcon icon={faFilter} className="w-3.5 h-3.5" />
               <span className="font-medium">Filtered by:</span>
@@ -421,7 +394,7 @@ const EventsPage = () => {
       </div>
 
       {/* Grid */}
-      <section className="py-12 bg-[#e1e1e1] ">
+      <section className="py-12 bg-[#e1e1e1]">
         <div className="container mx-auto px-4 max-w-7xl">
           {loading ? (
             <div className="text-center text-gray-600 text-xl py-20">
@@ -435,7 +408,7 @@ const EventsPage = () => {
                 className="w-16 h-16 text-gray-400 mx-auto mb-4"
               />
               <p className="text-gray-600 text-xl font-medium">
-                No events found
+                No events found for this month
               </p>
               <p className="text-gray-500 text-sm mt-2">
                 Try adjusting your filters or view all events
@@ -452,91 +425,86 @@ const EventsPage = () => {
       </section>
 
       {/* Popup (card style) */}
-       {selectedEvent && (
-              <div
-                className="fixed inset-0 z-50 flex items-center justify-center p-2"
-                style={{ backgroundColor: "rgba(0, 0, 0, 0.9)" }}
-              >
-                <div className="bg-[#e1e1e1] rounded-2xl w-full max-w-6xl max-h-[90vh] overflow-y-auto relative shadow-2xl">
-                  <button
-                    onClick={closeEventPopup}
-                    className="absolute top-6 right-6 bg-gray-100 hover:bg-red-600 hover:text-white rounded-full w-10 h-10 flex items-center justify-center text-2xl font-bold text-gray-700 transition-all duration-200 z-10"
-                  >
-                    ×
-                  </button>
-                  <div className="flex flex-col lg:flex-row min-h-[500px]">
-                    {/* Left: fixed-height image container with object-contain */}
-                    <div className="lg:w-1/2 p-2 flex flex-col justify-center">
-                      <div className="relative bg-[#e1e1e1] overflow-hidden h-[250px] sm:h-[300px] md:h-[350px] lg:h-[400px] mb-4">
-                        <img
-                          loading="lazy"
-                          src={selectedEvent.images[currentImageIndex]}
-                          alt={selectedEvent.title}
-                          className="w-full h-full rounded-xl object-contain object-center"
+      {selectedEvent && (
+        <div
+          className="fixed inset-0 z-50 flex items-center justify-center p-2"
+          style={{ backgroundColor: "rgba(0, 0, 0, 0.9)" }}
+        >
+          <div className="bg-[#e1e1e1] rounded-2xl w-full max-w-6xl max-h-[90vh] overflow-y-auto relative shadow-2xl">
+            <button
+              onClick={closeEventPopup}
+              className="absolute top-6 right-6 bg-gray-100 hover:bg-red-600 hover:text-white rounded-full w-10 h-10 flex items-center justify-center text-2xl font-bold text-gray-700 transition-all duration-200 z-10"
+            >
+              ×
+            </button>
+            <div className="flex flex-col lg:flex-row min-h-[500px]">
+              <div className="lg:w-1/2 p-2 flex flex-col justify-center">
+                <div className="relative bg-[#e1e1e1] overflow-hidden h-[250px] sm:h-[300px] md:h-[350px] lg:h-[400px] mb-4">
+                  <img
+                    loading="lazy"
+                    src={selectedEvent.images[currentImageIndex]}
+                    alt={selectedEvent.title}
+                    className="w-full h-full rounded-xl object-contain object-center"
+                  />
+                  {selectedEvent.images.length > 1 && (
+                    <>
+                      <button
+                        onClick={prevSlide}
+                        className="absolute left-1 top-1/2 -translate-y-1/2 bg-white/50 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg transition"
+                      >
+                        <FontAwesomeIcon
+                          icon={faChevronLeft}
+                          className="w-5 h-5"
                         />
-                        {selectedEvent.images.length > 1 && (
-                          <>
-                            <button
-                              onClick={prevSlide}
-                              className="absolute left-1 top-1/2 -translate-y-1/2 bg-white/50 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg transition"
-                            >
-                              <FontAwesomeIcon
-                                icon={faChevronLeft}
-                                className="w-5 h-5"
-                              />
-                            </button>
-                            <button
-                              onClick={nextSlide}
-                              className="absolute right-1 top-1/2 -translate-y-1/2 bg-white/50 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg transition"
-                            >
-                              <FontAwesomeIcon
-                                icon={faChevronRight}
-                                className="w-5 h-5"
-                              />
-                            </button>
-                          </>
-                        )}
-                      </div>
-                      {selectedEvent.images.length > 1 && (
-                        <div className="flex justify-center gap-2">
-                          {selectedEvent.images.map((_, idx) => (
-                            <button
-                              key={idx}
-                              onClick={() => setCurrentImageIndex(idx)}
-                              className={`w-2.5 h-2.5 rounded-full transition ${
-                                idx === currentImageIndex
-                                  ? "bg-blue-600 w-8"
-                                  : "bg-gray-300"
-                              }`}
-                            />
-                          ))}
-                        </div>
-                      )}
-                    </div>
-      
-                    {/* Right: details */}
-                    <div className="lg:w-1/2 p-8">
-                      <div className="mb-6">
-                        <span className="inline-block bg-blue-100 text-blue-700 px-4 py-1 rounded-full text-sm font-semibold mb-4">
-                          📅 {selectedEvent.date}
-                        </span>
-                        <h2 className="text-3xl font-bold text-gray-900 mb-4">
-                          {selectedEvent.title}
-                        </h2>
-                      </div>
-                      <div className="prose prose-lg">
-                        {/* <h3 className="text-xl font-bold text-gray-800 mb-3">
-                          About this Event
-                        </h3> */}
-                        <p className="text-gray-600 text-justify leading-relaxed">
-                          {selectedEvent.description}
-                        </p>
-                      </div>
-                    </div>
+                      </button>
+                      <button
+                        onClick={nextSlide}
+                        className="absolute right-1 top-1/2 -translate-y-1/2 bg-white/50 hover:bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-lg transition"
+                      >
+                        <FontAwesomeIcon
+                          icon={faChevronRight}
+                          className="w-5 h-5"
+                        />
+                      </button>
+                    </>
+                  )}
+                </div>
+                {selectedEvent.images.length > 1 && (
+                  <div className="flex justify-center gap-2">
+                    {selectedEvent.images.map((_, idx) => (
+                      <button
+                        key={idx}
+                        onClick={() => setCurrentImageIndex(idx)}
+                        className={`w-2.5 h-2.5 rounded-full transition ${
+                          idx === currentImageIndex
+                            ? "bg-blue-600 w-8"
+                            : "bg-gray-300"
+                        }`}
+                      />
+                    ))}
                   </div>
+                )}
+              </div>
+
+              <div className="lg:w-1/2 p-8">
+                <div className="mb-6">
+                  <span className="inline-block bg-blue-100 text-blue-700 px-4 py-1 rounded-full text-sm font-semibold mb-4">
+                    📅 {selectedEvent.date}
+                  </span>
+                  <h2 className="text-3xl font-bold text-gray-900 mb-4">
+                    {selectedEvent.title}
+                  </h2>
+                </div>
+                <div className="prose prose-lg">
+                  <p className="text-gray-600 text-justify leading-relaxed">
+                    {selectedEvent.description}
+                  </p>
                 </div>
               </div>
-            )}
+            </div>
+          </div>
+        </div>
+      )}
     </>
   );
 };

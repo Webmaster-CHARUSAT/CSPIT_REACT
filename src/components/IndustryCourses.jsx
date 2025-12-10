@@ -1,7 +1,7 @@
 import React from "react";
 
 const industryCourses = [
-  { src: "images/industry courses/aws.webp", alt: "Amazon Web Services Academy" },
+  { src: "images/industry courses/AWS_Academy_logo.webp", alt: "Amazon Web Services Academy" },
   { src: "images/industry courses/cisco.webp", alt: "CISCO Networking Academy" },
   { src: "images/industry courses/code_unnati.webp", alt: "Code Unnati" },
   { src: "images/industry courses/comptia_partner.webp", alt: "CompTIA Partner" },
