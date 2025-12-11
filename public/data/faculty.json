@@ -657,6 +657,32 @@
     "memberships": [],
     "certifications": []
   },
+{
+  "name": "Chhaya Zala",
+  "title": "ASSISTANT PROFESSOR",
+  "degree": "M.Tech , Phd (pursuing)",
+  "research_interests": [
+    "Design and analysis of Algorithms",
+    "Data Structures"
+  ],
+  "image_src": "/CSPIT_Faculty/CE/CHHAYA_ZALA.webp",
+  "subjects": [
+    "Design and analysis of Algorithms",
+    "Data Structures",
+    "Compiler Design",
+    "Operating System"
+  ],
+  "research_projects": [],
+  "teaching": [],
+  "email": "chhayzala.ce@charusat.ac.in",
+  "linkedin": "https://www.linkedin.com/in/chhaya-gohel-b58340392?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  "website": "",
+  "scholar": "",
+  "vidwan": "",
+  "awards": [],
+  "memberships": ["ISTE"],
+  "certifications": []
+},
   {
     "name": "Dr. Dattatraya Subhedar",
     "title": "ASSOCIATE PROFESSOR",
