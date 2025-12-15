@@ -60,5 +60,21 @@
     ],
     "description": "The Department of Information Technology, CHARUSAT, organized a Capacity Building Program for Supporting Staff on 28th September 2025 at Lab No. 613, A-7 Building, CSPIT. The sessions focused on health and wellness, highlighting preventive tips, physical well-being, and the risks of tobacco consumption. Participants were also introduced to digital and financial literacy, covering basic mobile and internet use, cybersecurity awareness, and government schemes such as Ayushman Bharat and ESIC. The program proved beneficial in enhancing awareness and empowering staff with essential knowledge.",
     "date": "29 September 2025"
+  },
+  {
+    "id":"fdp-cyber-security-digital-forensics",
+    "title": "Faculty Development Program on Cyber Security & Digital Forensics",
+    "thumbnail": "/images/Events/FDP_Cyber_Security_Digital_Forensics/thumbnail.webp",
+    "images": [
+      "/images/Events/FDP_Cyber_Security_Digital_Forensics/1.webp",
+      "/images/Events/FDP_Cyber_Security_Digital_Forensics/2.webp",
+      "/images/Events/FDP_Cyber_Security_Digital_Forensics/3.webp",
+      "/images/Events/FDP_Cyber_Security_Digital_Forensics/4.webp",
+      "/images/Events/FDP_Cyber_Security_Digital_Forensics/5.webp",
+      "/images/Events/FDP_Cyber_Security_Digital_Forensics/6.webp",
+      "/images/Events/FDP_Cyber_Security_Digital_Forensics/7.webp"
+    ],
+    "description": "CSPIT - IT & CE, CHARUSAT, in collaboration with Rashtriya Raksha University (RRU), organized a Five-Day Faculty Development Programme (FDP) on “Cyber Security & Digital Forensics” from 1st to 3rd December 2025 and 8th to 9th December 2025. The programme was coordinated by the department faculty members Dr. Martin Parmar and Dr. Priteshkumar Prajapati featured expert sessions delivered by distinguished resource persons Dr. Martin Parmar and Dr. Priteshkumar Prajapati from CHARUSAT and Mr. Dhaval Deshkar, Mr. Varshith Jakkaraju and Mr. Pranjal Upadhyay from RRU. The main contents of FDP are Cyber security, digital forensics, emerging cyber threats, incident response, OWASP Top 10, and MITRE ATT&CK framework. The FDP witnessed enthusiastic participation from faculty members across CE, IT, CSE, and AIML, EC disciplines of CSPIT, DEPSTAR and CMPICA with 20 participants.",
+    "date": "1 December 2025"
   }
 ]
