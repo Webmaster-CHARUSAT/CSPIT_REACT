@@ -76,5 +76,371 @@
     ],
     "description": "CSPIT - IT & CE, CHARUSAT, in collaboration with Rashtriya Raksha University (RRU), organized a Five-Day Faculty Development Programme (FDP) on “Cyber Security & Digital Forensics” from 1st to 3rd December 2025 and 8th to 9th December 2025. The programme was coordinated by the department faculty members Dr. Martin Parmar and Dr. Priteshkumar Prajapati featured expert sessions delivered by distinguished resource persons Dr. Martin Parmar and Dr. Priteshkumar Prajapati from CHARUSAT and Mr. Dhaval Deshkar, Mr. Varshith Jakkaraju and Mr. Pranjal Upadhyay from RRU. The main contents of FDP are Cyber security, digital forensics, emerging cyber threats, incident response, OWASP Top 10, and MITRE ATT&CK framework. The FDP witnessed enthusiastic participation from faculty members across CE, IT, CSE, and AIML, EC disciplines of CSPIT, DEPSTAR and CMPICA with 20 participants.",
     "date": "1 December 2025"
+  },
+  {
+    "id":"ctf",
+    "title": "Workshop - Capture The Flag",
+    "thumbnail": "/images/Events/CTF/CTF_4.webp",
+    "images": [
+      "/images/Events/CTF/CTF_1.webp",
+      "/images/Events/CTF/CTF_2.webp",
+      "/images/Events/CTF/CTF_3.webp",
+      "/images/Events/CTF/CTF_4.webp",
+      "/images/Events/CTF/CTF_5.webp"
+    ],
+    "description": "Successfully organised a Workshop on Hands on Session on : Capture the Flag on 18/09/2025 for 5 semester Students of CSPIT-CSE. The session was delivered by  Dr. Pooja Shah , Assistant Professor and M.Tech Cyber Security Coordinator at Pandit Deendayal Energy University (PDEU) and an Active IEEE member. The session provided hands-on experience in cybersecurity challenges  to solve problems and \"capture\" digital flags. Key skills include reconnaissance, vulnerability analysis, and digital forensics in a safe, controlled environment.",
+    "date": "18 September 2025"
+  },
+  {
+    "id":"ai-camp",
+    "title": "AI Camp",
+    "thumbnail": "/images/Events/AI_camp/1.webp",
+    "images": [
+      "/images/Events/AI_camp/1.webp",
+      "/images/Events/AI_camp/2.webp",
+      "/images/Events/AI_camp/3.webp",
+      "/images/Events/AI_camp/4.webp",
+      "/images/Events/AI_camp/5.webp"
+    ],
+    "description": "The AI Awareness Event at Changa is organized by the Department of Artificial Intelligence & Machine Learning to spread knowledge about Artificial Intelligence and its practical benefits in farming, healthcare, and education. The event includes a street play, live demonstrations of AI tools, interactive games, and Q&A sessions designed to engage villagers in simple, culturally relatable ways. The aim is to show how AI can become a helpful companion in daily life, empowering rural communities towards a smarter and more self-reliant future.",
+    "date": "24 September 2025"
+  },
+  {
+    "id":"software-testing-expert-talk",
+    "title": "Expert Talk - Next Generation Software Testing",
+    "thumbnail": "/images/Events/Software-testing/1.webp",
+    "images": [
+      "/images/Events/Software-testing/1.webp",
+      "/images/Events/Software-testing/2.webp",
+      "/images/Events/Software-testing/3.webp",
+      "/images/Events/Software-testing/4.webp",
+      "/images/Events/Software-testing/5.webp",
+      "/images/Events/Software-testing/6.webp"
+    ],
+    "description": "An expert talk on “Next-Gen Software Testing: Fundamentals, Tools, and AI Integration” was conducted on 29th September 2025 by Dr. Saurabh Tiwari, Associate Professor & Head, SERL, DA-IICT, Gandhinagar. The session, specifically targeted for 5th semester (3rd year) students of the IT department, covered the fundamentals of software testing, including concepts such as errors, faults, failures, bugs, defects, and verification & validation, along with an overview of static vs. dynamic testing and black box vs. white box approaches with test case generation. Different testing levels such as unit and system testing were discussed, followed by hands-on demonstrations of widely used testing tools like JUnit/Pytest, Mutation Testing, Code Coverage, and Selenium for GUI testing.",
+    "date": "29 September 2025"
+  },
+  {
+    "id":"classroom-to-career-expert-talk",
+    "title": "Expert Talk - From Classroom to Career",
+    "thumbnail": "/images/Events/classroom_career/thumbnail.webp",
+    "images": [
+      "/images/Events/classroom_career/1.webp",
+      "/images/Events/classroom_career/2.webp",
+      "/images/Events/classroom_career/3.webp",
+      "/images/Events/classroom_career/4.webp"
+    ],
+    "description": "Successfully organised Expert talk on From Classroom to Career: Discover how AI drives industry today on 25/09/2025. The session was delivered by Mr. Harshal Trivedi, CIAO, Sahana System Ltd. ",
+    "date": "25 September 2025"
+  },
+  {
+    "id":"ipv6-deployment-workshop",
+    "title": "3 day Workshop - IPv6 Deployment & Future R&D in Networking",
+    "thumbnail": "/images/Events/ipv6/1.webp",
+    "images": [
+      "/images/Events/ipv6/1.webp",
+      "/images/Events/ipv6/2.webp",
+      "/images/Events/ipv6/3.webp",
+      "/images/Events/ipv6/4.webp",
+      "/images/Events/ipv6/5.webp"
+    ],
+    "description": "Successfully organised Workshop on IPv6 Deployment & Future Research Development in Networking Field from 15-17 September 2025 . The Session was delivered by Prof. Mohit Tahiliani, Associate Professor, Dept. of CSE, NITK.The workshop strengthened participants’ understanding of network performance through hands-on practice with Linux-based tools and simulation platforms like NeST and ns-3. It also featured an IPv6 deployment module, offering practical experience using APNIC resources.",
+    "date": "15 September 2025"
+  },
+  {
+    "id":"ghost-hunter",
+    "title": "Workshop - Ghost Hunt Chapter 1",
+    "thumbnail": "/images/Events/ghost-hunter/thumbnail.webp",
+    "images": [
+      "/images/Events/ghost-hunter/1.webp",
+      "/images/Events/ghost-hunter/2.webp",
+      "/images/Events/ghost-hunter/3.webp"
+    ],
+    "description": "Ghost Hunt: Chapter 1, organized under the Cyber Kavach Club by the CSE Department, CSPIT, witnessed enthusiastic participation from 346 students across 80 teams. The event, convened by Dr. Amit Thakkar and coordinated by Ms. Akshita Kadam, focused on OSINT, CTF challenges, and ethical problem-solving. It successfully promoted cybersecurity awareness while enhancing students’ technical, analytical, and teamwork skills.",
+    "date": "23 September 2025"
+  },
+  {
+    "id":"ai-for-all-meetup",
+    "title": "AI For All Meetup 3.0",
+    "thumbnail": "/images/Events/AI_All/2.webp",
+    "images": [
+      "/images/Events/AI_All/1.webp",
+      "/images/Events/AI_All/2.webp",
+      "/images/Events/AI_All/3.webp",
+      "/images/Events/AI_All/4.webp",
+      "/images/Events/AI_All/5.webp",
+      "/images/Events/AI_All/6.webp"
+    ],
+    "description": "The AI FOR ALL Meetup 3.0 was successfully organized by the Department of Artificial Intelligence and Machine Learning at CHARUSAT. The event brought together students, faculty, and industry experts on a common platform to celebrate innovation, collaboration, and learning in the field of Artificial Intelligence. Throughout the day, participants engaged in insightful sessions delivered by industry professionals, gaining valuable perspectives on the evolving landscape of AI and its real-world impact. Students also showcased their projects and research ideas through poster presentations, demonstrating creativity, problem-solving skills, and a passion for technology-driven solutions. The event not only fostered meaningful dialogue between academia and industry but also inspired participants to think beyond conventional boundaries. The collective effort of the organizing team, faculty mentors, and students turned AI FOR ALL Meetup 3.0 into a memorable and enriching experience",
+    "date": "04 October 2025"
+  },
+  {
+    "id":"msbc-dataquest-hackathon",
+    "title": "Hackathon - MSBC DataQuest Hackathon",
+    "thumbnail": "/images/Events/dataquest/1.webp",
+    "images": [
+      "/images/Events/dataquest/1.webp",
+      "/images/Events/dataquest/2.webp",
+      "/images/Events/dataquest/3.webp",
+      "/images/Events/dataquest/4.webp",
+      "/images/Events/dataquest/5.webp",
+      "/images/Events/dataquest/6.webp",
+      "/images/Events/dataquest/7.webp"
+    ],
+    "description": "A one-day Hackathon was organized in collaboration with MSBC Company on 20th September 2025 at CSPIT, CHARUSAT, with around 200 participants showcasing their coding and problem-solving skills. The CEO, Global Operations Director, and the MSB team attended the event and served as part of the Main Evaluation Panel. With a ₹1,55,000 prize pool, the Hackathon successfully promoted innovation and strengthened academia-industry collaboration.",
+    "date": "20 September 2025"
+  },
+  {
+    "id":"innotech-2",
+    "title": "Project and Research Expo - Innotech 2.0",
+    "thumbnail": "/images/Events/innotech-2/thumbnail.webp",
+    "images": [
+      "/images/Events/innotech-2/1.webp",
+      "/images/Events/innotech-2/2.webp"
+    ],
+    "description": "Successfully Organised Innotech 2.0 Project & Research Expo organised by CE, CSPIT on Date : 26/09/2025",
+    "date": "26 September 2025"
+  },
+  {
+    "id":"parents-teachers-meeting-ce-department",
+    "title": "Parents Teachers Meeting CE Department",
+    "thumbnail": "/images/Events/ptm-ce/5.webp",
+    "images": [
+      "/images/Events/ptm-ce/1.webp",
+      "/images/Events/ptm-ce/2.webp",
+      "/images/Events/ptm-ce/3.webp",
+      "/images/Events/ptm-ce/4.webp",
+      "/images/Events/ptm-ce/5.webp"
+    ],
+    "description": "A Parent–Teacher session attended by 23 parents was held to brief them on e-governance initiatives, university and institute guidelines, departmental policies, and the Skill Augmentation Module. Detailed explanations were provided on each topic to ensure clarity and alignment with institutional objectives. The session concluded with an interactive Parents–Teachers segment in which student counsellors responded to several queries and clarified concerns. Kindly note the positive engagement and readiness of parents to support the department’s initiatives.",
+    "date": "04 September 2025"
+  },
+  {
+    "id":"track_trace",
+    "title": "Competition - Trace & Track",
+    "thumbnail": "/images/Events/track_trace/4.webp",
+    "images": [
+      "/images/Events/track_trace/1.webp",
+      "/images/Events/track_trace/2.webp",
+      "/images/Events/track_trace/3.webp",
+      "/images/Events/track_trace/4.webp",
+      "/images/Events/track_trace/5.webp"
+    ],
+    "description": "CSE & EE department successfully organised Trace - Track : A line following Robot Competition for First Year Students of CSPIT. Event was held on 04/10/2025 at Ground Floor of A7 Civil Building, CSPIT.",
+    "date": "04 October 2025"
+  },
+  {
+    "id":"java_developer_expert_talk",
+    "title": "Expert Talk - Insights for Future Java Developers",
+    "thumbnail": "/images/Events/java_developers/4.webp",
+    "images": [
+      "/images/Events/java_developers/1.webp",
+      "/images/Events/java_developers/2.webp",
+      "/images/Events/java_developers/3.webp",
+      "/images/Events/java_developers/4.webp"
+    ],
+    "description": "Successfully Organised Expert talk on \"Insights for future java Developer\" and session was delivered by Mr. Brijesh Hansaliya, Software Engineer from Bankai Infotech Pvt. Ltd. Session was held on Date : 09/10/2025.",
+    "date": "09 October 2025"
+  },
+  {
+    "id":"research_excellence_expert_talk",
+    "title": "Expert Talk - Advancing Research Excellence",
+    "thumbnail": "/images/Events/research_excellence/1.webp",
+    "images": [
+      "/images/Events/research_excellence/1.webp",
+      "/images/Events/research_excellence/2.webp",
+      "/images/Events/research_excellence/3.webp",
+      "/images/Events/research_excellence/4.webp",
+      "/images/Events/research_excellence/5.webp"
+    ],
+    "description": "Successfully organised Expert Talk on \"Advancing Research Excellence: From Quality Publishing to AI-Empowered Innovation\" and this session was delivered by Mr. Prince Jain, Assistant Professor at Parul University",
+    "date": "08 October 2025"
+  },
+  {
+    "id":"expert_talk_value_proposition_business_model_canvas",
+    "title": "Expert Talk - Integrating Value Proposition and Business Model Canvas",
+    "thumbnail": "/images/Events/business_model_canvas/1.webp",
+    "images": [
+      "/images/Events/business_model_canvas/1.webp",
+      "/images/Events/business_model_canvas/2.webp",
+      "/images/Events/business_model_canvas/3.webp"
+    ],
+    "description": "Successfully organised Expert Talk on \" Integrating Value Proposition and Business Model Canvas in Design Engineering for Innovation and Entrepreneurship\"  and this session was delivered by Ms. Bela Shah, Assistant Professor at Parul University",
+    "date": "08 October 2025"
+  },
+  {
+    "id":"c_titan_hackathon",
+    "title": "Hackathon - C-Titan hackathon in collaboration with Brainy Beam and Krivy Co.",
+    "thumbnail": "/images/Events/c_titan/thumbnail.webp",
+    "images": [
+      "/images/Events/c_titan/1.webp",
+      "/images/Events/c_titan/2.webp",
+      "/images/Events/c_titan/3.webp",
+      "/images/Events/c_titan/4.webp"
+    ],
+    "description": "CE department successfully Organised Hackathon named C-Titan with industry collaboration from Brainy Beam and Krivy Co. and the winning amount of 10,000 rupees was sponsored by the collaborating companies. It was a three day event from 29 - October - 2025 to 31 - October - 2025",
+    "date": "29 October 2025"
+  },
+  {
+    "id":"design_and_drafting_of_technical_documents_workshop",
+    "title": "Workshop on Design and Drafting of Technical Documents",
+    "thumbnail": "/images/Events/Design_Drafting_Documents/thumbnail.webp",
+    "images": [
+      "/images/Events/Design_Drafting_Documents/1.webp",
+      "/images/Events/Design_Drafting_Documents/2.webp",
+      "/images/Events/Design_Drafting_Documents/3.webp",
+      "/images/Events/Design_Drafting_Documents/4.webp"
+    ],
+    "description": "Organised workshop on Design and Drafting of Technical Documents on 05th July 2025.",
+    "date": "05 July 2025"
+  },
+  {
+    "id":"uav_expert_talk",
+    "title": "Expert Talk on Understanding of Chip Level Designing for UAV's",
+    "thumbnail": "/images/Events/UAV/thumbnail.webp",
+    "images": [
+      "/images/Events/UAV/1.webp",
+      "/images/Events/UAV/2.webp",
+      "/images/Events/UAV/3.webp",
+      "/images/Events/UAV/4.webp"
+    ],
+    "description": "Organised Expert Talk on Understanding of Chip Level Designing for UAV's on 10th July 2025.",
+    "date": "10 July 2025"
+  },
+  {
+    "id":"Pioneering_Semiconductors",
+    "title": "Pioneering Semiconductors",
+    "thumbnail": "/images/Events/Pioneering_Semiconductors/thumbnail.webp",
+    "images": [
+      "/images/Events/Pioneering_Semiconductors/thumbnail.webp",
+      "/images/Events/Pioneering_Semiconductors/1.webp"
+    ],
+    "description": "Organsied Expert Talk on Pioneering Semiconductors: Inauguration of Gujarat’s First IEEE CASS Student Branch Chapter along with STEP Talk on “Semiconductor Opportunities, Applications, and Projects – Future for Engineers on 11th July 2025.",
+    "date": "11 July 2025"
+  },
+  {
+    "id":"pragya-path",
+    "title": "Pragya Path – Unlock the path to excellence, A Career Path Talk Series",
+    "thumbnail": "/images/Events/pragyapath/thumbnail.webp",
+    "images": [
+      "/images/Events/pragyapath/1.webp",
+      "/images/Events/pragyapath/2.webp",
+      "/images/Events/pragyapath/3.webp"
+    ],
+    "description": "Organised Student club activity Pragya Path – Unlock the path to excellence, A Career Path Talk Series on 23rd July 2025.",
+    "date": "23 July 2025"
+  },
+  {
+    "id":"raksha-bandhan",
+    "title": "Raksha Bandhan – Tribute to Our Brave Soldiers",
+    "thumbnail": "/images/Events/raksha-bandhan/thumbnail.webp",
+    "images": [
+      "/images/Events/raksha-bandhan/1.webp",
+      "/images/Events/raksha-bandhan/2.webp"
+    ],
+    "description": "Organised NSS Activity Raksha Bandhan – Tribute to Our Brave Soldiers on 28th July 2025 organized by the Department NSS Cell, CSPIT EC Department.",
+    "date": "28 July 2025"
+  },
+  {
+    "id":"industry-institute-interaction-ce-department",
+    "title": "Job Opportunities and Current Trends in Silicon Industry under Pragya Path",
+    "thumbnail": "/images/Events/job_oppurtunity_trends/thumbnail.webp",
+    "images": [
+      "/images/Events/job_oppurtunity_trends/1.webp",
+      "/images/Events/job_oppurtunity_trends/2.webp",
+      "/images/Events/job_oppurtunity_trends/3.webp",
+      "/images/Events/job_oppurtunity_trends/4.webp"
+    ],
+    "description": "Organised Student Club Activity Job Opportunities and Current Trends in Silicon Industry under Pragya Path – Unlock the path to excellence, A Career Path Talk Series on August 05, 2025",
+    "date": "05 August 2025"
+  },
+  {
+    "id":"data_science_azure_ai_workshop",
+    "title": "Workshop on Data Science with Azure AI",
+    "thumbnail": "/images/Events/data_science_azure/thumbnail.webp",
+    "images": [
+      "/images/Events/data_science_azure/1.webp",
+      "/images/Events/data_science_azure/2.webp",
+      "/images/Events/data_science_azure/3.webp",
+      "/images/Events/data_science_azure/4.webp"
+    ],
+    "description": "Organised Workshop on Data Science with Azure AI on 20th August 2025.",
+    "date": "20 August 2025"
+  },
+  {
+    "id":"igniting-chip-careers",
+    "title": "Igniting Chip Careers",
+    "thumbnail": "/images/Events/igniting_chip_careers/thumbnail.webp",
+    "images": [
+      "/images/Events/igniting_chip_careers/1.webp",
+      "/images/Events/igniting_chip_careers/2.webp",
+      "/images/Events/igniting_chip_careers/3.webp",
+      "/images/Events/igniting_chip_careers/4.webp"
+    ],
+    "description": "Organised Expert talk on Igniting Chip Careers: From Research Labs to Semiconductor Startups under IEEE CASS Chapter and VLSI Club  ",
+    "date": "25 August 2025"
+  },
+  {
+    "id":"ignite-your-iot-journey-with-esp-32",
+    "title": "Ignite Your IoT Journey with ESP 32",
+    "thumbnail": "/images/Events/ignite_iot_journey/1.webp",
+    "images": [
+      "/images/Events/ignite_iot_journey/1.webp",
+      "/images/Events/ignite_iot_journey/2.webp",
+      "/images/Events/ignite_iot_journey/3.webp"
+    ],
+    "description": "Organised workshop on Ignite Your IoT Journey with ESP 32 under Student Club Activity on 28th August 2025.",
+    "date": "28 August 2025"
+  },
+  {
+    "id":"education-innovation-expert-talk",
+    "title": "The Skill Revolution: Education for Innovation",
+    "thumbnail": "/images/Events/education_innovation/thumbnail.webp",
+    "images": [
+      "/images/Events/education_innovation/1.webp",
+      "/images/Events/education_innovation/2.webp",
+      "/images/Events/education_innovation/3.webp",
+      "/images/Events/education_innovation/4.webp"
+    ],
+    "description": "Organised an Alumni Expert Talk on The Skill Revolution: Education for Innovation on 30th August 2025.",
+    "date": "30 August 2025"
+  },
+  {
+    "id":"smart_power_electronics",
+    "title": "Smart Power Electronics for Sustainable Transportation",
+    "thumbnail": "/images/Events/smart_power_electronics/2.webp",
+    "images": [
+      "/images/Events/smart_power_electronics/1.webp",
+      "/images/Events/smart_power_electronics/2.webp",
+      "/images/Events/smart_power_electronics/3.webp"
+    ],
+    "description": "Organised Expert Talk on Smart Power Electronics for Sustainable Transportation on 30th August 2025.",
+    "date": "30 August 2025"
+  },
+  {
+    "id":"wastewater-treatment-expert-talk",
+    "title": "Energizing Wastewater Treatment",
+    "thumbnail": "/images/Events/wastewater_treatment/1.webp",
+    "images": [
+      "/images/Events/wastewater_treatment/1.webp",
+      "/images/Events/wastewater_treatment/2.webp",
+      "/images/Events/wastewater_treatment/3.webp"
+    ],
+    "description": "Organised Expert Talk on Energizing Wastewater Treatment: A Blueprint for Electrical Efficiency and Strategic Power Procurement on 01st September 2025.",
+    "date": "01 September 2025"
+  },
+  {
+    "id":"tech-tackle",
+    "title": "Tech Tackle",
+    "thumbnail": "/images/Events/tech_tackle/thumbnail.webp",
+    "images": [
+      "/images/Events/tech_tackle/1.webp",
+      "/images/Events/tech_tackle/2.webp",
+      "/images/Events/tech_tackle/3.webp",
+      "/images/Events/tech_tackle/4.webp",
+      "/images/Events/tech_tackle/5.webp"
+    ],
+    "description": "Organised a hackathon Tech Tackle organized by Code for Cause (a coding club) on 30th August 2025.",
+    "date": "30 August 2025"
   }
 ]
