@@ -496,7 +496,7 @@ const EventsPage = () => {
                   </h2>
                 </div>
                 <div className="prose prose-lg">
-                  <p className="text-gray-600 text-justify leading-relaxed">
+                  <p className="text-gray-600 text-justify leading-relaxed whitespace-pre-line">
                     {selectedEvent.description}
                   </p>
                 </div>

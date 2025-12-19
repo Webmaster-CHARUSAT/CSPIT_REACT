@@ -94,13 +94,13 @@
   {
     "id":"ai-camp",
     "title": "AI Camp",
-    "thumbnail": "/images/Events/AI_camp/1.webp",
+    "thumbnail": "/images/Events/AI_Camp/1.webp",
     "images": [
-      "/images/Events/AI_camp/1.webp",
-      "/images/Events/AI_camp/2.webp",
-      "/images/Events/AI_camp/3.webp",
-      "/images/Events/AI_camp/4.webp",
-      "/images/Events/AI_camp/5.webp"
+      "/images/Events/AI_Camp/1.webp",
+      "/images/Events/AI_Camp/2.webp",
+      "/images/Events/AI_Camp/3.webp",
+      "/images/Events/AI_Camp/4.webp",
+      "/images/Events/AI_Camp/5.webp"
     ],
     "description": "The AI Awareness Event at Changa is organized by the Department of Artificial Intelligence & Machine Learning to spread knowledge about Artificial Intelligence and its practical benefits in farming, healthcare, and education. The event includes a street play, live demonstrations of AI tools, interactive games, and Q&A sessions designed to engage villagers in simple, culturally relatable ways. The aim is to show how AI can become a helpful companion in daily life, empowering rural communities towards a smarter and more self-reliant future.",
     "date": "24 September 2025"
@@ -136,7 +136,7 @@
   {
     "id":"ipv6-deployment-workshop",
     "title": "3 day Workshop - IPv6 Deployment & Future R&D in Networking",
-    "thumbnail": "/images/Events/ipv6/1.webp",
+    "thumbnail": "/images/Events/ipv6/thumbnail.webp",
     "images": [
       "/images/Events/ipv6/1.webp",
       "/images/Events/ipv6/2.webp",
@@ -442,5 +442,49 @@
     ],
     "description": "Organised a hackathon Tech Tackle organized by Code for Cause (a coding club) on 30th August 2025.",
     "date": "30 August 2025"
+  },
+  {
+    "id":"nss-cleanliness-drive",
+    "title": "Digital Twin (DT) Technology for Wireless Communication Systems",
+    "thumbnail": "/images/Events/DT_Technology/thumbnail.webp",
+    "images": [
+      "/images/Events/DT_Technology/1.webp",
+      "/images/Events/DT_Technology/2.webp",
+      "/images/Events/DT_Technology/3.webp",
+      "/images/Events/DT_Technology/4.webp",
+      "/images/Events/DT_Technology/5.webp"
+    ],
+    "description": "Organised Endowment Chair Activity on Digital Twin (DT) Technology for Wireless Communication Systems on 15th December 2025.",
+    "date": "15 December 2025"
+  },
+  {
+    "id":"nss-cleanliness-drive",
+    "title": " DSA Treasure Hunt",
+    "thumbnail": "/images/Events/DSA_Hunt/1.webp",
+    "images": [
+      "/images/Events/DSA_Hunt/1.webp",
+      "/images/Events/DSA_Hunt/2.webp",
+      "/images/Events/DSA_Hunt/3.webp",
+      "/images/Events/DSA_Hunt/4.webp",
+      "/images/Events/DSA_Hunt/5.webp",
+      "/images/Events/DSA_Hunt/6.webp",
+      "/images/Events/DSA_Hunt/7.webp"
+    ],
+    "description": "The DSA Treasure Hunt is an exciting and educational event designed to challenge and engage students in exploring Data Structures and Algorithms. This multi-round competition combines fun and learning, pushing participants to apply their knowledge creatively. This event aims to: \n • Reinforce DSA concepts in an engaging, practical manner.\n• Encourage teamwork and healthy competition\n • Improve problem-solving skills and algorithmic thinking\n • Boost confidence in applying DSA principles.",
+    "date": "19 September 2025"
+  },
+  {
+    "id":"spring-micro-services-expert-talk",
+    "title": "Expert Talk - Spring Micro Services and Spring Gateway",
+    "thumbnail": "/images/Events/Spring_Micro_Services/thumbnail.webp",
+    "images": [
+      "/images/Events/Spring_Micro_Services/1.webp",
+      "/images/Events/Spring_Micro_Services/2.webp",
+      "/images/Events/Spring_Micro_Services/3.webp",
+      "/images/Events/Spring_Micro_Services/4.webp",
+      "/images/Events/Spring_Micro_Services/5.webp"
+    ],
+    "description": "Successfully organised an Expert Talk on Spring MIcro Services & Spring Gateway on 18/09/2025 for 5 semester Students of CSPIT-CE. The session was delivered by Swachil Patel, Senior Software Engineer at EPAM Solution PVT. LTD.",
+    "date": "18 September 2025"
   }
 ]
