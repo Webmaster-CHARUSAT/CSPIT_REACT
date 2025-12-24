@@ -486,5 +486,69 @@
     ],
     "description": "Successfully organised an Expert Talk on Spring MIcro Services & Spring Gateway on 18/09/2025 for 5 semester Students of CSPIT-CE. The session was delivered by Swachil Patel, Senior Software Engineer at EPAM Solution PVT. LTD.",
     "date": "18 September 2025"
+  },
+  {
+    "id":"tedx-2025",
+    "title": "TEDxCHARUSAT 2025",
+    "thumbnail": "/images/Events/tedx25/thumbnail.webp",
+    "images": [
+      "/images/Events/tedx25/1.webp",
+      "/images/Events/tedx25/2.webp",
+      "/images/Events/tedx25/3.webp",
+      "/images/Events/tedx25/4.webp",
+      "/images/Events/tedx25/5.webp",
+      "/images/Events/tedx25/6.webp",
+      "/images/Events/tedx25/7.webp",
+      "/images/Events/tedx25/8.webp",
+      "/images/Events/tedx25/9.webp"
+    ],
+    "description": "Successfully organised second edition of TEDxCHARUSAT on 12th December 2025 at CHARUSAT Campus. The event featured inspiring talks from various speakers, including Adarsh Kumar Singh, Pamit Anand, Pragnya Mohan, Shankar Murlidharan, and Dr. Sweta R. Purohit. The event aimed to foster innovation, creativity, and knowledge sharing among the attendees.",
+    "date": "12 December 2025"
+  },
+  {
+    "id":"design-verifications-expert-talk",
+    "title": "Fundamentals of Design & Verifications",
+    "thumbnail": "/images/Events/design-verification/thumbnail.webp",
+    "images": [
+      "/images/Events/design-verification/1.webp",
+      "/images/Events/design-verification/2.webp",
+      "/images/Events/design-verification/3.webp",
+      "/images/Events/design-verification/4.webp"
+    ],
+    "description": "Organised Expert Talk on Fundamentals of Design & Verifications under Pragyapath Event on 20th December 2025.",
+    "date": "20 December 2025"
+  },
+  {
+    "id":"endowment-activity-kdpit",
+    "title": "Endowment Chair Activity by KDPIT with Mr. Shashank Chinchli",
+    "thumbnail": "/images/Events/endowment-activity-kdpit/thumbnail.webp",
+    "images": [
+      "/images/Events/endowment-activity-kdpit/1.webp",
+      "/images/Events/endowment-activity-kdpit/2.webp",
+      "/images/Events/endowment-activity-kdpit/3.webp",
+      "/images/Events/endowment-activity-kdpit/4.webp",
+      "/images/Events/endowment-activity-kdpit/5.webp",
+      "/images/Events/endowment-activity-kdpit/6.webp",
+      "/images/Events/endowment-activity-kdpit/7.webp",
+      "/images/Events/endowment-activity-kdpit/8.webp",
+      "/images/Events/endowment-activity-kdpit/9.webp"
+    ],
+    "description": "The Endowment Chair Activity organized by the Kundanben Dinsha Patel Department of Information Technology (KDPIT), CSPIT, CHARUSAT was conducted from 17 to 19 December 2025 with the objective of enhancing students’ and faculty members’ exposure to industry-relevant cloud technologies. The three-day program featured expert-led sessions on Cloud Computing, Infrastructure as Code (Terraform), DevOps, CI/CD pipelines, MLOps, and AI integration with cloud platforms, along with hands-on workshops and career guidance sessions for placement-oriented students.\n\n As a key highlight, a Cloud-Based Project Competition was organized where students showcased projects in Cloud, Generative AI, Security, and DevOps domains. The top three projects were awarded a total prize money of ₹10,000, encouraging innovation and practical problem-solving. Participants received personalized mentoring, architectural guidance, and constructive feedback from the expert. Additionally, the event facilitated research and industry–academia collaboration discussions for faculty members and research scholars, making the initiative impactful for academic advancement and industry readiness.",
+    "date": "19 December 2025"
+  },
+  {
+    "id":"cspit-alumni-meet-2025",
+    "title": "CSPIT Alumni Meet - Sanyojan 2025",
+    "thumbnail": "/images/Events/cspit-alumni-meet/thumbnail.webp",
+    "images": [
+      "/images/Events/cspit-alumni-meet/1.webp",
+      "/images/Events/cspit-alumni-meet/2.webp",
+      "/images/Events/cspit-alumni-meet/3.webp",
+      "/images/Events/cspit-alumni-meet/4.webp",
+      "/images/Events/cspit-alumni-meet/5.webp",
+      "/images/Events/cspit-alumni-meet/6.webp"
+    ],
+    "description": "The CSPIT Alumni Meet was successfully organized with enthusiastic participation from alumni across batches. The event provided a meaningful platform to interact on current industry trends, exchange professional insights, and strengthen alumni connections. It also offered a warm opportunity to relive cherished memories of campus life, making the gathering both engaging and nostalgic. The meet was further enriched by an insightful and inspiring address from the Principal, highlighting the institute’s vision and future roadmap.",
+    "date": "06 December 2025"
   }
 ]
