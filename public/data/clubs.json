@@ -20,21 +20,54 @@
       }
     ],
     "Gallery": [
-      "/images/gallery/AWS Commuinity Day/aws2.webp",
-      "/images/gallery/AWS Commuinity Day/aws1.webp",
-      "/images/gallery/AWS Commuinity Day/aws3.webp",
-      "/images/gallery/AWS Commuinity Day/aws5.webp"
+      "/images/Student Club/AWS/endowment/6.webp",
+      "/images/Student Club/AWS/aws_roots/1.webp",
+      "/images/Student Club/AWS/aws_roots/4.webp",
+      "/images/Student Club/AWS/iaas/3.webp",
+      "/images/Student Club/AWS/iaas/5.webp"
     ],
     "Events": [
       {
-        "Name": "AWS Cloud Bootcamp",
-        "Date": "15-17 Nov 2023",
-        "Description": "A three-day coding event",
+        "Name": "Infrastructure as Code on AWS: A Hands-On Journey with Terraform by Sandip Patel",
+        "Date": "",
+        "Description": " A Hands-On Journey with Terraform by Sandip Patel",
         "Images": [
-          "/images/gallery/AWS Commuinity Day/aws2.webp",
-          "/images/gallery/AWS Commuinity Day/aws1.webp",
-          "/images/gallery/AWS Commuinity Day/aws3.webp",
-          "/images/gallery/AWS Commuinity Day/aws5.webp"
+          "/images/Student Club/AWS/iaas/1.webp",
+          "/images/Student Club/AWS/iaas/2.webp",
+          "/images/Student Club/AWS/iaas/3.webp",
+          "/images/Student Club/AWS/iaas/4.webp",
+          "/images/Student Club/AWS/iaas/5.webp",
+          "/images/Student Club/AWS/iaas/6.webp",
+          "/images/Student Club/AWS/iaas/7.webp"
+        ]
+      },
+      {
+        "Name": "AWS Roots by Cloud Captain",
+        "Date": "21 July 2025",
+        "Description": "an exciting new event focused on cloud fundamentals and community building.",
+        "Images": [
+          "/images/Student Club/AWS/aws_roots/poster.webp",
+          "/images/Student Club/AWS/aws_roots/1.webp",
+          "/images/Student Club/AWS/aws_roots/2.webp",
+          "/images/Student Club/AWS/aws_roots/3.webp",
+          "/images/Student Club/AWS/aws_roots/4.webp",
+          "/images/Student Club/AWS/aws_roots/5.webp",
+          "/images/Student Club/AWS/aws_roots/6.webp"
+        ]
+      },
+      {
+        "Name": "Endowment Chair Activity by Shashank Chinchli",
+        "Date": "17 - 19 December 2025",
+        "Description": "The Endowment Chair Activity organized by the Kundanben Dinsha Patel Department of Information Technology (KDPIT), CSPIT, CHARUSAT was conducted from 17 to 19 December 2025 with the objective of enhancing students’ and faculty members’ exposure to industry-relevant cloud technologies. The three-day program featured expert-led sessions on Cloud Computing, Infrastructure as Code (Terraform), DevOps, CI/CD pipelines, MLOps, and AI integration with cloud platforms, along with hands-on workshops and career guidance sessions for placement-oriented students.\n\n As a key highlight, a Cloud-Based Project Competition was organized where students showcased projects in Cloud, Generative AI, Security, and DevOps domains. The top three projects were awarded a total prize money of ₹10,000, encouraging innovation and practical problem-solving. Participants received personalized mentoring, architectural guidance, and constructive feedback from the expert. Additionally, the event facilitated research and industry–academia collaboration discussions for faculty members and research scholars, making the initiative impactful for academic advancement and industry readiness.",
+        "Images": [
+          "/images/Student Club/AWS/endowment/poster.webp",
+          "/images/Student Club/AWS/endowment/1.webp",
+          "/images/Student Club/AWS/endowment/2.webp",
+          "/images/Student Club/AWS/endowment/3.webp",
+          "/images/Student Club/AWS/endowment/4.webp",
+          "/images/Student Club/AWS/endowment/5.webp",
+          "/images/Student Club/AWS/endowment/6.webp",
+          "/images/Student Club/AWS/endowment/7.webp"
         ]
       }
     ]
