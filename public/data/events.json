@@ -550,5 +550,32 @@
     ],
     "description": "The CSPIT Alumni Meet was successfully organized with enthusiastic participation from alumni across batches. The event provided a meaningful platform to interact on current industry trends, exchange professional insights, and strengthen alumni connections. It also offered a warm opportunity to relive cherished memories of campus life, making the gathering both engaging and nostalgic. The meet was further enriched by an insightful and inspiring address from the Principal, highlighting the institute’s vision and future roadmap.",
     "date": "06 December 2025"
+  },
+  {
+    "id":"ai-pharma",
+    "title": "Expert Talk - AI Projects in the Pharmaceutical Industry",
+    "thumbnail": "/images/Events/ai-pharma/1.webp",
+    "images": [
+      "/images/Events/ai-pharma/1.webp",
+      "/images/Events/ai-pharma/2.webp",
+      "/images/Events/ai-pharma/3.webp",
+      "/images/Events/ai-pharma/4.webp",
+      "/images/Events/ai-pharma/7.webp"
+    ],
+    "description": "The expert lecture on AI Projects in the Pharmaceutical Industry provided valuable exposure to emerging applications of Artificial Intelligence and Machine Learning in the pharmaceutical domain. The lecture highlighted the importance of data-driven decision-making, use of advanced algorithms, and integration of AI tools with biomedical and healthcare datasets. The session enabled participants to gain a comprehensive understanding of the role of AI across various stages of the pharmaceutical lifecycle, including drug discovery, clinical trials, manufacturing, and post-marketing surveillance. The session also emphasized industry-relevant project workflows, current challenges, regulatory considerations, and ethical aspects related to AI adoption in healthcare. Furthermore, it will help students identify potential project ideas, research directions, and career opportunities in the pharmaceutical AI ecosystem.",
+    "date": "19 December 2025"
+  },
+  {
+    "id":"mou-msa-vtc",
+    "title": "Memorandum of Understanding",
+    "thumbnail": "/images/Events/mou-msa-vtc/1.webp",
+    "images": [
+      "/images/Events/mou-msa-vtc/1.webp",
+      "/images/Events/mou-msa-vtc/2.webp",
+      "/images/Events/mou-msa-vtc/3.webp",
+      "/images/Events/mou-msa-vtc/4.webp"
+    ],
+    "description": "CHARUSAT signed an MoU with MSA – VTC (Vocational Training Center – Muni Seva Ashram to strengthen industry-academia collaboration. This collaboration establishes drone training and research programs, giving students and faculty hands - on experience in drone technologies.",
+    "date": "24 December 2025"
   }
 ]
