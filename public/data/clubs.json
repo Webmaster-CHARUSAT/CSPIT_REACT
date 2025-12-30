@@ -3,6 +3,7 @@
     "Club ID": "AWS",
     "Club Name": "AWS Student Club",
     "Logo": "/images/Student Club/aws.webp",
+    "Official Website": "https://asc.charusat.ac.in/",
     "About": "Together as a team AWS Cloud Club CHARUSAT aims to provide a platform for the intellectuals to learn and explore the cloud fundamentals of AWS. AS part of the club we assure that every individual gets something productive out of this cub. AWS Cloud Club CHARUSAT intends to bring developers under one roof to create a community to inspire many. The club will be channeled into propagating learning and teaching symbiotically. ",
     "Faculty Coordinators": [
       {
@@ -76,6 +77,7 @@
     "Club ID": "AIML",
     "Club Name": "AI/ML Club",
     "Logo": "/images/Student Club/Aiml.webp",
+    "Official Website": "https://aiml-charusat.vercel.app/",
     "About": "The AI/ML Club of the CSE Department is a vibrant community dedicated to exploring the vast potential of Artificial Intelligence and Machine Learning. Our mission is to bridge the gap between theory and real-world applications through workshops, expert talks, hands-on projects, hackathons, and research initiatives. Whether you're a beginner or an experienced enthusiast, the club provides opportunities to learn, collaborate, and innovate in cutting-edge AI technologies. By fostering creativity and technical expertise, we aim to shape the future of AI and empower students to make a meaningful impact in the digital world. ",
     "Faculty Coordinators": [
       {
@@ -383,6 +385,7 @@
     "Club ID": "DS",
     "Club Name": "Data Science Club",
     "Logo": "/images/Student Club/DSLogo.webp",
+    "Official Website": "https://datascienceclub.charusat.ac.in/",
     "About": "Data science is a multidisciplinary approach to extracting actionable insights from the large and ever-increasing volumes of data collected and created by today's organizations. Data science encompasses preparing data for analysis and processing, performing advanced data analysis, and presenting the results to reveal patterns and enable stakeholders to draw informed conclusions. The Data Science Club's primary objective is to unify colleges across the country that want to promote Data Science as a desirable career path to their students by getting them to join our revolutionary career-oriented corporate club. ",
     "Faculty Coordinators": [
       {

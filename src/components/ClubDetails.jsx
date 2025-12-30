@@ -10,6 +10,7 @@ import {
   faCalendarAlt,
   faInfoCircle,
   faFilePdf,
+  faExternalLinkAlt,
 } from "@fortawesome/free-solid-svg-icons";
 import "../styles/components/ClubDetails.css"; // Import your CSS file for styling
 
@@ -62,6 +63,7 @@ const ClubDetails = () => {
       name: data["Club Name"] || "Club Name",
       logo: data["Logo"] || "",
       about: data["About"] || "About the club...",
+      officialWebsite: data["Official Website"] || "",
 
       // Process faculty coordinators
       facultyCoordinators: (data["Faculty Coordinators"] || []).map(
@@ -165,8 +167,19 @@ const ClubDetails = () => {
           <div className="col-md-9">
             <h1 className="display-4 fw-bold mb-2">{clubData.name}</h1>
             <p className="lead mb-3">{tagline}</p>
-            <div className="d-flex flex-wrap mt-3" id="club-badges">
-              {/* Badges would go here if needed */}
+            <div className="d-flex flex-wrap align-items-center gap-3 mt-3" id="club-badges">
+              {/* Official Website Button */}
+              {clubData.officialWebsite && (
+                <a
+                  href={clubData.officialWebsite}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="official-website-btn"
+                >
+                  Visit Official Website
+                  <FontAwesomeIcon icon={faExternalLinkAlt} className="ms-2" />
+                </a>
+              )}
             </div>
           </div>
         </div>
