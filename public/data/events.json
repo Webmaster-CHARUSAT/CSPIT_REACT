@@ -578,5 +578,57 @@
     ],
     "description": "CHARUSAT signed an MoU with MSA – VTC (Vocational Training Center – Muni Seva Ashram to strengthen industry-academia collaboration. This collaboration establishes drone training and research programs, giving students and faculty hands - on experience in drone technologies.",
     "date": "24 December 2025"
+  },
+  {
+    "id":"expert-talk-on-safety-in-design",
+    "title": "Safety in Design: Smart Signalling & Train Control Systems",
+    "thumbnail": "/images/Events/safety-design/thumbnail.webp",
+    "images": [
+      "/images/Events/safety-design/1.webp",
+      "/images/Events/safety-design/2.webp",
+      "/images/Events/safety-design/3.webp",
+      "/images/Events/safety-design/4.webp"
+    ],
+    "description": "Organised Expert Talk on Safety in Design: Smart Signalling & Train Control Systems on 18th December 2025.",
+    "date": "18 December 2025"
+  },
+  {
+    "id":"operating-systems-linux-expert-talk",
+    "title": "Operating Systems and Linux: Embedded Industry Perspectives",
+    "thumbnail": "/images/Events/os-linux/1.webp",
+    "images": [
+      "/images/Events/os-linux/1.webp",
+      "/images/Events/os-linux/2.webp",
+      "/images/Events/os-linux/3.webp"
+    ],
+    "description": "Organised Expert Talk on Operating Systems and Linux: Embedded Industry Perspectives on 27th December 2025.",
+    "date": "27 December 2025"
+  },
+  {
+    "id":"malware-detection-expert-talk",
+    "title": "IoT in Smart Manufacturing: Industry 4.0 Applications",
+    "thumbnail": "/images/Events/malware-detection/thumbnail.webp",
+    "images": [
+      "/images/Events/malware-detection/1.webp",
+      "/images/Events/malware-detection/2.webp",
+      "/images/Events/malware-detection/3.webp",
+      "/images/Events/malware-detection/4.webp"
+    ],
+    "description": "The expert talk on Malware Detection proved to be an effective academic activity for Semester 6 students studying Cryptography and Network Security (IT348). It successfully reinforced theoretical knowledge while promoting practical understanding of malware behavior and network defense strategies. Such activities play a crucial role in preparing students for advanced studies, research, and professional roles in cybersecurity. \n\n After participating in this event, students were able to: \n 1. Understand core security principles such as the CIA Triad and their role in protecting networked systems.\n 2. Identify common malware types and behaviours, including persistence mechanisms and fileless attacks.\n 3. Recognize indicators of compromise (IoCs) at both host and network levels.\n 4. Analyze real-world attack scenarios and select appropriate defensive and response actions.\n 5. Apply incident response concepts, including containment, eradication, and lessons learned.\n 6. Appreciate the importance of layered security architectures and proactive threat detection.\n\n The expert talk made several significant contributions to student learning:\n • Practical Exposure: Students gained hands-on insight into how theoretical security concepts manifest in real cyber incidents.\n • Critical Thinking Development: Scenario-based questions enhanced analytical and decision-making skills.\n • Industry Relevance: Exposure to modern attack techniques aligned academic learning with current cybersecurity trends.\n • Security Awareness: It strengthened awareness of common mistakes in incident handling and the importance of timely response.",
+    "date": "22 December 2025"
+  },
+  {
+    "id":"eoc-event-all-are-equal",
+    "title": "EOC Event - All are Equal",
+    "thumbnail": "/images/Events/eoc-all-equal/1.webp",
+    "images": [
+      "/images/Events/eoc-all-equal/1.webp",
+      "/images/Events/eoc-all-equal/2.webp",
+      "/images/Events/eoc-all-equal/3.webp",
+      "/images/Events/eoc-all-equal/4.webp",
+      "/images/Events/eoc-all-equal/5.webp"
+    ],
+    "description": "All Are Equal – An Equal Opportunity Awareness Program for School Children is a short awareness initiative by the Equal Opportunity Cell to introduce school children to the values of equality, inclusion, and respect. Through simple storytelling, interactive discussions, real-life examples, and an equality pledge, the program helps students understand the importance of fairness, kindness, and accepting differences, thereby promoting a positive and inclusive school environment.",
+    "date": "22 December 2025"
   }
 ]
