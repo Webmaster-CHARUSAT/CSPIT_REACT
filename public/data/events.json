@@ -630,5 +630,15 @@
     ],
     "description": "All Are Equal – An Equal Opportunity Awareness Program for School Children is a short awareness initiative by the Equal Opportunity Cell to introduce school children to the values of equality, inclusion, and respect. Through simple storytelling, interactive discussions, real-life examples, and an equality pledge, the program helps students understand the importance of fairness, kindness, and accepting differences, thereby promoting a positive and inclusive school environment.",
     "date": "22 December 2025"
+  },
+  {
+    "id":"dft-expert-talk",
+    "title": "DFT Concepts for Improving Test Coverage in VLSI",
+    "thumbnail": "/images/Events/dft-expert-talk/1.webp",
+    "images": [
+      "/images/Events/dft-expert-talk/1.webp"
+        ],
+    "description": "Organised a expert talk on DFT Concepts for Improving Test Coverage in VLSI on 30 December 2025 by CSPIT E.C. Department.",
+    "date": "30 December 2025"
   }
 ]
