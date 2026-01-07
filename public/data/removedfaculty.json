@@ -136,5 +136,50 @@
       "ISTE"
     ],
     "certifications": []
+  },
+    {
+    "name": "Ms. Hemangi Oza",
+    "title": "ASSISTANT PROFESSOR",
+    "degree": "M. Tech.",
+    "research_interests": [
+      "Environmental Engineering",
+      "Solid Waste Management",
+      "Environmental Science"
+    ],
+    "image_src": "/CSPIT_Faculty/Civil/HEMANGI.webp",
+    "subjects": [
+      "Environmental Engineering I",
+      "Waste Management in Smart Cities",
+      "Environmental Sciences",
+      "Environmental Sustainability & Climate Change"
+    ],
+    "research_projects": [],
+    "teaching": [],
+    "email": "",
+    "linkedin": "https://www.linkedin.com/in/hemangi-oza-60a189190/",
+    "website": "",
+    "scholar": "https://scholar.google.com/citations?view_op=list_works&hl=en&user=cU9yMuUAAAAJ",
+    "vidwan": "",
+    "awards": [],
+    "memberships": [],
+    "certifications": []
+  },
+  {
+    "name": "Mr. Pavitra Modi",
+    "title": "ASSISTANT PROFESSOR",
+    "degree": "M. Tech.",
+    "research_interests": ["Web Application development"],
+    "image_src": "/CSPIT_Faculty/IT/PAVITRA.webp",
+    "subjects": ["Fullstack Development", "Web Technology", "Devops"],
+    "research_projects": [],
+    "teaching": [],
+    "email": "pavitramodi.it@charusat.ac.in",
+    "linkedin": "https://www.linkedin.com/in/pavitramodi/",
+    "website": "",
+    "scholar": "",
+    "vidwan": "https://vidwan.inflibnet.ac.in/profile/405778",
+    "awards": [],
+    "memberships": ["ACM"],
+    "certifications": ["Salesforce B2C Commerce  Developer"]
   } 
 ]

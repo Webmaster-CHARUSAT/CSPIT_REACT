@@ -545,7 +545,7 @@
     "certifications": []
   },
   {
-  "name": "Bijal Suthar",
+  "name": "Ms. Bijal Suthar",
   "title": "Assistant Professor",
   "degree": "M.Tech , Phd (pursuing)",
   "research_interests": [
@@ -1208,33 +1208,6 @@
     ]
   },
   {
-    "name": "Ms. Hemangi Oza",
-    "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech.",
-    "research_interests": [
-      "Environmental Engineering",
-      "Solid Waste Management",
-      "Environmental Science"
-    ],
-    "image_src": "/CSPIT_Faculty/Civil/HEMANGI.webp",
-    "subjects": [
-      "Environmental Engineering I",
-      "Waste Management in Smart Cities",
-      "Environmental Sciences",
-      "Environmental Sustainability & Climate Change"
-    ],
-    "research_projects": [],
-    "teaching": [],
-    "email": "",
-    "linkedin": "https://www.linkedin.com/in/hemangi-oza-60a189190/",
-    "website": "",
-    "scholar": "https://scholar.google.com/citations?view_op=list_works&hl=en&user=cU9yMuUAAAAJ",
-    "vidwan": "",
-    "awards": [],
-    "memberships": [],
-    "certifications": []
-  },
-  {
     "name": "Mr. Hemant Yadav",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech., Ph. D. (Pursuing)",
@@ -1264,7 +1237,7 @@
     ]
   },
   {
-    "name": "Mr. Jalpesh Vasa",
+    "name": "Dr. Jalpesh Vasa",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech., Ph. D. (Pursuing)",
     "research_interests": [
@@ -1294,7 +1267,7 @@
     "certifications": ["AWS cloud Practitioner Certification"]
   },
   {
-    "name": "Mr. Jay Bhavsar",
+    "name": "Dr. Jay Bhavsar",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
     "research_interests": [
@@ -2024,7 +1997,7 @@
     "certifications": []
   },
   {
-  "name": "Mukti Patel",
+  "name": "Ms. Mukti Patel",
   "title": "Assistant Professor",
   "degree": "M.E Computer Engineering , Phd (pursuing)",
   "research_interests": [
@@ -2350,24 +2323,6 @@
     "certifications": []
   },
   {
-    "name": "Mr. Pavitra Modi",
-    "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech.",
-    "research_interests": ["Web Application development"],
-    "image_src": "/CSPIT_Faculty/IT/PAVITRA.webp",
-    "subjects": ["Fullstack Development", "Web Technology", "Devops"],
-    "research_projects": [],
-    "teaching": [],
-    "email": "pavitramodi.it@charusat.ac.in",
-    "linkedin": "https://www.linkedin.com/in/pavitramodi/",
-    "website": "",
-    "scholar": "",
-    "vidwan": "https://vidwan.inflibnet.ac.in/profile/405778",
-    "awards": [],
-    "memberships": ["ACM"],
-    "certifications": ["Salesforce B2C Commerce  Developer"]
-  },
-  {
     "name": "Mrs. Pinal Patel",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. E.",
@@ -2670,7 +2625,7 @@
   },
   {
     "name": "Dr. Purvi Prajapati",
-    "title": "ASSISTANT PROFESSOR, HEAD (IT)",
+    "title": "ASSOSCIATE PROFESSOR, HEAD (IT)",
     "degree": "Ph. D.",
     "research_interests": [
       "Data Structures",
