@@ -134,7 +134,7 @@
   {
     "name": "Ms. Akshita Kadam",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech.",
+    "degree": "M. Tech., Ph. D. (Pursuing)",
     "research_interests": ["Cybersecurity", "Information Security"],
     "image_src": "/CSPIT_Faculty/CSE/AKSHITA.webp",
     "subjects": [
@@ -479,7 +479,7 @@
   {
     "name": "Mr. Bhargav Shobhana",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. E.",
+    "degree": "M. E., Ph. D. (Pursuing)",
     "research_interests": ["Structural engineering", "Earthquake Engineering"],
     "image_src": "/CSPIT_Faculty/AIML/BHARGAV.webp",
     "subjects": [
@@ -892,7 +892,7 @@
   {
     "name": "Mr. Dhavalkumar Patel",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. E.",
+    "degree": "M. E., Ph. D. (Pursuing)",
     "research_interests": ["UI/UX", "Fog Computing"],
     "image_src": "/CSPIT_Faculty/IT/DHAVALKUMAR.webp",
     "subjects": [
@@ -915,7 +915,7 @@
   {
     "name": "Mr. Dheeraj Shringi",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech.",
+    "degree": "M. Tech., Ph. D. (Pursuing)",
     "research_interests": [
       "Data Structure and Design & Analysis of Algorithms",
       "Theory of Computation",
@@ -981,7 +981,7 @@
   {
     "name": "Ms. Gargi Ray",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech.",
+    "degree": "M. Tech., Ph. D. (Pursuing)",
     "research_interests": ["Construction Project Management"],
     "image_src": "/CSPIT_Faculty/Civil/GARGI.webp",
     "subjects": [
@@ -1015,7 +1015,7 @@
   {
     "name": "Mr. Gaurang Patel",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech.",
+    "degree": "M. Tech., Ph. D. (Pursuing)",
     "research_interests": ["CAD", "Additive Manufacturing", "Machine Learning"],
     "image_src": "/CSPIT_Faculty/AIML/GAURANG.webp",
     "subjects": [
@@ -1239,7 +1239,7 @@
   {
     "name": "Dr. Jalpesh Vasa",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech., Ph. D. (Pursuing)",
+    "degree": "Ph. D.",
     "research_interests": [
       "Data Privacy",
       "Machine Learning",
@@ -1269,7 +1269,7 @@
   {
     "name": "Dr. Jay Bhavsar",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech.",
+    "degree": "Ph. D.",
     "research_interests": [
       "Concrete Technology",
       "Reinforced Concrete Structural Design"
@@ -1518,7 +1518,7 @@
   {
     "name": "Mr. Krunalkumar Maheriya",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech.",
+    "degree": "M. Tech., Ph. D. (Pursuing)",
     "research_interests": ["Machine Learning", "Deep Learning"],
     "image_src": "/CSPIT_Faculty/CE/KRUNALKUMAR.webp",
     "subjects": ["Machine Learning", "Python Programming"],
@@ -1567,7 +1567,7 @@
   {
     "name": "Mr. Madhav Ajwalia",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. E.",
+    "degree": "M. E., Ph. D. (Pursuing)",
     "research_interests": ["Blockchain", "Cryptography", "Cybersecurity"],
     "image_src": "/CSPIT_Faculty/IT/MADHAV.webp",
     "subjects": [
@@ -1736,7 +1736,7 @@
   {
     "name": "Ms. Mayuri Popat",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech.",
+    "degree": "M. Tech., Ph. D. (Pursuing)",
     "research_interests": [
       "Programming in C",
       "Programming in C++",
@@ -1800,7 +1800,7 @@
   {
     "name": "Ms. Megha Desai",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. E.",
+    "degree": "M. E., Ph. D. (Pursuing)",
     "research_interests": [
       "Construction Project Management",
       "Building Construction",
@@ -1920,7 +1920,7 @@
   {
     "name": "Mr. Mikinkbhai Patel",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech.",
+    "degree": "M. Tech., Ph. D. (Pursuing)",
     "research_interests": [
       "Artificial Intelligence",
       "Generative models",
@@ -2050,7 +2050,7 @@
   {
     "name": "Ms. Neha Rajput",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "",
+    "degree": "M. Tech.",
     "research_interests": [
       "Structural Dynamics & Earthquake Engineering",
       "Structural Analysis & Design",
@@ -2176,7 +2176,7 @@
   {
     "name": "Mr. Nirpex Patel",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech.",
+    "degree": "M. Tech., Ph. D. (Pursuing)",
     "research_interests": [
       "Finite Element Analysis",
       "Composite Structures",
@@ -2242,7 +2242,7 @@
   {
     "name": "Ms. Nishat Shaikh",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech.",
+    "degree": "M. Tech., Ph. D. (Pursuing)",
     "research_interests": [
       "Machine Learning",
       "Deep Learning",
@@ -2275,7 +2275,7 @@
   {
     "name": "Ms. Niyati Patel",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech.",
+    "degree": "M. Tech., Ph. D. (Pursuing)",
     "research_interests": ["DBMS", "software engineering"],
     "image_src": "/CSPIT_Faculty/AIML/NIYATI.webp",
     "subjects": [
@@ -2298,7 +2298,7 @@
   {
     "name": "Mr. Parmanandkumar Patel",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. E.",
+    "degree": "M. E., Ph. D. (Pursuing)",
     "research_interests": [
       "Deep Learning",
       "Internet of Things",
@@ -2325,7 +2325,7 @@
   {
     "name": "Mrs. Pinal Patel",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. E.",
+    "degree": "M. E., Ph. D. (Pursuing)",
     "research_interests": [
       "Engineering Mechanics",
       "Structural Analysis",
@@ -2420,7 +2420,7 @@
   {
     "name": "Mr. Pratik Panchal",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. E.",
+    "degree": "M. E., Ph. D. (Pursuing)",
     "research_interests": [
       "Advance Power System Protection",
       "Signal and System",
@@ -2656,7 +2656,7 @@
   {
     "name": "Mr. Rajnik Katriya",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech.",
+    "degree": "M. Tech., Ph. D. (Pursuing)",
     "research_interests": [
       "Cyber Security",
       "Blockchain",
@@ -2687,7 +2687,7 @@
   {
     "name": "Mr. Ravikumar Patel",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech.",
+    "degree": "M. Tech., Ph. D. (Pursuing)",
     "research_interests": ["Internet Technologies", "Cloud Computing"],
     "image_src": "/CSPIT_Faculty/IT/RaviPatel.webp",
     "subjects": ["Web Technologies", "Cloud Computing", "DevOps"],
@@ -2761,9 +2761,9 @@
     "certifications": ["CCNA Instructor", "CCNSP Instructor"]
   },
   {
-    "name": "Mr. RonakKumar Patel",
+    "name": "Dr. RonakKumar Patel",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech.",
+    "degree": "Ph. D.",
     "research_interests": [
       "Machine Learning",
       "Deep Learning",
@@ -2790,7 +2790,7 @@
   {
     "name": "Mr. Ronakkumar Patel",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech.",
+    "degree": "M. Tech., Ph. D. (Pursuing)",
     "research_interests": ["Deep Learning", "Cloud Computing", "Spring Boot"],
     "image_src": "/CSPIT_Faculty/CE/RONAKKUMAR_ RAJNIKANT.webp",
     "subjects": [
@@ -2907,7 +2907,7 @@
   {
     "name": "Ms. Sarita Thummar",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. E.",
+    "degree": "M. E., Ph. D. (Pursuing)",
     "research_interests": ["Algorithms", "Machine Learning"],
     "image_src": "/CSPIT_Faculty/CE/SARITA.webp",
     "subjects": [
@@ -2930,7 +2930,7 @@
   {
     "name": "Mr. Satayu Travadi",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. E.",
+    "degree": "M. E., Ph. D. (Pursuing)",
     "research_interests": ["THERMAL ENGINEERING", "RENEWABLE ENERGY"],
     "image_src": "/CSPIT_Faculty/Mechanical/SATAYU.webp",
     "subjects": [
@@ -2953,7 +2953,7 @@
   {
     "name": "Ms. Srushti Gajjar",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech.",
+    "degree": "M. Tech., Ph. D. (Pursuing)",
     "research_interests": ["C/C++", "Web development", "Python"],
     "image_src": "/CSPIT_Faculty/CSE/SRUSHTI.webp",
     "subjects": ["C", "C++", "full stack development (MERN)"],
@@ -3234,7 +3234,7 @@
   {
     "name": "Mr. Vikas Panchal",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. E.",
+    "degree": "M. E., Ph. D. (Pursuing)",
     "research_interests": [
       "Material characterization",
       "Design of machines",
@@ -3305,7 +3305,7 @@
   {
     "name": "Mr. Viral Panara",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M. Tech. CAD/CAM",
+    "degree": "M. Tech. CAD/CAM, Ph. D. (Pursuing)",
     "research_interests": [
       "Metal Casting",
       "Material Science",
@@ -3336,7 +3336,7 @@
   {
     "name": "Mr. Vishal Shah",
     "title": "ASSISTANT PROFESSOR",
-    "degree": "M.E.",
+    "degree": "M.E., Ph. D. (Pursuing)",
     "research_interests": ["Wireless Communication", "Embedded System"],
     "image_src": "/CSPIT_Faculty/Electronics/VISHAL.webp",
     "subjects": [
