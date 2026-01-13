@@ -640,5 +640,18 @@
         ],
     "description": "Organised a expert talk on DFT Concepts for Improving Test Coverage in VLSI on 30 December 2025 by CSPIT E.C. Department.",
     "date": "30 December 2025"
+  },
+  {
+    "id":"finite-element-modelling-ansys-workbench-course",
+    "title": "Value Added Course on “Finite Element Modelling and Simulation with ANSYS Workbench”",
+    "thumbnail": "/images/Events/element_modelling/thumbnail.webp",
+    "images": [
+      "/images/Events/element_modelling/1.webp",
+      "/images/Events/element_modelling/2.webp",
+      "/images/Events/element_modelling/3.webp",
+      "/images/Events/element_modelling/4.webp"
+    ],
+    "description": "The CHAMOS Matrusanstha Department of Mechanical Engineering, CSPIT, CHARUSAT organized a six-day Value Added Course on “Finite Element Modelling and Simulation with ANSYS Workbench” from 18th to 23rd December 2025. The program was designed for beginners and emphasized hands-on training in Finite Element Analysis using ANSYS Workbench. Participants received practical exposure to structural and thermal simulations through guided sessions and real-time problem-solving exercises. A total of 17 participants successfully completed the course and received certification. The event effectively enhanced students’ technical competence and industry-oriented skills.",
+    "date": "23 December 2025"
   }
 ]
