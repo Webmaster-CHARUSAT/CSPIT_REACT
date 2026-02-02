@@ -87,7 +87,6 @@ const testimonials = [
 ];
 
 const TestimonialsSection = () => {
-  const [currentIndex, setCurrentIndex] = useState(0);
   const [autoScroll, setAutoScroll] = useState(true);
   const [isTransitioning, setIsTransitioning] = useState(false);
   const [cardsToShow, setCardsToShow] = useState(3);

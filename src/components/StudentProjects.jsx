@@ -315,7 +315,7 @@ const StudentProjects = () => {
                     <img
                       loading="lazy"
                       src={selectedProject.images[currentImageIndex]}
-                      alt={`${selectedProject.title} image`}
+                      alt={selectedProject.title}
                       className="w-full h-full object-contain"
                     />
                   </div>

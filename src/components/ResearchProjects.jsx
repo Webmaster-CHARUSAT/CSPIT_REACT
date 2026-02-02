@@ -7,15 +7,6 @@ const ResearchProjects = () => {
   const [error, setError] = useState(null);
   const [dataLoaded, setDataLoaded] = useState(false);
 
-  // Mock data structure for reference (not used in production)
-  const mockProject = {
-    project_title: "Sample Project",
-    funding_agency: "Sample Agency",
-    total_fund_received: 100000,
-    project_investigators: "Sample Investigator",
-    date: "2023-01-01"
-  };
-
   useEffect(() => {
     const fetchData = async () => {
       try {
