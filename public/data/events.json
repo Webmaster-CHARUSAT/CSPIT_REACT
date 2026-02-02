@@ -696,10 +696,7 @@
     "thumbnail": "/images/Events/testbench_development/thumbnail.webp",
     "images": [
       "/images/Events/testbench_development/1.webp",
-      "/images/Events/testbench_development/2.webp",
-      "/images/Events/testbench_development/3.webp",
-      "/images/Events/testbench_development/4.webp",
-      "/images/Events/testbench_development/5.webp"
+      "/images/Events/testbench_development/2.webp"
     ],
     "description": "Organised Pragyapath - Fundamentals of Testbench Development, Verification & Debugging on 21-22 January 2026 at A6, CSPIT Building by CSPIT E.C. Department. The workshop provided hands-on training on testbench development, verification methodologies, and debugging techniques for VLSI design.",
     "date": "21 January 2026"
