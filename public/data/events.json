@@ -652,6 +652,56 @@
       "/images/Events/element_modelling/4.webp"
     ],
     "description": "The CHAMOS Matrusanstha Department of Mechanical Engineering, CSPIT, CHARUSAT organized a six-day Value Added Course on “Finite Element Modelling and Simulation with ANSYS Workbench” from 18th to 23rd December 2025. The program was designed for beginners and emphasized hands-on training in Finite Element Analysis using ANSYS Workbench. Participants received practical exposure to structural and thermal simulations through guided sessions and real-time problem-solving exercises. A total of 17 participants successfully completed the course and received certification. The event effectively enhanced students’ technical competence and industry-oriented skills.",
-    "date": "23 December 2025"
+    "date": "23 December 2025"  },
+  {
+    "id":"expert-talk-himanshu-kotak",
+    "title": "Expert Talk by Mr. Himanshu Kotak",
+    "thumbnail": "/images/Events/himanshu_kotak_talk/1.webp",
+    "images": [
+      "/images/Events/himanshu_kotak_talk/1.webp",
+      "/images/Events/himanshu_kotak_talk/2.webp",
+      "/images/Events/himanshu_kotak_talk/3.webp",
+      "/images/Events/himanshu_kotak_talk/4.webp"
+    ],
+    "description": "The Expert Talk on “Recent Trends in Geotechnical Engineering” was successfully organized at the M. S. Patel Department of Civil Engineering on 20 January 2026. The session aimed to enhance students’ understanding of emerging developments, modern techniques, and industry practices in the field of geotechnical engineering .\n\nThe expert lecture was delivered by Mr. Himanshu Kotak, Geotechnical Engineer and Founder, C-Phi Consult Pvt. Ltd., Ahmedabad who provided valuable insights into recent advancements in geotechnical investigations, ground improvement techniques, and contemporary challenges faced in geotechnical engineering practice. The session effectively bridged the gap between theoretical knowledge and real-world applications, offering students exposure to current industry trends.\n\nA total of 22 students, along with faculty members, actively participated in the session. The interactive discussion and enthusiastic participation reflected keen interest among students in learning about evolving geotechnical engineering practices. The expert talk contributed significantly to enriching students’ technical knowledge and professional outlook.",
+    "date": "20 January 2026"
+  },
+  {
+    "id":"seminar-study-abroad-fte",
+    "title": "Seminar on Study Abroad",
+    "thumbnail": "/images/Events/seminar_study_abroad/1.webp",
+    "images": [
+      "/images/Events/seminar_study_abroad/1.webp",
+      "/images/Events/seminar_study_abroad/2.webp",
+      "/images/Events/seminar_study_abroad/3.webp"
+    ],
+    "description": "Organised a Seminar on Study Abroad under FTE (Faculty Training and Education) on 23 January 2026 at A6, 301 Seminar Hall, CSPIT Building. The seminar provided valuable guidance to students interested in pursuing higher education and opportunities abroad.",
+    "date": "23 January 2026"
+  },
+  {
+    "id":"expert-talk-mep-system-design",
+    "title": "Expert Talk - W|W|H of MEP System Design",
+    "thumbnail": "/images/Events/mep_system_design/1.webp",
+    "images": [
+      "/images/Events/mep_system_design/1.webp",
+      "/images/Events/mep_system_design/2.webp",
+      "/images/Events/mep_system_design/3.webp"
+    ],
+    "description": "Organised an expert talk on W|W|H of MEP System Design on 27 January 2026 by CSPIT E.E. Department. The session covered What, Why, and How aspects of MEP (Mechanical, Electrical, Plumbing) System Design to enhance students' understanding of building systems.",
+    "date": "27 January 2026"
+  },
+  {
+    "id":"testbench-development-verification-debugging",
+    "title": "Pragyapath - Fundamentals of Testbench Development, Verification & Debugging",
+    "thumbnail": "/images/Events/testbench_development/thumbnail.webp",
+    "images": [
+      "/images/Events/testbench_development/1.webp",
+      "/images/Events/testbench_development/2.webp",
+      "/images/Events/testbench_development/3.webp",
+      "/images/Events/testbench_development/4.webp",
+      "/images/Events/testbench_development/5.webp"
+    ],
+    "description": "Organised Pragyapath - Fundamentals of Testbench Development, Verification & Debugging on 21-22 January 2026 at A6, CSPIT Building by CSPIT E.C. Department. The workshop provided hands-on training on testbench development, verification methodologies, and debugging techniques for VLSI design.",
+    "date": "21 January 2026"
   }
 ]

@@ -27,8 +27,8 @@ const MONTHS = [
   "November",
   "December",
 ];
-const YEARS = ["2025", "2024"];
-
+const YEARS = ["2026","2025", "2024"];
+  
 function parseEventDate(dateStr) {
   if (!dateStr || typeof dateStr !== "string") return null;
   const lower = dateStr.toLowerCase();

@@ -181,5 +181,18 @@
     "awards": [],
     "memberships": ["ACM"],
     "certifications": ["Salesforce B2C Commerce  Developer"]
-  } 
+  } ,
+  {
+    "id":"igbc-students-chapter-launch",
+    "title": "IGBC Students' Chapter Launch - Green Building and Sustainable Development",
+    "thumbnail": "/images/Events/igbc_chapter_launch/thumbnail.webp",
+    "images": [
+      "/images/Events/igbc_chapter_launch/1.webp",
+      "/images/Events/igbc_chapter_launch/2.webp",
+      "/images/Events/igbc_chapter_launch/3.webp",
+      "/images/Events/igbc_chapter_launch/4.webp",
+      "/images/Events/igbc_chapter_launch/5.webp"
+    ],
+    "description": "The IGBC Students' Chapter was successfully launched at the M. S. Patel Department of Civil Engineering on 21 January 2026, with the objective of promoting awareness and adoption of green building practices and sustainable development among students. As part of the programme, Mr. Aditya Shekhar, Associate Counsellor, CII–IGBC, delivered an informative session introducing IGBC, its vision, green building rating systems, and the role of student chapters in advancing sustainable practices. This was followed by a technical talk by Ms. Shreya Dalwadi, Chair, IGBC Vadodara Chapter, who shared valuable insights on green building concepts, industry practices, and emerging trends in sustainable construction. A total of 79 students from First Year, Second Year, and Third Year B.Tech, along with faculty members, actively participated in the event. The enthusiastic participation reflected strong interest and commitment toward sustainability-focused learning.",
+    "date": "21 January 2026"  }
 ]
