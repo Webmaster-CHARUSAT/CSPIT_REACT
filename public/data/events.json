@@ -703,5 +703,18 @@
     ],
     "description": "Organised Pragyapath - Fundamentals of Testbench Development, Verification & Debugging on 21-22 January 2026 at A6, CSPIT Building by CSPIT E.C. Department. The workshop provided hands-on training on testbench development, verification methodologies, and debugging techniques for VLSI design.",
     "date": "21 January 2026"
+  },
+  {
+    "id": "labview-applications-fdp",
+    "title": "Practical LabVIEW Applications – Hands-on Approaches to Real-World LabVIEW Applications",
+    "thumbnail": "/images/Events/labview_applications/1.webp",
+    "images": [
+      "/images/Events/labview_applications/1.webp",
+      "/images/Events/labview_applications/2.webp",
+      "/images/Events/labview_applications/3.webp",
+      "/images/Events/labview_applications/4.webp"
+    ],
+    "description": "The Faculty Development Programme on 'Practical LabVIEW Applications – Hands-on Approaches to Real-World LabVIEW Applications' was organized by CSPIT E.C. Department on 29–30 January 2026 at 232 – Semiconductor Design Excellence Hub.",
+    "date": "29-30 January 2026"
   }
 ]
