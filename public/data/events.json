@@ -46,7 +46,7 @@
   {
     "id": "capacity-building-program-support-staff",
     "title": "Capacity Building Program for Support Staff",
-    "thumbnail": "/images/Events/Capacity_Building_Program_Support_Staff/1.webp",
+    "thumbnail": "/images/Events/Capacity_Building_Program_Support_Staff/thumbnail.webp",
     "images": [
       "/images/Events/Capacity_Building_Program_Support_Staff/1.webp",
       "/images/Events/Capacity_Building_Program_Support_Staff/2.webp",
@@ -80,7 +80,7 @@
   {
     "id":"ctf",
     "title": "Workshop - Capture The Flag",
-    "thumbnail": "/images/Events/CTF/CTF_4.webp",
+    "thumbnail": "/images/Events/CTF/thumbnail.webp",
     "images": [
       "/images/Events/CTF/CTF_1.webp",
       "/images/Events/CTF/CTF_2.webp",
@@ -94,7 +94,7 @@
   {
     "id":"ai-camp",
     "title": "AI Camp",
-    "thumbnail": "/images/Events/AI_Camp/1.webp",
+    "thumbnail": "/images/Events/AI_Camp/thumbnail.webp",
     "images": [
       "/images/Events/AI_Camp/1.webp",
       "/images/Events/AI_Camp/2.webp",
@@ -108,7 +108,7 @@
   {
     "id":"software-testing-expert-talk",
     "title": "Expert Talk - Next Generation Software Testing",
-    "thumbnail": "/images/Events/Software-testing/1.webp",
+    "thumbnail": "/images/Events/Software-testing/thumbnail.webp",
     "images": [
       "/images/Events/Software-testing/1.webp",
       "/images/Events/Software-testing/2.webp",
@@ -128,7 +128,8 @@
       "/images/Events/classroom_career/1.webp",
       "/images/Events/classroom_career/2.webp",
       "/images/Events/classroom_career/3.webp",
-      "/images/Events/classroom_career/4.webp"
+      "/images/Events/classroom_career/4.webp",
+      "/images/Events/classroom_career/5.webp"
     ],
     "description": "Successfully organised Expert talk on From Classroom to Career: Discover how AI drives industry today on 25/09/2025. The session was delivered by Mr. Harshal Trivedi, CIAO, Sahana System Ltd. ",
     "date": "25 September 2025"
@@ -162,7 +163,7 @@
   {
     "id":"ai-for-all-meetup",
     "title": "AI For All Meetup 3.0",
-    "thumbnail": "/images/Events/AI_All/2.webp",
+    "thumbnail": "/images/Events/AI_All/thumbnail.webp",
     "images": [
       "/images/Events/AI_All/1.webp",
       "/images/Events/AI_All/2.webp",
@@ -177,7 +178,7 @@
   {
     "id":"msbc-dataquest-hackathon",
     "title": "Hackathon - MSBC DataQuest Hackathon",
-    "thumbnail": "/images/Events/dataquest/1.webp",
+    "thumbnail": "/images/Events/dataquest/thumbnail.webp",
     "images": [
       "/images/Events/dataquest/1.webp",
       "/images/Events/dataquest/2.webp",
@@ -218,7 +219,7 @@
   {
     "id":"track_trace",
     "title": "Competition - Trace & Track",
-    "thumbnail": "/images/Events/track_trace/4.webp",
+    "thumbnail": "/images/Events/track_trace/thumbnail.webp",
     "images": [
       "/images/Events/track_trace/1.webp",
       "/images/Events/track_trace/2.webp",
@@ -232,7 +233,7 @@
   {
     "id":"java_developer_expert_talk",
     "title": "Expert Talk - Insights for Future Java Developers",
-    "thumbnail": "/images/Events/java_developers/4.webp",
+    "thumbnail": "/images/Events/java_developers/thumbnail.webp",
     "images": [
       "/images/Events/java_developers/1.webp",
       "/images/Events/java_developers/2.webp",
@@ -245,7 +246,7 @@
   {
     "id":"research_excellence_expert_talk",
     "title": "Expert Talk - Advancing Research Excellence",
-    "thumbnail": "/images/Events/research_excellence/1.webp",
+    "thumbnail": "/images/Events/research_excellence/thumbnail.webp",
     "images": [
       "/images/Events/research_excellence/1.webp",
       "/images/Events/research_excellence/2.webp",
@@ -259,7 +260,7 @@
   {
     "id":"expert_talk_value_proposition_business_model_canvas",
     "title": "Expert Talk - Integrating Value Proposition and Business Model Canvas",
-    "thumbnail": "/images/Events/business_model_canvas/1.webp",
+    "thumbnail": "/images/Events/business_model_canvas/thumbnail.webp",
     "images": [
       "/images/Events/business_model_canvas/1.webp",
       "/images/Events/business_model_canvas/2.webp",
@@ -420,7 +421,7 @@
   {
     "id":"wastewater-treatment-expert-talk",
     "title": "Energizing Wastewater Treatment",
-    "thumbnail": "/images/Events/wastewater_treatment/1.webp",
+    "thumbnail": "/images/Events/wastewater_treatment/thumbnail.webp",
     "images": [
       "/images/Events/wastewater_treatment/1.webp",
       "/images/Events/wastewater_treatment/2.webp",
@@ -460,7 +461,7 @@
   {
     "id":"dsa-treasure-hunt",
     "title": " DSA Treasure Hunt",
-    "thumbnail": "/images/Events/DSA_Hunt/1.webp",
+    "thumbnail": "/images/Events/DSA_Hunt/thumbnail.webp",
     "images": [
       "/images/Events/DSA_Hunt/1.webp",
       "/images/Events/DSA_Hunt/2.webp",
@@ -555,7 +556,7 @@
   {
     "id":"ai-pharma",
     "title": "Expert Talk - AI Projects in the Pharmaceutical Industry",
-    "thumbnail": "/images/Events/ai-pharma/1.webp",
+    "thumbnail": "/images/Events/ai-pharma/thumbnail.webp",
     "images": [
       "/images/Events/ai-pharma/1.webp",
       "/images/Events/ai-pharma/2.webp",
@@ -620,7 +621,7 @@
   {
     "id":"eoc-event-all-are-equal",
     "title": "EOC Event - All are Equal",
-    "thumbnail": "/images/Events/eoc-all-equal/1.webp",
+    "thumbnail": "/images/Events/eoc-all-equal/thumbnail.webp",
     "images": [
       "/images/Events/eoc-all-equal/1.webp",
       "/images/Events/eoc-all-equal/2.webp",
@@ -634,7 +635,7 @@
   {
     "id":"dft-expert-talk",
     "title": "DFT Concepts for Improving Test Coverage in VLSI",
-    "thumbnail": "/images/Events/dft-expert-talk/1.webp",
+    "thumbnail": "/images/Events/dft-expert-talk/thumbnail.webp",
     "images": [
       "/images/Events/dft-expert-talk/1.webp"
         ],
@@ -644,7 +645,7 @@
   {
     "id":"finite-element-modelling-ansys-workbench-course",
     "title": "Value Added Course on “Finite Element Modelling and Simulation with ANSYS Workbench”",
-    "thumbnail": "/images/Events/element_modelling/thumbnail.webp",
+    "thumbnail": "/images/Events/element_modelling/thumbnail.jpg",
     "images": [
       "/images/Events/element_modelling/1.webp",
       "/images/Events/element_modelling/2.webp",
@@ -652,11 +653,11 @@
       "/images/Events/element_modelling/4.webp"
     ],
     "description": "The CHAMOS Matrusanstha Department of Mechanical Engineering, CSPIT, CHARUSAT organized a six-day Value Added Course on “Finite Element Modelling and Simulation with ANSYS Workbench” from 18th to 23rd December 2025. The program was designed for beginners and emphasized hands-on training in Finite Element Analysis using ANSYS Workbench. Participants received practical exposure to structural and thermal simulations through guided sessions and real-time problem-solving exercises. A total of 17 participants successfully completed the course and received certification. The event effectively enhanced students’ technical competence and industry-oriented skills.",
-    "date": "23 December 2025"  },
+    "date": "18-23 December 2025"  },
   {
     "id":"expert-talk-himanshu-kotak",
     "title": "Expert Talk by Mr. Himanshu Kotak",
-    "thumbnail": "/images/Events/himanshu_kotak_talk/1.webp",
+    "thumbnail": "/images/Events/himanshu_kotak_talk/thumbnail.webp",
     "images": [
       "/images/Events/himanshu_kotak_talk/1.webp",
       "/images/Events/himanshu_kotak_talk/2.webp",
@@ -681,7 +682,7 @@
   {
     "id":"expert-talk-mep-system-design",
     "title": "Expert Talk - W|W|H of MEP System Design",
-    "thumbnail": "/images/Events/mep_system_design/1.webp",
+    "thumbnail": "/images/Events/mep_system_design/thumbnail.webp",
     "images": [
       "/images/Events/mep_system_design/1.webp",
       "/images/Events/mep_system_design/2.webp",
@@ -704,7 +705,7 @@
   {
     "id": "labview-applications-fdp",
     "title": "Practical LabVIEW Applications – Hands-on Approaches to Real-World LabVIEW Applications",
-    "thumbnail": "/images/Events/labview_applications/1.webp",
+    "thumbnail": "/images/Events/labview_applications/thumbnail.webp",
     "images": [
       "/images/Events/labview_applications/1.webp",
       "/images/Events/labview_applications/2.webp",
