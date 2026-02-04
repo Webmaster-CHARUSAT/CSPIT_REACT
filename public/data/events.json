@@ -806,5 +806,62 @@
     ],
     "description": "The IGBC Students' Chapter was successfully launched at the M. S. Patel Department of Civil Engineering on 21 January 2026, with the objective of promoting awareness and adoption of green building practices and sustainable development among students. As part of the programme, Mr. Aditya Shekhar, Associate Counsellor, CII–IGBC, delivered an informative session introducing IGBC, its vision, green building rating systems, and the role of student chapters in advancing sustainable practices. This was followed by a technical talk by Ms. Shreya Dalwadi, Chair, IGBC Vadodara Chapter, who shared valuable insights on green building concepts, industry practices, and emerging trends in sustainable construction. A total of 79 students from First Year, Second Year, and Third Year B.Tech, along with faculty members, actively participated in the event. The enthusiastic participation reflected strong interest and commitment toward sustainability-focused learning.",
     "date": "21 January 2026"  
+  },
+  {
+  "id": "treasure-hunt-event-2025",
+  "title": "Treasure Hunt Event - Teamwork, Strategy & Equality",
+  "thumbnail": "/images/Events/Treasure Hunt Event/thumbnail.webp",
+  "images": [
+    "/images/Events/Treasure Hunt Event/1.webp",
+    "/images/Events/Treasure Hunt Event/2.webp",
+    "/images/Events/Treasure Hunt Event/3.webp"
+  ],
+  "description": "The Treasure Hunt Event was successfully organized on 9 October 2025 by the Department of Computer Science & Engineering and the Department of Artificial Intelligence & Machine Learning, CSPIT, CHARUSAT. The team-based event aimed to foster teamwork, critical thinking, and collaborative problem-solving through a series of engaging and interactive rounds. Participants navigated through clue-based challenges spread across the campus, encouraging exploration, strategic planning, and effective coordination. Hidden-object tasks further tested observation skills and team synergy. The event concluded with a unifying activity that conveyed a strong message of equality, making the overall experience both enjoyable and value-driven for all participants.",
+  "date": "9 October 2025"
+  },
+  {
+  "id": "cyberkavach-barracks-warzone-2025",
+  "title": "CyberKavach × BARRACKS WarZone: Industry Readiness Cybersecurity Hackathon",
+  "thumbnail": "/images/Events/Cyberkavach/thumbnail.webp",
+  "images": [
+    "/images/Events/Cyberkavach/1.webp"
+  ],
+  "description": "The Department of Computer Science and Engineering, CSPIT, CHARUSAT, under the CyberKavach Club, successfully organized the “CyberKavach × BARRACKS WarZone: Industry Readiness Cybersecurity Hackathon” on 23 December 2025 at the university level. The event was conducted in collaboration with Barracks Technologies, an industry-leading cybersecurity and operational intelligence firm. The hackathon was designed to bridge the gap between academic learning and real-world cybersecurity practices. It commenced with an expert session on practical cybersecurity concepts, ethical hacking, and Capture The Flag (CTF) methodologies, followed by an intensive hands-on CTF-based hackathon. Participants gained valuable industry exposure by solving real-world security challenges in a controlled and ethical environment.",
+  "date": "23 December 2025"
+  },
+  {
+  "id": "angular-real-world-workshop-2025",
+  "title": "Angular Real-World: Hands-On Workshop & Project Guidance",
+  "thumbnail": "/images/Events/Angular/thumbnail.webp",
+  "images": [
+    "/images/Events/Angular/1.webp",
+    "/images/Events/Angular/2.webp",
+    "/images/Events/Angular/3.webp"
+  ],
+  "description": "The Angular Real-World: Hands-On Workshop & Project Guidance was conducted on 20 December 2025, led by Mr. Parth Mehta. The session provided participants with practical exposure to Angular fundamentals, including component-based architecture, data binding, and routing. Students were guided on applying these concepts to real-world projects, enabling them to understand industry best practices, enhance problem-solving skills, and build confidence in developing structured and scalable web applications.",
+  "date": "20 December 2025"
+  },
+  {
+  "id": "the-zero-day-chase-2025",
+  "title": "The Zero Day Chase – Gamified Cybersecurity Challenge",
+  "thumbnail": "/images/Events/The Zero Day Chase/thumbnail.webp",
+  "images": [
+    "/images/Events/The Zero Day Chase/1.webp",
+    "/images/Events/The Zero Day Chase/2.webp"
+  ],
+  "description": "The Department of Computer Science and Engineering, CSPIT, under the CyberKavach Club, successfully organized “The Zero Day Chase” on 24 December 2025 at CHARUSAT University. The event was designed as an innovative and gamified cybersecurity learning experience, combining Capture The Flag (CTF) challenges, an escape-room format, and a treasure hunt. Aimed at 2nd and 4th semester students, the event introduced core concepts of Information Security through hands-on problem-solving, logical reasoning, and teamwork. The primary objective was to strengthen students’ understanding of cybersecurity fundamentals such as cryptography, network analysis, and open-source intelligence, while fostering analytical thinking and collaborative learning in a competitive yet engaging environment.",
+  "date": "24 December 2025"
+  },
+  {
+  "id": "guidance-session-networking-security-2025",
+  "title": "Guidance Session for Careers in Networking and Security",
+  "thumbnail": "/images/Events/Guidance Session/thumbnail.webp",
+  "images": [
+    "/images/Events/Guidance Session/1.webp",
+    "/images/Events/Guidance Session/2.webp",
+    "/images/Events/Guidance Session/3.webp"
+  ],
+  "description": "The Department of Computer Science & Engineering, CSPIT, CHARUSAT organized an expert talk titled “Guidance Session for Careers in Networking and Security” on 20 December 2025 for placement-oriented CSE students. The session was delivered by Mr. Ankit Bilwankar, Cyber Security Consultant and Founder of Vivekanand IT Solutions. The talk provided practical insights into career opportunities in networking, cybersecurity, cloud security, and system administration, with a strong emphasis on industry expectations, essential technical skills, relevant certifications, and hands-on learning. The interactive session helped students gain clarity, confidence, and direction in planning their career paths and placement preparation.",
+  "date": "20 December 2025"
   }
 ]
