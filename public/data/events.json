@@ -24,7 +24,8 @@
       "/images/Events/Fundamentals_Network_Sniffing/3.webp",
       "/images/Events/Fundamentals_Network_Sniffing/4.webp",
       "/images/Events/Fundamentals_Network_Sniffing/5.webp",
-      "/images/Events/Fundamentals_Network_Sniffing/6.webp"
+      "/images/Events/Fundamentals_Network_Sniffing/6.webp",
+      "/images/Events/Fundamentals_Network_Sniffing/7.webp"
     ],
     "description": "Successfully organized a One-Day Workshop on Wireshark for Beginners on 22/09/2025, exclusively for Semester 3 CSPIT-IT students. The session was delivered by Mr. Ankit Bilwankar, Founder of Vivekananda IT Institute, a renowned Trainer and Cyber Security Consultant. Students gained hands-on experience in network fundamentals, packet analysis, and real-time traffic monitoring, which enhanced their understanding of networking concepts and improved their troubleshooting and problem-solving skills.",
     "date": "22 September 2025"
@@ -203,20 +204,6 @@
     "date": "26 September 2025"
   },
   {
-    "id":"parents-teachers-meeting-ce-department",
-    "title": "Parents Teachers Meeting CE Department",
-    "thumbnail": "/images/Events/ptm-ce/5.webp",
-    "images": [
-      "/images/Events/ptm-ce/1.webp",
-      "/images/Events/ptm-ce/2.webp",
-      "/images/Events/ptm-ce/3.webp",
-      "/images/Events/ptm-ce/4.webp",
-      "/images/Events/ptm-ce/5.webp"
-    ],
-    "description": "A Parent–Teacher session attended by 23 parents was held to brief them on e-governance initiatives, university and institute guidelines, departmental policies, and the Skill Augmentation Module. Detailed explanations were provided on each topic to ensure clarity and alignment with institutional objectives. The session concluded with an interactive Parents–Teachers segment in which student counsellors responded to several queries and clarified concerns. Kindly note the positive engagement and readiness of parents to support the department’s initiatives.",
-    "date": "04 September 2025"
-  },
-  {
     "id":"track_trace",
     "title": "Competition - Trace & Track",
     "thumbnail": "/images/Events/track_trace/thumbnail.webp",
@@ -384,7 +371,7 @@
   {
     "id":"ignite-your-iot-journey-with-esp-32",
     "title": "Ignite Your IoT Journey with ESP 32",
-    "thumbnail": "/images/Events/ignite_iot_journey/1.webp",
+    "thumbnail": "/images/Events/ignite_iot_journey/thumbnail.webp",
     "images": [
       "/images/Events/ignite_iot_journey/1.webp",
       "/images/Events/ignite_iot_journey/2.webp",
@@ -596,7 +583,7 @@
   {
     "id":"operating-systems-linux-expert-talk",
     "title": "Operating Systems and Linux: Embedded Industry Perspectives",
-    "thumbnail": "/images/Events/os-linux/1.webp",
+    "thumbnail": "/images/Events/os-linux/thumbnail.webp",
     "images": [
       "/images/Events/os-linux/1.webp",
       "/images/Events/os-linux/2.webp",
@@ -714,5 +701,110 @@
     ],
     "description": "The Faculty Development Programme on 'Practical LabVIEW Applications – Hands-on Approaches to Real-World LabVIEW Applications' was organized by CSPIT E.C. Department on 29–30 January 2026 at 232 – Semiconductor Design Excellence Hub.",
     "date": "29-30 January 2026"
+  },
+  {
+    "id": "alumni-meet-2026-bengaluru",
+    "title": "Alumni Meet 2026 – Bengaluru Chapter",
+    "thumbnail": "/images/Events/cspit-alumni-meet-bengaluru-2026/thumbnail.webp",
+    "images": [
+      "/images/Events/cspit-alumni-meet-bengaluru-2026/1.webp",
+      "/images/Events/cspit-alumni-meet-bengaluru-2026/2.webp",
+      "/images/Events/cspit-alumni-meet-bengaluru-2026/3.webp",
+      "/images/Events/cspit-alumni-meet-bengaluru-2026/4.webp",
+      "/images/Events/cspit-alumni-meet-bengaluru-2026/5.webp",
+      "/images/Events/cspit-alumni-meet-bengaluru-2026/6.webp",
+      "/images/Events/cspit-alumni-meet-bengaluru-2026/7.webp"
+
+    ],
+    "description": "Charotar University of Science and Technology (CHARUSAT) organized the Alumni Meet 2026 – Bengaluru Chapter on 24 January 2026 at Lemon Tree Hotel, Whitefield, Bengaluru, from 09:30 a.m. onwards. The Bengaluru Chapter was initiated and established through the leadership of Dr. Trushit Upadhyaya, Chairman, CAA–CSPIT and Professor In-Charge, CAA, with the objective of strengthening alumni engagement in the Bengaluru region.\n\n A total of 70 alumni attended the meet along with their families, creating a warm and joyful atmosphere as they recalled college days and shared memorable experiences. The gathering also enabled discussions on current industry trends and professional developments, offering valuable inputs for current and upcoming students of CHARUSAT.The event aimed to reconnect alumni with their alma mater, promote interaction among alumni and university representatives, and foster collaboration, networking, and lifelong association with CHARUSAT.\n\nThe meet truly reflected the spirit of togetherness under the theme: ‘Reunite. Celebrate. Cheer together!’",
+    "date": "24 January 2026"
+  },
+  {
+    "id": "breaking-barriers-campus-to-cloud",
+    "title": "Breaking Barriers: A Girl’s Journey from Campus to Cloud Engineering",
+    "thumbnail": "/images/Events/breaking_barriers_campus_to_cloud/thumbnail.webp",
+    "images": [
+      "/images/Events/breaking_barriers_campus_to_cloud/1.webp",
+      "/images/Events/breaking_barriers_campus_to_cloud/2.webp",
+      "/images/Events/breaking_barriers_campus_to_cloud/3.webp",
+      "/images/Events/breaking_barriers_campus_to_cloud/4.webp",
+      "/images/Events/breaking_barriers_campus_to_cloud/5.webp"
+    ],
+    "description": "An inspiring webinar titled ‘Breaking Barriers: A Girl’s Journey from Campus to Cloud Engineering’ was delivered by Ms. Omshree Butani, Cloud FinOps Engineer at Accenture, on 28 January 2026 at 9:00 PM. The session covered career pathways, overcoming challenges, cloud fundamentals, and practical insights into FinOps, motivating students to pursue opportunities in cloud engineering.",
+    "date": "28 January 2026"
+  },
+  {
+    "id": "mazex-robotics-challenge",
+    "title": "MAZEX – Robotics Challenge",
+    "thumbnail": "/images/Events/mazex/thumbnail.webp",
+    "images": [
+      "/images/Events/mazex/1.webp",
+      "/images/Events/mazex/2.webp",
+      "/images/Events/mazex/3.webp",
+      "/images/Events/mazex/4.webp",
+      "/images/Events/mazex/5.webp"
+    ],
+    "description": "MAZEX is an exciting robotics challenge where participants design and program autonomous bots to navigate complex mazes using logic, precision, and innovation. The event blends hardware, software, and problem-solving—every turn tests intelligence and control.\n\nPrizes:\n• Winner: ₹6000\n• Runner-up: ₹4000\n\nGet ready to program it, power it, and let your bot find its way to victory!",
+    "date": "30 January 2026"
+  },
+  {
+    "id": "ssi-blockchain-expert-talk",
+    "title": "Expert Talk - Self-Sovereign Identity (SSI) using Blockchain",
+    "thumbnail": "/images/Events/ssi_blockchain/thumbnail.webp",
+    "images": [
+      "/images/Events/ssi_blockchain/1.webp",
+      "/images/Events/ssi_blockchain/2.webp",
+      "/images/Events/ssi_blockchain/3.webp"
+    ],
+    "description": "The K. D. Patel Department of IT, CSPIT, CHARUSAT successfully organized an expert talk on Self-Sovereign Identity (SSI) using Blockchain for Semester 6 students by Mr. Viraj Patva. The session explored how blockchain is transforming digital identity through Self-Sovereign Identity, covering key concepts such as Cryptography, Decentralized Identifiers (DID), Zero-Knowledge Proofs (ZKP), and SSI frameworks, enriched with real-world perspectives and practical use cases. The talk proved to be an engaging and informative learning experience for students.",
+    "date": "27 January 2026"
+  },
+  {
+    "id": "transitioning-to-nextjs-reactjs",
+    "title": "Transitioning to Next.js: A Hands-On Journey from ReactJS",
+    "thumbnail": "/images/Events/nextjs_transition/thumbnail.webp",
+    "images": [
+      "/images/Events/nextjs_transition/1.webp",
+      "/images/Events/nextjs_transition/2.webp",
+      "/images/Events/nextjs_transition/3.webp",
+      "/images/Events/nextjs_transition/4.webp",
+      "/images/Events/nextjs_transition/5.webp",
+      "/images/Events/nextjs_transition/6.webp"
+    ],
+    "description": "From React to Next — Level Up Your Web Dev Game! An expert session on ‘Transitioning to Next.js: A Hands-On Journey from ReactJS’ by Mr. Pinak Bhuva, Software Developer at SmartSense Consulting Solutions Pvt. Ltd., hosted at CSPIT, CHARUSAT. A power-packed Saturday of real-world insights, modern frameworks, and future-ready skills—coordinated by passionate educators, driven by innovation, and focused on hands-on learning. Time: 9:30 AM – 1:30 PM.",
+    "date": "31 January 2026"
+  },
+  {
+    "id": "wired-wonders-iot-showdown",
+    "title": "Wired Wonders – The IoT Creative Showdown",
+    "thumbnail": "/images/Events/wired_wonders_iot/thumbnail.webp",
+    "images": [
+      "/images/Events/wired_wonders_iot/1.webp",
+      "/images/Events/wired_wonders_iot/2.webp",
+      "/images/Events/wired_wonders_iot/3.webp",
+      "/images/Events/wired_wonders_iot/4.webp",
+      "/images/Events/wired_wonders_iot/5.webp",
+      "/images/Events/wired_wonders_iot/6.webp"
+    ],
+    "description": "Organised by KDPIT Department, CSPIT. Wired Wonders is an IoT creative showdown where ideas come to life through sensors, microcontrollers, and cloud connectivity. Teams build innovative, autonomous prototypes that sense, decide, and act—blending hardware, firmware, and software to solve real-world problems. A high-energy make-and-show event celebrating creativity, engineering discipline, and rapid prototyping.",
+    "date": "30 January 2026"
+  },
+  {
+    "id":"igbc-students-chapter-launch",
+    "title": "IGBC Students' Chapter Launch - Green Building and Sustainable Development",
+    "thumbnail": "/images/Events/igbc_chapter_launch/thumbnail.webp",
+    "images": [
+      "/images/Events/igbc_chapter_launch/1.webp",
+      "/images/Events/igbc_chapter_launch/2.webp",
+      "/images/Events/igbc_chapter_launch/3.webp",
+      "/images/Events/igbc_chapter_launch/4.webp",
+      "/images/Events/igbc_chapter_launch/5.webp",
+      "/images/Events/igbc_chapter_launch/6.webp",
+      "/images/Events/igbc_chapter_launch/7.webp",
+      "/images/Events/igbc_chapter_launch/8.webp",
+      "/images/Events/igbc_chapter_launch/9.webp"
+    ],
+    "description": "The IGBC Students' Chapter was successfully launched at the M. S. Patel Department of Civil Engineering on 21 January 2026, with the objective of promoting awareness and adoption of green building practices and sustainable development among students. As part of the programme, Mr. Aditya Shekhar, Associate Counsellor, CII–IGBC, delivered an informative session introducing IGBC, its vision, green building rating systems, and the role of student chapters in advancing sustainable practices. This was followed by a technical talk by Ms. Shreya Dalwadi, Chair, IGBC Vadodara Chapter, who shared valuable insights on green building concepts, industry practices, and emerging trends in sustainable construction. A total of 79 students from First Year, Second Year, and Third Year B.Tech, along with faculty members, actively participated in the event. The enthusiastic participation reflected strong interest and commitment toward sustainability-focused learning.",
+    "date": "21 January 2026"  
   }
 ]
