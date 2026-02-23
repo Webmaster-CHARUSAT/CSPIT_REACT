@@ -863,5 +863,165 @@
   ],
   "description": "The Department of Computer Science & Engineering, CSPIT, CHARUSAT organized an expert talk titled “Guidance Session for Careers in Networking and Security” on 20 December 2025 for placement-oriented CSE students. The session was delivered by Mr. Ankit Bilwankar, Cyber Security Consultant and Founder of Vivekanand IT Solutions. The talk provided practical insights into career opportunities in networking, cybersecurity, cloud security, and system administration, with a strong emphasis on industry expectations, essential technical skills, relevant certifications, and hands-on learning. The interactive session helped students gain clarity, confidence, and direction in planning their career paths and placement preparation.",
   "date": "20 December 2025"
+  },
+  {
+  "id": "one-day-energy-conservation-awareness-workshop-2026",
+  "title": "One Day Energy Conservation Awareness Workshop",
+  "thumbnail": "/images/Events/One-day-Energy-conservation-awareness workshop/e1.webp",
+  "images": [
+    "/images/Events/One-day-Energy-conservation-awareness workshop/e2.webp",
+    "/images/Events/One-day-Energy-conservation-awareness workshop/e3.webp",
+    "/images/Events/One-day-Energy-conservation-awareness workshop/e4.webp"
+  ],
+  "description": "The Department of Electrical Engineering, CSPIT, CHARUSAT organized a “One Day Energy Conservation Awareness Workshop” on 03 February 2026 at 245 – Seminar Hall. The workshop aimed to create awareness about energy conservation practices, sustainable energy usage, and the importance of responsible consumption in daily life and industry. The session provided valuable insights to students regarding efficient energy management, environmental responsibility, and emerging trends in sustainable technologies. The event was successfully conducted with active participation from students and faculty members.",
+  "date": "03 February 2026"
+  },
+
+  {
+  "id": "faculty-development-programme-emerging-trends-industrial-practices-ee-2026",
+  "title": "Faculty Development Programme on Emerging Trends and Industrial Practices in Electrical Engineering",
+  "thumbnail": "/images/Events/Emerging-Trends-and-Industrial-Practices-in-Electrical-Engineering/1.webp",
+  "images": [
+    "/images/Events/Emerging-Trends-and-Industrial-Practices-in-Electrical-Engineering/2.webp",
+    "/images/Events/Emerging-Trends-and-Industrial-Practices-in-Electrical-Engineering/3.webp",
+    "/images/Events/Emerging-Trends-and-Industrial-Practices-in-Electrical-Engineering/4.webp"
+  ],
+  "description": "The Department of Electrical Engineering, CSPIT, CHARUSAT organized a Faculty Development Programme titled “Emerging Trends and Industrial Practices in Electrical Engineering” on January 06, 10 & 31, 2026. The programme was conducted in collaboration with industry and academic venues including Atlanta Electrical Private Limited, Anand; Gujarat Plug – In Devices Pvt. Ltd., Baroda; and 118 – PG Computer Lab, A-6, CSPIT. The FDP aimed to enhance faculty knowledge in emerging technologies, industrial standards, and current engineering practices. The sessions provided valuable exposure to real-world applications, industry expectations, and advanced technical developments, strengthening the academic-industry connect.",
+  "date": "06, 10 & 31 January 2026"
+  },
+
+  {
+  "id": "expert-talk-segmental-bridge-construction-2026",
+  "title": "Expert Talk on \"Segmental Bridge Construction\" by Mr. Girish Narang",
+  "thumbnail": "/images/Events/Segmental-Bridge-Construction/1.webp",
+  "images": [
+    "/images/Events/Segmental-Bridge-Construction/2.webp",
+    "/images/Events/Segmental-Bridge-Construction/3.webp",
+    "/images/Events/Segmental-Bridge-Construction/4.webp",
+    "/images/Events/Segmental-Bridge-Construction/5.webp"
+  ],
+  "description": "The M. S. Patel Department of Civil Engineering, CSPIT, CHARUSAT organized an online expert lecture on \"Segmental Bridge Construction\" for 4th and 6th semester undergraduate students on 30th January 2026. The session was conducted from 2:00 PM to 4:00 PM by Mr. Girish Narang, Assistant General Manager (Structural Design) at TPF Engineering Pvt. Ltd., Pune. The lecture was attended by students and faculty members of the department. \n\n The session began with an introduction to the concept and evolution of segmental bridge construction and its significance in modern infrastructure development. Mr. Narang explained various construction methodologies such as balanced cantilever and span-by-span methods, along with criteria for their selection based on span length, alignment, and site conditions. He also discussed design aspects, prestressing systems, construction sequence, quality control, and safety considerations. Real-life project examples and case studies were shared to provide practical insights into execution challenges. \n\n The lecture was interactive, allowing students to clarify doubts related to bridge engineering and industry practices. The session concluded with positive feedback, as participants found the lecture informative and industry-oriented.",
+  "date": "30 January 2026"
+  },
+
+  {
+  "id": "startup-ideas-expo-2026",
+  "title": "Startup Ideas Expo 2026",
+  "thumbnail": "/images/Events/Startup-Ideas-Expo-2026/thumbnail.webp",
+  "images": [
+    "/images/Events/Startup-Ideas-Expo-2026/1.webp",
+    "/images/Events/Startup-Ideas-Expo-2026/2.webp",
+    "/images/Events/Startup-Ideas-Expo-2026/3.webp",
+    "/images/Events/Startup-Ideas-Expo-2026/4.webp",
+    "/images/Events/Startup-Ideas-Expo-2026/5.webp"
+  ],
+  "description": "The U & P U Patel Department of Computer Engineering, CSPIT, CHARUSAT successfully organized the “Startup Ideas Expo 2026” on 07 February 2026 at Room 317, A6 Building, celebrating Startup Day with great enthusiasm. The event commenced at 9:30 AM onwards and provided a dynamic platform for students to showcase their innovative and technology-driven startup ideas. Participants demonstrated entrepreneurial vision, creativity, and strong problem-solving skills. The expo witnessed healthy competition, with cash prizes awarded to the top three teams (₹5000, ₹3000, and ₹2000). The event was convened by Dr. Nikita Bhatt and coordinated by Dr. Deep Kothadiya and Dr. Aayushi Chaudhari, fostering innovation and strengthening startup culture among students.",
+  "date": "07 February 2026"
+},
+
+{
+  "id": "workshop-designing-scaling-nosql-mongodb-2026",
+  "title": "One Day Hands-on Workshop on Designing and Scaling Schema-less NoSQL Databases with MongoDB",
+  "thumbnail": "/images/Events/MongoDB-Workshop-2026/thumbnail.webp",
+  "images": [
+    "/images/Events/MongoDB-Workshop-2026/1.webp",
+    "/images/Events/MongoDB-Workshop-2026/2.webp",
+    "/images/Events/MongoDB-Workshop-2026/3.webp",
+    "/images/Events/MongoDB-Workshop-2026/4.webp"
+  ],
+  "description": "The Department of Computer Science and Engineering, Chandubhai S. Patel Institute of Technology (CSPIT), CHARUSAT, successfully organized a One Day Hands-on Workshop on “Designing and Scaling Schema-less NoSQL Databases with MongoDB” on 07 February 2026 in offline mode. The session was delivered by Mr. Akash Padhiyar, who provided in-depth practical insights into schema-less database architecture and scalable NoSQL system design. The workshop witnessed enthusiastic participation from 89 students, who gained hands-on experience in document-based data modeling, CRUD operations, aggregation pipelines, indexing, replication, and sharding using MongoDB. The session effectively bridged academic concepts with industry practices aligned with the FDBMS curriculum and strengthened students’ technical competency in modern distributed database systems and real-world application development.",
+  "date": "07 February 2026"
+  },
+
+  {
+  "id": "industrial-visit-gift-city-gandhinagar-2026",
+  "title": "Industrial Visit to GIFT City, Gandhinagar",
+  "thumbnail": "/images/Events/Industrial-Visit-GIFT-2026/1.webp",
+  "images": [
+    "/images/Events/Industrial-Visit-GIFT-2026/2.webp",
+    "/images/Events/Industrial-Visit-GIFT-2026/3.webp",
+    "/images/Events/Industrial-Visit-GIFT-2026/4.webp"
+  ],
+  "description": "The Department of Electrical Engineering, CSPIT, CHARUSAT organized an Industrial Visit to GIFT City, Gandhinagar on 04 February 2026. The visit aimed to provide students with practical exposure to modern infrastructure, smart city planning, and financial technology ecosystems. During the visit, students gained insights into the development model, technological advancements, and operational framework of India’s first operational smart city and international financial services center. The industrial visit offered valuable real-world learning experience and enhanced students’ understanding of industry-oriented practices.",
+  "date": "04 February 2026"
+  },
+
+  {
+  "id": "expert-talk-building-business-canvas-2026",
+  "title": "Expert Talk on Building Business Canvas by Ms. Bela Shah",
+  "thumbnail": "/images/Events/Building-Business-Canvas-2026/1.webp",
+  "images": [
+    "/images/Events/Building-Business-Canvas-2026/2.webp",
+    "/images/Events/Building-Business-Canvas-2026/3.webp",
+    "/images/Events/Building-Business-Canvas-2026/4.webp",
+    "/images/Events/Building-Business-Canvas-2026/5.webp"
+  ],
+  "description": "The Department of Computer Science & Engineering, CSPIT, CHARUSAT successfully organized an expert talk on “Building Business Canvas” on 05 February 2026 under the Fundamentals of Software Engineering course. The session was conducted by Ms. Bela Shah, Assistant Professor at Parul University, and witnessed enthusiastic participation from around 115 Semester 4 students. During the session, students translated their business ideas into structured business canvas models and presented them on charts. The presentations were reviewed by the expert along with faculty members, effectively blending conceptual understanding with hands-on activity. The session fostered creativity, critical thinking, and entrepreneurial insight among students.",
+  "date": "05 February 2026"
+  },
+
+  {
+  "id": "workshop-arduino-hands-on-2026",
+  "title": "Workshop on Arduino Hands On",
+  "thumbnail": "/images/Events/Arduino-Hands-On-2026/thumbnail.webp",
+  "images": [
+    "/images/Events/Arduino-Hands-On-2026/thumbnail.webp"
+  ],
+  "description": "The CSPIT E.C. Department organized a workshop titled “Arduino Hands On” on 05 February 2026. The workshop was conducted at Room 218 – Advanced Programming Lab, A-6 CSPIT Building. The session provided students with practical exposure to Arduino programming and hardware interfacing through hands-on activities. Participants actively engaged in learning microcontroller basics, circuit connections, and real-time implementation, enhancing their practical understanding of embedded systems and electronics.",
+  "date": "05 February 2026"
+  },
+
+  {
+  "id": "expert-talk-electromagnetics-2026",
+  "title": "Expert Talk on Electromagnetics: Empowering the Technologies of Tomorrow",
+  "thumbnail": "/images/Events/Electromagnetics-Expert-Talk-2026/thumbnail.webp",
+  "images": [
+    "/images/Events/Electromagnetics-Expert-Talk-2026/1.webp",
+    "/images/Events/Electromagnetics-Expert-Talk-2026/2.webp",
+    "/images/Events/Electromagnetics-Expert-Talk-2026/3.webp"
+  ],
+  "description": "The CSPIT E.C. Department organized an expert talk titled “Electromagnetics: Empowering the Technologies of Tomorrow” on 17 February 2026 in online mode. The session focused on the significance of electromagnetics in modern technological advancements and its applications in emerging domains. The expert provided valuable insights into core concepts, real-world applications, and future opportunities in the field, helping students strengthen their conceptual understanding and explore innovative technological perspectives.",
+  "date": "17 February 2026"
+  },
+
+  {
+  "id": "expert-talk-fiber-mobile-technology-bsnl-2026",
+  "title": "Expert Talk on Fiber & Mobile Technology in BSNL",
+  "thumbnail": "/images/Events/Fiber-Mobile-Technology-BSNL-2026/1.webp",
+  "images": [
+    "/images/Events/Fiber-Mobile-Technology-BSNL-2026/2.webp",
+    "/images/Events/Fiber-Mobile-Technology-BSNL-2026/3.webp",
+    "/images/Events/Fiber-Mobile-Technology-BSNL-2026/4.webp"
+  ],
+  "description": "The CSPIT E.C. Department organized an expert talk titled “Fiber & Mobile Technology in BSNL” on 05 February 2026 at 245 – Seminar Hall, A-6 CSPIT Building. The session provided students with insights into fiber optic communication, mobile network infrastructure, and the role of BSNL in advancing telecommunication technologies. The expert elaborated on practical industry applications, current technological trends, and future opportunities in the telecom sector, enriching students’ understanding of real-world communication systems.",
+  "date": "05 February 2026"
+  },
+
+  {
+  "id": "alumni-expert-talk-next-generation-microprocessors-2026",
+  "title": "Alumni Expert Talk on Next Generation Microprocessors in Embedded Systems",
+  "thumbnail": "/images/Events/Next-Gen-Microprocessors-2026/thumbnail.webp",
+  "images": [
+    "/images/Events/Next-Gen-Microprocessors-2026/1.webp",
+    "/images/Events/Next-Gen-Microprocessors-2026/2.webp",
+    "/images/Events/Next-Gen-Microprocessors-2026/3.webp"
+  ],
+  "description": "The CSPIT E.C. Department organized an Alumni Expert Talk titled “Next Generation Microprocessors in Embedded Systems” on 07 February 2026 at 245 – Seminar Hall, A-6 CSPIT Building. The session provided students with valuable insights into the evolution of microprocessors and their applications in modern embedded systems. The alumni expert shared industry-oriented knowledge, practical experiences, and emerging trends in embedded technologies, helping students bridge the gap between academic concepts and real-world implementations.",
+  "date": "07 February 2026"
+  },
+
+  {
+  "id": "expert-lecture-entrepreneurship-readiness-2026",
+  "title": "Expert Lecture on Entrepreneurship Readiness for Technocrats: Skills, Mind-set, and Innovation",
+  "thumbnail": "/images/Events/Entrepreneurship-Readiness-2026/thumbnail.webp",
+  "images": [
+    "/images/Events/Entrepreneurship-Readiness-2026/1.webp",
+    "/images/Events/Entrepreneurship-Readiness-2026/2.webp",
+    "/images/Events/Entrepreneurship-Readiness-2026/3.webp",
+    "/images/Events/Entrepreneurship-Readiness-2026/4.webp",
+    "/images/Events/Entrepreneurship-Readiness-2026/5.webp"
+  ],
+  "description": "An expert lecture titled “Entrepreneurship Readiness for Technocrats: Skills, Mind-set, and Innovation” was organized on 05 February 2026 via Google Meet from 12:00 p.m. to 2:00 p.m. The session was delivered by Mr. Sujjoy Gupta, Business and Corporate Coach, who shared practical insights drawn from his industry and coaching experience. The lecture aimed to sensitize technocrats—particularly engineering students and young professionals—to the entrepreneurial ecosystem by highlighting how technical knowledge can be effectively transformed into viable business ventures. The session covered essential aspects such as entrepreneurial mind-set, innovation-driven thinking, leadership skills, risk-taking ability, and the importance of adaptability in today’s competitive environment.",
+  "date": "05 February 2026"
   }
 ]
