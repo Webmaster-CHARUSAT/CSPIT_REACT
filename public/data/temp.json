@@ -196,5 +196,39 @@
     ],
     "description": "A Parent–Teacher session attended by 23 parents was held to brief them on e-governance initiatives, university and institute guidelines, departmental policies, and the Skill Augmentation Module. Detailed explanations were provided on each topic to ensure clarity and alignment with institutional objectives. The session concluded with an interactive Parents–Teachers segment in which student counsellors responded to several queries and clarified concerns. Kindly note the positive engagement and readiness of parents to support the department’s initiatives.",
     "date": "04 September 2025"
+  },
+    {
+    "name": "Dr. Deepkumar Kothadiya",
+    "title": "ASSISTANT PROFESSOR",
+    "degree": "Ph. D.",
+    "research_interests": [
+      "Deep Learning",
+      "Internet of Things",
+      "Wireless Computing"
+    ],
+    "image_src": "/CSPIT_Faculty/CE/DEEPKUMAR.webp",
+    "subjects": [
+      "Python",
+      "Internet of Things",
+      "Research Methodology",
+      "Wireless Computing",
+      "Big Data",
+      "Natural Language Processing",
+      "Machine Learning",
+      "Artificial Intelligence"
+    ],
+    "research_projects": [],
+    "teaching": [],
+    "email": "deepkothadiya.ce@charusat.ac.in",
+    "linkedin": "https://www.linkedin.com/in/deep-kothadiya-phd-70983a86/",
+    "website": "",
+    "scholar": "https://scholar.google.com/citations?user=SdsrrsIAAAAJ&hl=en",
+    "vidwan": "",
+    "awards": [
+      "Best Research Paper Award at MA-NIT Bhopal (9/11/2024)",
+      "Best Research Paper Award at NIT Agartala(24/11/2024)"
+    ],
+    "memberships": ["SCRS"],
+    "certifications": ["AWS Cloud Practitioner"]
   }
 ]

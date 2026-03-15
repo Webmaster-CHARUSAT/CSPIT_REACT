@@ -712,40 +712,6 @@
     "certifications": []
   },
   {
-    "name": "Dr. Deepkumar Kothadiya",
-    "title": "ASSISTANT PROFESSOR",
-    "degree": "Ph. D.",
-    "research_interests": [
-      "Deep Learning",
-      "Internet of Things",
-      "Wireless Computing"
-    ],
-    "image_src": "/CSPIT_Faculty/CE/DEEPKUMAR.webp",
-    "subjects": [
-      "Python",
-      "Internet of Things",
-      "Research Methodology",
-      "Wireless Computing",
-      "Big Data",
-      "Natural Language Processing",
-      "Machine Learning",
-      "Artificial Intelligence"
-    ],
-    "research_projects": [],
-    "teaching": [],
-    "email": "deepkothadiya.ce@charusat.ac.in",
-    "linkedin": "https://www.linkedin.com/in/deep-kothadiya-phd-70983a86/",
-    "website": "",
-    "scholar": "https://scholar.google.com/citations?user=SdsrrsIAAAAJ&hl=en",
-    "vidwan": "",
-    "awards": [
-      "Best Research Paper Award at MA-NIT Bhopal (9/11/2024)",
-      "Best Research Paper Award at NIT Agartala(24/11/2024)"
-    ],
-    "memberships": ["SCRS"],
-    "certifications": ["AWS Cloud Practitioner"]
-  },
-  {
     "name": "Ms. Dhara Patel",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. E.",
