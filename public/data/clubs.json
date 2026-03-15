@@ -720,15 +720,15 @@
         "Name": "Prof. Nishat Shaikh",
         "Role": "faculty coordinator",
         "Email": "nishatshaikh.it@charusat.ac.in",
-        "Phone": "9979157363",
+        "Phone": "",
         "Image": "/CSPIT_Faculty/IT/NISHAT.webp"
       },
       {
-        "Name": "Dr. Parth Shah",
+        "Name": "Dr. Purvi Prajapati",
         "Role": "faculty coordinator",
-        "Email": "parthshah.ce@charusat.ac.in",
-        "Phone": "9925020358",
-        "Image": "/CSPIT_Faculty/IT/PARTH.webp"
+        "Email": "purviprajapati.it@charusat.ac.in",
+        "Phone": "",
+        "Image": "/CSPIT_Faculty/IT/PURVI.webp"
       }
     ],
     "Student Coordinators": [],
@@ -1552,7 +1552,7 @@
         "Name": "Prof. Vaibhavi Patel",
         "Role": "faculty coordinator",
         "Email": "vaibhavipatel.cse@charusat.ac.in",
-        "Phone": "6359357364",
+        "Phone": "",
         "Image": "/CSPIT_Faculty/CSE/VAIBHAVI.webp"
       },
       {
