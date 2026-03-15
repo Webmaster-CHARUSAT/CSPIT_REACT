@@ -1330,5 +1330,35 @@
       "/images/Events/workshop-smart-drone-system-raspberry/2.webp",
       "/images/Events/workshop-smart-drone-system-raspberry/3.webp"
     ]
-  }  
+  },
+  {
+    "id": "visit-wanakbori-weir",
+    "title": "Academic Visit to Wanakbori Weir and Mahi Aqueduct",
+    "date": "25 February 2026",
+    "description": "The M.S. Patel Department of Civil Engineering organized an academic visit to the Wanakbori Weir and Mahi Aqueduct on February 25, 2026, coordinated by Ms. Neha Rajput. The visit included expert guidance from field engineers and technical staff of the Irrigation Department, who explained the planning, design features, and operational aspects of these major hydraulic structures. A total of 54 students from First Year, Second Year and Third Year B.Tech participated in the visit. The visit provided valuable exposure to concepts such as open channel flow, cross-drainage works, structural hydraulics, and sustainable water resource management practices. Observing these major components of the regional irrigation system effectively strengthened students’ practical understanding and bridged the gap between classroom theory and real-world hydraulic infrastructure.\n\nThis visit effectively bridged theory with real-world applications, offering valuable insights into hydraulic engineering and sustainable water resource management.",
+    "thumbnail": "/images/Events/visit-wanakbori-weir/1.webp",
+    "images": [
+      "/images/Events/visit-wanakbori-weir/1.webp",
+      "/images/Events/visit-wanakbori-weir/2.webp",
+      "/images/Events/visit-wanakbori-weir/3.webp",
+      "/images/Events/visit-wanakbori-weir/4.webp",
+      "/images/Events/visit-wanakbori-weir/5.webp",
+      "/images/Events/visit-wanakbori-weir/6.webp"
+    ]
+  },
+  {
+    "id": "structural-modelling",
+    "title": "Structural Modelling and Design of Building Systems: A Hands-On Workshop",
+    "date": "21 February 2026",
+    "description": "Organised a hands on workshop on Structural Modelling and Design of Building Systems on 21 February 2026.",
+    "thumbnail": "/images/Events/structural-modelling/4.webp",
+    "images": [
+      "/images/Events/structural-modelling/1.webp",
+      "/images/Events/structural-modelling/2.webp",
+      "/images/Events/structural-modelling/3.webp",
+      "/images/Events/structural-modelling/4.webp",
+      "/images/Events/structural-modelling/5.webp",
+      "/images/Events/structural-modelling/6.webp"
+    ]
+  }    
 ]
