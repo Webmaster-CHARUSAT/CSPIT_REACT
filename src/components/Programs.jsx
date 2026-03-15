@@ -35,12 +35,12 @@ const undergraduate = [
   {
     title: "Artificial Intelligence and Machine Learning",
     img: "images/programs/aiml.webp",
-    link: "https://charusat.edu.in/cspit/aiml/",
+    link: "https://aiml.cspit.charusat.ac.in",
   },
   {
     title: "Electrical Engineering",
     img: "images/programs/electrical.webp",
-    link: "https://charusat.ac.in/cspit/ee/",
+    link: "https://ee.cspit.charusat.ac.in",
   },
 ];
 

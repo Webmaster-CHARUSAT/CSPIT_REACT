@@ -1023,5 +1023,312 @@
   ],
   "description": "An expert lecture titled “Entrepreneurship Readiness for Technocrats: Skills, Mind-set, and Innovation” was organized on 05 February 2026 via Google Meet from 12:00 p.m. to 2:00 p.m. The session was delivered by Mr. Sujjoy Gupta, Business and Corporate Coach, who shared practical insights drawn from his industry and coaching experience. The lecture aimed to sensitize technocrats—particularly engineering students and young professionals—to the entrepreneurial ecosystem by highlighting how technical knowledge can be effectively transformed into viable business ventures. The session covered essential aspects such as entrepreneurial mind-set, innovation-driven thinking, leadership skills, risk-taking ability, and the importance of adaptability in today’s competitive environment.",
   "date": "05 February 2026"
-  }
+  },
+  {
+    "id": "application-effluent-treatment-plant-etp",
+    "title": "Expert lecture: Application of Effluent Treatment Plant (ETP) and Sewage Treatment Plant (STP) in Wastewater Treatment with Focus on Environment, Health and Safety (EHS)",
+    "date": "27 February 2026",
+    "description": "The M. S. Patel Department of Civil Engineering, Chandubhai S. Patel Institute of Technology, CHARUSAT, organized an expert lecture on the application of Effluent Treatment Plants (ETP) and Sewage Treatment Plants (STP) in wastewater treatment, with a special focus on Environment, Health, and Safety (EHS). The online session was held on February 27, 2026, and targeted second and third-year B.Tech students and teaching staff. \n\n The resource person, Mr. Suraj Kanjirathangal, Executive – EHS at BASF, Bharuch, shared practical insights into the working principles, components, and treatment processes of ETP and STP systems. He emphasized the importance of physical, chemical, and biological treatment methods, along with regulatory compliance and EHS practices in industrial operations. The session also covered real-world challenges and best practices in wastewater management.\n\n A total of 33 participants attended the lecture, which encouraged active interaction and doubt clarification. Key outcomes included enhanced understanding of pollution control, environmental regulations, and career opportunities in environmental engineering. The event successfully fulfilled its objective of bridging theoretical knowledge with industrial applications in wastewater treatment and safety.",
+    "thumbnail": "/images/Events/application-effluent-treatment-plant-etp/1.webp",
+    "images": [
+      "/images/Events/application-effluent-treatment-plant-etp/1.webp",
+      "/images/Events/application-effluent-treatment-plant-etp/2.webp",
+      "/images/Events/application-effluent-treatment-plant-etp/3.webp",   
+      "/images/Events/application-effluent-treatment-plant-etp/4.webp",
+      "/images/Events/application-effluent-treatment-plant-etp/5.webp",
+      "/images/Events/application-effluent-treatment-plant-etp/6.webp",
+      "/images/Events/application-effluent-treatment-plant-etp/7.webp",
+      "/images/Events/application-effluent-treatment-plant-etp/8.webp"
+    ]
+  },
+  {
+    "id": "applied-deep-learning-health-care",
+    "title": "Applied Deep Learning in Health Care: Tools, Techniques and Case Studies",
+    "date": "20 February 2026",
+    "description": "The Department of Information Technology at Smt. Kundanben Dinsha Patel, CHARUSAT successfully organized a one-day workshop titled “Applied Deep Learning in Health Care: Tools, Techniques and Case Studies” on 20 February 2026 at Room 613-A, A7 Building.\n\n The workshop was conducted by Dr. Himanshu Gajera, Assistant Professor at Pandit Deendayal Energy University (PDEU), who shared valuable insights into the application of deep learning techniques in modern healthcare systems. The session covered important topics including deep learning tools, practical techniques, and real-world healthcare case studies such as medical image analysis, disease prediction, and AI-driven healthcare solutions.\n\n The workshop aimed to enhance participants’ understanding of Artificial Intelligence and Deep Learning applications in the healthcare domain, enabling students and faculty members to explore how advanced computational models can contribute to improving medical diagnostics and patient care.",
+    "thumbnail": "/images/Events/applied-deep-learning-health-care/thumbnail.webp",
+    "images": [
+      "/images/Events/applied-deep-learning-health-care/1.webp",
+      "/images/Events/applied-deep-learning-health-care/2.webp",
+      "/images/Events/applied-deep-learning-health-care/3.webp"
+    ]
+  },
+  {
+    "id": "competition-hacktrack-decode-run-win",
+    "title": "Competitive coding event “HackTrack: Decode. Run. Win.”",
+    "date": "25 February 2026",
+    "description": "The Department of Computer Science & Engineering, CSPIT–CHARUSAT organized “HackTrack: Decode. Run. Win.”, a competitive coding event on 25th February 2026. The event encouraged students to apply their logical thinking and problem-solving skills through an engaging hackathon-style challenge. Teams consisting of 3–4 members from 4th and 6th semester, including inter-semester and inter-department participants, actively competed in the event. The competition provided a platform for students to showcase their coding abilities and teamwork while solving technical challenges within the given time frame. Exciting prizes worth ₹10,000 were awarded to the winners. The event was conducted under the convenership of Dr. Amit Thakkar and coordinated by Prof. Hemang Thakar and Prof. Dharmendrasinh Rathod, making it a successful and enthusiastic technical event.",
+    "thumbnail": "/images/Events/competition-hacktrack-decode-run-win/thumbnail.webp",
+    "images": [
+      "/images/Events/competition-hacktrack-decode-run-win/1.webp"
+    ]
+  },
+  {
+    "id": "endowment-chair-activity-19-21",
+    "title": "Sustainable and Resilient Electric Transportation Future",
+    "date": "19-21 February 2026",
+    "description": "Organised Sustainable and Resilient Electric Transportation Future on 19-21 February 2026",
+    "thumbnail": "/images/Events/endowment-chair-activity-19-21/thumbnail.webp",
+    "images": [
+      "/images/Events/endowment-chair-activity-19-21/1.webp",
+      "/images/Events/endowment-chair-activity-19-21/2.webp",
+      "/images/Events/endowment-chair-activity-19-21/3.webp",
+      "/images/Events/endowment-chair-activity-19-21/4.webp",
+      "/images/Events/endowment-chair-activity-19-21/5.webp"
+    ]
+  },
+  {
+    "id": "expert-session-vibration-measurement",
+    "title": "Expert session on Vibration Measurement",
+    "date": "20 February 2026",
+    "description": "The expert session on Vibration Measurement was organized by CHAMOS Matrusanstha, Department of Mechanical Engineering, CSPIT for undergraduate students of B.Tech Mechanical Engineering branch on 20th February, 2026. Dr. Sebin Jose from HILTI Manufacturing India, was invited to conduct the session. Dr. Sebin began by establishing the fundamentals of vibration, transitioning into practical measurement methodologies and the specific instrumentation required for data collection. A significant portion of the session focused on the accelerometer, the industry standard for capturing vibration data. Dr. Sebin detailed the critical process of sensor selection, emphasizing that the choice must align with the machine's frequency range and environmental conditions. He also highlighted that mounting techniques—whether using studs, magnets, or adhesives—directly impact the accuracy of the high-frequency signals captured. The session concluded by framing vibration analysis as a cornerstone of Condition Monitoring. By interpreting vibration signatures, maintenance teams can detect early signs of wear, such as imbalance or bearing failure, allowing for proactive repairs before catastrophic breakdowns occur.",
+    "thumbnail": "/images/Events/expert-session-vibration-measurement/thumbnail.jpg",
+    "images": [
+      "/images/Events/expert-session-vibration-measurement/1.webp",
+      "/images/Events/expert-session-vibration-measurement/2.webp"
+    ]
+  },
+  {
+    "id": "expert-talk-digital-electronics-from",
+    "title": "Expert Talk - Digital Electronics: From Basic Logic to Practical Systems",
+    "date": "5 February 2026",
+    "description": "This expert talk systematically traced the evolution of digital design, navigating the critical transition from the theoretical elegance of Boolean algebra and fundamental logic gates to the sophisticated integration of complex practical systems. By bridging the gap between discrete combinational and sequential components—such as flip-flops and finite state machines—and modern high-density architectures like FPGAs and SoCs, the session illuminated how abstract binary logic is synthesized into functional hardware. We concluded by addressing the pragmatic engineering constraints of the contemporary industry, specifically emphasizing the roles of Hardware Description Languages (HDL), power dissipation, and propagation delay in transforming rudimentary circuits into high-performance, real-world digital solutions.",
+    "thumbnail": "/images/Events/expert-talk-digital-electronics-from/1.webp",
+    "images": [
+      "/images/Events/expert-talk-digital-electronics-from/1.webp",
+      "/images/Events/expert-talk-digital-electronics-from/2.webp",
+      "/images/Events/expert-talk-digital-electronics-from/3.webp"
+    ]
+  },
+  {
+    "id": "expert-talk-inside-transformer-foundation",
+    "title": "Expert Talk and Hands-On Session titled “Inside Transformers: Foundation, Innovations and Application”",
+    "date": "7 March 2026",
+    "description": "The U & P U. Patel Department of Computer Engineering, CSPIT–CHARUSAT organized an Expert Talk and Hands-On Session titled “Inside Transformers: Foundation, Innovations and Application” on 7th March 2026 at Room 622, A7 Building. The session was delivered by Mr. Dwijesh Bhatt, Senior Data Scientist at Fractal, who shared valuable insights into transformer architectures, their foundational concepts, and their growing applications in modern artificial intelligence. The session provided participants with both theoretical understanding and practical exposure to transformer-based models used in advanced AI systems. Students gained knowledge about recent innovations and real-world applications of transformers in data science and machine learning. The interactive hands-on activities helped participants better understand the working of transformer models. The event was organized under the convenership of Dr. Nikita Bhatt and coordinated by Dr. Ronak Patel, Dr. Mrugendra Rahevar, and Prof. Bijal Suthar.",
+    "thumbnail": "/images/Events/expert-talk-inside-transformer-foundation/thumbnail.webp",
+    "images": [
+      "/images/Events/expert-talk-inside-transformer-foundation/1.webp",
+      "/images/Events/expert-talk-inside-transformer-foundation/2.webp",
+      "/images/Events/expert-talk-inside-transformer-foundation/3.webp",
+      "/images/Events/expert-talk-inside-transformer-foundation/4.webp"
+    ]
+  },
+  {
+    "id": "expert-talk-research-practices-dr",
+    "title": " Expert Talk - Research Practices By Dr. Brijesh Bhatt",
+    "date": "21 February 2026",
+    "description": "The U & P.U. Patel Department of Computer Engineering, CSPIT, CHARUSAT organized an Expert Talk on “Research Practices: Challenges and Its Solutions” on 21st February 2026 at Lab 618, A7 Building. The session was delivered by Dr. Brijesh Bhatt (DDU, Nadiad) and was attended by Research Scholars and Faculty Members pursuing their Ph.D. The talk focused on key challenges in doctoral research, including problem identification, research methodology, publication ethics, journal selection, and managing peer review processes. Dr. Bhatt shared practical strategies to enhance research quality, maintain academic rigor, and ensure systematic documentation. The session was highly interactive and provided valuable insights to strengthen research planning, publication outcomes, and overall scholarly productivity.",
+    "thumbnail": "/images/Events/expert-talk-research-practices-dr/thumbnail.webp",
+    "images": [
+      "/images/Events/expert-talk-research-practices-dr/1.webp",
+      "/images/Events/expert-talk-research-practices-dr/2.webp",
+      "/images/Events/expert-talk-research-practices-dr/3.webp",
+      "/images/Events/expert-talk-research-practices-dr/4.webp"
+    ]
+  },
+  {
+    "id": "fintech-autopilot-rise-generative-finance",
+    "title": "Fintech on Autopilot: The Rise of Generative Finance",
+    "date": "21 February 2026",
+    "description": "The Department of Artificial Intelligence and Machine Learning, CSPIT–CHARUSAT organized a One Day Hands-on Workshop on “Fintech on Autopilot: The Rise of Generative Finance” on 21st February 2026. The session was delivered by Mr. Amit Parmar, Sr. Data Scientist at GoDigit Insurance, Bengaluru, who shared insights on the role of generative AI in the financial technology sector. The workshop provided students with practical exposure to emerging fintech innovations and real-world industry applications.",
+    "thumbnail": "/images/Events/fintech-autopilot-rise-generative-finance/thumbnail.webp",
+    "images": [
+      "/images/Events/fintech-autopilot-rise-generative-finance/1.webp",
+      "/images/Events/fintech-autopilot-rise-generative-finance/2.webp",
+      "/images/Events/fintech-autopilot-rise-generative-finance/3.webp"
+    ]
+  },
+  {
+    "id": "industrial-visit-18-february-2026",
+    "title": "Industrial Visit to Wardwizard Innovations and Mobility Limited, Vadodara - Joy E Bike",
+    "date": "18 February 2026",
+    "description": "Organised industrial visit Wardwizard Innovations and Mobility Limited, Vadodara - Joy E Bike on 18 February 2026 by CSPIT E.E. Department",
+    "thumbnail": "/images/Events/industrial-visit-18-february-2026/thumbnail.webp",
+    "images": [
+      "/images/Events/industrial-visit-18-february-2026/1.webp",
+      "/images/Events/industrial-visit-18-february-2026/2.webp",
+      "/images/Events/industrial-visit-18-february-2026/3.webp",
+      "/images/Events/industrial-visit-18-february-2026/4.webp"
+    ]
+  },
+  {
+    "id": "pre-placement-talk-from-osi",
+    "title": "Pre-Placement Talk titled “From OSI to Real Networks: Practical Understanding of CN”",
+    "date": "6 March 2026",
+    "description": "The Placement Cell of the Department of Computer Science & Engineering, CSPIT–CHARUSAT organized a Pre-Placement Talk titled From OSI to Real Networks: Practical Understanding of CN on 6th March 2026 at Lab 515, A7 Building, CSPIT. The session was delivered by Mr. Bhavesh Bhatt, Information Technology Officer at Office Beacon LLP, Vadodara. The talk focused on providing practical insights into computer networking concepts, bridging the gap between theoretical knowledge of the OSI model and real-world network implementations. Students gained a better understanding of networking fundamentals, industry practices, and the practical applications of computer networks. The interactive session helped participants enhance their technical knowledge and prepare for industry expectations. The event proved to be an informative and valuable learning experience for the attending students.",
+    "thumbnail": "/images/Events/pre-placement-talk-from-osi/thumbnail.webp",
+    "images": [
+      "/images/Events/pre-placement-talk-from-osi/1.webp",
+      "/images/Events/pre-placement-talk-from-osi/2.webp",
+      "/images/Events/pre-placement-talk-from-osi/3.webp",
+      "/images/Events/pre-placement-talk-from-osi/4.webp",
+      "/images/Events/pre-placement-talk-from-osi/5.webp"
+    ]
+  },
+  {
+    "id": "session-research-guidance-prof-rushikesh",
+    "title": "Session on Research Guidance by Prof. Rushikesh Joshi",
+    "date": "25 February 2026",
+    "description": "The Department of Computer Science & Engineering, CSPIT–CHARUSAT organized a Session on Research Guidance on 25th February 2026 at A7 Building, CSPIT, CHARUSAT. The session was delivered by Prof. Rushikesh Joshi from IIT Bombay, who shared valuable insights on research methodologies, academic writing, and effective approaches for conducting quality research. The session aimed to guide students and faculty members in identifying research problems, structuring research work, and understanding the importance of innovation in academia. Participants benefited from the expert guidance and interactive discussion on various aspects of research and publication. The session encouraged students to explore research opportunities and develop a deeper understanding of academic research practices. The event was organized under the convenership of Dr. Amit Thakkar and coordinated by Prof. Dhara Soalnki.",
+    "thumbnail": "/images/Events/session-research-guidance-prof-rushikesh/1.webp",
+    "images": [
+      "/images/Events/session-research-guidance-prof-rushikesh/1.webp",
+      "/images/Events/session-research-guidance-prof-rushikesh/2.webp"
+    ]
+  },
+  {
+    "id": "tech-talks-seniors-session-2",
+    "title": "Tech Talks with Seniors, Session 2",
+    "date": "2 February 2026",
+    "description": "Tech Talks with Seniors, Session 2 was an insightful interaction session where third-year students engaged with second-year students to share their academic and professional experiences. The discussion focused on navigating competitive programming, securing internships, excelling in academics, exploring career paths, and building meaningful projects. Through candid conversations and practical advice, attendees gained clarity on planning their next steps effectively. The session fostered mentorship, peer learning, and open dialogue within the tech community. It served as a valuable platform for second-year students to learn from the experiences of their seniors and make informed decisions about their growth in the field of technology.",
+    "thumbnail": "/images/Events/tech-talks-seniors-session-2/1.webp",
+    "images": [
+      "/images/Events/tech-talks-seniors-session-2/1.webp",
+      "/images/Events/tech-talks-seniors-session-2/2.webp",
+      "/images/Events/tech-talks-seniors-session-2/3.webp",
+      "/images/Events/tech-talks-seniors-session-2/4.webp",
+      "/images/Events/tech-talks-seniors-session-2/5.webp"
+    ]
+  },
+  {
+    "id": "techathon-21-02-2026-where",
+    "title": "Techathon 2026 - Where Hardware meets Software Innovation",
+    "date": "21 February 2026",
+    "description": "The Department of Computer Science & Engineering organized Techathon 2026 on 21st February 2026 at Lab 515, bringing together enthusiastic innovators for an exciting hardware–software integration challenge. The event revolved around the theme “Where Hardware Meets Software Innovation,” encouraging participants to design and develop practical, real-world technological solutions. Students showcased their creativity, technical expertise, and problem-solving abilities in a highly competitive environment. The hackathon fostered teamwork, critical thinking, and hands-on learning through collaborative project development. Participants demonstrated innovative prototypes that merged embedded systems with intelligent software applications. The event was successfully convened by Dr. Amit Thakkar along with the dedicated coordination team. Winners and runners-up were awarded prizes in recognition of their outstanding performance and innovative ideas. Techathon 2026 proved to be a dynamic platform for nurturing technical excellence and futuristic thinking among aspiring engineers.",
+    "thumbnail": "/images/Events/techathon-21-02-2026-where/thumbnail.webp",
+    "images": [
+      "/images/Events/techathon-21-02-2026-where/1.webp",
+      "/images/Events/techathon-21-02-2026-where/2.webp",
+      "/images/Events/techathon-21-02-2026-where/3.webp",
+      "/images/Events/techathon-21-02-2026-where/4.webp",
+      "/images/Events/techathon-21-02-2026-where/5.webp"
+    ]
+  },
+  {
+    "id": "webinar-21st-february-2026",
+    "title": "Webinar on Automate the Cloud Infrastructure as Code with Terraform",
+    "date": "21 February 2026",
+    "description": "The Department of Information Technology, CSPIT, CHARUSAT organized a webinar on “Automate the Cloud Infrastructure as Code with Terraform” on 21 February 2026 via Zoom. The session was delivered by Mr. Mayur Bhatti, Cloud Engineer at ScaleCapacity, who introduced participants to the concept of Infrastructure as Code (IaC) and demonstrated how Terraform can be used to automate cloud infrastructure deployment.\n\n The webinar was coordinated by Prof. Ravi Patel and Dr. Sanket Suthar, under the guidance of Dr. Purvi Prajapati, HOD-IT, and provided students with valuable insights into cloud automation and DevOps practices.",
+    "thumbnail": "/images/Events/webinar-21st-february-2026/1.webp",
+    "images": [
+      "/images/Events/webinar-21st-february-2026/1.webp",
+      "/images/Events/webinar-21st-february-2026/2.webp",
+      "/images/Events/webinar-21st-february-2026/3.webp",
+      "/images/Events/webinar-21st-february-2026/4.webp",
+      "/images/Events/webinar-21st-february-2026/5.webp",
+      "/images/Events/webinar-21st-february-2026/6.webp",
+      "/images/Events/webinar-21st-february-2026/7.webp"
+    ]
+  },
+  {
+    "id": "webinar-designing-rag-pipelines-real",
+    "title": "Webinar on Designing RAG Pipelines for Real-World Applications",
+    "date": "21 February 2026",
+    "description": "The U & P. U. Patel Department of Computer Engineering, CSPIT, CHARUSAT, successfully organized a webinar on “Designing RAG Pipelines for Real-World Applications” on 21st February 2026 in online mode. The session was delivered by Mr. Ashish Patel, AI/ML Computer Science Specialist at Accenture, who shared in-depth insights into the architecture and practical implementation of Retrieval-Augmented Generation (RAG) systems. Around 40–45 participants, including faculty members, research scholars, and students, actively attended the webinar. The speaker explained key components such as data ingestion workflows, embedding models, vector databases, and prompt orchestration strategies. He also discussed real-world deployment challenges, performance optimization techniques, and evaluation metrics for robust AI systems. The session included practical examples and industry-oriented perspectives, making it highly relevant for academic and research applications. An engaging Q&A session further enriched the discussion and enhanced participants’ understanding of modern generative AI frameworks.",
+    "thumbnail": "/images/Events/webinar-designing-rag-pipelines-real/thumbnail.webp",
+    "images": [
+      "/images/Events/webinar-designing-rag-pipelines-real/1.webp",
+      "/images/Events/webinar-designing-rag-pipelines-real/2.webp",
+      "/images/Events/webinar-designing-rag-pipelines-real/3.webp"
+    ]
+  },
+  {
+    "id": "webinar-introduction-compiler-design-its",
+    "title": "Webinar on Introduction to Compiler Design & its Applications",
+    "date": "2 March 2026",
+    "description": "The U & P U. Patel Department of Computer Engineering, CSPIT–CHARUSAT organized a webinar titled “Introduction to Compiler Design & its Applications” on 2nd March, 2026 via Zoom Meeting. The session was delivered by Prof. Santanu Chattopadhyay from IIT Kharagpur, who shared valuable insights into the fundamentals of compiler design and its practical applications in modern computing systems. The webinar helped participants understand key concepts such as compilation process, language translation, and the role of compilers in software development. Students and faculty actively participated and benefited from the expert guidance and interactive discussion. The event was successfully coordinated by Dr. Dhaval Bhoi, Prof. Trusha Patel, Prof. Sarita Thummar, and Prof. Chhaya Zala under the convenership of Dr. Nikita Bhatt and Dr. Purvi Prajapati. The webinar proved to be an informative and enriching learning experience for all attendees.",
+    "thumbnail": "/images/Events/webinar-introduction-compiler-design-its/thumbnail.webp",
+    "images": [
+      "/images/Events/webinar-introduction-compiler-design-its/1.webp",
+      "/images/Events/webinar-introduction-compiler-design-its/2.webp",
+      "/images/Events/webinar-introduction-compiler-design-its/3.webp",
+      "/images/Events/webinar-introduction-compiler-design-its/4.webp"
+    ]
+  },
+  {
+    "id": "webinar-object-oriented-design-using",
+    "title": "Webinar on Object-Oriented Design Using UML ",
+    "date": "21 February 2026",
+    "description": "The Computer Science and Engineering Department, CSPIT, CHARUSAT successfully organized a webinar by Rajib Mall, witnessing an impressive participation of 323 attendees. The session focused on contemporary research practices and emerging trends in Computer Science, providing valuable academic insights to students, faculty members, and research scholars. Prof. Mall delivered an enriching and thought-provoking lecture, followed by an engaging interactive discussion. The webinar effectively bridged theoretical concepts with practical research applications. The event concluded with a formal vote of thanks, marking it as a highly impactful and well-coordinated academic initiative by the department",
+    "thumbnail": "/images/Events/webinar-object-oriented-design-using/thumbnail.webp",
+    "images": [
+      "/images/Events/webinar-object-oriented-design-using/1.webp",
+      "/images/Events/webinar-object-oriented-design-using/2.webp",
+      "/images/Events/webinar-object-oriented-design-using/3.webp"
+    ]
+  },
+  {
+    "id": "workshop-21st-february-2026",
+    "title": "Workshop on Industrial IoT",
+    "date": "21 February 2026",
+    "description": "The Smt. Kundanben Dinsha Patel Department of Information Technology, CSPIT, CHARUSAT successfully organized an insightful Workshop on “Industrial IoT (IIoT)” on 21st February 2026. The session was delivered by Dr. Jigneshkumar Patoliya, Senior Design Verification Engineer at eInfochips (An Arrow Company), who shared his valuable industry experience and technical expertise with the participants.\n\n The workshop provided a comprehensive understanding of Industrial IoT concepts, system architecture, communication protocols and real-world industrial applications. The expert explained how IIoT is transforming manufacturing, automation and smart industrial systems, along with discussing current industry trends and emerging career opportunities.\n\n A special highlight of the session was the hands-on practical demonstration using hardware components. Students were introduced to IoT hardware modules, sensors and industrial communication setups. The live demonstration enabled participants to understand device connectivity, data acquisition, and real-time monitoring in industrial environments. This practical exposure helped students connect theoretical knowledge with real-time implementation.",
+    "thumbnail": "/images/Events/workshop-21st-february-2026/1.webp",
+    "images": [
+      "/images/Events/workshop-21st-february-2026/1.webp",
+      "/images/Events/workshop-21st-february-2026/2.webp",
+      "/images/Events/workshop-21st-february-2026/3.webp",
+      "/images/Events/workshop-21st-february-2026/4.webp"
+    ]
+  },
+  {
+    "id": "workshop-27th-february-2026",
+    "title": "Workshop on Building and Scaling Schema-less NoSQL Databases with MongoDB",
+    "date": "27 February 2026",
+    "description": "Charotar University of Science and Technology (CHARUSAT), in association with CSPIT and KDPIT, is organising a one-day workshop on “Building and Scaling Schema-less NoSQL Databases with MongoDB” on Friday, 27 February at 10:30 AM to 4:20PM in the Seminar Hall, RPCP. The session will be delivered by Mr. Akash Padhiyar, CEO and Founder of Akash Technolabs, who will share practical insights into designing, developing, and scaling schema-less NoSQL databases using MongoDB. The workshop aims to enhance participants’ understanding of modern database architecture, real-world implementation strategies, and performance optimisation techniques. This interactive session will provide students and faculty members with valuable industry-oriented knowledge and hands-on exposure to contemporary database technologies.",
+    "thumbnail": "/images/Events/workshop-27th-february-2026/1.webp",
+    "images": [
+      "/images/Events/workshop-27th-february-2026/1.webp",
+      "/images/Events/workshop-27th-february-2026/2.webp",
+      "/images/Events/workshop-27th-february-2026/3.webp",
+      "/images/Events/workshop-27th-february-2026/4.webp"
+    ]
+  },
+  {
+    "id": "workshop-cutting-edge-data-visualization",
+    "title": "Workshop titled “Cutting-Edge Data Visualization for Real-World Applications”",
+    "date": "2026-02-26",
+    "description": "The Department of Computer Science & Engineering, CSPIT–CHARUSAT organized a workshop titled “Cutting-Edge Data Visualization for Real-World Applications” on 26th February 2026 at Room 622B, A6 Building. The session was delivered by Mr. Pranay Sharma, Regional Lead at Edunet Foundation, who shared valuable insights on modern data visualization techniques and tools. The workshop focused on transforming complex datasets into meaningful visual insights for better interpretation and decision-making. Participants gained practical exposure to real-world use cases and learned how effective visualization improves communication of data-driven information. The interactive session helped students understand the importance of visual analytics in modern computing and industry applications. The event was successfully conducted under the convenership of Dr. Amit Thakkar and coordinated by Asst. Prof. Hemang Thakar and Asst. Prof. Dharmendra Rathod.",
+    "images": [
+      "/images/Events/workshop-cutting-edge-data-visualization/1.webp",
+      "/images/Events/workshop-cutting-edge-data-visualization/2.webp",
+      "/images/Events/workshop-cutting-edge-data-visualization/3.webp"
+    ]
+  },
+  {
+    "id": "workshop-from-physical-contracts-smart",
+    "title": "Workshop on “From Physical Contracts to Smart Contracts: A Detailed Implementation”",
+    "date": "20-21 February 2026",
+    "description": "The Department of Computer Science & Engineering, CSPIT, CHARUSAT organized a two-day workshop on “From Physical Contracts to Smart Contracts: A Detailed Implementation” on 20–21 February 2026 at Lab 638. The expert session was conducted by Dr. Deepak Sharma, Assistant Professor, PDEU, who elaborated on blockchain fundamentals and smart contract development. The workshop emphasized the transition from traditional contracts to decentralized digital agreements through practical demonstrations. Participants gained hands-on exposure to implementation aspects and real-world applications. The event was convened by Dr. Amit Thakkar and coordinated by Ms. Vidisha Pradhan, with active participation from students and faculty members.",
+    "thumbnail": "/images/Events/workshop-from-physical-contracts-smart/thumbnail.webp",
+    "images": [
+      "/images/Events/workshop-from-physical-contracts-smart/1.webp",
+      "/images/Events/workshop-from-physical-contracts-smart/2.webp",
+      "/images/Events/workshop-from-physical-contracts-smart/3.webp",
+      "/images/Events/workshop-from-physical-contracts-smart/4.webp",
+      "/images/Events/workshop-from-physical-contracts-smart/5.webp",
+      "/images/Events/workshop-from-physical-contracts-smart/6.webp"
+    ]
+  },
+  {
+    "id": "workshop-ready-clean-transform-a",
+    "title": "Workshop titled “Ready, Clean, Transform: A Hands-On Workshop on Data Pre-Processing and Visualization”",
+    "date": "7 February 2026",
+    "description": "The U & P. U. Patel Department of Computer Engineering, CSPIT, CHARUSAT, successfully organized a hands-on workshop titled “Ready, Clean, Transform: A Hands-On Workshop on Data Pre-Processing and Visualization” on 7th February 2026 at Lab 628B, A7 Building. The session was conducted by Mr. Raghav Modi, Data Analyst at Zoetis, who delivered practical insights into data cleaning, transformation techniques, and effective visualization strategies. Around 40–45 participants, including faculty members, research scholars, and students, actively attended the workshop. Participants gained hands-on experience in handling raw datasets, treating missing values, and applying preprocessing methodologies for improved analytical accuracy. The workshop emphasized real-world industry applications and best practices in data analytics workflows. Live demonstrations and interactive exercises enabled attendees to understand the complete data preparation and visualization pipeline. The session proved to be highly engaging and skill-oriented, significantly enhancing participants’ practical understanding of data preprocessing and visualization techniques.",
+    "thumbnail": "/images/Events/workshop-ready-clean-transform-a/thumbnail.webp",
+    "images": [
+      "/images/Events/workshop-ready-clean-transform-a/placeholder.webp"
+    ]
+  },
+  {
+    "id": "workshop-smart-drone-system-raspberry",
+    "title": "Workshop titled “Smart Drone System with Raspberry Pi and ESP32”",
+    "date": "21 February 2026",
+    "description": "The U & P. U. Patel Department of Computer Engineering, CSPIT, CHARUSAT, organized a workshop on “Smart Drone System with Raspberry Pi and ESP32” on 21st February 2026 at Lab 319. The session was conducted by Mr. Padmanabh Khunt from Rejig Digital, who delivered practical insights into drone architecture, embedded systems integration, and IoT-enabled control mechanisms. Around 25 participants, including faculty members, research scholars, and students, actively attended the workshop. The program emphasized interfacing Raspberry Pi and ESP32 for real-time data processing, wireless communication, and flight control operations. Participants gained hands-on exposure to hardware setup, sensor integration, and system calibration techniques. Live demonstrations and technical discussions enhanced their understanding of smart drone development. Overall, the workshop was highly engaging and application-oriented, strengthening practical competencies in embedded and intelligent systems design.",
+    "thumbnail": "/images/Events/workshop-smart-drone-system-raspberry/thumbnail.webp",
+    "images": [
+      "/images/Events/workshop-smart-drone-system-raspberry/1.webp",
+      "/images/Events/workshop-smart-drone-system-raspberry/2.webp",
+      "/images/Events/workshop-smart-drone-system-raspberry/3.webp"
+    ]
+  }  
 ]
