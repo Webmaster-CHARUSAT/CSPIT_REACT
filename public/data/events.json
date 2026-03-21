@@ -987,7 +987,7 @@
   {
   "id": "expert-talk-fiber-mobile-technology-bsnl-2026",
   "title": "Expert Talk on Fiber & Mobile Technology in BSNL",
-  "thumbnail": "/images/Events/Fiber-Mobile-Technology-BSNL-2026/1.webp",
+  "thumbnail": "/images/Events/Fiber-Mobile-Technology-BSNL-2026/thumbnail.webp",
   "images": [
     "/images/Events/Fiber-Mobile-Technology-BSNL-2026/2.webp",
     "/images/Events/Fiber-Mobile-Technology-BSNL-2026/3.webp",
@@ -1262,7 +1262,7 @@
     "title": "Workshop on Industrial IoT",
     "date": "21 February 2026",
     "description": "The Smt. Kundanben Dinsha Patel Department of Information Technology, CSPIT, CHARUSAT successfully organized an insightful Workshop on “Industrial IoT (IIoT)” on 21st February 2026. The session was delivered by Dr. Jigneshkumar Patoliya, Senior Design Verification Engineer at eInfochips (An Arrow Company), who shared his valuable industry experience and technical expertise with the participants.\n\n The workshop provided a comprehensive understanding of Industrial IoT concepts, system architecture, communication protocols and real-world industrial applications. The expert explained how IIoT is transforming manufacturing, automation and smart industrial systems, along with discussing current industry trends and emerging career opportunities.\n\n A special highlight of the session was the hands-on practical demonstration using hardware components. Students were introduced to IoT hardware modules, sensors and industrial communication setups. The live demonstration enabled participants to understand device connectivity, data acquisition, and real-time monitoring in industrial environments. This practical exposure helped students connect theoretical knowledge with real-time implementation.",
-    "thumbnail": "/images/Events/workshop-21st-february-2026/1.webp",
+    "thumbnail": "/images/Events/workshop-21st-february-2026/thumbnail.webp",
     "images": [
       "/images/Events/workshop-21st-february-2026/1.webp",
       "/images/Events/workshop-21st-february-2026/2.webp",
@@ -1275,7 +1275,7 @@
     "title": "Workshop on Building and Scaling Schema-less NoSQL Databases with MongoDB",
     "date": "27 February 2026",
     "description": "Charotar University of Science and Technology (CHARUSAT), in association with CSPIT and KDPIT, is organising a one-day workshop on “Building and Scaling Schema-less NoSQL Databases with MongoDB” on Friday, 27 February at 10:30 AM to 4:20PM in the Seminar Hall, RPCP. The session will be delivered by Mr. Akash Padhiyar, CEO and Founder of Akash Technolabs, who will share practical insights into designing, developing, and scaling schema-less NoSQL databases using MongoDB. The workshop aims to enhance participants’ understanding of modern database architecture, real-world implementation strategies, and performance optimisation techniques. This interactive session will provide students and faculty members with valuable industry-oriented knowledge and hands-on exposure to contemporary database technologies.",
-    "thumbnail": "/images/Events/workshop-27th-february-2026/1.webp",
+    "thumbnail": "/images/Events/workshop-27th-february-2026/thumbnail.webp",
     "images": [
       "/images/Events/workshop-27th-february-2026/1.webp",
       "/images/Events/workshop-27th-february-2026/2.webp",
@@ -1351,7 +1351,7 @@
     "title": "Structural Modelling and Design of Building Systems: A Hands-On Workshop",
     "date": "21 February 2026",
     "description": "Organised a hands on workshop on Structural Modelling and Design of Building Systems on 21 February 2026.",
-    "thumbnail": "/images/Events/structural-modelling/4.webp",
+    "thumbnail": "/images/Events/structural-modelling/thumbnail.webp",
     "images": [
       "/images/Events/structural-modelling/1.webp",
       "/images/Events/structural-modelling/2.webp",
