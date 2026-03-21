@@ -1360,5 +1360,122 @@
       "/images/Events/structural-modelling/5.webp",
       "/images/Events/structural-modelling/6.webp"
     ]
-  }    
+  },
+  {
+    "id": "beyond_connectivity_iot",
+    "title": "Beyond Connectivity: IoT in the Real World",
+    "date": "27 February 2026",
+    "description": "The Department of Computer Science & Engineering, CSPIT–CHARUSAT organized an expert session titled “Beyond Connectivity: IoT in the Real World” on 27th February 2026 at Lab 638, CSPIT. The session was delivered by Mr. Kedar Upadhyaya, CEO and Director of Techymonk Automation, who shared valuable insights into real-world applications of the Internet of Things (IoT). He discussed how IoT technologies are transforming industries through smart devices, automation, and connected systems. The session highlighted practical use cases and challenges involved in implementing IoT solutions in real-world environments. Students gained a deeper understanding of how IoT concepts are applied in industry and innovation-driven projects. The event was organized under the convenership of Dr. Amit Thakkar and coordinated by Prof. Vaibhavi Patel, Prof. Srushti Gajjar, and Prof. Nirav Narayan.",
+    "thumbnail": "/images/Events/beyond_connectivity_iot/thumbnail.webp",
+    "images": [
+      "/images/Events/beyond_connectivity_iot/1.webp",
+      "/images/Events/beyond_connectivity_iot/2.webp",
+      "/images/Events/beyond_connectivity_iot/3.webp",
+      "/images/Events/beyond_connectivity_iot/4.webp",
+      "/images/Events/beyond_connectivity_iot/5.webp"
+    ]
+  },
+  {
+    "id": "Code_that_scales",
+    "title": "Code That Scales: The Power of C++ and Data Structures in Real-World Systems",
+    "date": "26 February 2026",
+    "description": "The Department of Computer Science & Engineering, CSPIT–CHARUSAT organized an expert session titled “Code That Scales: The Power of C++ and Data Structures in Real-World Systems” on 26th February 2026 at the AIML Seminar Hall, A6 Building under the CSE Alumni Connect program. The session was conducted by Ms. Naisargi Vadodariya, Software Engineer at Qualitrol, Ahmedabad and an alumna of CSE–CSPIT. She discussed the importance of strong fundamentals in C++ and data structures for designing scalable and efficient software systems used in real-world applications. The session provided insights into practical problem-solving techniques, performance optimization, and system-level programming concepts. Students benefited from the speaker’s industry experience and gained a deeper understanding of how theoretical concepts are applied in professional software development. The session proved to be highly informative and inspiring for the attending students.",
+    "thumbnail": "/images/Events/Code_that_scales/thumbnail.webp",
+    "images": [
+      "/images/Events/Code_that_scales/1.webp",
+      "/images/Events/Code_that_scales/2.webp",
+      "/images/Events/Code_that_scales/3.webp",
+      "/images/Events/Code_that_scales/4.webp",
+      "/images/Events/Code_that_scales/5.webp"
+    ]
+  },
+  {
+    "id": "expert-talk-computational-complexity-classes",
+    "title": "Expert Talk - Computational Complexity Classes",
+    "date": "16 March 2026",
+    "description": "The U & P U. Patel Department of Computer Engineering, CSPIT, CHARUSAT successfully organized an expert talk on “Computational Complexity Classes” on 16th March 2026 at the Seminar Hall, A6 Building. The session was delivered by Dr. Bireswar Das from IIT Gandhinagar, who provided deep insights into fundamental concepts of computational complexity and problem classification. The talk covered important topics such as P, NP, and NP-complete problems, helping participants strengthen their theoretical understanding. Attendees actively engaged in discussions and gained clarity on complex problem-solving approaches. The session proved to be highly informative and intellectually enriching for students and faculty members. Overall, the expert talk enhanced participants’ knowledge in theoretical computer science and its practical relevance.",
+    "thumbnail": "/images/Events/expert-talk-computational-complexity-classes/thumbnail.webp",
+    "images": [
+      "/images/Events/expert-talk-computational-complexity-classes/1.webp",
+      "/images/Events/expert-talk-computational-complexity-classes/2.webp",
+      "/images/Events/expert-talk-computational-complexity-classes/3.webp",
+      "/images/Events/expert-talk-computational-complexity-classes/4.webp",
+      "/images/Events/expert-talk-computational-complexity-classes/5.webp"
+    ]
+  },
+  {
+    "id": "expert-talk-engineer-10x-faster",
+    "title": "Engineer 10X Faster: Using AI to Build, Debug & Scale Software",
+    "date": "26 February 2026",
+    "description": "The Department of Computer Science & Engineering, CSPIT–CHARUSAT organized an Expert Talk titled “Engineer 10X Faster: Using AI to Build, Debug & Scale Software” on 26th February 2026 as part of the CSE Alumni Connect initiative. The session was delivered by Ms. Naisargi Vadodariya, Software Engineer at Qualitrol, Ahmedabad and an alumna of CSE–CSPIT. She shared practical insights on how artificial intelligence tools can enhance software development by improving productivity, debugging efficiency, and scalability of modern applications. The session highlighted real-world use cases where AI assists engineers in accelerating development workflows. Students gained valuable knowledge about integrating AI into the software development lifecycle and its relevance in the industry. The interactive discussion helped participants better understand emerging AI-driven development practices and industry expectations.",
+    "thumbnail": "/images/Events/expert-talk-engineer-10x-faster/thumbnail.webp",
+    "images": [
+      "/images/Events/expert-talk-engineer-10x-faster/1.webp",
+      "/images/Events/expert-talk-engineer-10x-faster/2.webp",
+      "/images/Events/expert-talk-engineer-10x-faster/3.webp"
+    ]
+  },
+  {
+    "id": "expert-talk-live-database-attack",
+    "title": "Expert Talk - Live Database Attack: From Exposed to Encrypted Using AWS",
+    "date": "7 March 2026",
+    "description": "The Department of Computer Science and Engineering, CSPIT, CHARUSAT successfully organized a hands-on workshop on “Live Database Attack: From Exposed to Encrypted Using AWS” on 7th March 2026 at Lab 638, A7 Building. The session was conducted by Mr. Prit Thakkar, Founder of Devine IT Solutions, who provided practical exposure to real-world database security scenarios. Participants explored live attack demonstrations, progressive attack stages, and hands-on implementation using tools such as Docker, PostgreSQL, and VPNs. The workshop also covered honeypot deployment and defense mechanisms, giving attendees a comprehensive understanding of cybersecurity practices. The interactive nature of the session enabled participants to actively engage and enhance their technical skills. Overall, the workshop offered valuable insights into database security, threat mitigation, and secure deployment using cloud technologies.",
+    "thumbnail": "/images/Events/expert-talk-live-database-attack/thumbnail.webp",
+    "images": [
+      "/images/Events/expert-talk-live-database-attack/1.webp",
+      "/images/Events/expert-talk-live-database-attack/2.webp",
+      "/images/Events/expert-talk-live-database-attack/3.webp"
+    ]
+  },
+  {
+    "id": "expert-talk-next-gen-embedded",
+    "title": "Expert Talk - Next-Generation Embedded Platforms: Architectural Evolution of CPUs, SoCs, and FPGA-Based Designs",
+    "date": "16 March 2026",
+    "description": "The Department of Computer Science and Engineering, CSPIT, CHARUSAT successfully organized an expert talk on “Next-Generation Embedded Platforms: Architectural Evolution of CPUs, SoCs, and FPGA-Based Designs” on 16th March 2026 at the Seminar Hall, A6 Building. The session was delivered by Ms. Garima Dubey, Senior Embedded Hardware Engineer at PierSight, Ahmedabad, who shared valuable insights into modern embedded system architectures and emerging hardware trends. The talk highlighted the evolution of CPUs, System-on-Chips (SoCs), and FPGA-based designs, along with their real-world applications. A total of 82 participants attended the session and actively engaged in discussions, making it highly interactive and informative. The expert talk provided a strong blend of theoretical concepts and industry perspectives. Overall, the session enhanced participants’ understanding of advanced embedded technologies and their future scope.",
+    "thumbnail": "/images/Events/expert-talk-next-gen-embedded/thumbnail.webp",
+    "images": [
+      "/images/Events/expert-talk-next-gen-embedded/1.webp",
+      "/images/Events/expert-talk-next-gen-embedded/2.webp",
+      "/images/Events/expert-talk-next-gen-embedded/3.webp",
+      "/images/Events/expert-talk-next-gen-embedded/4.webp",
+      "/images/Events/expert-talk-next-gen-embedded/5.webp"
+    ]
+  },
+  {
+    "id": "expert-talk-turning-ideas-into",
+    "title": "Expert Talk - Turning Ideas into Impact : A Founder's Journey",
+    "date": "27 February 2026",
+    "description": "The Department of Computer Science & Engineering, CSPIT–CHARUSAT organized an expert session titled “Turning Ideas into Impact: A Founder’s Journey” on 27th February 2026 at Class 505. The session was delivered by Mr. Kedar Upadhyaya, CEO and Director of Techymonk Automation, who shared his entrepreneurial journey and experiences in building a technology-driven startup. He discussed the process of transforming innovative ideas into impactful solutions and highlighted the importance of persistence, creativity, and problem-solving in entrepreneurship. The session provided valuable insights into startup development, industry challenges, and opportunities for aspiring innovators. Students gained motivation and practical understanding of how technical knowledge can be applied to create real-world impact. The event was organized under the convenership of Dr. Amit Thakkar and coordinated by Prof. Srushti Gajjar and Prof. Vaibhavi Patel.",
+    "thumbnail": "/images/Events/expert-talk-turning-ideas-into/thumbnail.webp",
+    "images": [
+      "/images/Events/expert-talk-turning-ideas-into/1.webp",
+      "/images/Events/expert-talk-turning-ideas-into/2.webp"
+    ]
+  },
+  {
+    "id": "hackathon-c-quest-2-0",
+    "title": "Hackathon: C-Quest 2.0",
+    "date": "7 March 2026",
+    "description": "The Department of Computer Science & Engineering, CSPIT, CHARUSAT successfully organized the final round of “C-Quest 2.0” on 7th March 2026. The event brought together enthusiastic participants to showcase their problem-solving abilities and technical knowledge in a competitive environment. The competition featured challenging rounds designed to test logical thinking, aptitude, and domain expertise. Participants demonstrated remarkable skills, making the event highly engaging and intellectually stimulating. The event concluded with the declaration of winners, first runner-up, and second runner-up, recognizing outstanding performances. Overall, C-Quest 2.0 provided a dynamic platform for students to enhance their analytical skills and competitive spirit.",
+    "thumbnail": "/images/Events/hackathon-c-quest-2-0/thumbnail.webp",
+    "images": [
+      "/images/Events/hackathon-c-quest-2-0/1.webp",
+      "/images/Events/hackathon-c-quest-2-0/2.webp",
+      "/images/Events/hackathon-c-quest-2-0/3.webp",
+      "/images/Events/hackathon-c-quest-2-0/4.webp",
+      "/images/Events/hackathon-c-quest-2-0/5.webp"
+    ]
+  },
+  {
+    "id": "workshop-cloud-based-ci-cd",
+    "title": "Workshop - Cloud-Based CI/CD Pipelines: From Development to Deployment",
+    "date": "13 March 2026",
+    "description": "The U & P U. Patel Department of Computer Engineering, CSPIT, CHARUSAT successfully organized a workshop on “Cloud-Based CI/CD Pipelines: From Development to Deployment” on 13th March 2026 at Lab 618, A7 Building. The session was conducted by Mr. Binank Patel, DevOps Tech Lead at Infopercept Pvt. Ltd., who shared valuable industry insights on modern CI/CD practices and cloud deployment strategies. Participants gained hands-on understanding of continuous integration, continuous delivery, and automation tools used in real-world DevOps workflows. The workshop emphasized bridging the gap between development and deployment through efficient pipeline management. The event witnessed enthusiastic participation from students and faculty members, making it highly interactive and insightful. Overall, the workshop provided practical exposure and enhanced the technical competencies of attendees in the domain of cloud-based DevOps.",
+    "thumbnail": "/images/Events/workshop-cloud-based-ci-cd/thumbnail.webp",
+    "images": [
+      "/images/Events/workshop-cloud-based-ci-cd/1.webp",
+      "/images/Events/workshop-cloud-based-ci-cd/2.webp",
+      "/images/Events/workshop-cloud-based-ci-cd/3.webp"
+    ]
+  }
 ]
