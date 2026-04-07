@@ -5,7 +5,7 @@ const topLinks = [
   { to: "/events", label: "Enrichment Activities", external: true },
   { to: "#placement", label: "Placement", external: false },
   { to: "#gallery", label: "Gallery", external: false },
-  { to: "/news-letter-Jul-Sep-2025/", label: "Newsletter", external: true },
+  { to: "/news-letter-Oct-Dec-2025/", label: "Newsletter", external: true },
   {
     to: "https://www.charusat.ac.in/scholarship",
     label: "Scholarships",
