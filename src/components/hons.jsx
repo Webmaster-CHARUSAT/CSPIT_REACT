@@ -123,44 +123,44 @@ const honorsMinorPrograms = [
       ],
     },
   },
-  {
-    title: "Data Science",
-    table: {
-      headers: [
-        [
-          { label: "Specialization", rowspan: 2 },
-          { label: "Course\noffering department", rowspan: 2 },
-          { label: "Degree", colspan: 2 },
-          { label: "Degree", colspan: 2 },
-        ],
-        [
-          { label: "Eligible Branch" },
-          { label: "Hons. with specialization" },
-          { label: "Eligible Branches" },
-          { label: "Minor Specialization" },
-        ],
-      ],
-      rows: [
-        [
-          "Data Science",
-          "E&C Engineering",
-          <><br />-</>,
-          <><br />-</>,
-          <>
-            E &amp; C Engg.<br />Mechanical Engg.<br />Civil Engg.<br />Electrical Engg.
-          </>,
-          <>
-            Bachelor of Technology<br />
-            <strong>
-              <i>Branch Name</i>
-            </strong>
-            <br />
-            with Minor Specialization in Data Science
-          </>,
-        ],
-      ],
-    },
-  },
+  // {
+  //   title: "Data Science",
+  //   table: {
+  //     headers: [
+  //       [
+  //         { label: "Specialization", rowspan: 2 },
+  //         { label: "Course\noffering department", rowspan: 2 },
+  //         { label: "Degree", colspan: 2 },
+  //         { label: "Degree", colspan: 2 },
+  //       ],
+  //       [
+  //         { label: "Eligible Branch" },
+  //         { label: "Hons. with specialization" },
+  //         { label: "Eligible Branches" },
+  //         { label: "Minor Specialization" },
+  //       ],
+  //     ],
+  //     rows: [
+  //       [
+  //         "Data Science",
+  //         "E&C Engineering",
+  //         <><br />-</>,
+  //         <><br />-</>,
+  //         <>
+  //           E &amp; C Engg.<br />Mechanical Engg.<br />Civil Engg.<br />Electrical Engg.
+  //         </>,
+  //         <>
+  //           Bachelor of Technology<br />
+  //           <strong>
+  //             <i>Branch Name</i>
+  //           </strong>
+  //           <br />
+  //           with Minor Specialization in Data Science
+  //         </>,
+  //       ],
+  //     ],
+  //   },
+  // },
   {
     title: "GIS and Remote Sensing",
     table: {
