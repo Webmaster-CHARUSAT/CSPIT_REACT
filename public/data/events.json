@@ -1513,7 +1513,7 @@
   {
     "id": "coder-s-aracde-3-0",
     "title": "Coder's Arcade 3.0",
-    "date": "30th 31st March 2026",
+    "date": "30 31 March 2026",
     "description": "The Department of Information Technology at CSPIT, CHARUSAT, in collaboration with the CP Squad Club, successfully organized Coder’s Arcade 3.0, a two-day competitive programming event held on 30th–31st March 2026, with participation from over 215 students.\n\nThe event unfolded through multiple engaging rounds designed to test logic, speed, and teamwork. It began with Round 1: Cypher Chains, where participants tackled encrypted, logic-based challenges, from which the top 50 teams advanced. This was followed by Round 2: Code Combat, an intense coding duel, narrowing the competition to the top 25 teams.The next stage featured Round 3.a: The Napoleon, a unique technical card-based challenge, where the top 8 teams qualified for the finale. The event culminated in Round 3.b: The Grand Buzzer Finale, an exciting test of knowledge, speed, and presence of mind.\n\nThe competition concluded with a felicitation ceremony honoring the winners—Tech Nova (Champion), Neon Syntax (First Runner-Up), and Wired Minds (Second Runner-Up)—in the presence of esteemed dignitaries.\n\nCoder’s Arcade 3.0 successfully fostered a spirit of innovation, collaboration, and competitive excellence among students, reinforcing CHARUSAT’s growing coding culture.",
     "thumbnail": "/images/Events/coder-s-aracde-3-0/thumbnail.webp",
     "images": [
@@ -1526,7 +1526,7 @@
   {
     "id": "coding-contest-supernova-rise-beyond",
     "title": "Coding Contest:Supernova: Rise Beyond Titans",
-    "date": "23rd to 25th March 2026",
+    "date": "23 to 25 March 2026",
     "description": "The U & P U. Patel Department of Computer Engineering, CSPIT, CHARUSAT successfully organized “Supernova: Rise Beyond Titans”, a competitive coding event for first-year students, from 23rd to 25th March 2026. Powered by Dhavat Infotech Pvt. Ltd., the event aimed to enhance programming skills, logical thinking, and problem-solving abilities among participants. The competition was conducted in three dynamic rounds—The Awakening, Binary Battlefield, and The Event Horizon—covering team-based challenges, paired coding duels, and individual coding assessments. Participants demonstrated strong command over C++ fundamentals and tackled fast-paced technical tasks with enthusiasm. The event fostered a competitive yet collaborative learning environment, encouraging students to excel through merit-based evaluation. Overall, Supernova provided an engaging platform for budding programmers to showcase their skills and gain valuable experience in competitive coding.",
     "thumbnail": "/images/Events/coding-contest-supernova-rise-beyond/thumbnail.webp",
     "images": [
@@ -1539,7 +1539,7 @@
   {
     "id": "cybercamp-at-b-a-high",
     "title": "CyberCamp at B. A. High school, Changa by CSE Department",
-    "date": "15th to 17th April 2026",
+    "date": "15 to 17 April 2026",
     "description": "The Department of Computer Science & Engineering, CSPIT, CHARUSAT, through the CyberKavach Club, successfully organized “CyberCamp 2026” at B.A. Patel High School. The initiative aimed to spread awareness about cybersecurity and educate young students on safe digital practices. The camp focused on fundamental concepts of cyber hygiene, online safety, and emerging cyber threats in an engaging and interactive manner. Participants were introduced to practical scenarios, helping them understand the importance of data protection and responsible internet usage. The session witnessed enthusiastic participation, making it both informative and impactful. Overall, CyberCamp 2026 served as a meaningful outreach initiative to promote cybersecurity awareness among school students.",
     "thumbnail": "/images/Events/cybercamp-at-b-a-high/thumbnail.webp",
     "images": [
@@ -1551,7 +1551,7 @@
   {
     "id": "drone-electronics-computer-vision-30th",
     "title": "Drone Electronics and Computer Vision",
-    "date": "30th March to 3rd April 2026",
+    "date": "30th March to 3 April 2026",
     "description": "The boot camp was organized to provide students with practical exposure to drone technology, a rapidly emerging and highly in-demand field. The program covered key applications in areas such as defense, agriculture, surveillance, logistics, infrastructure monitoring, and disaster management, integrated with concepts of computer vision.",
     "thumbnail": "/images/Events/drone-electronics-computer-vision-30th/thumbnail.webp",
     "images": [
@@ -1592,7 +1592,7 @@
   {
     "id": "inclusion-innovation-3rd-april-2026",
     "title": "Inclusion to Innovation",
-    "date": "3rd April 2026",
+    "date": "3 April 2026",
     "description": "The Department of Computer Science & Engineering, CSPIT, CHARUSAT, under the Equal Opportunity Cell (EOC), successfully organized “Inclusion to Innovation” on 3rd April 2026 at A7 Square. The event aimed to promote inclusivity, creativity, and equal opportunities by encouraging participants to express innovative ideas and solutions. It provided a platform for students to showcase their talents while fostering a culture of diversity and collaborative thinking. Participants actively engaged in various activities, reflecting enthusiasm and a strong spirit of innovation. The event also highlighted the importance of inclusive growth in academic and professional environments. Overall, the initiative was impactful, inspiring students to contribute towards innovation with a socially responsible approach.",
     "thumbnail": "/images/Events/inclusion-innovation-3rd-april-2026/thumbnail.webp",
     "images": [
@@ -1604,7 +1604,7 @@
   {
     "id": "mastering-c-from-fundamental-advanced",
     "title": "Mastering C++ from Fundamental to Advanced Concepts",
-    "date": "02nd April 2026",
+    "date": "2 April 2026",
     "description": "The event “Mastering C++ from Fundamental to Advanced Concepts” was organized for B.Tech 1st-year students to build a strong programming foundation. It covered basics like variables, data types, and control structures, and advanced topics such as functions, arrays, pointers, and OOP. The session included interactive lectures, live coding, and hands-on practice, helping students understand concepts effectively through real-world examples.  ",
     "thumbnail": "/images/Events/mastering-c-from-fundamental-advanced/thumbnail.webp",
     "images": [
@@ -1668,6 +1668,211 @@
       "/images/Events/workshop-mongodb-essentials-practical-crud/3.webp",
       "/images/Events/workshop-mongodb-essentials-practical-crud/4.webp",
       "/images/Events/workshop-mongodb-essentials-practical-crud/5.webp"
+    ]
+  },
+  {
+    "id": "academic-visit-meditab",
+    "title": "Academic visit at \"MEDITAB (INDIA) PVT. LTD. AHMEDABAD\"",
+    "date": "15 April 2026",
+    "description": "Organised Industrial Visit to Meditab To provide quality education by exposing first-year students to advanced technology and practical applications of AI and automation at MEDITAB, thereby enhancing their understanding of AI, bridging the gap between theoretical knowledge and real-world applications, and motivating them towards the latest technological trends and research-oriented learning.",
+    "thumbnail": "/images/Events/academic-visit-meditab/thumbnail.webp",
+    "images": [
+      "/images/Events/academic-visit-meditab/1.webp",
+      "/images/Events/academic-visit-meditab/2.webp",
+      "/images/Events/academic-visit-meditab/3.webp",
+      "/images/Events/academic-visit-meditab/4.webp"
+    ]
+  },
+  {
+    "id": "attitude-altitude",
+    "title": "Expert talk on \"Attitude Determines Your Altitude\"",
+    "date": "13th April 2026",
+    "description": "The Equal Opportunity Cell (EOC), CHARUSAT, in collaboration with the Department of Civil Engineering, CSPIT, organize an expert session on the theme: \"Attitude determines Your Altitude\"",
+    "thumbnail": "/images/Events/attitude-altitude/thumbnail.webp",
+    "images": [
+      "/images/Events/attitude-altitude/1.webp",
+      "/images/Events/attitude-altitude/2.webp",
+      "/images/Events/attitude-altitude/3.webp",
+      "/images/Events/attitude-altitude/4.webp",
+      "/images/Events/attitude-altitude/5.webp"
+    ]
+  },
+  {
+    "id": "cad-modelling-competition",
+    "title": "CAD Modelling Competition",
+    "date": "1 May 2026",
+    "description": "On May 01, 2026, Chamos Matrusanstha Department of Mechanical Engineering of CSPIT, CHARUSAT, organized a CAD Modelling Competition coordinated by Prof. Vikas Panchal, Dr. Sagar Chokshi and Prof. Madhav Oza, the event aimed to encourage the students to apply principles of engineering drawing and graphics, visualization and computer aided design in practical. The competition provides a platform for students to demonstrate creativity, technical understanding, precision, and problem-solving ability while experiencing a competitive engineering environment. The event was attended by 27 participants across all the branches of engineering and technology. ",
+    "thumbnail": "/images/Events/cad-modelling-competition/thumbnail.webp",
+    "images": [
+      "/images/Events/cad-modelling-competition/1.webp",
+      "/images/Events/cad-modelling-competition/2.webp",
+      "/images/Events/cad-modelling-competition/3.webp",
+      "/images/Events/cad-modelling-competition/4.webp",
+      "/images/Events/cad-modelling-competition/5.webp"
+    ]
+  },
+  {
+    "id": "expert-talk-2nd-may-2026",
+    "title": "Python for Real World Engineering",
+    "date": "2 May 2026",
+    "description": "The K.D. Patel Department of Information Technology has successfully organized an Expert Talk on “Python for Real World Engineering” on 2nd May 2026. The session was delivered by Mr. Jay Rathod from TechAbbott, who shared valuable insights into the practical applications of Python in solving real-world engineering problems.\n\nThe talk focused on bridging the gap between theoretical knowledge and industry requirements. The speaker highlighted how Python is widely used in domains such as automation, data analysis, machine learning, and software development. Through real-life examples and case studies, students gained a deeper understanding of how programming skills can be effectively applied in engineering practices.\n\nThe session was highly interactive, encouraging students to engage in discussions and clarify their queries. It provided a great learning opportunity for participants to enhance their technical knowledge and understand current industry trends.\n\nOverall, the event was successfully conducted and proved to be informative and enriching for all attendees, inspiring them to explore practical implementations of Python in their academic and professional journeys.",
+    "thumbnail": "/images/Events/expert-talk-2nd-may-2026/thumbnail.webp",
+    "images": [
+      "/images/Events/expert-talk-2nd-may-2026/thumbnail.webp"
+    ]
+  },
+  {
+    "id": "expert-talk-space-talk-series",
+    "title": "Expert Talk: Space Talk Series",
+    "date": "1 April 2026",
+    "description": "The V.T. Patel Department of Electronics and Communication Engineering, as part of its ongoing \"Space Talk Series\", organized an insightful expert talk featuring Dr. Sonam Jitarwal, a distinguished scientist from the Physical Research Laboratory (PRL). The session aimed to bridge the gap between classroom electronics and the high-reliability engineering required for interplanetary exploration.\n\nDr. Jitarwal provided a deep dive into the specialized sensors and instrumentation payloads carried by planetary landers and orbiters. She discussed the extreme environmental constraints—such as radiation, vacuum, and temperature fluctuations—that engineers must account for during the design phase. The talk also covered the role of ECE engineers in signal processing and data transmission from deep space back to Earth stations.",
+    "thumbnail": "/images/Events/expert-talk-space-talk-series/thumbnail.webp",
+    "images": [
+      "/images/Events/expert-talk-space-talk-series/1.webp",
+      "/images/Events/expert-talk-space-talk-series/2.webp",
+      "/images/Events/expert-talk-space-talk-series/3.webp"
+    ]
+  },
+  {
+    "id": "fluid-mechanics-project",
+    "title": "Fluid Mechanics Project Competition",
+    "date": "4 April 2026",
+    "description": "The CHAMOS Matrusanstha Department of Mechanical Engineering organized a Fluid Mechanics Project Competition for 4th semester B.Tech students on 4th April 2026 from 09:10 AM to 11:10 AM. The event aimed to enhance conceptual understanding through practical implementation and provide a platform for showcasing innovative fluid mechanics projects.\n\nA total of 48 groups comprising 93 students participated enthusiastically. Students developed and demonstrated working models based on concepts such as Bernoulli’s theorem, vortex flow, surface tension, capillary action, hydrostatic law, wind tunnel applications, flow visualization, pipe losses, metacentric height, and buoyancy. These projects effectively connected theoretical knowledge with real-world applications. Projects were evaluated by faculty based on innovation, technical accuracy, functionality, presentation, and problem-solving approach. The Cyclone Dust Collector project secured the Winner position, while Venturi Injector, Peristaltic Pump, and Water Jet Machining projects achieved Runner-up positions. The competition enhanced students’ practical knowledge, analytical thinking, and teamwork skills. It also improved communication, presentation confidence, and encouraged creativity and innovation.\n\nOverall, the event successfully bridged the gap between theory and practice, providing a valuable learning experience and preparing students for future engineering challenges",
+    "thumbnail": "/images/Events/fluid-mechanics-project/thumbnail.webp",
+    "images": [
+      "/images/Events/fluid-mechanics-project/1.webp",
+      "/images/Events/fluid-mechanics-project/2.webp",
+      "/images/Events/fluid-mechanics-project/3.webp",
+      "/images/Events/fluid-mechanics-project/4.webp",
+      "/images/Events/fluid-mechanics-project/5.webp"
+    ]
+  },
+  {
+    "id": "industrial-visit-at-indo-german",
+    "title": "Industrial visit at \"Indo German Tool Room, Ahmedabad\"",
+    "date": "17-18 March 2026",
+    "description": "Organised an Inudstrial visit to Indo German Tool Room, Ahmedabad \n\n- To have an exposure to various cutting edge technologies in the field of manufacturing to the mechanical engineering students \n-To make students thinking about transformations from conceptual designs to real manufacturing/designed products.",
+    "thumbnail": "/images/Events/industrial-visit-at-indo-german/thumbnail.webp",
+    "images": [
+      "/images/Events/industrial-visit-at-indo-german/1.webp",
+      "/images/Events/industrial-visit-at-indo-german/2.webp",
+      "/images/Events/industrial-visit-at-indo-german/3.webp",
+      "/images/Events/industrial-visit-at-indo-german/4.webp",
+      "/images/Events/industrial-visit-at-indo-german/5.webp",
+      "/images/Events/industrial-visit-at-indo-german/6.webp",
+      "/images/Events/industrial-visit-at-indo-german/7.webp",
+      "/images/Events/industrial-visit-at-indo-german/8.webp"
+    ]
+  },
+  {
+    "id": "industrial-visit-plasma-research",
+    "title": "Industrial visit at \"Institute for Plasma Research, Gandhinagar\".",
+    "date": "25 March 2026",
+    "description": "CHAMOS Matrusantha Department of Mechanical Engineering organized an enriching industrial visit to Institute for Plasma Research, Gandhinagar on March 25, 2026, for third-year B. Tech Mechanical students. A total of 28 students participated in this academic visit aimed at enhancing their practical understanding of advanced technologies. During the visit, students were introduced to the fundamentals of plasma science, fusion technology, and various state-of-the-art research facilities. The exposure helped bridge the gap between theoretical concepts and real-world applications, fostering curiosity and research- oriented thinking among the participants. The visit proved to be highly informative and aligned with the institute’s commitment to delivering quality education through experiential learning.",
+    "thumbnail": "/images/Events/industrial-visit-plasma-research/thumbnail.webp",
+    "images": [
+      "/images/Events/industrial-visit-plasma-research/1.webp",
+      "/images/Events/industrial-visit-plasma-research/2.webp",
+      "/images/Events/industrial-visit-plasma-research/3.webp",
+      "/images/Events/industrial-visit-plasma-research/4.webp",
+      "/images/Events/industrial-visit-plasma-research/5.webp"
+    ]
+  },
+  {
+    "id": "microprocessors-rtos-hands-rtos-interfacing",
+    "title": "Microprocessors to RTOS: Hands-on with RTOS and Interfacing ",
+    "date": "4 April 2026",
+    "description": "The V.T. Patel Department of Electronics and Communication Engineering, in association with Code for Cause, Charotar University of Science and Technology (CHARUSAT), organized a technical workshop titled “Microprocessors to RTOS: Hands-on with RTOS and Interfacing.” The event was conducted under the leadership of Dr. Upesh Patel and the coordination of Dr. Killol V. Pandya.\n\n The primary objective of the workshop was to bridge the gap between fundamental microprocessor concepts and their practical implementation using Real-Time Operating Systems (RTOS). The session was delivered by Dr. Jignesh Patoliya, Senior Engineer at eInfochips and an alumnus of the Electronics and Communication Engineering department, who shared valuable industry-oriented knowledge and practical insights. \n\nThe workshop emphasized experiential learning through hands-on activities, enabling participants to develop a comprehensive understanding of RTOS concepts such as task scheduling, multitasking, and system interfacing. In addition, the session highlighted real-world applications of RTOS in embedded systems, thereby enhancing the participants’ technical proficiency and industry readiness.",
+    "thumbnail": "/images/Events/microprocessors-rtos-hands-rtos-interfacing/thumbnail.webp",
+    "images": [
+      "/images/Events/microprocessors-rtos-hands-rtos-interfacing/1.webp",
+      "/images/Events/microprocessors-rtos-hands-rtos-interfacing/2.webp",
+      "/images/Events/microprocessors-rtos-hands-rtos-interfacing/3.webp"
+    ]
+  },
+  {
+    "id": "nss-stem-rural-girls-cse",
+    "title": "STEM for Rural Girls: Igniting Minds",
+    "date": "4 April 2026",
+    "description": "The IEEE CHARUSAT WIE Affinity Group, in collaboration with NSS CHARUSAT, successfully organized \"STEM for Rural Girls: Igniting Minds\" on 4th April 2026 at M.K. Patel Secondary School. The initiative aimed to empower rural girls by fostering interest in Science, Technology, Engineering, and Mathematics (STEM) through engaging and interactive activities. The session focused on developing logical thinking and problem-solving skills through games and practical demonstrations. Participants actively engaged in the activities, gaining exposure to fundamental STEM concepts in an encouraging and inclusive environment. The event emphasized the importance of education, innovation, and equal opportunities for young girls. Overall, the initiative served as a meaningful step towards inspiring and nurturing future innovators from rural communities.",
+    "thumbnail": "/images/Events/nss-stem-rural-girls-cse/thumbnail.webp",
+    "images": [
+      "/images/Events/nss-stem-rural-girls-cse/1.webp",
+      "/images/Events/nss-stem-rural-girls-cse/2.webp",
+      "/images/Events/nss-stem-rural-girls-cse/3.webp"
+    ]
+  },
+  {
+    "id": "sustainable-campus",
+    "title": "Poster Presentation Event on \"Innovative Business Ideas for a Sustainable Campus Environment\"",
+    "date": "10 April 2026",
+    "description": "M. S. Patel Department of Civil Engineering, CSPIT, CHARUSAT organized Poster Presentation Event on “Innovative Business Ideas for a Sustainable Campus Environment.” Student activity under ‘Green Club’ on 10th April, 2026, witnessing enthusiastic participation from 12 students. The activity was designed to promote a platform for students to creatively present their innovative and sustainable business ideas that can contribute towards building a greener campus. Participants worked in teams to demonstrate business ideas that can contribute towards building a greener campus making the event both intellectually stimulating and enjoyable. The activity also served as an effective platform for students to familiarize themselves with the university’s facilities and surroundings. Additionally, it fostered collaboration and strengthened peer bonding, enabling students to connect with their classmates in an informal setting. Overall, the Poster Presentation Event was a fun-filled and engaging experience that contributed to enhancing student interaction, awareness, and a sense of belonging within the university.",
+    "thumbnail": "/images/Events/sustainable-campus/thumbnail.webp",
+    "images": [
+      "/images/Events/sustainable-campus/1.webp",
+      "/images/Events/sustainable-campus/2.webp",
+      "/images/Events/sustainable-campus/3.webp",
+      "/images/Events/sustainable-campus/4.webp",
+      "/images/Events/sustainable-campus/5.webp"
+    ]
+  },
+  {
+    "id": "synergyx-multidisciplinary-research-conclave-1",
+    "title": "SynergyX: Multidisciplinary Research Conclave 1.0",
+    "date": "2 April 2026",
+    "description": "The multidisciplinary research conclave “SynergyX: Multidisciplinary Research Conclave 1.0” was successfully organized on 2nd April 2026 at Charotar University of Science and Technology. The event commenced at 10:30 A.M. onwards and was jointly organized by the Computer Engineering (CE), Information Technology (IT), Computer Science and Engineering (CSE), and Artificial Intelligence & Machine Learning (AIML) departments, aiming to foster innovation, collaboration, and research-driven learning among students.A total of 25 teams actively participated in the conclave, presenting diverse and innovative research ideas spanning multiple disciplines. Each team had the opportunity to interact with an esteemed external evaluation panel comprising Dr. Hiren Thakkar and Dr. Puneet Sharma. The panel provided valuable insights and constructive feedback, encouraging participants to refine their work.During the discussions, participants elaborated on key aspects of their research, including scope, practical applications, ethical considerations, and future visibility. The conclave emphasized the importance of responsible and impactful research aligned with real-world challenges.To motivate excellence, prizes were awarded to the top-performing teams, with INR 5000, 3000, and 2000 for first, second, and third positions respectively. The event proved to be a dynamic platform for knowledge exchange, critical thinking, and interdisciplinary collaboration.",
+    "thumbnail": "/images/Events/synergyx-multidisciplinary-research-conclave-1/thumbnail.webp",
+    "images": [
+      "/images/Events/synergyx-multidisciplinary-research-conclave-1/thumbnail.webp"
+    ]
+  },
+  {
+    "id": "us-tarrif-changes",
+    "title": "Expert Lecture on \"Current US Tariff Changes and Impact on Supply Chain\"",
+    "date": "20 February 2026",
+    "description": "An expert lecture titled \"Expert Lecture on\" Current US Tariff Changes and Impact on Supply Chain was organized on 20 th February 2026 from 2:20 p.m. to4:20 p.m.in Mechanical Engineering Department The session was delivered by Mr. DHWANITKUMAR KIKANI, Senior Indirect Tax & Global Trade Compliance Analyst Avalara – PUNE Maharashtra, India.\n\nThe lecture focused on recent changes in U.S. tariff policies and their implications for global trade and supply chain management. The expert explained how tariff revisions influence sourcing decisions, production planning, logistics operations, cost structures, and international business strategies. Real-world examples and industry insights were shared to help students understand the practical challenges faced by manufacturing and trading companies.",
+    "thumbnail": "/images/Events/us-tarrif-changes/thumbnail.webp",
+    "images": [
+      "/images/Events/us-tarrif-changes/thumbnail.webp",
+      "/images/Events/us-tarrif-changes/1.webp",
+      "/images/Events/us-tarrif-changes/2.webp",
+      "/images/Events/us-tarrif-changes/3.webp",
+      "/images/Events/us-tarrif-changes/4.webp"
+    ]
+  },
+  {
+    "id": "workshop-10th-april-2026",
+    "title": "Workshop on Prototype/Process Development and Patent Filing Support",
+    "date": "10 April 2026",
+    "description": "The one-to-one interaction event on the patent filing process is designed as a personalised, confidential consultation session to help inventors, researchers, and entrepreneurs navigate its complexities. It provides direct access to intellectual property (IP) experts or patent agents to evaluate specific inventions and define a strategy for legal protection.It is organised by KDPIT and U & P.U patel department of computer engineering.\n\nDuring the interaction, participants will receive tailored advice on the following key areas:\n1. Invention Assessment & Patentability Search\n2. Filing Strategy \n3. Drafting Support\n4. Process and Documentation\n5. Examination & Prosecution",
+    "thumbnail": "/images/Events/workshop-10th-april-2026/thumbnail.webp",
+    "images": [
+      "/images/Events/workshop-10th-april-2026/1.webp",
+      "/images/Events/workshop-10th-april-2026/2.webp",
+      "/images/Events/workshop-10th-april-2026/3.webp"
+    ]
+  },
+  {
+    "id": "workshop-5-days-certification-course",
+    "title": "Workshop - 5 Days - Certification Course on Digital Forensics by Akash Thakar",
+    "date": "30 March to 3 April 2026",
+    "description": "CHARUSAT, in collaboration with Rashtriya Raksha University (RRU), successfully organized a Certification Course on Digital Forensics from 30th March to 3rd April 2026 at CSPIT, A7 Building. The course was conducted by Dr. Akash Thakar, Assistant Professor at RRU (SITAICS), who provided in-depth knowledge of digital investigation and cybercrime analysis. The program offered comprehensive coverage of digital evidence collection, analysis techniques, and the use of advanced forensic tools and methodologies. Participants gained hands-on experience through practical sessions led by industry experts, enhancing their understanding of real-world forensic investigations. The course also included exposure to professional practices and an industrial visit to digital forensic facilities at RRU. Overall, the certification program equipped participants with essential skills and practical knowledge in the rapidly evolving field of digital forensics.",
+    "thumbnail": "/images/Events/workshop-5-days-certification-course/thumbnail.webp",
+    "images": [
+      "/images/Events/workshop-5-days-certification-course/1.webp",
+      "/images/Events/workshop-5-days-certification-course/2.webp"
+    ]
+  },
+  {
+    "id": "workshop-nano-quest-jetson-nano",
+    "title": "Workshop - Nano Quest (Jetson Nano Based Project Competition)",
+    "date": "1 April 2026",
+    "description": "The AIML Club, Department of Computer Science & Engineering, CSPIT, CHARUSAT successfully organized “Nano Quest”, an innovative competition focused on Edge AI and smart embedded solutions. The event encouraged participants to design and develop AI-based projects on compact hardware platforms, fostering creativity and practical problem-solving skills. The competition was conducted in two phases, beginning with a qualifier round involving prototype video submissions, followed by the grand finale held on 1st April 2026. Participants showcased their projects through presentations, demonstrating technical expertise and innovative approaches to real-world challenges. The event witnessed enthusiastic participation and promoted hands-on learning in emerging AI technologies. Overall, Nano Quest provided a dynamic platform for students to explore, innovate, and excel in the field of Edge AI.",
+    "thumbnail": "/images/Events/workshop-nano-quest-jetson-nano/thumbnail.webp",
+    "images": [
+      "/images/Events/workshop-nano-quest-jetson-nano/1.webp",
+      "/images/Events/workshop-nano-quest-jetson-nano/2.webp",
+      "/images/Events/workshop-nano-quest-jetson-nano/3.webp"
     ]
   }
 ]
