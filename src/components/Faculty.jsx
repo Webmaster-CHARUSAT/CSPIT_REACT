@@ -155,10 +155,10 @@ const FacultySection = () => {
                         >
                           <div className="p-1">
                             <img
-                              style={{ backgroundColor: "#a9a9a9" }}
+                              style={{ backgroundColor: "white" }}
                               src={getSupportingImage(member)}
                               alt={member.name}
-                              className="w-full h-[260px] object-cover"
+                              className="w-full h-[340px] object-cover"
                               loading="lazy"
                             />
                           </div>
