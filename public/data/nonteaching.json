@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Mr. Brijeshkumar Harshadbhai Makwana",
+    "image": "/CSPIT_Supporting_Staff/IT/BrijeshMakwana_8388.webp",
+    "Category": "Lab Tech",
+    "Designation": "Lab Technician"
+  },
+  {
+    "name": "Mr. Kautil Pandya",
+    "image": "/CSPIT_Supporting_Staff/adminstaff/Kautil Pandya_10.webp",
+    "Category": "Office Executives",
+    "Designation": "Dy. Registrar"
+  },
+  {
+    "name": "Mr. Nikunj Barot",
+    "image": "/CSPIT_Supporting_Staff/IT/Nikunjbarot_8405.webp",
+    "Category": "Lab Tech",
+    "Designation": "Laboratory Assistant"
+  },
+  {
+    "name": "Mr. Prakashbhai Ramanbhai Solanki",
+    "image": "/CSPIT_Supporting_Staff/IT/PrakashSolanki_8269.webp",
+    "Category": "Lab Tech",
+    "Designation": "Sr. Lab Technician"
+  },
+  {
+    "name": "Mr. Rushabh Joshi",
+    "image": "/CSPIT_Supporting_Staff/adminstaff/Rushabh Joshi_8423.webp",
+    "Category": "Office Executives",
+    "Designation": "Office Assistant"
+  },
+  {
+    "name": "Mr. Samirbhai Mahendrabhai Patel",
+    "image": "/CSPIT_Supporting_Staff/IT/SamirPatel_8293.webp",
+    "Category": "Attendant",
+    "Designation": "Attendant"
+  },
+  {
+    "name": "Mr. Shrey Sanjaykumar Patel",
+    "image": "/CSPIT_Supporting_Staff/adminstaff/Shrey Patel_8420.webp",
+    "Category": "Office Executives",
+    "Designation": "Office Assistant"
+  },
+  {
+    "name": "Mr. Vishalkumar Patel",
+    "image": "/CSPIT_Supporting_Staff/adminstaff/Vishal Patel_713.webp",
+    "Category": "Office Executives",
+    "Designation": "Assistant Section Officer"
+  },
+  {
+    "name": "Mr. Yatin Talati",
+    "image": "/CSPIT_Supporting_Staff/adminstaff/Yatin Talati_358.webp",
+    "Category": "Office Executives",
+    "Designation": "Office Executive"
+  }
+]
