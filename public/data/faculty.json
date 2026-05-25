@@ -658,7 +658,7 @@
     "certifications": []
   },
 {
-  "name": "Chhaya Zala",
+  "name": "Ms. Chhaya Zala",
   "title": "ASSISTANT PROFESSOR",
   "degree": "M.Tech , Phd (pursuing)",
   "research_interests": [
@@ -908,6 +908,44 @@
     "awards": [],
     "memberships": [],
     "certifications": []
+  },
+  {
+  "name": "Ms. Dipali Patel",
+  "title": "ASSISTANT PROFESSOR",
+  "degree": "M.Tech., Ph.D. (Pursuing)",
+  "research_interests": [
+    "Finite Element Analysis",
+    "Design of RCC and Steel Structures",
+    "Dynamics and Earthquake Engineering"
+  ],
+  "image_src": "/CSPIT_Faculty/Civil/Dipali.webp",
+  "subjects": [
+    "Advanced Structural Analysis",
+    "Finite Element Analysis",
+    "Design Practices I",
+    "Design Practices II",
+    "Engineering Mechanics",
+    "Elements of Engineering",
+    "Mechanics of Solids",
+    "Fluid Mechanics – I",
+    "Structural Analysis – I",
+    "Structural Analysis – II",
+    "Structural Analysis – III",
+    "Advanced Structural Analysis",
+    "Design of Reinforced Concrete Structures"
+  ],
+  "research_projects": [],
+  "teaching": [],
+  "email": "dipalipatel.cv@charusat.ac.in",
+  "linkedin": "https://www.linkedin.com/in/dipali-patel-m-eng-pmp%C2%AE-95464b294/",
+  "website": "",
+  "scholar": "https://scholar.google.com/citations?user=amd2l3QAAAAJ&hl=en",
+  "vidwan": "https://vidwan.inflibnet.ac.in/profile/162178",
+  "awards": [],
+  "memberships": [],
+  "certifications": [
+    "Project Management Professional (PMP)®"
+  ]
   },
   {
     "name": "Dr. Gajanan Patange",
@@ -1175,7 +1213,7 @@
     ]
   },
   {
-    "name": "Mr. Hemant Yadav",
+    "name": "Dr. Hemant Yadav",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech., Ph. D. (Pursuing)",
     "research_interests": [
@@ -2808,69 +2846,8 @@
     "memberships": ["ISTE (LM 82407)", "CECA (20207067)"],
     "certifications": [""]
   },
-  {
-    "name": "Dr. Sagarkumar Patel",
-    "title": "ASSOCIATE PROFESSOR",
-    "degree": "Ph. D.",
-    "research_interests": ["Wireless Communication", "Analog Electronics"],
-    "image_src": "/CSPIT_Faculty/Electronics/SAGARKUMAR.webp",
-    "subjects": [
-      "Digital Communication",
-      "Error Control Coding",
-      "Information Theory",
-      "Wireless Communication",
-      "Microprocessor",
-      "Digital Logic Design",
-      "Analog",
-      "Electronic Circuits",
-      "Prototyping with Arduino uno."
-    ],
-    "research_projects": [],
-    "teaching": [
-      "Received and successfully completed Research project grant feed on Implementation and Performance Analysis of Novel spatial Modulation aided wireless communication in heterogeneous condition received from Charotar University of Science and Technology, CHARUSAT"
-    ],
-    "email": "sagarpatel.ec@charusat.ac.in",
-    "linkedin": "https://www.linkedin.com/in/sagarkumar-patel-0bb94bb5/",
-    "website": "",
-    "scholar": "https://scholar.google.com/citations?hl=en&user=B5Ebe5EAAAAJ&view_op=list_works&authuser=1",
-    "vidwan": "https://charusat.irins.org/profile/161487",
-    "awards": ["CHARUSAT Research Paper Award"],
-    "memberships": ["IEEE- Senior Member", "ISTE"],
-    "certifications": []
-  },
-  {
-    "name": "Dr. Sanketkumar Suthar",
-    "title": "ASSISTANT PROFESSOR",
-    "degree": "Ph. D.",
-    "research_interests": [
-      "Computer Vision",
-      "Design and analysis of Algorithms",
-      "Machine Learning"
-    ],
-    "image_src": "/CSPIT_Faculty/IT/SANKETKUMAR.webp",
-    "subjects": [
-      "Computer Vision",
-      "Design and Analysis of Algorithms",
-      "Data Structures and Algorithms",
-      "Software Engineering",
-      "Competitive Programming"
-    ],
-    "research_projects": [],
-    "teaching": [
-      "Extramural Research Grants from NVIDIA CORPORATION, CALIFORNIA"
-    ],
-    "email": "sanketsuthar.it@charusat.ac.in",
-    "linkedin": "https://www.linkedin.com/in/dr-sanket-suthar-544a69210/",
-    "website": "https://sites.google.com/charusat.ac.in/sanketsuthar/home",
-    "scholar": "https://scholar.google.co.in/citations?user=1gTYp1EAAAAJ&hl=en",
-    "vidwan": "https://vidwan.inflibnet.ac.in/profile/157511",
-    "awards": ["Best Paper Award in 2018 and Research paper award in 2022"],
-    "memberships": ["ACM"],
-    "certifications": [
-      "AWS cloud practitioner certification",
-      "Microsoft Azure Fundamentals"
-    ]
-  },
+  
+
   {
     "name": "Ms. Sarita Thummar",
     "title": "ASSISTANT PROFESSOR",
@@ -3323,43 +3300,5 @@
     "awards": [],
     "memberships": [],
     "certifications": ["Google Advanced Data Analytics Capstone"]
-  },
-  {
-  "name": "Ms. Dipali Patel",
-  "title": "ASSISTANT PROFESSOR",
-  "degree": "M.Tech., Ph.D. (Pursuing)",
-  "research_interests": [
-    "Finite Element Analysis",
-    "Design of RCC and Steel Structures",
-    "Dynamics and Earthquake Engineering"
-  ],
-  "image_src": "/CSPIT_Faculty/Civil/Dipali.webp",
-  "subjects": [
-    "Advanced Structural Analysis",
-    "Finite Element Analysis",
-    "Design Practices I",
-    "Design Practices II",
-    "Engineering Mechanics",
-    "Elements of Engineering",
-    "Mechanics of Solids",
-    "Fluid Mechanics – I",
-    "Structural Analysis – I",
-    "Structural Analysis – II",
-    "Structural Analysis – III",
-    "Advanced Structural Analysis",
-    "Design of Reinforced Concrete Structures"
-  ],
-  "research_projects": [],
-  "teaching": [],
-  "email": "dipalipatel.cv@charusat.ac.in",
-  "linkedin": "https://www.linkedin.com/in/dipali-patel-m-eng-pmp%C2%AE-95464b294/",
-  "website": "",
-  "scholar": "https://scholar.google.com/citations?user=amd2l3QAAAAJ&hl=en",
-  "vidwan": "https://vidwan.inflibnet.ac.in/profile/162178",
-  "awards": [],
-  "memberships": [],
-  "certifications": [
-    "Project Management Professional (PMP)®"
-  ]
-}
+  }
 ]
