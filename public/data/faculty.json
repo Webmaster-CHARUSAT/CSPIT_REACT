@@ -3323,5 +3323,43 @@
     "awards": [],
     "memberships": [],
     "certifications": ["Google Advanced Data Analytics Capstone"]
-  }
+  },
+  {
+  "name": "Ms. Dipali Patel",
+  "title": "ASSISTANT PROFESSOR",
+  "degree": "M.Tech., Ph.D. (Pursuing)",
+  "research_interests": [
+    "Finite Element Analysis",
+    "Design of RCC and Steel Structures",
+    "Dynamics and Earthquake Engineering"
+  ],
+  "image_src": "/CSPIT_Faculty/Civil/Dipali.webp",
+  "subjects": [
+    "Advanced Structural Analysis",
+    "Finite Element Analysis",
+    "Design Practices I",
+    "Design Practices II",
+    "Engineering Mechanics",
+    "Elements of Engineering",
+    "Mechanics of Solids",
+    "Fluid Mechanics – I",
+    "Structural Analysis – I",
+    "Structural Analysis – II",
+    "Structural Analysis – III",
+    "Advanced Structural Analysis",
+    "Design of Reinforced Concrete Structures"
+  ],
+  "research_projects": [],
+  "teaching": [],
+  "email": "dipalipatel.cv@charusat.ac.in",
+  "linkedin": "https://www.linkedin.com/in/dipali-patel-m-eng-pmp%C2%AE-95464b294/",
+  "website": "",
+  "scholar": "https://scholar.google.com/citations?user=amd2l3QAAAAJ&hl=en",
+  "vidwan": "https://vidwan.inflibnet.ac.in/profile/162178",
+  "awards": [],
+  "memberships": [],
+  "certifications": [
+    "Project Management Professional (PMP)®"
+  ]
+}
 ]
