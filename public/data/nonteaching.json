@@ -1,15 +1,75 @@
 [
   {
+    "name": "Mr. Chirag Bhagubhai Patel",
+    "image": "/CSPIT_Supporting_Staff/CIVIL/ChiragPatel_610.webp",
+    "Category": "Attendant",
+    "Designation": "Attendant"
+  },
+  {
+    "name": "Mr. Samirbhai Mahendrabhai Patel",
+    "image": "/CSPIT_Supporting_Staff/IT/SamirPatel_8293.webp",
+    "Category": "Attendant",
+    "Designation": "Attendant"
+  },
+  {
+    "name": "Mr. Ashish Patel",
+    "image": "/CSPIT_Supporting_Staff/EC/Ashish Patel_489.webp",
+    "Category": "Lab Tech",
+    "Designation": "Senior Lab Technician"
+  },
+  {
+    "name": "Mr. Bhoi Jaydeepkumar Sadhurambhai",
+    "image": "/CSPIT_Supporting_Staff/CIVIL/JaydeepBhoi_775.webp",
+    "Category": "Lab Tech",
+    "Designation": "Senior Laboratory Technician"
+  },
+  {
     "name": "Mr. Brijeshkumar Harshadbhai Makwana",
     "image": "/CSPIT_Supporting_Staff/IT/BrijeshMakwana_8388.webp",
     "Category": "Lab Tech",
     "Designation": "Lab Technician"
   },
   {
-    "name": "Mr. Kautil Pandya",
-    "image": "/CSPIT_Supporting_Staff/adminstaff/Kautil Pandya_10.webp",
-    "Category": "Office Executives",
-    "Designation": "Dy. Registrar"
+    "name": "Mr. Devendra Talpada",
+    "image": "/CSPIT_Supporting_Staff/CE/Devendra Talpada_8424.webp",
+    "Category": "Lab Tech",
+    "Designation": "Laboratory Assistant "
+  },
+  {
+    "name": "Mr. Hemantkumat G Patel",
+    "image": "/CSPIT_Supporting_Staff/ME/Hemant Patel_136.webp",
+    "Category": "Lab Tech",
+    "Designation": "Sr. Lab. Technician"
+  },
+  {
+    "name": "Mr. Hiren Patel",
+    "image": "/CSPIT_Supporting_Staff/ME/Hiren Patel_230.webp",
+    "Category": "Lab Tech",
+    "Designation": "Sr. Lab Technician"
+  },
+  {
+    "name": "Mr. Jinit Rajnikant Patel",
+    "image": "/CSPIT_Supporting_Staff/CIVIL/JinitPatel_725.webp",
+    "Category": "Lab Tech",
+    "Designation": "Laboratory Technician"
+  },
+  {
+    "name": "Mr. Kalpeshkumar Shantilal Patel",
+    "image": "/CSPIT_Supporting_Staff/EE/Kalpesh Patel_202.webp",
+    "Category": "Lab Tech",
+    "Designation": "Laboratory Technician"
+  },
+  {
+    "name": "Mr. Kirtibhai A Bhil",
+    "image": "/CSPIT_Supporting_Staff/CSE/Kirti Bhil_8392.webp",
+    "Category": "Lab Tech",
+    "Designation": "Lab Technician"
+  },
+  {
+    "name": "Mr. Nirav Vaghela",
+    "image": "/CSPIT_Supporting_Staff/AIML/NIRAV VAGHELA_8419.webp",
+    "Category": "Lab Tech",
+    "Designation": "Laboratory Assistant"
   },
   {
     "name": "Mr. Nikunj Barot",
@@ -18,22 +78,82 @@
     "Designation": "Laboratory Assistant"
   },
   {
+    "name": "Mr. Pragnesh Patel",
+    "image": "/CSPIT_Supporting_Staff/EE/Pragnesh Patel_203.webp",
+    "Category": "Lab Tech",
+    "Designation": "Sr. Lab Technician"
+  },
+  {
     "name": "Mr. Prakashbhai Ramanbhai Solanki",
     "image": "/CSPIT_Supporting_Staff/IT/PrakashSolanki_8269.webp",
     "Category": "Lab Tech",
     "Designation": "Sr. Lab Technician"
   },
   {
+    "name": "Mr. Prijesh Rajendrabhai Patel",
+    "image": "/CSPIT_Supporting_Staff/CIVIL/PrijeshPatel_778.webp",
+    "Category": "Lab Tech",
+    "Designation": "Senior Laboratory Technician"
+  },
+  {
+    "name": "Mr. Rahulkumar Kanubhai Solanki",
+    "image": "/CSPIT_Supporting_Staff/ME/Rahul Solanki_783.webp",
+    "Category": "Lab Tech",
+    "Designation": "Senior Laboratory Technician"
+  },
+  {
+    "name": "Mr. Rajeshkumar Kanubhai Raval",
+    "image": "/CSPIT_Supporting_Staff/CSE/RajeshRaval_8391.webp",
+    "Category": "Lab Tech",
+    "Designation": "Lab Technician"
+  },
+  {
+    "name": "Mr. Riteshkumar Ghanshyambhai Patel",
+    "image": "/CSPIT_Supporting_Staff/ME/Ritesh Patel_231.webp",
+    "Category": "Lab Tech",
+    "Designation": "Sr. Lab Tech"
+  },
+  {
+    "name": "Mr. Ronak Patel",
+    "image": "/CSPIT_Supporting_Staff/EE/Ronak Patel_665.webp",
+    "Category": "Lab Tech",
+    "Designation": "Lab Tech"
+  },
+  {
+    "name": "Mr. Sandip Kumar Vasant Bhai Valand",
+    "image": "/CSPIT_Supporting_Staff/CIVIL/SandipValand_488.webp",
+    "Category": "Lab Tech",
+    "Designation": "Senior Laboratory Technician"
+  },
+  {
+    "name": "Mr. Sudhir Macwan",
+    "image": "/CSPIT_Supporting_Staff/AIML/SUDHIR MACWAN_8422.webp",
+    "Category": "Lab Tech",
+    "Designation": "Laboratory Assistant"
+  },
+  {
+    "name": "Mr. Timilkumar Vikrambhai Patel",
+    "image": "/CSPIT_Supporting_Staff/EC/Timil Patel_651.webp",
+    "Category": "Lab Tech",
+    "Designation": "Lab Technician"
+  },
+  {
+    "name": "Mr. Trushit I Patel",
+    "image": "/CSPIT_Supporting_Staff/CIVIL/TrushitPatel_8361.webp",
+    "Category": "Lab Tech",
+    "Designation": "Laboratory Technician"
+  },
+  {
+    "name": "Mr. Kautil Pandya",
+    "image": "/CSPIT_Supporting_Staff/adminstaff/Kautil Pandya_10.webp",
+    "Category": "Office Executives",
+    "Designation": "Dy. Registrar"
+  },
+  {
     "name": "Mr. Rushabh Joshi",
     "image": "/CSPIT_Supporting_Staff/adminstaff/Rushabh Joshi_8423.webp",
     "Category": "Office Executives",
     "Designation": "Office Assistant"
-  },
-  {
-    "name": "Mr. Samirbhai Mahendrabhai Patel",
-    "image": "/CSPIT_Supporting_Staff/IT/SamirPatel_8293.webp",
-    "Category": "Attendant",
-    "Designation": "Attendant"
   },
   {
     "name": "Mr. Shrey Sanjaykumar Patel",
