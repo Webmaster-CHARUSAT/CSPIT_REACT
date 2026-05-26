@@ -144,6 +144,55 @@
     "Designation": "Laboratory Technician"
   },
   {
+    "name": "Mr. Rajeshbhai Dahyabhai Patel",
+    "image": "/CSPIT_Supporting_Staff/Workshop/Rajesh Patel_135.webp",
+    "Category": "Lab Tech",
+    "Designation": "Sr. Lab. Tech"
+  },
+  {
+    "name": "Mr. Gaurav R Patel",
+    "image": "/CSPIT_Supporting_Staff/CIVIL/Gaurav Patel_8386.webp",
+    "Category": "Lab Tech",
+    "Designation": "Chemical Engineer"
+  },
+  {
+  "name": "Mr. Bhaveshbhai Kanubhai Suthar",
+  "image": "/CSPIT_Supporting_Staff/Workshop/Bhaveshbhai Suthar_337.webp",
+  "Category": "Lab Tech",
+  "Designation": "Carpenter"
+  },
+  {
+    "name": "Mr. Brijeshkumar Navinchandra Patel",
+    "image": "/CSPIT_Supporting_Staff/Workshop/Brijeshbhai Patel_116.webp",
+    "Category": "Lab Tech",
+    "Designation": "Welder"
+  },
+  {
+    "name": "Mr. Jagdishbhai Kanjibhai Patel",
+    "image": "/CSPIT_Supporting_Staff/Workshop/Jagdish Patel_117.webp",
+    "Category": "Lab Tech",
+    "Designation": "Carpenter"
+  },
+  {
+    "name": "Mr. Patel Mihir Kumar Ramesh Bhai",
+    "image": "/CSPIT_Supporting_Staff/Workshop/Mihir Patel_120.webp",
+    "Category": "Lab Tech",
+    "Designation": "Fittar"
+  },
+  {
+    "name": "Mr. Mrugeshkumar Jagdishchandra Patel",
+    "image": "/CSPIT_Supporting_Staff/Workshop/Mrugesh Patel_784.webp",
+    "Category": "Lab Tech",
+    "Designation": "Machinist"
+  },
+  {
+    "name": "Mr. Purvish D Patel",
+    "image": "/CSPIT_Supporting_Staff/Workshop/Purvish Patel_119.webp",
+    "Category": "Lab Tech",
+    "Designation": "Welder"
+  },
+  
+  {
     "name": "Mr. Kautil Pandya",
     "image": "/CSPIT_Supporting_Staff/adminstaff/Kautil Pandya_10.webp",
     "Category": "Office Executives",
