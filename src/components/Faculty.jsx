@@ -153,15 +153,31 @@ const FacultySection = () => {
                           key={`${section.category}-${index}`}
                           className="bg-white rounded-lg shadow-md hover:shadow-xl transition-all duration-300 transform hover:scale-105 cursor-pointer w-[95%] mx-auto overflow-hidden border-2 border-gray-200"
                         >
-                          <div className="p-1">
+                          {/* <div className="p-1">
                             <img
                               style={{ backgroundColor: "white" }}
                               src={getSupportingImage(member)}
                               alt={member.name}
-                              className="w-full h-[340px] object-cover"
+                              // className="w-full h-[340px] object-cover"
+                              // className="w-full h-[260px] object-cover object-top pt-2"
+                              className="max-w-full max-h-full object-contain"
+
                               loading="lazy"
                             />
+                          </div> */}
+
+                          <div className="p-1">
+                            <div className="w-full h-[260px] bg-white overflow-hidden flex items-center justify-center">
+                              <img
+                                src={getSupportingImage(member)}
+                                alt={member.name}
+                                loading="lazy"
+                                className="w-full h-[260px] object-cover object-top pt-1"
+                                style={{ backgroundColor: "white" }}
+                              />
+                            </div>
                           </div>
+
                           <div className="p-3 text-center">
                             <h4 className="text-[#033c67] font-bold text-lg mb-0">
                               {member.name}
