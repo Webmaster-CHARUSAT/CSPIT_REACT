@@ -132,6 +132,37 @@
     "certifications": []
   },
   {
+    "name": "Dr. Akshay C. Chauhan",
+    "title": "ASSISTANT PROFESSOR",
+    "degree": "Ph.D.",
+    "research_interests": [
+      "Air Quality Monitoring, Modelling and Mapping",
+      "Remote Sensing and GIS",
+      "Sustainable Waste Management"
+    ],
+    "image_src": "/CSPIT_Faculty/Civil/AKSHAY_CHAUHAN.webp",
+    "subjects": [
+      "Environmental Engineering I & II",
+      "Water and Wastewater Engineering",
+      "Solid Waste Management",
+      "Environmental Chemistry and Microbiology",
+      "Environmental Legislation"
+    ],
+    "research_projects": [],
+    "teaching": [],
+    "email": "akshaychauhan.cv@charusat.ac.in",
+    "linkedin": "https://www.linkedin.com/in/dr-akshay-chauhan-165869113/",
+    "website": "",
+    "scholar": "https://scholar.google.com/citations?user=XN4BcC8AAAAJ&hl=en&authuser=1",
+    "vidwan": "https://vidwan.inflibnet.ac.in/profile/694998",
+    "awards": [],
+    "memberships": [
+      "Lifetime Member of Indian Aerosol Science and Engineering Association (IASTA)",
+      "Society of Indoor Environment"
+    ],
+    "certifications": []
+  },
+  {
     "name": "Ms. Akshita Kadam",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech., Ph. D. (Pursuing)",
@@ -459,6 +490,31 @@
     "certifications": []
   },
   {
+  "name": "Mr. Atmiya Ashwinbhai Patel",
+  "title": "ASSISTANT PROFESSOR",
+  "degree": "M. Tech.",
+  "research_interests": [
+    "Artificial Intelligence and Machine Learning"
+  ],
+  "image_src": "/CSPIT_Faculty/CSE/ATMIYA_PATEL.webp",
+  "subjects": [
+    "Information Network & Security",
+    "Theory of Computation",
+    "AIML",
+    "Computer Graphics"
+  ],
+  "research_projects": [],
+  "teaching": [],
+  "email": "atmiyapatel.cse@charusat.ac.in",
+  "linkedin": "https://www.linkedin.com/in/atmiya-patel-9168573a5",
+  "website": "",
+  "scholar": "https://scholar.google.com/citations?hl=en&user=RDO7V5gAAAAJ",
+  "vidwan": "https://vidwan.inflibnet.ac.in/profile/515684",
+  "awards": [],
+  "memberships": [],
+  "certifications": []
+  },
+  {
     "name": "Ms. Avani Khokhariya",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
@@ -545,12 +601,13 @@
     "certifications": []
   },
   {
-  "name": "Ms. Bijal Suthar",
+  "name": "Ms. Bijalben Sanketkumar Suthar",
   "title": "Assistant Professor",
   "degree": "M.Tech , Phd (pursuing)",
   "research_interests": [
-    "DBMS",
-    "Design and analysis of Algorithms"
+    "Natural language Processing",
+    "Machine Learning",
+    "Data Analytics"
   ],
   "image_src": "/CSPIT_Faculty/CE/BIJAL_SUTHAR.webp",
   "subjects": [
@@ -559,9 +616,12 @@
     "Computer Organization"
   ],
   "research_projects": [],
-  "teaching": [],
+  "teaching": [
+    "Organized expert session  on 'MongoDB Essentials: Practical CRUD with Real-World Application' with hands-on session",
+    "Coordinated Foundation course cum internship on 'Green Skills and Artificial Intelligence under Skills4future program'"
+  ],
   "email": "bijalsuthar.ce@charusat.ac.in",
-  "linkedin": "",
+  "linkedin": "https://www.linkedin.com/in/bijal-suthar-3814742b3?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
   "website": "",
   "scholar": "",
   "vidwan": "https://vidwan.inflibnet.ac.in/profile/125869",
@@ -1954,6 +2014,30 @@
     ]
   },
   {
+  "name": "Mr. Milan Bhadaliya",
+  "title": "ASSISTANT PROFESSOR",
+  "degree": "M. Tech., Ph. D. (Pursuing)",
+  "research_interests": [
+    "Autonomous and Connected Vehicles",
+    "Vehicular Communications"
+  ],
+  "image_src": "/CSPIT_Faculty/IT/MILAN_BHADALIYA.webp",
+  "subjects": [
+    "Natural Language Processing",
+    "Python Programming"
+  ],
+  "research_projects": [],
+  "teaching": [],
+  "email": "milanbhadaliya.it@charusat.ac.in",
+  "linkedin": "https://in.linkedin.com/in/milan-bhadaliya-499714165",
+  "website": "",
+  "scholar": "",
+  "vidwan": "",
+  "awards": [],
+  "memberships": [],
+  "certifications": []
+  },
+  {
     "name": "Dr. Miral Desai",
     "title": "ASSISTANT PROFESSOR",
     "degree": "Ph. D.",
@@ -1977,6 +2061,32 @@
     "awards": [],
     "memberships": ["IEEE, ISTE"],
     "certifications": []
+  },
+  {
+  "name": "Mosami Ashwinbhai Trambadiya",
+  "title": "TEACHING ASSISTANT",
+  "degree": "M. Tech. (Computer Engineering)",
+  "research_interests": [
+    "Machine Learning"
+  ],
+  "image_src": "/CSPIT_Faculty/IT/MOSAMI_TRAMBADIYA.webp",
+  "subjects": [
+    "Data Structure",
+    "Data Science",
+    "Design and Analysis of Algorithm"
+  ],
+  "research_projects": [
+    "Multimodal Hybrid Recommendation System"
+  ],
+  "teaching": [],
+  "email": "mosamitrambadiya.it@charusat.ac.in",
+  "linkedin": "https://www.linkedin.com/in/mosami-trambadiya-197074317",
+  "website": "",
+  "scholar": "",
+  "vidwan": "",
+  "awards": [],
+  "memberships": [],
+  "certifications": []
   },
   {
     "name": "Dr. Mrugendrasinh Rahevar",
@@ -2540,6 +2650,39 @@
     ]
   },
   {
+    "name": "Mr. Priyam Dharmeshbhai Mehta",
+    "title": "ASSISTANT PROFESSOR",
+    "degree": "Master of Engineering",
+    "research_interests": [
+      "Machine Learning",
+      "NLP",
+      "GEN AI"
+    ],
+    "image_src": "/CSPIT_Faculty/IT/PRIYAM_MEHTA.webp",
+    "subjects": [
+      "Data Structure",
+      "Operating System",
+      "Computer Organization and Architecture",
+      "Design And Analysis of Algorithms",
+      "Programming and Problem Solving",
+      "Theory of Computation"
+    ],
+    "research_projects": [
+      "Augmented Reality on Smart Mirrors (ARTON)"
+    ],
+    "teaching": [],
+    "email": "priyammehta.it@charusat.ac.in",
+    "linkedin": "https://www.linkedin.com/in/priyam-mehta-0915a315b",
+    "website": "",
+    "scholar": "https://scholar.google.com/citations?user=wFnKR7wAAAAJ&hl=en&authuser=1",
+    "vidwan": "https://vidwan.inflibnet.ac.in/profile/692624",
+    "awards": [],
+    "memberships": [],
+    "certifications": [
+      "Coding for Everyone: C and C++ Specialization"
+    ]
+  },
+  {
     "name": "Dr. Priyanka Patel",
     "title": "ASSISTANT PROFESSOR",
     "degree": "Ph. D.",
@@ -2846,7 +2989,35 @@
     "memberships": ["ISTE (LM 82407)", "CECA (20207067)"],
     "certifications": [""]
   },
-  
+  {
+    "name": "Mr. Sagar Patel",
+    "title": "Assistant Professor",
+    "degree": "Master of Technology in Information Technology",
+    "research_interests": [
+      "Scalable Architectures for NLP Infrastructure",
+      "Applied AI in Academic Systems & Workflows"
+    ],
+    "image_src": "/CSPIT_Faculty/IT/SAGAR_PATEL.webp",
+    "subjects": [
+      "Object Oriented Programming",
+      "Mobile Application Development",
+      "Advanced Web Development Framework"
+    ],
+    "research_projects": [
+      "Automatic Subjective - Extractive Summarization"
+    ],
+    "teaching": [],
+    "email": "sagarpatel.it@charusat.ac.in",
+    "linkedin": "https://www.linkedin.com/in/sagar2018",
+    "website": "https://www.smpatel.in",
+    "scholar": "https://scholar.google.com/citations?user=RHy6zHAAAAAJ&hl=en",
+    "vidwan": "https://charusat.irins.org/profile/157509",
+    "awards": [],
+    "memberships": [
+      "Association for Computing Machinery (ACM), ID: 3285732, Expire on: 11/07/2026"
+    ],
+    "certifications": []
+  },
 
   {
     "name": "Ms. Sarita Thummar",
@@ -2893,6 +3064,42 @@
     "awards": [],
     "memberships": [],
     "certifications": ["Google Advanced Data Analytics"]
+  },
+  {
+  "name": "Mr. Siddharth Sharad Shah",
+  "title": "ASSISTANT PROFESSOR",
+  "degree": "M.E. Computer Engineering",
+  "research_interests": [
+    "Computer Vision",
+    "Data Analytics"
+  ],
+  "image_src": "/CSPIT_Faculty/CSE/SIDDHARTH_SHAH.webp",
+  "subjects": [
+    "Java Programming",
+    "Advance Java Programming",
+    "Animation and Gaming",
+    "Design and Analysis of Algorithms",
+    "Data Structures",
+    "Compiler Design",
+    "Theory of Computation",
+    "C Programming",
+    "C++ Programming",
+    "Python Programming"
+  ],
+  "research_projects": [
+    "GUJCOST Funded - Face Detection Based Video Analytics (2018)"
+  ],
+  "teaching": [],
+  "email": "siddharthshah.cse@charusat.ac.in",
+  "linkedin": "https://in.linkedin.com/in/siddharthshah1186",
+  "website": "",
+  "scholar": "https://scholar.google.com/citations?user=0JjdM8QAAAAJ&hl=en",
+  "vidwan": "https://vidwan.inflibnet.ac.in/profile/318802",
+  "awards": [],
+  "memberships": [
+    "ISTE"
+  ],
+  "certifications": []
   },
   {
     "name": "Ms. Srushti Gajjar",
