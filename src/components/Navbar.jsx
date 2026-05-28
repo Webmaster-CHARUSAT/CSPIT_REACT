@@ -5,12 +5,13 @@ const topLinks = [
   { to: "/events", label: "Enrichment Activities", external: true },
   { to: "#placement", label: "Placement", external: false },
   { to: "#gallery", label: "Gallery", external: false },
-  { to: "/news-letter-Oct-Dec-2025/", label: "Newsletter", external: true },
+  { to: "/news-letter-Jan-March-2026/", label: "Newsletter", external: true },
   {
     to: "https://www.charusat.ac.in/scholarship",
     label: "Scholarships",
     external: true,
-  },  { to: "/faculty", label: "Faculty & Staff", external: true },
+  },
+  { to: "/faculty", label: "Faculty & Staff", external: true },
   { to: "https://alumni.charusat.ac.in/", label: "Alumni", external: true },
   { to: "#contact-us", label: "Contact Us", external: false },
 ];
@@ -165,7 +166,7 @@ const mainNav = [
 ];
 
 function NavLink({ to, label, external, ...props }) {
-  const isHome = window.location.pathname === '/';
+  const isHome = window.location.pathname === "/";
 
   if (external) {
     return (
@@ -174,7 +175,7 @@ function NavLink({ to, label, external, ...props }) {
       </a>
     );
   }
-    // Special case for Contact Us - should scroll to footer on any page
+  // Special case for Contact Us - should scroll to footer on any page
   if (to === "#contact-us") {
     return (
       <a href={to} {...props}>
@@ -182,11 +183,11 @@ function NavLink({ to, label, external, ...props }) {
       </a>
     );
   }
-  
+
   if ((to || "").startsWith("#") || (to || "").includes("/#")) {
     // Remove any leading slash before the hash if present
     const cleanTo = to.replace(/^\/?(.*)$/, "$1");
-    
+
     if (isHome) {
       // If we're already on the home page, use normal hash navigation
       return (
@@ -203,7 +204,7 @@ function NavLink({ to, label, external, ...props }) {
       );
     }
   }
-  
+
   return (
     <Link to={to} {...props}>
       {label}
@@ -430,7 +431,7 @@ const Tempnav = () => {
                       className="w-full text-left px-6 py-4 font-light text-white hover:bg-[#0056b3] transition flex items-center justify-between"
                       onClick={() =>
                         setSidebarSub(
-                          sidebarSub === item.label ? null : item.label
+                          sidebarSub === item.label ? null : item.label,
                         )
                       }
                     >
