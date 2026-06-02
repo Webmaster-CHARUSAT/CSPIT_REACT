@@ -1,12 +1,12 @@
 [
   {
-    "name": "Mr. Chirag Bhagubhai Patel",
+    "name": "Mr. Chirag Patel",
     "image": "/CSPIT_Supporting_Staff/CIVIL/ChiragPatel_610.webp",
     "Category": "Attendant",
     "Designation": "Attendant"
   },
   {
-    "name": "Mr. Samirbhai Mahendrabhai Patel",
+    "name": "Mr. Samirbhai Patel",
     "image": "/CSPIT_Supporting_Staff/IT/SamirPatel_8293.webp",
     "Category": "Attendant",
     "Designation": "Attendant"
@@ -18,13 +18,13 @@
     "Designation": "Senior Lab Technician"
   },
   {
-    "name": "Mr. Bhoi Jaydeepkumar Sadhurambhai",
+    "name": "Mr. Jaydeepkumar Bhoi",
     "image": "/CSPIT_Supporting_Staff/CIVIL/JaydeepBhoi_775.webp",
     "Category": "Lab Tech",
     "Designation": "Senior Laboratory Technician"
   },
   {
-    "name": "Mr. Brijeshkumar Harshadbhai Makwana",
+    "name": "Mr. Brijeshkumar Makwana",
     "image": "/CSPIT_Supporting_Staff/IT/BrijeshMakwana_8388.webp",
     "Category": "Lab Tech",
     "Designation": "Lab Technician"
@@ -36,7 +36,7 @@
     "Designation": "Laboratory Assistant"
   },
   {
-    "name": "Mr. Hemantkumar G Patel",
+    "name": "Mr. Hemantkumar Patel",
     "image": "/CSPIT_Supporting_Staff/ME/Hemant Patel_136.webp",
     "Category": "Lab Tech",
     "Designation": "Sr. Lab. Technician"
@@ -48,19 +48,19 @@
     "Designation": "Sr. Lab Technician"
   },
   {
-    "name": "Mr. Jinit Rajnikant Patel",
+    "name": "Mr. Jinit Patel",
     "image": "/CSPIT_Supporting_Staff/CIVIL/JinitPatel_725.webp",
     "Category": "Lab Tech",
     "Designation": "Laboratory Technician"
   },
   {
-    "name": "Mr. Kalpeshkumar Shantilal Patel",
+    "name": "Mr. Kalpeshkumar Patel",
     "image": "/CSPIT_Supporting_Staff/EE/Kalpesh Patel_202.webp",
     "Category": "Lab Tech",
     "Designation": "Laboratory Technician"
   },
   {
-    "name": "Mr. Kirtibhai A Bhil",
+    "name": "Mr. Kirtibhai Bhil",
     "image": "/CSPIT_Supporting_Staff/CSE/Kirti Bhil_8392.webp",
     "Category": "Lab Tech",
     "Designation": "Lab Technician"
@@ -84,31 +84,31 @@
     "Designation": "Sr. Lab Technician"
   },
   {
-    "name": "Mr. Prakashbhai Ramanbhai Solanki",
+    "name": "Mr. Prakashbhai Solanki",
     "image": "/CSPIT_Supporting_Staff/IT/PrakashSolanki_8269.webp",
     "Category": "Lab Tech",
     "Designation": "Sr. Lab Technician"
   },
   {
-    "name": "Mr. Prijesh Rajendrabhai Patel",
+    "name": "Mr. Prijesh Patel",
     "image": "/CSPIT_Supporting_Staff/CIVIL/PrijeshPatel_778.webp",
     "Category": "Lab Tech",
     "Designation": "Senior Laboratory Technician"
   },
   {
-    "name": "Mr. Rahulkumar Kanubhai Solanki",
+    "name": "Mr. Rahulkumar Solanki",
     "image": "/CSPIT_Supporting_Staff/ME/Rahul Solanki_783.webp",
     "Category": "Lab Tech",
     "Designation": "Senior Laboratory Technician"
   },
   {
-    "name": "Mr. Rajeshkumar Kanubhai Raval",
+    "name": "Mr. Rajeshkumar Raval",
     "image": "/CSPIT_Supporting_Staff/CSE/RajeshRaval_8391.webp",
     "Category": "Lab Tech",
     "Designation": "Lab Technician"
   },
   {
-    "name": "Mr. Riteshkumar Ghanshyambhai Patel",
+    "name": "Mr. Riteshkumar Patel",
     "image": "/CSPIT_Supporting_Staff/ME/Ritesh Patel_231.webp",
     "Category": "Lab Tech",
     "Designation": "Sr. Lab Tech"
@@ -120,7 +120,7 @@
     "Designation": "Lab Tech"
   },
   {
-    "name": "Mr. Sandip Kumar Vasant Bhai Valand",
+    "name": "Mr. Sandipkumar Valand",
     "image": "/CSPIT_Supporting_Staff/CIVIL/SandipValand_488.webp",
     "Category": "Lab Tech",
     "Designation": "Senior Laboratory Technician"
@@ -132,61 +132,61 @@
     "Designation": "Laboratory Assistant"
   },
   {
-    "name": "Mr. Timilkumar Vikrambhai Patel",
+    "name": "Mr. Timilkumar Patel",
     "image": "/CSPIT_Supporting_Staff/EC/Timil Patel_651.webp",
     "Category": "Lab Tech",
     "Designation": "Lab Technician"
   },
   {
-    "name": "Mr. Trushit I Patel",
+    "name": "Mr. Trushit Patel",
     "image": "/CSPIT_Supporting_Staff/CIVIL/TrushitPatel_8361.webp",
     "Category": "Lab Tech",
     "Designation": "Laboratory Technician"
   },
   {
-    "name": "Mr. Rajeshbhai Dahyabhai Patel",
+    "name": "Mr. Rajeshbhai Patel",
     "image": "/CSPIT_Supporting_Staff/Workshop/Rajesh Patel_135.webp",
     "Category": "Lab Tech",
     "Designation": "Sr. Lab. Tech"
   },
   {
-    "name": "Mr. Gaurav R Patel",
+    "name": "Mr. Gaurav Patel",
     "image": "/CSPIT_Supporting_Staff/CIVIL/Gaurav Patel_8386.webp",
     "Category": "Lab Tech",
     "Designation": "Chemical Engineer"
   },
   {
-  "name": "Mr. Bhaveshbhai Kanubhai Suthar",
+  "name": "Mr. Bhaveshbhai Suthar",
   "image": "/CSPIT_Supporting_Staff/Workshop/Bhaveshbhai Suthar_337.webp",
   "Category": "Lab Tech",
   "Designation": "Carpenter"
   },
   {
-    "name": "Mr. Brijeshkumar Navinchandra Patel",
+    "name": "Mr. Brijeshkumar Patel",
     "image": "/CSPIT_Supporting_Staff/Workshop/Brijeshbhai Patel_116.webp",
     "Category": "Lab Tech",
     "Designation": "Welder"
   },
   {
-    "name": "Mr. Jagdishbhai Kanjibhai Patel",
+    "name": "Mr. Jagdishbhai Patel",
     "image": "/CSPIT_Supporting_Staff/Workshop/Jagdish Patel_117.webp",
     "Category": "Lab Tech",
     "Designation": "Carpenter"
   },
   {
-    "name": "Mr. Patel Mihir Kumar Ramesh Bhai",
+    "name": "Mr. Mihirkumar Patel",
     "image": "/CSPIT_Supporting_Staff/Workshop/Mihir Patel_120.webp",
     "Category": "Lab Tech",
     "Designation": "Fittar"
   },
   {
-    "name": "Mr. Mrugeshkumar Jagdishchandra Patel",
+    "name": "Mr. Mrugeshkumar Patel",
     "image": "/CSPIT_Supporting_Staff/Workshop/Mrugesh Patel_784.webp",
     "Category": "Lab Tech",
     "Designation": "Machinist"
   },
   {
-    "name": "Mr. Purvish D Patel",
+    "name": "Mr. Purvish Patel",
     "image": "/CSPIT_Supporting_Staff/Workshop/Purvish Patel_119.webp",
     "Category": "Lab Tech",
     "Designation": "Welder"
@@ -205,13 +205,13 @@
     "Designation": "Office Assistant"
   },
   {
-    "name": "Mr. Shrey Sanjaykumar Patel",
+    "name": "Mr. Shrey Patel",
     "image": "/CSPIT_Supporting_Staff/adminstaff/Shrey Patel_8420.webp",
     "Category": "Office Executives",
     "Designation": "Office Assistant"
   },
   {
-    "name": "Mr. Vishalkumar Mukeshbhai Patel",
+    "name": "Mr. Vishalkumar Patel",
     "image": "/CSPIT_Supporting_Staff/adminstaff/Vishal Patel_713.webp",
     "Category": "Office Executives",
     "Designation": "Assistant Section Officer"
