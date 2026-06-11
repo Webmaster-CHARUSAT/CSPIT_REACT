@@ -1035,6 +1035,31 @@
     "certifications": []
   },
   {
+    "name": "Dhruvika Sonar",
+    "title": "ASSISTANT PROFESSOR",
+    "degree": "M. Tech.",
+    "research_interests": [
+      "VLSI Design",
+      "RTL Design",
+      "DFT."
+    ],
+    "image_src": "/CSPIT_Faculty/Electronics/DhruvikaSonar.webp",
+    "subjects": [
+      "Design Testing and verification lab",
+      "System verilog lab"
+    ],
+    "research_projects": [],
+    "teaching": [],
+    "email": "dhruvikasonar.ec@charusat.ac.in",
+    "linkedin": "https://www.linkedin.com/in/dhruvika-sonar-70a2a31a1/",
+    "website": "",
+    "scholar": "",
+    "vidwan": "",
+    "awards": [],
+    "memberships": [],
+    "certifications": []
+  },
+  {
   "name": "Ms. Dipali Patel",
   "title": "ASSISTANT PROFESSOR",
   "degree": "M.Tech., Ph.D. (Pursuing)",
