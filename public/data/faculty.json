@@ -163,6 +163,40 @@
     "certifications": []
   },
   {
+  "name": "Mr. Akshayakumar Patel",
+  "title": "ASSISTANT PROFESSOR",
+  "degree": "PhD. (Pursuing)",
+  "research_interests": [
+    "Optical Communication",
+    "Image Processing",
+    "Python Programming"
+  ],
+  "image_src": "/CSPIT_Faculty/Electronics/AKSHAYAKUMAR.webp",
+  "subjects": [
+    "Digital Electronics",
+    "Basic of Electronics",
+    "Microprocessor",
+    "Microcontroller",
+    "Communication Engineering"
+  ],
+  "research_projects": [],
+  "teaching": [],
+  "email": "akshaypatel.ec@charusat.ac.in",
+  "linkedin": "https://www.linkedin.com/in/akshayakumar-patel-6440b91a5/",
+  "website": "",
+  "scholar": "",
+  "vidwan": "",
+  "awards": [
+    "Authored the book \"Programming with Python\"",
+    "Appreciation by NPTEL/SWAYAM for translating two NPTEL lecture series in regional language in November 2023 and March 2024.",
+    "Completed the NPTEL course \"Enabling Technologies for 6G Communications Networks\" with Elite + Gold (Feb-Mar 2026)",
+    "Completed the NPTEL course \"Optical Wireless Communications for Beyond 5G Networks and IoT\" with Elite certification (Jan-Apr 2026)",
+    "Completed the NPTEL course \"C Programming and Assembly Language\" with Elite certification (August 2025)"
+  ],
+  "memberships": [],
+  "certifications": []
+  },
+  {
     "name": "Ms. Akshita Kadam",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech., Ph. D. (Pursuing)",
@@ -802,6 +836,37 @@
     "certifications": []
   },
   {
+  "name": "Dhara Pomal",
+  "title": "ASSISTANT PROFESSOR",
+  "degree": "ME EXTC",
+  "research_interests": [
+    "Antenna System",
+    "Embedded System"
+  ],
+  "image_src": "CSPIT_Faculty/Electronics/DharaPomal.webp",
+  "subjects": [
+    "Digital Electronics",
+    "Computer Organization and Architecture",
+    "Basic Electronics",
+    "Internet of Things",
+    "Embedded Systems",
+    "Programming with C",
+    "Microprocessor and Interfacing"
+  ],
+  "research_projects": [
+    "Design of Substrate-Integrated Waveguide slot antenna with AZIM coating Antenna"
+  ],
+  "teaching": [],
+  "email": "dharapomal.ec@charusat.ac.in",
+  "linkedin": "https://www.linkedin.com/in/dhara-pomal-88647519a?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+  "website": "",
+  "scholar": "",
+  "vidwan": "",
+  "awards": [],
+  "memberships": [],
+  "certifications": []
+  },
+  {
     "name": "Mrs. Dhara Solanki",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech.",
@@ -962,6 +1027,31 @@
     "teaching": [],
     "email": "dheerajshringi.aiml@charusat.ac.in",
     "linkedin": "https://www.linkedin.com/in/dheeraj-kumar-shringi-030586107/",
+    "website": "",
+    "scholar": "",
+    "vidwan": "",
+    "awards": [],
+    "memberships": [],
+    "certifications": []
+  },
+  {
+    "name": "Dhruvika Sonar",
+    "title": "ASSISTANT PROFESSOR",
+    "degree": "M. Tech.",
+    "research_interests": [
+      "VLSI Design",
+      "RTL Design",
+      "DFT."
+    ],
+    "image_src": "/CSPIT_Faculty/Electronics/DhruvikaSonar.webp",
+    "subjects": [
+      "Design Testing and verification lab",
+      "System verilog lab"
+    ],
+    "research_projects": [],
+    "teaching": [],
+    "email": "dhruvikasonar.ec@charusat.ac.in",
+    "linkedin": "https://www.linkedin.com/in/dhruvika-sonar-70a2a31a1/",
     "website": "",
     "scholar": "",
     "vidwan": "",
@@ -1835,6 +1925,29 @@
     "certifications": []
   },
   {
+  "name": "Mr. Mayurkumar Makwana",
+  "title": "ASSISTANT PROFESSOR",
+  "degree": "Ph.D",
+  "research_interests": [
+    "Optical Communication"
+  ],
+  "image_src": "/CSPIT_Faculty/Electronics/MAYURKUMAR MAKWANA.webp",
+  "subjects": [
+    "C Language",
+    "Circuit Theory"
+  ],
+  "research_projects": [],
+  "teaching": [],
+  "email": "mayurmakwana.ec@charusat.ac.in",
+  "linkedin": "https://www.linkedin.com/in/mayur-makwana-b3b56b192/",
+  "website": "",
+  "scholar": "",
+  "vidwan": "",
+  "awards": [],
+  "memberships": [],
+  "certifications": []
+  },
+  {
     "name": "Dr. Mayurkumar Sutaria",
     "title": "PROFESSOR",
     "degree": "Ph. D.",
@@ -2259,6 +2372,55 @@
     "certifications": ["Energy Auditor, Energy Manager"]
   },
   {
+  "name": "Mr. Niral Yagnik",
+  "title": "ASSISTANT PROFESSOR",
+  "degree": "M.E., Ph.D. (Pursuing)",
+  "research_interests": [
+    "Power Electronics Converter",
+    "Renewable Energy",
+    "Electric Vehicle",
+    "Embedded Systems and Robotics"
+  ],
+  "image_src": "CSPIT_Faculty/Electronics/NiralYagnik.webp",
+  "subjects": [
+    "Analog Electronics",
+    "Digital Electronics & Microprocessor",
+    "Power Electronics",
+    "Microcontroller Programming & Interfacing",
+    "Circuit & Network",
+    "Field Theory",
+    "Industrial Instrumentation",
+    "Control of Electrical Drives",
+    "High Voltage Engineering",
+    "Elements of Electrical Design",
+    "Power Quality and Management",
+    "Design of AC Machine",
+    "Application of Power Electronics in Renewable Energy Conversion",
+    "Solid State DC Drives",
+    "Solid State AC Drives",
+    "Advanced Power Electronics",
+    "Hybrid Electric Vehicle",
+    "Applied Linear Algebra",
+    "Modelling and Analysis of Electrical Machine",
+    "Advance Electrical Machines",
+    "Energy Technology"
+  ],
+  "research_projects": [],
+  "teaching": [],
+  "email": "niralyagnik.ec@charusat.ac.in",
+  "linkedin": "https://www.linkedin.com/in/niral-yagnik-5b445838",
+  "website": "",
+  "scholar": "https://scholar.google.com/citations?user=iHwe5k4AAAAJ&hl=en",
+  "vidwan": "https://vidwan.inflibnet.ac.in/profile/580515",
+  "awards": [
+    "Best Paper Award for publishing a research paper in ICEBE & ICIE, Ahmedabad"
+  ],
+  "memberships": [
+    "The Indian Society for Technical Education (ISTE)"
+  ],
+  "certifications": []
+  },
+  {
     "name": "Dr. Nirav Bhatt",
     "title": "ASSOCIATE PROFESSOR, HEAD (AIML)",
     "degree": "Ph. D.",
@@ -2436,6 +2598,41 @@
     "awards": [],
     "memberships": [],
     "certifications": []
+  },
+  {
+  "name": "Mr. Parth Chauhan",
+  "title": "ASSISTANT PROFESSOR",
+  "degree": "M.E. (PhD Pursuing)",
+  "research_interests": [
+    "Embedded",
+    "Robotics",
+    "Internet of Things",
+    "VLSI"
+  ],
+  "image_src": "CSPIT_Faculty/Electronics/ParthChauhan.webp",
+  "subjects": [
+    "Basic Electronics",
+    "C Programming",
+    "Digital Electronics",
+    "Signal and Systems",
+    "Digital Signal and Systems",
+    "Python Programming",
+    "Image Processing",
+    "Fiber Optics Communication",
+    "Satellite Communication",
+    "Wireless Communication",
+    "Electronics Workshop"
+  ],
+  "research_projects": [],
+  "teaching": [],
+  "email": "parthchauhan.ec@charusat.ac.in",
+  "linkedin": "www.linkedin.com/in/parth-chauhan-328438197",
+  "website": "",
+  "scholar": "https://scholar.google.com/citations?user=RszOZWYAAAAJ&hl=en",
+  "vidwan": "",
+  "awards": [],
+  "memberships": [],
+  "certifications": []
   },
   {
     "name": "Mrs. Pinal Patel",
