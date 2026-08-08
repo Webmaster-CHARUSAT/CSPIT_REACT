@@ -1874,5 +1874,110 @@
       "/images/Events/workshop-nano-quest-jetson-nano/2.webp",
       "/images/Events/workshop-nano-quest-jetson-nano/3.webp"
     ]
+  },
+  {
+    "id": "techtalk-with-seniors-3",
+    "title": "TechTalk with Seniors 3.0 - New Roles in the AI Industry and How to Prepare for Them",
+    "date": "23 July 2026",
+    "description": "The Department of Information Technology, CSPIT, CHARUSAT, in association with the Competitive Programming Squad (CP Squad) Club, successfully organized TechTalk with Seniors 3.0 on 23 July 2026 at the Seminar Hall, A6 Building. The session was delivered by Mr. Nandit Kalaria, a final-year Information Technology student, multiple hackathon winner, and innovation enthusiast, on the topic \"New Roles in the AI Industry and How to Prepare for Them.\" Through this peer-learning session, he shared his experiences from hackathons, innovation projects, and AI development, while providing practical guidance on building technical skills, preparing for emerging AI roles, and creating a strong industry-ready profile. The interactive session motivated students to embrace continuous learning, innovation, and competitive problem-solving to excel in the evolving AI landscape.",
+    "thumbnail": "/images/Events/techtalk-with-seniors-3/thumbnail.webp",
+    "images": [
+      "/images/Events/techtalk-with-seniors-3/1.webp",
+      "/images/Events/techtalk-with-seniors-3/2.webp",
+      "/images/Events/techtalk-with-seniors-3/3.webp",
+      "/images/Events/techtalk-with-seniors-3/4.webp"
+    ]
+  },
+  {
+    "id": "mock-aptitude-test-09-july-2026",
+    "title": "Mock Aptitude Test",
+    "date": "9 July 2026",
+    "description": "Under the placement readiness program, the \"Mock Aptitude Test\" was conducted for B.Tech. (EE) students on 9 July 2026 with the objective of familiarizing students with the aptitude-test pattern commonly used in placement and competitive examinations. The test assessed students’ skills in quantitative aptitude, logical reasoning, verbal ability, and data interpretation. It helped students evaluate their current preparation level and identify areas requiring improvement, while focusing on problem-solving speed, accuracy, analytical thinking, and time-management skills. The activity provided students with a realistic, time-bound examination experience, helped reduce test anxiety, and built confidence for future placement assessments. It also encouraged students to practise aptitude questions regularly, develop effective test-taking strategies, and prepare for campus recruitment processes and other competitive examinations.",
+    "thumbnail": "/images/Events/mock-aptitude-test/thumbnail.webp",
+    "images": [
+      "/images/Events/mock-aptitude-test/1.webp",
+      "/images/Events/mock-aptitude-test/2.webp",
+      "/images/Events/mock-aptitude-test/3.webp"
+    ]
+  },
+  {
+    "id": "workshop-smart-electrical-systems",
+    "title": "Workshop on Smart Electrical Systems using IoT",
+    "date": "18 July 2026",
+    "description": "M & V PATEL Department of Electrical Engineering, Chandubhai S. Patel Institute of Technology (CSPIT), CHARUSAT successfully organized a one-day workshop on \"Smart Electrical Systems using IoT\" on 18 July 2026 (Saturday) at the EE Department, A6 Building. The workshop was conducted by Dr. Jignesh Patoliya, Sr. Engineer, eInfochips (An Arrow Company), who shared his expertise on the latest trends and industrial applications of the Internet of Things (IoT) in smart electrical systems. The session comprised both theoretical concepts and extensive hands-on training, enabling participants to gain practical experience in developing IoT-enabled electrical applications. Students worked with various hardware components including LEDs, buzzers, DC motors, ultrasonic sensors, and PIR motion sensors, and learned how to interface them with IoT platforms. They also implemented projects involving an online server, web-controlled robot, ThingSpeak cloud platform, and cloud-based monitoring and control, providing them with real-time data acquisition and remote device management experience. The interactive workshop encouraged active participation, problem-solving, and discussion with the industry expert. Overall, the event significantly enhanced students' practical skills, strengthened their understanding of IoT-based smart electrical systems, and bridged the gap between academic learning and real-world industrial applications.",
+    "thumbnail": "/images/Events/workshop-smart-electrical-systems/thumbnail.webp",
+    "images": [
+      "/images/Events/workshop-smart-electrical-systems/1.webp",
+      "/images/Events/workshop-smart-electrical-systems/2.webp",
+      "/images/Events/workshop-smart-electrical-systems/3.webp",
+      "/images/Events/workshop-smart-electrical-systems/4.webp"
+    ]
+  },
+  {
+    "id": "fdp-hands-on-aws",
+    "title": "Faculty Development Program (FDP) - Hands-on AWS: From Zero to Deployed",
+    "date": "20 June 2026",
+    "description": "The Department of Computer Science & Engineering, CSPIT, CHARUSAT successfully organized a Faculty Development Program (FDP) titled \"Hands-on AWS: From Zero to Deployed\" on 20 June 2026 at Lab 638, A7 Building. The program provided faculty members with practical exposure to Amazon Web Services (AWS), covering cloud computing fundamentals, AWS services and tools, and application deployment on the cloud. Through interactive hands-on sessions, participants gained valuable industry-relevant skills that can be effectively integrated into teaching, research, and academic projects. The FDP enhanced participants' understanding of cloud technologies while promoting experiential learning and strengthening their technical competencies in modern cloud computing platforms.",
+    "thumbnail": "/images/Events/fdp-hands-on-aws/thumbnail.webp",
+    "images": [
+      "/images/Events/fdp-hands-on-aws/1.webp",
+      "/images/Events/fdp-hands-on-aws/2.webp",
+      "/images/Events/fdp-hands-on-aws/3.webp",
+      "/images/Events/fdp-hands-on-aws/4.webp"
+    ]
+  },
+  {
+    "id": "workshop-fundamentals-agentic-ai-workflows",
+    "title": "Workshop on Fundamentals of Agentic AI Workflows",
+    "date": "10 April 2026",
+    "description": "The U & P U. Patel Department of Computer Engineering, CSPIT, CHARUSAT successfully organized a workshop on \"Fundamentals of Agentic AI Workflows\" on 10 April 2026 for first-year Computer Engineering students. The session was conducted by Mr. Abhay Purohit, Founder & CEO of Krivy Co., who introduced participants to the emerging paradigm of Agentic AI and intelligent workflow automation. The workshop covered the fundamental concepts of AI agents, autonomous decision-making, task orchestration, and real-world applications of agent-based systems. Through practical examples and interactive discussions, students gained valuable insights into the future of AI-driven solutions and modern software development trends. The session encouraged participants to explore innovative approaches to problem-solving using artificial intelligence. Overall, the workshop provided a strong foundation in Agentic AI and inspired students to engage with next-generation AI technologies.",
+    "thumbnail": "/images/Events/workshop-fundamentals-agentic-ai-workflows/thumbnail.webp",
+    "images": [
+      "/images/Events/workshop-fundamentals-agentic-ai-workflows/1.webp",
+      "/images/Events/workshop-fundamentals-agentic-ai-workflows/2.webp",
+      "/images/Events/workshop-fundamentals-agentic-ai-workflows/3.webp"
+    ]
+  },
+  {
+    "id": "workshop-infrastructure-monitoring-containerisation-devops",
+    "title": "Workshop on Infrastructure Monitoring, Containerisation & DevOps",
+    "date": "14–15 May 2026",
+    "description": "CSPIT, CHARUSAT successfully organized a 2-Day Workshop on \"Infrastructure Monitoring, Containerisation & DevOps\" on 14–15 May 2026 for 15 laboratory technicians and technical staff members. The workshop was conducted by Mr. Kalpesh Patel, Infrastructure & DevOps Specialist @ Electromech, who shared valuable industry insights and practical exposure to modern infrastructure management and DevOps practices. The sessions covered key concepts including infrastructure monitoring, container technologies, deployment workflows, and DevOps methodologies using industry-relevant tools and techniques. Through interactive demonstrations and hands-on learning, participants gained practical understanding of monitoring systems and container-based deployment environments. The workshop enhanced the technical competencies of the participants and provided awareness about current industry practices in infrastructure management and DevOps ecosystems. The program concluded successfully with active participation and positive feedback from all attendees.",
+    "thumbnail": "/images/Events/workshop-infrastructure-monitoring-containerisation-devops/thumbnail.webp",
+    "images": [
+      "/images/Events/workshop-infrastructure-monitoring-containerisation-devops/1.webp",
+      "/images/Events/workshop-infrastructure-monitoring-containerisation-devops/2.webp",
+      "/images/Events/workshop-infrastructure-monitoring-containerisation-devops/3.webp",
+      "/images/Events/workshop-infrastructure-monitoring-containerisation-devops/4.webp",
+      "/images/Events/workshop-infrastructure-monitoring-containerisation-devops/5.webp"
+    ]
+  },
+  {
+    "id": "expert-lecture-on-decision-making",
+    "title": "Expert Lecture on Decision Making",
+    "date": "30 July 2026",
+    "description": "The Department of Mechanical Engineering, under the club activity of \"House of Innovation\", organized an expert session on \"Decision Making\" on 30 July 2026. The session was conducted by Ms. Himadri Solanki from JCI, Vallabh Vidyanagar. The session introduced students to various methods and tools for effective decision making and explained how they can be utilized in routine life. It covered different types and conditions of decision-making approaches and included an interactive exercise to help students make informed career choices using the KT Analysis method. The session provided students with practical insights into structured decision making and encouraged them to apply effective decision-making techniques in their academic, personal, and professional lives.",
+    "thumbnail": "/images/Events/expert-lecture-on-decision-making/thumbnail.webp",
+    "images": [
+      "/images/Events/expert-lecture-on-decision-making/1.webp",
+      "/images/Events/expert-lecture-on-decision-making/2.webp",
+      "/images/Events/expert-lecture-on-decision-making/3.webp"
+    ]
+  },
+  {
+    "id": "workshop-prompt-to-production",
+    "title": "From Prompt to Production: A Hands-on Workshop on Claude Code, AI Coding Agents, and Context Engineering",
+    "date": "22 July 2026",
+    "description": "The Department of Computer Science & Engineering, CSPIT, CHARUSAT successfully organized an Eminent Industry Expert Talk titled \"From Prompt to Production: A Hands-on Workshop on Claude Code, AI Coding Agents, and Context Engineering\" on 22 July 2026 at the Seminar Hall, 2nd Floor, A6 Building. The expert session was delivered by Mr. Ritesh Vajariya, Founder & CEO, AI Guru, who shared practical insights into modern AI-assisted software development and context engineering. Participants gained hands-on exposure to Claude Code, AI coding agents, and industry best practices for building production-ready AI applications. The workshop bridged the gap between prompt engineering and real-world implementation, equipping attendees with industry-relevant skills and enhancing their understanding of emerging AI technologies. The interactive sessions encouraged active participation, fostering innovation and preparing participants for the evolving landscape of AI-driven software development.",
+    "thumbnail": "/images/Events/workshop-prompt-to-production/thumbnail.webp",
+    "images": [
+      "/images/Events/workshop-prompt-to-production/1.webp",
+      "/images/Events/workshop-prompt-to-production/2.webp",
+      "/images/Events/workshop-prompt-to-production/3.webp",
+      "/images/Events/workshop-prompt-to-production/4.webp",
+      "/images/Events/workshop-prompt-to-production/5.webp"
+    ]
   }
+
+    
 ]
