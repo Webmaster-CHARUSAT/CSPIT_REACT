@@ -37,6 +37,8 @@ const Footer = () => {
       title: "All India Council for Technical Education (AICTE)",
       content: (
         <ul className="space-y-2">
+          
+          <li><a href="./files/EOA_Report_2026-2027.PDF" target="_blank" rel="noopener noreferrer" className="hover:text-blue-300">AICTE EOA Report 2026-2027</a></li>
           <li><a href="./files/EOA-Report-2025-26.PDF" target="_blank" rel="noopener noreferrer" className="hover:text-blue-300">AICTE EOA Report 2025-2026</a></li>
           <li><a href="https://www.charusat.ac.in/cspit/files/EOA-Report-2024-2025.PDF" target="_blank" rel="noopener noreferrer" className="hover:text-blue-300">AICTE EOA Report 2024-2025</a></li>
           <li><a href="https://www.charusat.ac.in/cspit/files/EOA-Report-2023-2024.pdf" target="_blank" rel="noopener noreferrer" className="hover:text-blue-300">AICTE EOA Report 2023-2024</a></li>
