@@ -1,41 +1,5 @@
 [
   {
-    "name": "Dr. Aayushi Chaudhari",
-    "title": "ASSISTANT PROFESSOR",
-    "degree": "Ph. D.",
-    "research_interests": [
-      "Programming Languages (C, C++)",
-      "Machine Learning",
-      "Deep Learning"
-    ],
-    "image_src": "/CSPIT_Faculty/CE/AAYUSHI.webp",
-    "subjects": [
-      "Computer Concepts and Programming",
-      "Object Oriented Programming with C++",
-      "Big Data Analytics",
-      "Database Management System",
-      "Python Programming",
-      "Data Communication and Networking"
-    ],
-    "research_projects": [],
-    "teaching": [
-      "Development of Innovative Systems Linking Academic Education in Engineering and Informatics with Labor Market’s Needs organizing and funding body, European commission/European union"
-    ],
-    "email": "aayushchaudhari.ce@charusat.ac.in",
-    "linkedin": "https://www.linkedin.com/in/dr-aayushi-chaudhari-512b49101/",
-    "website": "",
-    "scholar": "https://scholar.google.com/citations?user=KshGdX4AAAAJ",
-    "vidwan": "https://vidwan.inflibnet.ac.in/profile/162195",
-    "awards": [
-      "Best Research Paper Award for paper entitled \"Emotion Recognition System via Facial Expressions and Speech Using Machine Learning and Deep Learning Techniques\" at 1st International Conference on Artificial Intelligence, Security and Communications, AISC 2022 organized by Indian Institute of Information Technology - Kota on 26th November, 2022",
-      "Best Research Paper Award for the paper entitled \"Comprehensive Analysis on Sentiment Analysis using Bidirectional Sequential Models\" at 4th International Conference on Intelligent Vision and Computing (ICIVC 2024) organized by National Institute of Technology Agartala on 24th November, 2024",
-      "Research Paper Award for the paper entitled \"Facial emotion recognition with inter-modality-attention-transformer-based self-supervised learning\" at CHARUSAT on 28th January, 2025 for publication in Electronics Journal",
-      "Research Achievement Award for the paper entitled \"Comprehensive Analysis on Sentiment Analysis using Bidirectional Sequential Models\" at CHARUSAT on Annual Felicitation Day of CSPIT (7th March, 2025) for achieving the best paper award."
-    ],
-    "memberships": ["Soft Computing Research Society (SCRS)"],
-    "certifications": []
-  },
-  {
     "name": "Dr. Abhishek Swarnkar",
     "title": "ASSISTANT PROFESSOR",
     "degree": "Ph. D.",
