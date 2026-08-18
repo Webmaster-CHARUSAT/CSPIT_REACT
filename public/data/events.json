@@ -1977,6 +1977,46 @@
       "/images/Events/workshop-prompt-to-production/4.webp",
       "/images/Events/workshop-prompt-to-production/5.webp"
     ]
+  },
+  {
+    "id": "learn-unlearn-relearn",
+    "title": "Learn-Unlearn-Relearn: The Key to Continuous Growth",
+    "date": "11 August 2026",
+    "description": "The seminar \"Learn-Unlearn-Relearn: The Key to Continuous Growth\" focused on developing a growth mindset among students by emphasizing the importance of continuous learning, adaptability, problem-solving, and self-improvement. The event encouraged students to embrace challenges, adapt to emerging technologies, and proactively develop new skills for academic, professional, and personal growth. The session highlighted the importance of learning new concepts, unlearning outdated approaches, and relearning relevant skills to remain adaptable and prepared for a rapidly changing world.",
+    "thumbnail": "/images/Events/learn-unlearn-relearn/thumbnail.webp",
+    "images": [
+      "/images/Events/learn-unlearn-relearn/1.webp",
+      "/images/Events/learn-unlearn-relearn/2.webp",
+      "/images/Events/learn-unlearn-relearn/3.webp",
+      "/images/Events/learn-unlearn-relearn/4.webp",
+      "/images/Events/learn-unlearn-relearn/5.webp"
+    ]
+  },
+  {
+    "id": "modern-erp-solutions",
+    "title": "Modern ERP Solutions: Transforming Business Processes with Technology",
+    "date": "4 August 2026",
+    "description": "The expert talk \"Modern ERP Solutions: Transforming Business Processes with Technology\" introduced students to modern Enterprise Resource Planning (ERP) solutions and their role in integrating and streamlining business processes. The session covered real-world ERP applications, digital transformation, industry practices, technology-driven decision-making, and career opportunities in enterprise technology. The expert insights helped students understand how ERP systems support organizations in improving operational efficiency, managing business processes, and adapting to technology-driven transformation.",
+    "thumbnail": "/images/Events/modern-erp-solutions/thumbnail.webp",
+    "images": [
+      "/images/Events/modern-erp-solutions/1.webp",
+      "/images/Events/modern-erp-solutions/2.DNG",
+      "/images/Events/modern-erp-solutions/3.DNG",
+      "/images/Events/modern-erp-solutions/4.DNG"
+    ]
+  },
+  {
+    "id": "from-data-to-decision",
+    "title": "From Data to Decision: Building Intelligent Systems",
+    "date": "5 August 2026",
+    "description": "The expert talk \"From Data to Decision: Building Intelligent Systems\" explored how data can be transformed into meaningful insights and intelligent decisions. The session provided students with an understanding of data-driven approaches, intelligent systems, AI applications, analytical thinking, and industry-oriented solution development. The discussion emphasized building practical and innovative data-driven systems and helped students understand how data and intelligent technologies can be leveraged to address real-world challenges and support effective decision-making.",
+    "thumbnail": "/images/Events/from-data-to-decision/thumbnail.webp",
+    "images": [
+      "/images/Events/from-data-to-decision/1.webp",
+      "/images/Events/from-data-to-decision/2.webp",
+      "/images/Events/from-data-to-decision/3.webp",
+      "/images/Events/from-data-to-decision/4.webp"
+    ]
   }
 
     
