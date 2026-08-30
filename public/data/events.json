@@ -2017,7 +2017,119 @@
       "/images/Events/from-data-to-decision/3.webp",
       "/images/Events/from-data-to-decision/4.webp"
     ]
+  },
+  {
+    "id": "industry-ready-backend-development-nodejs-expressjs",
+    "title": "Industry-Ready Backend Development using Node.js & Express.js",
+    "date": "14 August 2026",
+    "description": "The Department of Computer Science and Engineering, CHARUSAT, organised a workshop on \"Industry-Ready Backend Development using Node.js & Express.js\" on 14th August 2026 at CSPIT. The workshop was conducted by Mr. Akash Padhiar, CEO, Akash Technolabs, as the expert speaker. The session focused on developing practical and industry-relevant backend development skills using Node.js and Express.js. Participants gained valuable insights into backend technologies, development practices, and their real-world applications. The workshop provided an interactive platform for students to enhance their technical competencies and understand current industry requirements. The event concluded with an emphasis on continuous learning, practical implementation, and building industry-ready software development skills.",
+    "thumbnail": "/images/Events/industry-ready-backend-development-nodejs-expressjs/thumbnail.webp",
+    "images": [
+      "/images/Events/industry-ready-backend-development-nodejs-expressjs/1.webp",
+      "/images/Events/industry-ready-backend-development-nodejs-expressjs/2.webp",
+      "/images/Events/industry-ready-backend-development-nodejs-expressjs/3.webp",
+      "/images/Events/industry-ready-backend-development-nodejs-expressjs/4.webp"
+    ]
+  },
+  {
+    "id": "demo-day-innovation-exhibition",
+    "title": "Demo Day & Innovation Exhibition",
+    "date": "17 August 2026",
+    "description": "Chandubhai S. Patel Institute of Technology (CSPIT) organized a one-day \"Demo Day & Innovation Exhibition\" as part of the Institution’s Innovation Council (IIC) activity for engineering students. The event was organized on 17/08/2026 from 09:00 AM to 05:00 PM at A7 building in offline mode. The event provided a platform for engineering students to showcase their innovative ideas, prototypes, product concepts, and potential start-up ideas through poster presentations and demonstrations. Students presented their innovations to faculty members, experts, mentors, and fellow students, enabling them to communicate their concepts and receive constructive feedback. The event included two presentation and exhibition sessions, followed by an Expert Address & Innovation Mentoring Session. The expert interaction focused on innovation development, technical feasibility, product improvement, practical applications, market potential, entrepreneurship, and possible pathways towards incubation and industry linkage.",
+    "thumbnail": "/images/Events/demo-day-innovation-exhibition/thumbnail.webp",
+    "images": [
+      "/images/Events/demo-day-innovation-exhibition/1.webp",
+      "/images/Events/demo-day-innovation-exhibition/2.webp",
+      "/images/Events/demo-day-innovation-exhibition/3.webp",
+      "/images/Events/demo-day-innovation-exhibition/4.webp"
+    ]
+  },
+  {
+    "id": "code-beyond-the-classroom-red-hat-academy-orientation-open-source-club-launch",
+    "title": "Code Beyond the Classroom: Red Hat Academy Orientation & Open Source Club Launch",
+    "date": "15 July 2026",
+    "description": "The Department of Computer Engineering organised an Expert Orientation Seminar titled \"Code Beyond the Classroom: Red Hat Academy Orientation & Open Source Club Launch\" on 15 July 2026. The seminar featured experts Mr. Nilesh Vaghela, CEO at ElectroMech, and Mr. Abid Matoo, Senior Partner Sales Manager, who introduced students to Red Hat, Red Hat Academy, and the impact of open-source technologies. The session highlighted the benefits of Open Source Clubs, learning pathways, available resources, and future career opportunities. The event provided students with valuable insights into industry-relevant skills and encouraged them to explore open-source technologies beyond the classroom. The seminar was coordinated by Prof. Sarita Thummar and Prof. Rikita Chokshi.",
+    "thumbnail": "/images/Events/code-beyond-the-classroom-red-hat-academy-orientation-open-source-club-launch/thumbnail.webp",
+    "images": [
+      "/images/Events/code-beyond-the-classroom-red-hat-academy-orientation-open-source-club-launch/1.webp",
+      "/images/Events/code-beyond-the-classroom-red-hat-academy-orientation-open-source-club-launch/2.webp",
+      "/images/Events/code-beyond-the-classroom-red-hat-academy-orientation-open-source-club-launch/3.webp",
+      "/images/Events/code-beyond-the-classroom-red-hat-academy-orientation-open-source-club-launch/4.webp",
+      "/images/Events/code-beyond-the-classroom-red-hat-academy-orientation-open-source-club-launch/5.webp"
+    ]
+  },
+  {
+    "id": "internal-hackathon-for-sih-2026",
+    "title": "Internal Hackathon for SIH 2026",
+    "date": "20 August 2026",
+    "description": "The Internal Hackathon for SIH 2026 was organized at Chandubhai S. Patel Institute of Technology (CSPIT), CHARUSAT, as a preparatory selection round for the prestigious Smart India Hackathon 2026, an initiative of the Ministry of Education's Innovation Cell, Government of India. The event brought together numerous student teams who presented innovative solutions to real-world problem statements spanning domains such as smart education, campus safety, AI-powered systems, and centralized management platforms. Each team delivered a structured presentation before a panel of faculty judges, showcasing their problem understanding, proposed solutions, and technical feasibility. The hackathon reflected the spirit of the SIH 2026 theme of Ideas, Innovation, and Impact, encouraging participants to think beyond boundaries, collaborate effectively, and leverage technology for meaningful outcomes. The event successfully identified promising teams for onward participation and reinforced the institute's continued commitment to nurturing innovation, problem-solving skills, and a self-reliant, technologically empowered India.",
+    "thumbnail": "/images/Events/internal-hackathon-for-sih-2026/thumbnail.webp",
+    "images": [
+      "/images/Events/internal-hackathon-for-sih-2026/1.webp",
+      "/images/Events/internal-hackathon-for-sih-2026/2.webp",
+      "/images/Events/internal-hackathon-for-sih-2026/3.webp",
+      "/images/Events/internal-hackathon-for-sih-2026/4.webp",
+      "/images/Events/internal-hackathon-for-sih-2026/5.webp"
+    ]
+  },
+  {
+    "id": "math-ai-escape-challenge",
+    "title": "Math × AI Escape Challenge",
+    "date": "17 August 2026",
+    "description": "The Math × AI Escape Challenge, organized under the MathForAI Club, was an inter-department technical competition designed to connect linear algebra concepts with practical Artificial Intelligence and Machine Learning applications. The event consisted of engaging rounds including a Linear Algebra Escape Room and a Math × AI/ML Code Sprint. In Round 1, teams solved structured mathematical puzzles within a fixed time limit under the theme \"AI Lab Lockdown.\" The top-performing teams qualified for Round 2, where they implemented core AI/ML algorithms such as Linear Regression, Logistic Regression, k-Means, and Decision Trees from scratch without using external libraries. In the final round, participants were required to demonstrate algorithm correctness, explain mathematical foundations, and present their results effectively. The event provided a competitive yet collaborative platform for applying mathematical knowledge to real-world AI problems.",
+    "thumbnail": "/images/Events/math-ai-escape-challenge/thumbnail.png",
+    "images": [
+      "/images/Events/math-ai-escape-challenge/1.jpg",
+      "/images/Events/math-ai-escape-challenge/2.jpg",
+      "/images/Events/math-ai-escape-challenge/3.jpg",
+      "/images/Events/math-ai-escape-challenge/4.jpg",
+      "/images/Events/math-ai-escape-challenge/5.jpg"
+    ]
+  },
+  {
+    "id": "fdp-machine-learning-algorithms-mimo-antenna-design-optimization",
+    "title": "FDP on Machine Learning Algorithms for MIMO Antenna Design and Optimization",
+    "date": "22 August 2026",
+    "description": "The Department of Electronics & Communication Engineering organized an Online Faculty Development Programme (FDP) on \"Machine Learning Algorithms for MIMO Antenna Design and Optimization\" on 22 August 2026 (Saturday), from 10:00 AM onwards, in Online (Zoom) mode. The FDP focused on introducing the role of Machine Learning (ML) in modern antenna design and optimization, with emphasis on MIMO antenna systems, data-driven modelling, performance prediction, and optimization techniques. The programme provided participants with practical insights into the application of ML algorithms for advanced antenna design and performance enhancement. A total of 15 participants attended the FDP.",
+    "thumbnail": "/images/Events/fdp-machine-learning-algorithms-mimo-antenna-design-optimization/thumbnail.webp",
+    "images": [
+      "/images/Events/fdp-machine-learning-algorithms-mimo-antenna-design-optimization/1.webp",
+      "/images/Events/fdp-machine-learning-algorithms-mimo-antenna-design-optimization/2.webp",
+      "/images/Events/fdp-machine-learning-algorithms-mimo-antenna-design-optimization/3.webp",
+      "/images/Events/fdp-machine-learning-algorithms-mimo-antenna-design-optimization/4.webp",
+      "/images/Events/fdp-machine-learning-algorithms-mimo-antenna-design-optimization/5.webp"
+    ]
+  },
+  {
+    "id": "expert-lecture-critical-and-independent-thinking",
+    "title": "Expert Lecture on Critical and Independent Thinking",
+    "date": "13 August 2026",
+    "description": "The Department of Mechanical Engineering, under the club activity of “House of Innovation”, organized an expert session on “Critical and Independent Thinking” conducted by Ms. Himadri Solanki from JCI, Vallabh Vidyanagar, on 13 August 2026. The session included activities such as Towertop and a survival challenge to help students experience difficult situations and develop critical thinking skills.",
+    "thumbnail": "/images/Events/expert-lecture-critical-and-independent-thinking/thumbnail.webp",
+    "images": [
+      "/images/Events/expert-lecture-critical-and-independent-thinking/1.webp",
+      "/images/Events/expert-lecture-critical-and-independent-thinking/2.webp",
+      "/images/Events/expert-lecture-critical-and-independent-thinking/3.webp",
+      "/images/Events/expert-lecture-critical-and-independent-thinking/4.webp"
+    ]
+  },
+  {
+    "id": "mic-drop-1-0-eloquence-club",
+    "title": "Mic Drop 1.0",
+    "date": "19 August 2026",
+    "description": "The Department of Information Technology, CSPIT, CHARUSAT, through the Eloquence Club, successfully organized Mic Drop 1.0, a university-level, two-round public speaking and storytelling competition aimed at enhancing creative thinking, imaginative expression, and confidence in public speaking. The event witnessed enthusiastic participation from first-year students across various institutes of CHARUSAT, providing them with a vibrant platform to showcase their creativity and communication skills. In the first round, participants were challenged to create and narrate a compelling story based on a single paragraph while incorporating a specific role assigned to them, encouraging quick thinking, imagination, and adaptability. The second round featured prepared storytelling, allowing participants to showcase their storytelling abilities, expression, confidence, and stage presence. Beyond the competition, Mic Drop 1.0 created an excellent platform for interdepartmental camaraderie, interaction, and networking by bringing together students from diverse academic backgrounds. The event encouraged participants to step beyond their comfort zones, overcome social awkwardness and the fear of public speaking, and transform their ideas into engaging narratives. Through its innovative and interactive format, the competition reflected the Eloquence Club’s commitment to fostering creativity, effective communication, confidence, and a strong sense of community among students across CHARUSAT.",
+    "thumbnail": "/images/Events/mic-drop-1-0-eloquence-club/thumbnail.webp",
+    "images": [
+      "/images/Events/mic-drop-1-0-eloquence-club/1.webp",
+      "/images/Events/mic-drop-1-0-eloquence-club/2.webp",
+      "/images/Events/mic-drop-1-0-eloquence-club/3.webp",
+      "/images/Events/mic-drop-1-0-eloquence-club/4.webp",
+      "/images/Events/mic-drop-1-0-eloquence-club/5.webp",
+      "/images/Events/mic-drop-1-0-eloquence-club/6.webp",
+      "/images/Events/mic-drop-1-0-eloquence-club/7.webp",
+      "/images/Events/mic-drop-1-0-eloquence-club/8.webp",
+      "/images/Events/mic-drop-1-0-eloquence-club/9.webp"
+    ]
   }
-
-    
+      
 ]
