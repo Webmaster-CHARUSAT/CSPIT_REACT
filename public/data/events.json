@@ -2130,6 +2130,44 @@
       "/images/Events/mic-drop-1-0-eloquence-club/8.webp",
       "/images/Events/mic-drop-1-0-eloquence-club/9.webp"
     ]
+  },
+  {
+    "id": "build-before-you-graduate",
+    "title": "Build Before You Graduate",
+    "date": "13 August 2026",
+    "description": "The Department of Information Technology, CSPIT, CHARUSAT organized an Expert Talk on \"Build Before You Graduate\" on 13 August 2026 at the Seminar Hall, 1st Floor, PDPIAS Building, from 12:10 P.M. to 2:10 P.M. The session aimed to inspire and guide students to develop practical skills, build meaningful projects, and gain industry exposure before completing their graduation. The expert emphasized transforming academic knowledge into real-world solutions and encouraged students to participate in projects, hackathons, internships, workshops, technical competitions, and professional communities. The session provided valuable insights into industry expectations, problem-solving, innovation, teamwork, communication, creativity, and continuous learning. Students understood the importance of building a strong professional portfolio, GitHub profile, resume, and professional presence while consistently improving their technical and soft skills. The expert also encouraged students to start early, experiment, learn from real-world challenges, and showcase their work effectively. Overall, the session motivated students to utilize their college years productively, strengthen their employability, gain confidence, and follow a clear roadmap towards becoming industry-ready professionals before graduation.",
+    "thumbnail": "/images/Events/build-before-you-graduate/thumbnail.webp",
+    "images": [
+      "/images/Events/build-before-you-graduate/1.webp",
+      "/images/Events/build-before-you-graduate/2.webp",
+      "/images/Events/build-before-you-graduate/3.webp"
+    ]
+  },
+  {
+    "id": "expert-session-basics-of-supply-chain-and-sourcing",
+    "title": "Expert Session on Basics of Supply Chain and Sourcing",
+    "date": "24 August 2026",
+    "description": "An expert talk on \"Basics of Supply Chain and Sourcing\" was organized on 24 August 2026 from 8:00 PM to 10:00 PM for B.Tech. Mechanical Engineering students. The session was delivered by Mr. Yogesh Tharani, Deputy Manager, Supply Chain – Accessories, Maruti Suzuki India Ltd., to enhance students' understanding of industrial supply chain practices. The session covered supply chain fundamentals, push and pull models, Just-in-Time (JIT), value chain concepts, strategic sourcing, and the impact of natural disasters, pandemics, and geopolitical issues on global supply chains, supported by real-world examples from the automotive industry.",
+    "thumbnail": "/images/Events/expert-session-basics-of-supply-chain-and-sourcing/thumbnail.webp",
+    "images": [
+      "/images/Events/expert-session-basics-of-supply-chain-and-sourcing/1.webp",
+      "/images/Events/expert-session-basics-of-supply-chain-and-sourcing/2.webp",
+      "/images/Events/expert-session-basics-of-supply-chain-and-sourcing/3.webp",
+      "/images/Events/expert-session-basics-of-supply-chain-and-sourcing/4.webp",
+      "/images/Events/expert-session-basics-of-supply-chain-and-sourcing/5.webp"
+    ]
+  },
+  {
+    "id": "hands-on-workshop-on-git",
+    "title": "Hands-on Workshop on Git",
+    "date": "7 August 2026",
+    "description": "The Department of Computer Science and Engineering (CSE) organised a Hands-on Workshop on Git on 7 August 2026. The workshop provided students with practical exposure to Git fundamentals, version control, repository management, and collaborative workflows. Participants learned essential Git commands and gained hands-on experience in creating and managing professional repositories. The session also focused on branches and teamwork, enabling students to understand effective collaboration using Git. The workshop aimed to strengthen students' practical skills and encourage the adoption of industry-relevant development practices.",
+    "thumbnail": "/images/Events/hands-on-workshop-on-git/thumbnail.webp",
+    "images": [
+      "/images/Events/hands-on-workshop-on-git/1.webp",
+      "/images/Events/hands-on-workshop-on-git/2.webp",
+      "/images/Events/hands-on-workshop-on-git/3.webp"
+    ]
   }
-      
+    
 ]
