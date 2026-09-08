@@ -1,23 +1,23 @@
 [
   {
     "Club ID": "AWS",
-    "Club Name": "AWS Student Club",
+    "Club Name": "AWS Student Builder Group",
     "Logo": "/images/Student Club/aws.webp",
-    "Official Website": "https://asc.charusat.ac.in/",
-    "About": "Together as a team AWS Cloud Club CHARUSAT aims to provide a platform for the intellectuals to learn and explore the cloud fundamentals of AWS. AS part of the club we assure that every individual gets something productive out of this cub. AWS Cloud Club CHARUSAT intends to bring developers under one roof to create a community to inspire many. The club will be channeled into propagating learning and teaching symbiotically. ",
+    "Official Website": "https://cspit.charusat.ac.in/club/AWS",
+    "About": "At the AWS Student Builder Group – CHARUSAT, we believe real innovation kicks off when curious minds collaborate. We’re building an open, welcoming community where aspiring developers, tech enthusiasts, and problem-solvers can dive into Amazon Web Services and get comfortable with the cloud. More than just a club, we’re a space built on mutual support—where learning and sharing go hand in hand. Whether you’re writing your first line of code or building full-scale projects, we make sure everyone gains real, hands-on experience that boosts both their studies and future careers. ",
     "Faculty Coordinators": [
       {
-        "Name": "Dr. Sanket Suthar",
+        "Name": "Prof. Ravi Patel",
         "Role": "faculty coordinator",
-        "Email": "sanketsuthar.it@charusat.ac.in",
+        "Email": "ravipatel.it@charusat.ac.in",
         "Phone": "999999",
-        "Image": "/CSPIT_Faculty/IT/SANKETKUMAR.webp"
+        "Image": "/CSPIT_Faculty/IT/RaviPatel.webp"
       }
     ],
     "Student Coordinators": [
       {
-        "Name": "Jiya Thakkar",
-        "ID": "22IT147"
+        "Name": "Diya Prajapati",
+        "ID": "24DCS102"
       }
     ],
     "Gallery": [
@@ -316,9 +316,7 @@
         "Name": "Algorithm to Gate",
         "Date": "02/03/2024 to 16/03/2024",
         "Description": "We are students of 7th semester of CE department, CSPIT and in last semester we were conducting classes to the student who were in 4th semester back then and interested for GATE examination. So, this is the report of that. First of all we and Mrugendra sir have discussed about how can we conduct such classes and then we have introduced this idea in both the classes of 4th semester. At that time we have also registered all the student who were interested in this. Then by the time we were conducting classes of DBMS subject (because it was in their syllabus in semester 4) as well as General Aptitude. In that the procedure of teaching was, firstly we were explaining the important topics of the subject regarding to GATE exam as well as which is helpful for semester exams also and then we were providing some practice question in the class and as a home work also and in the next class we were giving the solution. ",
-        "Images": [
-          "/images/Student Club/Club_Gamma/Algorithm_to_Gate/1.webp"
-        ],
+        "Images": ["/images/Student Club/Club_Gamma/Algorithm_to_Gate/1.webp"],
         "Report": "/images/Student Club/Student Club/Club_Gamma/Algorithm_to_Gate/report.pdf"
       },
       {
@@ -532,7 +530,7 @@
     "Club Name": "House of Innovation Club",
     "Logo": "/images/Student Club/innovation.webp",
     "About": "House of Innovation - Skills for Life is the club which has been established by the mechanical engineering students. The aim to establish this club is to provide the technical & non-technical skills as well as knowledge. Here, the method we follow is \"best way to learn is to teach others\" under the guidance of specilist provided by the mechanical department, charusat. This club conducts seminars, sessions for life skills, soft skills and also classes for language learning. ",
-   "Faculty Coordinators": [
+    "Faculty Coordinators": [
       {
         "Name": "Prof. Vikas Panchal",
         "Role": "faculty coordinator",
@@ -555,7 +553,7 @@
       "/images/Student Club/House_of_Innovation/Event1/4.webp",
       "/images/Student Club/House_of_Innovation/Event1/6.webp"
     ],
-     "Events": [
+    "Events": [
       {
         "Name": "Expert Session on \"Time Management\"",
         "Date": "20 September 2024",
@@ -637,18 +635,14 @@
         "Name": "Expert Talk on Digital VLSI Testing",
         "Date": "2 March 2024",
         "Description": "VLSI Design has become an important domain in the field of Digital and Analog circuits. The aim of this talk is to provide a basic knowledge of design concepts in VLSI Design and motivate the students towards research in the field of VLSI. ",
-        "Images": [
-          "/images/Student Club/ChipX/expert_talk/poster.webp"
-        ],
+        "Images": ["/images/Student Club/ChipX/expert_talk/poster.webp"],
         "Report": "/images/Student Club/ChipX/research/report.pdf"
       },
       {
         "Name": "VLSI Career Success Stories & Industry Outlook",
         "Date": "1 September 2023",
         "Description": "Alumni Interaction on VLSI Career Success Stories & Industry Outlook",
-        "Images": [
-          "/images/Student Club/ChipX/alumni_interaction/poster.webp"
-        ],
+        "Images": ["/images/Student Club/ChipX/alumni_interaction/poster.webp"],
         "Report": "/images/Student Club/ChipX/alumni_interaction/report.pdf"
       }
     ]
@@ -1066,7 +1060,7 @@
       "/images/Student Club/AI_For_All/Ethical_AI/5.webp"
     ],
     "Events": [
-            {
+      {
         "Name": "AI FOR ALL Meetup 1",
         "Date": "September 16, 2023",
         "Description": "The primary objective of the \"AI for All\" meetup was to create awareness and understanding among students, faculty, and staff members about the profound impact of AI and ML across various domains. We envisioned to encourage interdisciplinary collaboration, foster innovative thinking, and inspire participants to harness the potential of these technologies in their respective fields. The Department of AIML organised a meet-up named \"AI for all\" on 16/09/2023. The meet-up was held in the central square of EC/EE building of CSPIT. Approximately 40-45 people attended the meet-up which included HODs, Principal and Faculty members of different disciplines across CHARUSAT, also students studying in 2nd and 1st year of AIML. ",
@@ -1532,7 +1526,7 @@
       {
         "Name": "Introductory Workshop on \"Robotics\"",
         "Date": "27 June - 29 June 2024",
-                "Description": "The workshop started with the Introduction to Robotics. On the First Day participants get hands-on session of Sensor Interfacing with Tinkercad. On the second day participants get hands-on session of Actuator Interfacing with Tinkercad and Third day 3D Design of Robotics components were discussed. ",
+        "Description": "The workshop started with the Introduction to Robotics. On the First Day participants get hands-on session of Sensor Interfacing with Tinkercad. On the second day participants get hands-on session of Actuator Interfacing with Tinkercad and Third day 3D Design of Robotics components were discussed. ",
         "Images": [
           "/images/Student Club/Robotics/Workshop/poster.webp",
           "/images/Student Club/Robotics/Workshop/1.webp",
