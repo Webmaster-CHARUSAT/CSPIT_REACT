@@ -4,46 +4,46 @@ import { faArrowLeft, faArrowRight } from "@fortawesome/free-solid-svg-icons";
 
 // Testimonials data
 const testimonials = [
-  {
-    id: 1,
-    name: "Aishwariya Biju",
-    designation: "Student",
-    testimonial:
-      "The faculties are always enthusiastic to help us in all means. Here apart from polishing us for the being the part of industry they also arrange many technical and non-technical events as for the overall development of students.",
-    imageSrc: "https://www.charusat.ac.in/cspit/images/testimony/ec/testimonial-2.webp",
-  },
-  {
-    id: 2,
-    name: "Meet Shah",
-    designation: "Student",
-    testimonial:
-      "CSPIT provides perfect platform for the students to scan, search and work over their ideas with the best support and guidance provided by the faculty members. Students are also acknowledged with all the upcoming technologies used and are also taught to use them which trains them for their challenging and bright future.",
-    imageSrc: "https://www.charusat.ac.in/cspit/images/testimony/it/testimonial-2.webp",
-  },
-  {
-    id: 3,
-    name: "Nilesh Ranpura",
-    designation: "Project Manager, eInfochips",
-    testimonial:
-      "We have been hiring students from your department as well as giving them Summer Internships in our organization. The quality of the students from Electronics and Communication Engineering of CHARUSAT University is outstanding and the ones we have employed from campus recruitment are truly an asset to our organization.",
-    imageSrc: "https://www.charusat.ac.in/cspit/images/testimony/ec/testimonial-3.webp",
-  },
-  {
-    id: 4,
-    name: "Parthav Vyas",
-    designation: "Director of Engineering, Scaledge Technology",
-    testimonial:
-      "We have observed that Charusat Changa's EC students receive exceptional motivation, guidance, and support from their dedicated faculty members, which is truly remarkable. As a student aspiring to build a successful career, it is crucial to choose an institute that values holistic development. In that regard, Charusat Changa stands out as an institute that prioritizes comprehensive growth.",
-    imageSrc: "https://www.charusat.ac.in/cspit/images/testimony/ec/testimonial-7.webp",
-  },
-  {
-    id: 5,
-    name: "Ila Pokar",
-    designation: "Parent",
-    testimonial:
-      "Charusat by providing various facilities to the students has proved that it is not only being study oriented university. The counselling batches assigned to the respective faculties has been an initiative that has helped the students at various points in their college life. Along with the platforms that it provides to enhance the co-curricular skills is pretty good.",
-    imageSrc: "https://www.charusat.ac.in/cspit/images/testimony/it/testimonial-1.webp",
-  },
+  // {
+  //   id: 1,
+  //   name: "Aishwariya Biju",
+  //   designation: "Student",
+  //   testimonial:
+  //     "The faculties are always enthusiastic to help us in all means. Here apart from polishing us for the being the part of industry they also arrange many technical and non-technical events as for the overall development of students.",
+  //   imageSrc: "https://www.charusat.ac.in/cspit/images/testimony/ec/testimonial-2.webp",
+  // },
+  // {
+  //   id: 2,
+  //   name: "Meet Shah",
+  //   designation: "Student",
+  //   testimonial:
+  //     "CSPIT provides perfect platform for the students to scan, search and work over their ideas with the best support and guidance provided by the faculty members. Students are also acknowledged with all the upcoming technologies used and are also taught to use them which trains them for their challenging and bright future.",
+  //   imageSrc: "https://www.charusat.ac.in/cspit/images/testimony/it/testimonial-2.webp",
+  // },
+  // {
+  //   id: 3,
+  //   name: "Nilesh Ranpura",
+  //   designation: "Project Manager, eInfochips",
+  //   testimonial:
+  //     "We have been hiring students from your department as well as giving them Summer Internships in our organization. The quality of the students from Electronics and Communication Engineering of CHARUSAT University is outstanding and the ones we have employed from campus recruitment are truly an asset to our organization.",
+  //   imageSrc: "https://www.charusat.ac.in/cspit/images/testimony/ec/testimonial-3.webp",
+  // },
+  // {
+  //   id: 4,
+  //   name: "Parthav Vyas",
+  //   designation: "Director of Engineering, Scaledge Technology",
+  //   testimonial:
+  //     "We have observed that Charusat Changa's EC students receive exceptional motivation, guidance, and support from their dedicated faculty members, which is truly remarkable. As a student aspiring to build a successful career, it is crucial to choose an institute that values holistic development. In that regard, Charusat Changa stands out as an institute that prioritizes comprehensive growth.",
+  //   imageSrc: "https://www.charusat.ac.in/cspit/images/testimony/ec/testimonial-7.webp",
+  // },
+  // {
+  //   id: 5,
+  //   name: "Ila Pokar",
+  //   designation: "Parent",
+  //   testimonial:
+  //     "Charusat by providing various facilities to the students has proved that it is not only being study oriented university. The counselling batches assigned to the respective faculties has been an initiative that has helped the students at various points in their college life. Along with the platforms that it provides to enhance the co-curricular skills is pretty good.",
+  //   imageSrc: "https://www.charusat.ac.in/cspit/images/testimony/it/testimonial-1.webp",
+  // },
   {
     id: 6,
     name: "Melita Castelino",

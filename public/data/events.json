@@ -2139,8 +2139,7 @@
     "thumbnail": "/images/Events/build-before-you-graduate/thumbnail.webp",
     "images": [
       "/images/Events/build-before-you-graduate/1.webp",
-      "/images/Events/build-before-you-graduate/2.webp",
-      "/images/Events/build-before-you-graduate/3.webp"
+      "/images/Events/build-before-you-graduate/2.webp"
     ]
   },
   {
@@ -2168,6 +2167,18 @@
       "/images/Events/hands-on-workshop-on-git/2.webp",
       "/images/Events/hands-on-workshop-on-git/3.webp"
     ]
+  },
+  {
+    "id": "ai-dlc-aws-kiro-session",
+    "title": "AI-DLC and AWS Kiro Educational Session",
+    "date": "12 September 2026",
+    "description": "An educational session on AI-DLC (AI-Driven Development Lifecycle) and AWS technologies was organized by AWS Academy CHARUSAT on 12 September 2026 for 60 students through online and offline modes. The two-hour session, conducted on Microsoft Teams, provided students with practical exposure to modern AI-assisted software development practices and AWS tools. The session featured industry experts Omshree Butani, AWS Community Builder, AWS Golden Jacket Holder, and 12× AWS Certified; S. Logesh, AWS Community Builder and AI Engineer; and Bhuvaneshwari Subramani, AWS Hero and author of AI-DLC. The experts introduced students to the concepts and significance of AI-DLC and Project Kalam, explaining how AI can be integrated throughout the software development lifecycle and how modern development workflows are evolving with AI-powered tools. The session also included an introduction to AWS Kiro, followed by a practical walkthrough demonstrating its capabilities and usage. Students were additionally introduced to the AWS Sandbox environment, providing them with an opportunity to understand the practical implementation of the concepts discussed. The interactive session enabled students to gain insights directly from experienced AWS professionals and understand the practical applications of AI-driven development. Faculty Coordinators Ravi Patel and Sagar Patel, AWS Cloud Captain Diya Prajapati, and Student Coordinators Het Gangani and Maitri Kalaria contributed to the successful organization of the session. Overall, the session provided valuable exposure to AI-DLC, Project Kalam, AWS Kiro, and AWS Sandbox while helping students understand the role of AI in modern software development and encouraging engagement with emerging technologies. The event was supported by CHARUSAT as part of its continued efforts to facilitate meaningful industry interactions and provide students with opportunities to learn emerging technologies.",
+    "thumbnail": "/images/Events/ai-dlc-aws-kiro-session/thumbnail.webp",
+    "images": [
+      "/images/Events/ai-dlc-aws-kiro-session/1.webp",
+      "/images/Events/ai-dlc-aws-kiro-session/2.webp",
+      "/images/Events/ai-dlc-aws-kiro-session/3.webp",
+      "/images/Events/ai-dlc-aws-kiro-session/4.webp"
+    ]
   }
-    
 ]
