@@ -2180,5 +2180,71 @@
       "/images/Events/ai-dlc-aws-kiro-session/3.webp",
       "/images/Events/ai-dlc-aws-kiro-session/4.webp"
     ]
+  },
+  {
+    "id": "design-your-own-badges-ieee-step-activity",
+    "title": "Design Your Own Badges - IEEE STEP Activity",
+    "date": "22 August 2026",
+    "description": "The IEEE CASS Student Chapter welcomed 50 newly joined members through the engaging “Design Your Own Badges” activity. The event aimed to introduce students to IEEE CASS, encourage creativity and self-expression, and foster interaction, networking, and a strong sense of belonging within the chapter.",
+    "thumbnail": "/images/Events/design-your-own-badges-ieee-step-activity/thumbnail.webp",
+    "images": [
+      "/images/Events/design-your-own-badges-ieee-step-activity/1.webp",
+      "/images/Events/design-your-own-badges-ieee-step-activity/2.webp"
+    ]
+  },
+  {
+    "id": "barracks-wargames-2026",
+    "title": "BARRACKS WarGames 2026",
+    "date": "13 August 2026",
+    "description": "The Computer Engineering Department, CHARUSAT, organized BARRACKS WarGames 2026, a three-day real-world application security championship held at the CHARUSAT campus. The first day featured an engaging hands-on workshop focused on practical aspects of Web, API, AI, and Cloud security. The following two days comprised an intensive hackathon, where participants worked on live applications and tackled real-world security challenges. The event provided participants with valuable practical exposure to application security, ethical hacking, and vulnerability identification in a competitive environment. With total rewards worth ₹3,00,000+, the event also offered cash rewards, hiring opportunities, certification benefits, and advanced learning opportunities.",
+    "thumbnail": "/images/Events/barracks-wargames-2026/thumbnail.webp",
+    "images": [
+      "/images/Events/barracks-wargames-2026/1.webp",
+      "/images/Events/barracks-wargames-2026/2.webp",
+      "/images/Events/barracks-wargames-2026/3.webp",
+      "/images/Events/barracks-wargames-2026/4.webp",
+      "/images/Events/barracks-wargames-2026/5.webp",
+      "/images/Events/barracks-wargames-2026/6.webp"
+    ]
+  },
+  {
+    "id": "diabetes-in-the-modern-era-awareness-prevention-management",
+    "title": "Diabetes in the Modern Era: Awareness, Prevention & Management",
+    "date": "12 September 2026",
+    "description": "The U & P. U. Patel Department of Computer Engineering, CHARUSAT, organized an awareness session titled \"Diabetes in the Modern Era: Awareness, Prevention & Management\" on 12 September 2026. The session was conducted to promote awareness about diabetes, its risk factors, preventive measures, and effective management practices in modern lifestyles. The session was delivered by Mr. Sumeet Dhagia, Director – Impact Management, The Diabetes Foundation, and a Type 1 Diabetes Advocate & Diabetes Educator. He shared valuable insights into diabetes prevention, management, and the importance of adopting healthy lifestyle practices. The session provided participants with practical knowledge and encouraged them to take proactive steps toward better health and well-being. The event was coordinated by Ms. Bijal Suthar and Ms. Chhaya Zala, under the convenership of Dr. Nikita Bhatt.",
+    "thumbnail": "/images/Events/diabetes-in-the-modern-era-awareness-prevention-management/thumbnail.webp",
+    "images": [
+      "/images/Events/diabetes-in-the-modern-era-awareness-prevention-management/1.webp",
+      "/images/Events/diabetes-in-the-modern-era-awareness-prevention-management/2.webp",
+      "/images/Events/diabetes-in-the-modern-era-awareness-prevention-management/3.webp",
+      "/images/Events/diabetes-in-the-modern-era-awareness-prevention-management/4.webp"
+    ]
+  },
+  {
+    "id": "industrial-visit-wanakbori-thermal-power-station",
+    "title": "Industrial Visit at Wanakbori Thermal Power Station",
+    "date": "15 September 2026 & 22 September 2026",
+    "description": "The Department of Mechanical Engineering organized industrial visits to Wanakbori Thermal Power Station on 15 September 2026 and 22 September 2026 for Mechanical Engineering students. The visits provided students with practical exposure to thermal power generation, major plant equipment, and various operational processes. The industrial visits helped students connect their theoretical knowledge with real-world industrial practices and enhanced their practical understanding of Power Plant Engineering.",
+    "thumbnail": "/images/Events/industrial-visit-wanakbori-thermal-power-station/thumbnail.webp",
+    "images": [
+      "/images/Events/industrial-visit-wanakbori-thermal-power-station/1.webp",
+      "/images/Events/industrial-visit-wanakbori-thermal-power-station/2.webp",
+      "/images/Events/industrial-visit-wanakbori-thermal-power-station/3.webp",
+      "/images/Events/industrial-visit-wanakbori-thermal-power-station/4.webp",
+      "/images/Events/industrial-visit-wanakbori-thermal-power-station/5.webp"
+    ]
+  },
+  {
+    "id": "industrial-visit-suryadeep-alloy-steel-castings",
+    "title": "Industrial Visit at Suryadeep Alloy Steel Castings",
+    "date": "17 September 2026",
+    "description": "The CHAMOS Matrusanstha Department of Mechanical Engineering organized an industrial visit to Suryadeep Alloy Steel Castings on 17 September 2026. Suryadeep Alloy Steel Castings Pvt. Ltd. is a manufacturing company located in Vithal Udyognagar, Vallabh Vidyanagar, Gujarat, specializing in sand and sand-core-based castings. The company manufactures S.G. iron, Ni-Hard, heat-resistant cast steel, and manganese-steel castings, with facilities for processes such as melting, heat treatment, sand/shot blasting, machining, and inspection. A total of 108 students of B.Tech. Mechanical Engineering 3rd semester participated in the visit. The visit provided students with valuable practical exposure to industrial foundry practices, strengthened their understanding of metal casting processes, and enhanced their ability to connect theoretical concepts with actual manufacturing operations. It also motivated students to explore career and research opportunities in foundry technology.",
+    "thumbnail": "/images/Events/industrial-visit-suryadeep-alloy-steel-castings/thumbnail.webp",
+    "images": [
+      "/images/Events/industrial-visit-suryadeep-alloy-steel-castings/1.webp",
+      "/images/Events/industrial-visit-suryadeep-alloy-steel-castings/2.webp",
+      "/images/Events/industrial-visit-suryadeep-alloy-steel-castings/3.webp",
+      "/images/Events/industrial-visit-suryadeep-alloy-steel-castings/4.webp"
+    ]
   }
 ]
