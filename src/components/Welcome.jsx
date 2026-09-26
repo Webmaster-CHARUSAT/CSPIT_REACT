@@ -65,7 +65,7 @@ const AboutSection = () => {
           <h1 id="about-us">
             <span>Welcome to</span> <br />
             <span className="highlight">
-              Chandubhai S. Patel Institue of Technology (CSPIT)
+              Chandubhai S. Patel Institute of Technology (CSPIT)
             </span>
           </h1>
           <p>
