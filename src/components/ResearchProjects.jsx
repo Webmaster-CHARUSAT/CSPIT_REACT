@@ -23,7 +23,7 @@ const ResearchProjects = () => {
           // Fall back to mock data if API fails
           data = [];
         }
-        
+
         // Sort by date (newest first)
         data.sort((a, b) => new Date(b.date) - new Date(a.date));
         console.log("Data loaded successfully:", data);
@@ -121,7 +121,7 @@ const ResearchProjects = () => {
                     Funding Agency
                   </th>
                   <th className="p-4 font-semibold uppercase tracking-wider border-none w-[20%] text-center">
-                    Total Sanctioned Fund (INR)
+                    Total Sanctioned Fund
                     <div className="text-[1.1rem] text-[#ffc107] font-extrabold">
                       {loading
                         ? "Loading..."
@@ -132,7 +132,7 @@ const ResearchProjects = () => {
                     Investigators
                   </th>
                   <th className="p-4 font-semibold uppercase tracking-wider border-none rounded-r-lg w-[10%] text-center">
-                    Date
+                    Date (dd/mm/yyyy)
                   </th>
                 </tr>
               </thead>
@@ -153,36 +153,38 @@ const ResearchProjects = () => {
                       <td className="p-4 text-center border-t-2 border-b-2 border-l-2 rounded-l-lg border-[rgba(240,248,255,0.8)]">
                         {index + 1}
                       </td>
-                      
+
                       {/* Project Title */}
                       <td className="p-4 text-center border-t-2 border-b-2 border-[rgba(240,248,255,0.8)] font-semibold text-[#0056b3]">
                         {project.project_title || "N/A"}
                       </td>
-                      
+
                       {/* Funding Agency */}
                       <td className="p-4 text-center border-t-2 border-b-2 border-[rgba(240,248,255,0.8)]">
                         {project.funding_agency || "N/A"}
                       </td>
-                      
+
                       {/* Total Fund Received */}
                       <td className="p-4 text-center border-t-2 border-b-2 border-[rgba(240,248,255,0.8)] text-[#ebb30a] font-extrabold text-lg">
-                        {project.total_fund_received ? 
-                          Number(project.total_fund_received).toLocaleString() : 
-                          "N/A"}
+                        {project.total_fund_received
+                          ? Number(project.total_fund_received).toLocaleString()
+                          : "N/A"}
                       </td>
-                      
+
                       {/* Investigators */}
                       <td className="p-4 text-center border-t-2 border-b-2 border-[rgba(240,248,255,0.8)]">
                         {project.project_investigators || "N/A"}
                       </td>
-                      
+
                       {/* Date */}
                       <td className="p-4 text-center border-t-2 border-b-2 border-r-2 rounded-r-lg border-[rgba(240,248,255,0.8)]">
-                        {project.date ? new Date(project.date).toLocaleDateString('en-GB', {
-                          day: '2-digit',
-                          month: '2-digit',
-                          year: 'numeric'
-                        }).replace(/\//g, '-') : "N/A"}
+                        {project.date
+                          ? new Date(project.date).toLocaleDateString("en-GB", {
+                              day: "2-digit",
+                              month: "2-digit",
+                              year: "numeric",
+                            })
+                          : "N/A"}
                       </td>
                     </tr>
                   ))}
