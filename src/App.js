@@ -42,41 +42,42 @@
 
 // export default App;
 
-import React, { useEffect } from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import AOS from 'aos';
-import 'aos/dist/aos.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import './styles/main.css';
-import ImageSlider from './components/ImageSlider';
-import NavBar from './components/Navbar';
-import Programs from './components/Programs';
-import HonorsMinorProgramsSection from './components/hons';
-import IndustryCoursesSection from './components/IndustryCourses';
-import ProfessionalSocietiesSection from './components/ProfessionalSociety';
-import StudentClubsSection from './components/StudentClub';
-import ClubDetails from './components/ClubDetails';
-import StudentProjectsSection from './components/StudentProjects';
-import RecruitersSection from './components/Recruiters';
-import ScalarsSection from './components/Scalar';
-import MOUSection from './components/MOU';
-import ResearchThrustAreas from './components/Thrust';
-import TestimonialsSection from './components/Testimonials';
-import MessageSection from './components/Message';
-import GallerySection from './components/Galley';
-import Footer from './components/Footer';
-import CommunitySlider from './components/Community';
-import AboutUsSection from './components/AboutUsSection';
-import ResearchProjects from './components/ResearchProjects';
-import ResearchFacilities from './components/ResearchFacilities';
-import FacultySection from './components/Faculty';
-import FacultyDetails from './components/FacultyDetail';
-import DriveContentViewer from './components/Drive';
-import AboutSection from './components/Welcome';
-import ECC from './components/ECC';
-import StudentCornerPage from './components/StudentCorner';
-import EventsSection from './components/Events';
-import EventsPage from './components/EventsPage';
+import React, { useEffect } from "react";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import AOS from "aos";
+import "aos/dist/aos.css";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./styles/main.css";
+import ImageSlider from "./components/ImageSlider";
+import NavBar from "./components/Navbar";
+import Programs from "./components/Programs";
+import HonorsMinorProgramsSection from "./components/hons";
+import IndustryCoursesSection from "./components/IndustryCourses";
+import ProfessionalSocietiesSection from "./components/ProfessionalSociety";
+import StudentClubsSection from "./components/StudentClub";
+import ClubDetails from "./components/ClubDetails";
+import StudentProjectsSection from "./components/StudentProjects";
+import RecruitersSection from "./components/Recruiters";
+import ScalarsSection from "./components/Scalar";
+import MOUSection from "./components/MOU";
+import ResearchThrustAreas from "./components/Thrust";
+import TestimonialsSection from "./components/Testimonials";
+import MessageSection from "./components/Message";
+import GallerySection from "./components/Galley";
+import Footer from "./components/Footer";
+import CommunitySlider from "./components/Community";
+import AboutUsSection from "./components/AboutUsSection";
+import ResearchProjects from "./components/ResearchProjects";
+import ResearchFacilities from "./components/ResearchFacilities";
+import FacultySection from "./components/Faculty";
+import FacultyDetails from "./components/FacultyDetail";
+import DriveContentViewer from "./components/Drive";
+import AboutSection from "./components/Welcome";
+import ECC from "./components/ECC";
+import StudentCornerPage from "./components/StudentCorner";
+import EventsSection from "./components/Events";
+import EventsPage from "./components/EventsPage";
+import Newsletters from "./components/Newsletters";
 
 function HomePage() {
   return (
@@ -84,7 +85,7 @@ function HomePage() {
       <div className="pt-10 md:pt-[100px]">
         <ImageSlider />
       </div>
-      <AboutSection/>
+      <AboutSection />
       <Programs />
       <HonorsMinorProgramsSection />
       <IndustryCoursesSection />
@@ -92,9 +93,9 @@ function HomePage() {
       <ProfessionalSocietiesSection />
       <br />
       <StudentClubsSection />
-      <br/>
+      <br />
       <EventsSection />
-      <br/>
+      <br />
       <StudentProjectsSection />
       <RecruitersSection />
       <ScalarsSection />
@@ -102,11 +103,10 @@ function HomePage() {
       <MOUSection />
       <ResearchThrustAreas />
       <TestimonialsSection />
-      <br/>
+      <br />
       <MessageSection />
       <GallerySection />
       {/* <CommunitySlider /> */}
-      
     </>
   );
 }
@@ -116,34 +116,36 @@ function App() {
     AOS.init({
       duration: 1000,
       once: true,
-      easing: 'ease-in-out'
+      easing: "ease-in-out",
     });
   }, []);
 
   return (
-
-      <div className="App">
-        <NavBar />
-        <Routes>
-          <Route path="/" element={<HomePage />} />
-          <Route path="/club/:clubId" element={<ClubDetails />} />
-          <Route path="/about" element={<AboutUsSection/>} />
-          <Route path="/StudentCorner" element={<StudentCornerPage />} />
-          <Route path="/research-project" element={<ResearchProjects />} />
-          <Route path="/research-facilities" element={<ResearchFacilities />} />
-          <Route path='/faculty' element={<FacultySection />} />
-          <Route path="/faculty/:name" element={<FacultyDetails />} />
-          <Route path='/drive' element={<DriveContentViewer />} />
-          <Route path="/ECC" element={
-            <div className='pt-10 md:pt-[100px]'>
+    <div className="App">
+      <NavBar />
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/club/:clubId" element={<ClubDetails />} />
+        <Route path="/about" element={<AboutUsSection />} />
+        <Route path="/StudentCorner" element={<StudentCornerPage />} />
+        <Route path="/research-project" element={<ResearchProjects />} />
+        <Route path="/research-facilities" element={<ResearchFacilities />} />
+        <Route path="/faculty" element={<FacultySection />} />
+        <Route path="/faculty/:name" element={<FacultyDetails />} />
+        <Route path="/drive" element={<DriveContentViewer />} />
+        <Route
+          path="/ECC"
+          element={
+            <div className="pt-10 md:pt-[100px]">
               <ECC />
             </div>
-          } />
-          <Route path="/events" element={<EventsPage />} />
-        </Routes>
-        <Footer />
-      </div>
-
+          }
+        />
+        <Route path="/events" element={<EventsPage />} />
+        <Route path="/newsletters" element={<Newsletters />} />
+      </Routes>
+      <Footer />
+    </div>
   );
 }
 
