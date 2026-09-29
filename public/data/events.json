@@ -2246,5 +2246,89 @@
       "/images/Events/industrial-visit-suryadeep-alloy-steel-castings/3.webp",
       "/images/Events/industrial-visit-suryadeep-alloy-steel-castings/4.webp"
     ]
+  },
+  {
+    "id": "competitive-coding-skills-strategy-success",
+    "title": "Competitive Coding: Skills, Strategy & Success",
+    "date": "17 September 2026",
+    "description": "The U & P U. Patel Department of Computer Engineering, CSPIT, CHARUSAT organized an expert talk on \"Competitive Coding: Skills, Strategy & Success\" on 17 September 2026. The session was delivered by Mr. Anup Kalbalia, Associate Professor of Practice at IIT Gandhinagar, Ex-CEO of CodeChef, and Founder of Justuju. The expert shared valuable insights into developing strong coding skills, effective problem-solving techniques, and strategies for competitive programming. Separate sessions were conducted for faculty members and students, encouraging meaningful interaction and knowledge sharing. The event provided participants with practical guidance to enhance their coding abilities and prepare for competitive programming opportunities.",
+    "thumbnail": "/images/Events/competitive-coding-skills-strategy-success/thumbnail.webp",
+    "images": [
+      "/images/Events/competitive-coding-skills-strategy-success/1.webp",
+      "/images/Events/competitive-coding-skills-strategy-success/2.webp",
+      "/images/Events/competitive-coding-skills-strategy-success/3.webp",
+      "/images/Events/competitive-coding-skills-strategy-success/4.webp",
+      "/images/Events/competitive-coding-skills-strategy-success/5.webp"
+    ]
+  },
+  {
+    "id": "interview-bootcamp",
+    "title": "Interview Bootcamp",
+    "date": "26 September 2026",
+    "description": "The Department of Mechanical Engineering organized an “Interview Bootcamp” on 26 September 2026 to enhance students’ technical interview preparedness and placement readiness. The session was conducted by Mr. Yogesh Tharani and Mr. Karthik Nair, Deputy Managers, Maruti Suzuki, Gurgaon. The experts provided practical guidance on technical interview preparation, effective communication, resume-based questioning, and responding to technical queries with clarity and confidence. Students also gained valuable exposure to a real interview environment and received personalized feedback to identify areas for improvement.",
+    "thumbnail": "/images/Events/interview-bootcamp/thumbnail.webp",
+    "images": [
+      "/images/Events/interview-bootcamp/1.webp",
+      "/images/Events/interview-bootcamp/2.webp",
+      "/images/Events/interview-bootcamp/3.webp",
+      "/images/Events/interview-bootcamp/4.webp",
+      "/images/Events/interview-bootcamp/5.webp"
+    ]
+  },
+  {
+    "id": "building-secure-enterprise-networks-vlan-gre-dmvpn-ipsec",
+    "title": "Building Secure Enterprise Networks: A Hands-on Workshop on VLAN, GRE, DMVPN and IPsec",
+    "date": "18 September 2026 & 19 September 2026",
+    "description": "The Department of Computer Science and Engineering, CSPIT, CHARUSAT organized a two-day hands-on workshop titled \"Building Secure Enterprise Networks: A Hands-on Workshop on VLAN, GRE, DMVPN and IPsec\" on 18th and 19th September 2026. The workshop was conducted by Mr. Ankit Bilwankar, Network and Security Consultant, Eximius Network Solutions, and focused on practical concepts related to enterprise network security and connectivity. Participants gained hands-on exposure to VLAN, GRE, DMVPN, and IPsec technologies through practical demonstrations and implementation-oriented sessions. The workshop provided valuable insights into designing, configuring, and securing enterprise networks. The sessions encouraged practical learning and helped participants strengthen their understanding of modern network security practices. The event was coordinated by Prof. Harshul Yagnik and Prof. Brinda Patel under the guidance of Dr. Amit Thakkar, HOD-CSE, CSPIT.",
+    "thumbnail": "/images/Events/building-secure-enterprise-networks-vlan-gre-dmvpn-ipsec/thumbnail.webp",
+    "images": [
+      "/images/Events/building-secure-enterprise-networks-vlan-gre-dmvpn-ipsec/1.webp",
+      "/images/Events/building-secure-enterprise-networks-vlan-gre-dmvpn-ipsec/2.webp",
+      "/images/Events/building-secure-enterprise-networks-vlan-gre-dmvpn-ipsec/3.webp",
+      "/images/Events/building-secure-enterprise-networks-vlan-gre-dmvpn-ipsec/4.webp",
+      "/images/Events/building-secure-enterprise-networks-vlan-gre-dmvpn-ipsec/5.webp"
+    ]
+  },
+  {
+    "id": "ai-for-rural-india",
+    "title": "AI for Rural India",
+    "date": "20 September 2026",
+    "description": "The objective of the AI Poster Presentation – “AI for Rural India” is to encourage students to explore and present innovative applications of Artificial Intelligence that can address real-world challenges in rural communities, particularly in areas such as agriculture, healthcare, education, employment, and sustainable development. The event aims to promote creativity, problem-solving, social awareness, and the responsible use of AI for rural development.",
+    "thumbnail": "/images/Events/ai-for-rural-india/thumbnail.webp",
+    "images": [
+      "/images/Events/ai-for-rural-india/1.webp",
+      "/images/Events/ai-for-rural-india/2.webp",
+      "/images/Events/ai-for-rural-india/3.webp",
+      "/images/Events/ai-for-rural-india/4.webp"
+    ]
+  },
+  {
+    "id": "pcb-design-workshop",
+    "title": "PCB Design Workshop",
+    "date": "22 September 2026",
+    "description": "The VLSI Club conducted a hands-on PCB Design Workshop from 9:00 AM to 4:30 PM for 39 third-semester students under the guidance of Dr. Arpita Patel, Associate Professor, EC Department. The workshop aimed to bridge the gap between theoretical concepts and practical PCB design through experiential learning. The workshop also promoted peer-to-peer learning, with VLSI Club student members guiding participants through practical design activities and sharing their knowledge and experience.",
+    "thumbnail": "/images/Events/pcb-design-workshop/thumbnail.webp",
+    "images": [
+      "/images/Events/pcb-design-workshop/1.webp",
+      "/images/Events/pcb-design-workshop/2.webp",
+      "/images/Events/pcb-design-workshop/3.webp",
+      "/images/Events/pcb-design-workshop/4.webp",
+      "/images/Events/pcb-design-workshop/5.webp",
+      "/images/Events/pcb-design-workshop/6.webp"
+    ]
+  },
+  {
+    "id": "building-intelligent-ai-applications-llms-rag-ai-agents",
+    "title": "Building Intelligent AI Applications: From LLMs and RAG to AI Agents",
+    "date": "11 September 2026 & 12 September 2026",
+    "description": "The Department of Computer Science and Engineering, CSPIT, CHARUSAT, in association with the CSE Placement Cell, organized a two-day hands-on workshop titled \"Building Intelligent AI Applications: From LLMs and RAG to AI Agents\" on 11th and 12th September 2026. The workshop was conducted by Mr. Tarun Jain as the Guest Speaker and focused on emerging applications of Artificial Intelligence. Participants explored concepts related to Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents through practical, hands-on sessions. The workshop provided participants with an opportunity to understand the development of intelligent AI applications and their practical implementation. The sessions encouraged experiential learning and helped participants gain insights into contemporary AI technologies and application development. The event was convened by Dr. Amit Thakkar and witnessed enthusiastic participation from registered students.",
+    "thumbnail": "/images/Events/building-intelligent-ai-applications-llms-rag-ai-agents/thumbnail.webp",
+    "images": [
+      "/images/Events/building-intelligent-ai-applications-llms-rag-ai-agents/1.webp",
+      "/images/Events/building-intelligent-ai-applications-llms-rag-ai-agents/2.webp",
+      "/images/Events/building-intelligent-ai-applications-llms-rag-ai-agents/3.webp",
+      "/images/Events/building-intelligent-ai-applications-llms-rag-ai-agents/4.webp",
+      "/images/Events/building-intelligent-ai-applications-llms-rag-ai-agents/5.webp"
+    ]
   }
 ]

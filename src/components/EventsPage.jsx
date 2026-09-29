@@ -2,11 +2,9 @@ import React, { useEffect, useMemo, useState, useRef } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faCalendar,
-  faClock,
   faChevronDown,
   faCheck,
   faTableCells,
-  faRotateRight,
   faFilter,
   faChevronLeft,
   faChevronRight,
@@ -27,13 +25,13 @@ const MONTHS = [
   "November",
   "December",
 ];
-const YEARS = ["2026","2025", "2024"];
-  
+const YEARS = ["2026", "2025", "2024"];
+
 function parseEventDate(dateStr) {
   if (!dateStr || typeof dateStr !== "string") return null;
   const lower = dateStr.toLowerCase();
   const monthIndex = MONTHS.map((m) => m.toLowerCase()).findIndex((m) =>
-    lower.includes(m)
+    lower.includes(m),
   );
   const yearMatch = dateStr.match(/(20\d{2})/);
   const dayMatch = dateStr.match(/\b([0-3]?\d)\b/);
@@ -128,7 +126,7 @@ const EventsPage = () => {
   const defaultYear = String(now.getFullYear());
 
   const [yearFilter, setYearFilter] = useState(
-    YEARS.includes(defaultYear) ? defaultYear : YEARS[0]
+    YEARS.includes(defaultYear) ? defaultYear : YEARS[0],
   );
   const [allMode, setAllMode] = useState(true);
   const [monthFilter, setMonthFilter] = useState(null);
@@ -185,13 +183,18 @@ const EventsPage = () => {
   };
 
   useEffect(() => {
-    if (!selectedEvent || !selectedEvent.images || selectedEvent.images.length <= 1) return;
+    if (
+      !selectedEvent ||
+      !selectedEvent.images ||
+      selectedEvent.images.length <= 1
+    )
+      return;
     if (autoSlideRef.current) clearInterval(autoSlideRef.current);
     autoSlideRef.current = setInterval(() => {
       setCurrentImageIndex((prev) =>
-        prev === selectedEvent.images.length - 1 ? 0 : prev + 1
+        prev === selectedEvent.images.length - 1 ? 0 : prev + 1,
       );
-    },2500);
+    }, 2500);
     return () => {
       if (autoSlideRef.current) {
         clearInterval(autoSlideRef.current);
@@ -203,7 +206,7 @@ const EventsPage = () => {
   const nextSlide = () => {
     if (selectedEvent) {
       setCurrentImageIndex((prev) =>
-        prev === selectedEvent.images.length - 1 ? 0 : prev + 1
+        prev === selectedEvent.images.length - 1 ? 0 : prev + 1,
       );
     }
   };
@@ -211,7 +214,7 @@ const EventsPage = () => {
   const prevSlide = () => {
     if (selectedEvent) {
       setCurrentImageIndex((prev) =>
-        prev === 0 ? selectedEvent.images.length - 1 : prev - 1
+        prev === 0 ? selectedEvent.images.length - 1 : prev - 1,
       );
     }
   };
@@ -242,7 +245,9 @@ const EventsPage = () => {
     <>
       <style jsx="true">{`
         .event-card {
-          transition: transform 0.4s ease, border 0.3s ease,
+          transition:
+            transform 0.4s ease,
+            border 0.3s ease,
             box-shadow 0.3s ease;
           position: relative;
           overflow: hidden;
@@ -285,7 +290,9 @@ const EventsPage = () => {
           text-align: center;
           max-width: 90%;
           opacity: 0;
-          transition: opacity 0.3s ease, transform 0.3s ease;
+          transition:
+            opacity 0.3s ease,
+            transform 0.3s ease;
           z-index: 2;
           text-transform: uppercase;
           font-weight: bold;
@@ -314,7 +321,8 @@ const EventsPage = () => {
           Academic Enrichment Activities Glimpses
         </h1>
         <p className="text-lg opacity-90">
-          Workshops, seminars, and hands-on activities to strengthen skills and enrich academic growth.
+          Workshops, seminars, and hands-on activities to strengthen skills and
+          enrich academic growth.
         </p>
       </div>
 
@@ -347,9 +355,7 @@ const EventsPage = () => {
                 options={YEARS.map((y) => ({ value: y, label: y }))}
                 onChange={(val) => {
                   setYearFilter(val);
-                  if (monthFilter !== null) {
-                    setAllMode(false);
-                  }
+                  setAllMode(false);
                 }}
                 icon={faCalendar}
                 label="Year"
@@ -380,12 +386,14 @@ const EventsPage = () => {
           </div>
 
           {/* Active Filter Indicator */}
-          {!allMode && monthFilter !== null && (
+          {!allMode && (
             <div className="container mt-3 flex items-center gap-2 text-xs text-gray-600">
               <FontAwesomeIcon icon={faFilter} className="w-3.5 h-3.5" />
               <span className="font-medium">Filtered by:</span>
               <span className="bg-blue-100 text-blue-800 px-2 py-0.5 rounded-full font-semibold">
-                {MONTHS[monthFilter]} {yearFilter}
+                {monthFilter !== null
+                  ? `${MONTHS[monthFilter]} ${yearFilter}`
+                  : yearFilter}
               </span>
               <span className="text-gray-500">({filtered.length} events)</span>
             </div>
