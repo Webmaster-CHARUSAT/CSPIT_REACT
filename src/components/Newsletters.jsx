@@ -9,19 +9,23 @@ import {
   faFaceFrown,
 } from "@fortawesome/free-solid-svg-icons";
 
-const MONTHS = [
-  "January",
-  "February",
-  "March",
-  "April",
-  "May",
-  "June",
-  "July",
-  "August",
-  "September",
-  "October",
-  "November",
-  "December",
+const QUARTERS = [
+  {
+    value: "Q1",
+    label: "Q1 (January - March)",
+    months: ["January", "February", "March"],
+  },
+  { value: "Q2", label: "Q2 (April - June)", months: ["April", "May", "June"] },
+  {
+    value: "Q3",
+    label: "Q3 (July - September)",
+    months: ["July", "August", "September"],
+  },
+  {
+    value: "Q4",
+    label: "Q4 (October - December)",
+    months: ["October", "November", "December"],
+  },
 ];
 
 const newsletters = [
@@ -168,7 +172,7 @@ function NewsletterCard({ issue }) {
 
 export default function Newsletters() {
   const [yearFilter, setYearFilter] = useState(YEARS[0]);
-  const [monthFilter, setMonthFilter] = useState(null);
+  const [quarterFilter, setQuarterFilter] = useState(null);
   const [allMode, setAllMode] = useState(true);
 
   const filteredNewsletters = useMemo(
@@ -179,13 +183,17 @@ export default function Newsletters() {
           issues: issues.filter((issue) => {
             if (allMode) return true;
             const yearMatches = year === yearFilter;
-            const monthMatches =
-              monthFilter === null || issue.months.includes(monthFilter);
-            return yearMatches && monthMatches;
+            const quarter = QUARTERS.find(
+              ({ value }) => value === quarterFilter,
+            );
+            const quarterMatches =
+              quarterFilter === null ||
+              quarter?.months.some((month) => issue.months.includes(month));
+            return yearMatches && quarterMatches;
           }),
         }))
         .filter(({ issues }) => issues.length > 0),
-    [allMode, monthFilter, yearFilter],
+    [allMode, quarterFilter, yearFilter],
   );
 
   const filteredCount = filteredNewsletters.reduce(
@@ -209,7 +217,7 @@ export default function Newsletters() {
             <button
               onClick={() => {
                 setAllMode(true);
-                setMonthFilter(null);
+                setQuarterFilter(null);
               }}
               className={`group relative inline-flex w-full items-center justify-center gap-2 rounded-lg px-6 py-2.5 text-sm font-semibold transition-all duration-200 sm:w-auto ${
                 allMode
@@ -238,21 +246,21 @@ export default function Newsletters() {
           </div>
 
           <div className="container">
-            <div className="grid grid-cols-2 gap-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-12">
-              {MONTHS.map((month) => (
+            <div className="grid grid-cols-1 gap-2 sm:grid-cols-2 lg:grid-cols-4">
+              {QUARTERS.map(({ value, label }) => (
                 <button
-                  key={month}
+                  key={value}
                   onClick={() => {
-                    setMonthFilter(month);
+                    setQuarterFilter(value);
                     setAllMode(false);
                   }}
                   className={`rounded-lg px-3 py-2.5 text-xs font-medium whitespace-nowrap transition-all duration-200 sm:text-sm ${
-                    !allMode && monthFilter === month
+                    !allMode && quarterFilter === value
                       ? "transform bg-gradient-to-r from-blue-600 to-blue-700 text-white shadow-md scale-105"
                       : "border border-gray-300 bg-gray-100 text-gray-700 hover:bg-[#e1e1e1]"
                   }`}
                 >
-                  {month}
+                  {label}
                 </button>
               ))}
             </div>
@@ -263,7 +271,9 @@ export default function Newsletters() {
               <FontAwesomeIcon icon={faFilter} className="h-3.5 w-3.5" />
               <span className="font-medium">Filtered by:</span>
               <span className="rounded-full bg-blue-100 px-2 py-0.5 font-semibold text-blue-800">
-                {monthFilter ? `${monthFilter} ${yearFilter}` : yearFilter}
+                {quarterFilter
+                  ? `${QUARTERS.find(({ value }) => value === quarterFilter)?.label} ${yearFilter}`
+                  : yearFilter}
               </span>
               <span className="text-gray-500">
                 ({filteredCount} newsletters)
