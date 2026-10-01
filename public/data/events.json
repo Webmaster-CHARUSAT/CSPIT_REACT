@@ -1968,7 +1968,7 @@
     "id": "workshop-prompt-to-production",
     "title": "From Prompt to Production: A Hands-on Workshop on Claude Code, AI Coding Agents, and Context Engineering",
     "date": "22 July 2026",
-    "description": "The Department of Computer Science & Engineering, CSPIT, CHARUSAT successfully organized an Eminent Industry Expert Talk titled \"From Prompt to Production: A Hands-on Workshop on Claude Code, AI Coding Agents, and Context Engineering\" on 22 July 2026 at the Seminar Hall, 2nd Floor, A6 Building. The expert session was delivered by Mr. Ritesh Vajariya, Founder & CEO, AI Guru, who shared practical insights into modern AI-assisted software development and context engineering. Participants gained hands-on exposure to Claude Code, AI coding agents, and industry best practices for building production-ready AI applications. The workshop bridged the gap between prompt engineering and real-world implementation, equipping attendees with industry-relevant skills and enhancing their understanding of emerging AI technologies. The interactive sessions encouraged active participation, fostering innovation and preparing participants for the evolving landscape of AI-driven software development.",
+    "description": "The Smt. K. D. Patel Department of Information Technology, CHARUSAT successfully organized an Eminent Industry Expert Talk titled \"From Prompt to Production: A Hands-on Workshop on Claude Code, AI Coding Agents, and Context Engineering\" on 22 July 2026 at the Seminar Hall, 2nd Floor, A6 Building. The expert session was delivered by Mr. Ritesh Vajariya, Founder & CEO, AI Guru, who shared practical insights into modern AI-assisted software development and context engineering. Participants gained hands-on exposure to Claude Code, AI coding agents, and industry best practices for building production-ready AI applications. The workshop bridged the gap between prompt engineering and real-world implementation, equipping attendees with industry-relevant skills and enhancing their understanding of emerging AI technologies. The interactive sessions encouraged active participation, fostering innovation and preparing participants for the evolving landscape of AI-driven software development.",
     "thumbnail": "/images/Events/workshop-prompt-to-production/thumbnail.webp",
     "images": [
       "/images/Events/workshop-prompt-to-production/1.webp",
@@ -2329,6 +2329,37 @@
       "/images/Events/building-intelligent-ai-applications-llms-rag-ai-agents/3.webp",
       "/images/Events/building-intelligent-ai-applications-llms-rag-ai-agents/4.webp",
       "/images/Events/building-intelligent-ai-applications-llms-rag-ai-agents/5.webp"
+    ]
+  },
+  {
+    "id": "cyberkavach-community-day-2026-cyber-confluence-ghost-hunt-chapter-2",
+    "title": "CyberKavach Community Day 2026 – Cyber Confluence: Ghost Hunt – Chapter 2",
+    "date": "16 September 2026 & 17 September 2026",
+    "description": "The Computer Science and Engineering Department, through its CyberKavach Club, organised CyberKavach Community Day 2026 – Cyber Confluence: Ghost Hunt – Chapter 2 on 16–17 September 2026. The event brought together students and cybersecurity enthusiasts for an engaging and challenging cybersecurity experience focused on problem-solving, investigation, and practical security skills. With an exciting prize pool worth ₹40,000, the event provided participants with an opportunity to test their technical abilities in a competitive environment. The event was conducted with the support of CSI and BARRACKS as the industry sponsor, fostering collaboration between academia and the cybersecurity industry. The initiative reflected the CyberKavach Club’s continued efforts to promote cybersecurity awareness, hands-on learning, and industry-oriented technical skills among students.",
+    "thumbnail": "/images/Events/cyberkavach-community-day-2026-cyber-confluence-ghost-hunt-chapter-2/thumbnail.webp",
+    "images": [
+      "/images/Events/cyberkavach-community-day-2026-cyber-confluence-ghost-hunt-chapter-2/1.webp",
+      "/images/Events/cyberkavach-community-day-2026-cyber-confluence-ghost-hunt-chapter-2/2.webp",
+      "/images/Events/cyberkavach-community-day-2026-cyber-confluence-ghost-hunt-chapter-2/3.webp",
+      "/images/Events/cyberkavach-community-day-2026-cyber-confluence-ghost-hunt-chapter-2/4.webp",
+      "/images/Events/cyberkavach-community-day-2026-cyber-confluence-ghost-hunt-chapter-2/5.webp",
+      "/images/Events/cyberkavach-community-day-2026-cyber-confluence-ghost-hunt-chapter-2/6.webp",
+      "/images/Events/cyberkavach-community-day-2026-cyber-confluence-ghost-hunt-chapter-2/7.webp",
+      "/images/Events/cyberkavach-community-day-2026-cyber-confluence-ghost-hunt-chapter-2/8.webp",
+      "/images/Events/cyberkavach-community-day-2026-cyber-confluence-ghost-hunt-chapter-2/9.webp",
+      "/images/Events/cyberkavach-community-day-2026-cyber-confluence-ghost-hunt-chapter-2/10.webp"
+    ]
+  },
+  {
+    "id": "iot-and-ot-attacks-and-countermeasures",
+    "title": "IoT and OT Attacks and Countermeasures",
+    "date": "21 September 2026",
+    "description": "The KDPIT Department of CSPIT, CHARUSAT, organised an expert session on \"IoT and OT Attacks and Countermeasures\" on 21 September 2026. The session was conducted by Mr. Kamal Mer, Assistant Manager, Adani Group, who shared valuable insights into the evolving cybersecurity challenges associated with Internet of Things (IoT) and Operational Technology (OT) environments. The session covered various types of IoT and OT attacks, potential security vulnerabilities, and practical countermeasures for protecting connected and industrial systems. The expert interaction provided participants with an understanding of real-world cybersecurity threats and the importance of implementing robust security practices. The session was coordinated by Dr. Priteshkumar Prajapati and Mr. Madhav Ajwalia, under the guidance of Dr. Purvi Prajapati, HoD-IT.",
+    "thumbnail": "/images/Events/iot-and-ot-attacks-and-countermeasures/thumbnail.webp",
+    "images": [
+      "/images/Events/iot-and-ot-attacks-and-countermeasures/1.webp",
+      "/images/Events/iot-and-ot-attacks-and-countermeasures/2.webp",
+      "/images/Events/iot-and-ot-attacks-and-countermeasures/3.webp"
     ]
   }
 ]
