@@ -2387,5 +2387,17 @@
       "/images/Events/cutting-edge-data-visualization-real-world-applications/4.webp",
       "/images/Events/cutting-edge-data-visualization-real-world-applications/5.webp"
     ]
+  },
+  {
+    "id": "fluid-mechanics-minor-project",
+    "title": "Fluid Mechanics Minor Project",
+    "date": "26 September 2026",
+    "description": "The CHAMOS Matrusanstha Department of Mechanical Engineering, CSPIT, CHARUSAT, organized the Fluid Mechanics Project Exhibition–2026 on 26 September 2026 at the Department of Mechanical Engineering. The exhibition provided an engaging platform for students to demonstrate their understanding of fundamental and applied concepts of Fluid Mechanics through innovative working models and projects. A total of 106 students of Third Semester B.Tech. Mechanical Engineering participated enthusiastically and presented 39 projects based on various principles and applications of Fluid Mechanics. Students from D.Z. School, Anand, also visited the exhibition and explored the various projects, gaining practical and interactive understanding of fundamental Fluid Mechanics concepts. The event encouraged experiential learning, creativity, technical skills, and knowledge sharing, while inspiring students to connect theoretical concepts with real-world engineering applications.",
+    "thumbnail": "/images/Events/fluid-mechanics-minor-project/thumbnail.webp",
+    "images": [
+      "/images/Events/fluid-mechanics-minor-project/1.webp",
+      "/images/Events/fluid-mechanics-minor-project/2.webp",
+      "/images/Events/fluid-mechanics-minor-project/3.webp"
+    ]
   }
 ]
