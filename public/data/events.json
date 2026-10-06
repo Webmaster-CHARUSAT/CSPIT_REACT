@@ -2361,5 +2361,31 @@
       "/images/Events/iot-and-ot-attacks-and-countermeasures/2.webp",
       "/images/Events/iot-and-ot-attacks-and-countermeasures/3.webp"
     ]
+  },
+  {
+    "id": "story-making-presentation-competition-echoes-of-equality",
+    "title": "Story-Making & Presentation Competition on the Theme “Echoes of Equality”",
+    "date": "18 September 2026",
+    "description": "The CHAMOS Matrusanstha Department of Mechanical Engineering, CSPIT, in collaboration with the Equal Opportunity Cell (EOC), CHARUSAT, organized a Story-Making & Presentation Competition on “Echoes of Equality” on 18 September 2026. A total of 13 participants participated enthusiastically. The event provided a creative platform to express perspectives on equality, inclusion, discrimination, and social justice through original storytelling and presentations. The competition concluded with the recognition of outstanding performances.",
+    "thumbnail": "/images/Events/story-making-presentation-competition-echoes-of-equality/thumbnail.webp",
+    "images": [
+      "/images/Events/story-making-presentation-competition-echoes-of-equality/1.webp",
+      "/images/Events/story-making-presentation-competition-echoes-of-equality/2.webp",
+      "/images/Events/story-making-presentation-competition-echoes-of-equality/3.webp"
+    ]
+  },
+  {
+    "id": "cutting-edge-data-visualization-real-world-applications",
+    "title": "Cutting-Edge Data Visualization for Real-World Applications",
+    "date": "21 February 2026",
+    "description": "The Department of Computer Engineering, CSPIT, CHARUSAT, organised a workshop on \"Cutting-Edge Data Visualization for Real-World Applications\" on 21 February 2026 at the 638 Lab, A7 Building. The session was conducted by Mr. Vipul Patil, Senior Data Analyst at Kenexai, who shared practical insights into modern data visualization techniques and tools for transforming complex datasets into clear and meaningful visual insights. The workshop focused on real-world applications, effective data interpretation, visual communication, and data-driven decision-making. The interactive session provided participants with valuable exposure to industry-oriented practices and enhanced their understanding of presenting data effectively for practical applications.",
+    "thumbnail": "/images/Events/cutting-edge-data-visualization-real-world-applications/thumbnail.webp",
+    "images": [
+      "/images/Events/cutting-edge-data-visualization-real-world-applications/1.webp",
+      "/images/Events/cutting-edge-data-visualization-real-world-applications/2.webp",
+      "/images/Events/cutting-edge-data-visualization-real-world-applications/3.webp",
+      "/images/Events/cutting-edge-data-visualization-real-world-applications/4.webp",
+      "/images/Events/cutting-edge-data-visualization-real-world-applications/5.webp"
+    ]
   }
 ]
