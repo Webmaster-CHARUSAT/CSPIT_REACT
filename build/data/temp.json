@@ -1,0 +1,234 @@
+[  
+  {
+    "name": "Mr. Jivanadhar Joshi",
+    "title": "ASSISTANT PROFESSOR",
+    "degree": "M. Tech.",
+    "research_interests": [
+      "Embedded system and Micro controller programming, Power Electronics, Signal Processing, Numerical relaying, Microgrid converter control, Dspace real time simulator, Matlab Modelling"
+    ],
+    "image_src": "/CSPIT_Faculty/Electrical/JIVANADHAR.webp",
+    "subjects": [
+      "Power Electronics, Microcontroller applications, advanced microcontrollers, Electrical vehicle and renewable, Digital Signal Processing, Digital Electronics, Embedded system, Power system Protection"
+    ],
+    "research_projects": [],
+    "teaching": [
+      "STATCOM/ 'Voltage control in Electrical Power Grid/ GUJCOST"
+    ],
+    "email": "jivanadharjoshi.ee@charusat.ac.in",
+    "linkedin": "https://www.linkedin.com/in/jiva-dhar-joshi-a76a12ab/",
+    "website": "",
+    "scholar": "https://scholar.google.com/citations?user=CgbzrYMAAAAJ&hl=en",
+    "vidwan": "",
+    "awards": [],
+    "memberships": [],
+    "certifications": []
+  },
+  {
+    "name": "Dr. Parth Shah",
+    "title": "PROFESSOR, HEAD (IT)",
+    "degree": "Ph. D.",
+    "research_interests": [
+      "Cyber Forensic, Cloud Computing"
+    ],
+    "image_src": "/CSPIT_Faculty/IT/PARTH.webp",
+    "subjects": [
+      "Computer Architecture and Organization, Operating Systems, Data Structure and Algorithms, Java Programming, Full Stack Application Development, Cryptography and Network Security, Cloud Computing, Computer Networking"
+    ],
+    "research_projects": [],
+    "teaching": [
+      "Received a grant of INR 50,000 from GUJCOST to arrange the workshop on ”AWS Machine Learning” 2022-23",
+      "Received a grant of INR 40,000 from GUJCOST to arrange the workshop on ”Cyber security and Digital forensics” 2022-23",
+      "Received a grant of INR 25,000 from GUJCOST to arrange the workshop on ”Recent Trends in Front end Web Technologies: REACTJS” 2021-22",
+      "Received a grant of INR 3,52,333 from AICTE to arrange STTP under AQIS on ”AWS Alexa Skill Development” 2019-20",
+      "Received a grant of INR 40,000 from GUJCOST to arrange the workshop on ”Developing Block Chain Technologies application using Ethereum” 2019-20",
+      "Received a grant of INR 50,000 from GUJCOST to arrange the conference on ”International Conference on Emerging Trends in Engineering, Science, and Technology” 2018-19",
+      "Received a grant of INR 15,900 from GUJCOST to develop a prototype on ”Book location Grabber using RFID” 2015-16",
+      "Received a grant of INR 30,000 from GUJCOST to arrange the workshop on ”Security issues in the Internet of Things (IOTs) software perspective” 2015-16",
+      "Received a grant of INR 24,000 from CSI to arrange the ”ESM Workshop” 2014-15",
+      "Received a grant of INR 40,000 from MHRD to arrange the two-week workshop on ”Computer Programming” 2014-15",
+      "Received a grant of INR 30,000 from GUJCOST to arrange the workshop on ”Simulation of Wired and Wireless Computer Network ” 2014-15",
+      "Received a grant of INR 35,000 from GUJCOST to arrange the workshop on ”Advanced Computing and Big Data” 2013-14"
+    ],
+    "email": "parthshah.ce@charusat.ac.in",
+    "linkedin": "https://www.linkedin.com/in/shah-parth-d/",
+    "website": "https://learnwithparth.in/",
+    "scholar": "https://scholar.google.co.in/citations?user=Z32oT0oAAAAJ&hl=en",
+    "vidwan": "https://vidwan.inflibnet.ac.in/profile/124948",
+    "awards": [],
+    "memberships": [
+      "1 Association for Computing Machinery (Senior Member)",
+      "2 Computer Society of India (Life Member)"
+    ],
+    "certifications": [
+      "AWS Solution Architect Associate",
+      "EC Council  Certified Ethical Hacking"
+    ]
+  },
+  {
+    "name": "Dr. Sneha Padhiar",
+    "title": "ASSISTANT PROFESSOR",
+    "degree": "Ph. D.",
+    "research_interests": [
+      "Information Security, Software Engineering, Mobile Application Development"
+    ],
+    "image_src": "/CSPIT_Faculty/CE/SNEHA.webp",
+    "subjects": [
+      "Software Engineering, Information Security, Software Quality management & Assuarance,Data structure, Mobile Application Development"
+    ],
+    "research_projects": [],
+    "teaching": [],
+    "email": "snehapadhiar.ce@charusat.ac.in",
+    "linkedin": "https://www.linkedin.com/in/sneha-padhiar-4aaa17146/",
+    "website": "",
+    "scholar": "https://scholar.google.co.in/citations?user=czHooD4AAAAJ&hl=en",
+    "vidwan": "",
+    "awards": [],
+    "memberships": [
+      "SCRS"
+    ],
+    "certifications": [
+      "-"
+    ]
+  },
+  {
+    "name": "Ms. Jalpa Ardeshana",
+    "title": "ASSISTANT PROFESSOR",
+    "degree": "M. Tech.",
+    "research_interests": [
+      "Data Structures , Cloud Computing, Machine Learning"
+    ],
+    "image_src": "/CSPIT_Faculty/AIML/JALPA.webp",
+    "subjects": [
+      "C/C++, Data Structures, Operating System, Cryptography"
+    ],
+    "research_projects": [],
+    "teaching": [],
+    "email": "jalpaardeshana.aiml@charusat.ac.in",
+    "linkedin": "https://www.linkedin.com/in/jalpa-ardesha--381496b7/",
+    "website": "",
+    "scholar": "https://scholar.google.com/citations?hl=en&user=geQNAr_QAAAAJ",
+    "vidwan": "https://vidwan.inflibnet.ac.in/profile/319102",
+    "awards": [],
+    "memberships": [],
+    "certifications": []
+  },
+  {
+    "name": "Dr. Kundan Patel",
+    "title": "ASSOCIATE PROFESSOR",
+    "degree": "Ph. D.",
+    "research_interests": [
+      "Manufacturing of composites, Design of Experiments, Machining of",
+      "Composites"
+    ],
+    "image_src": "/CSPIT_Faculty/Mechanical/KUNDAN.webp",
+    "subjects": [
+      "Machining and Forming Processes, Computer Aided Design, Computer Aided Manufacturing, Hydraulics & Pneumatics, Unconventional Machining Processes, CNC Technology & Programming."
+    ],
+    "research_projects": [],
+    "teaching": [],
+    "email": "kundanpatel.me@charusat.ac.in",
+    "linkedin": "www.linkedin.com/in/kundan-patel-b9508b27b",
+    "website": "",
+    "scholar": "https://scholar.google.co.in/citations?user=DoBv8TUAAAAJ&hl=en",
+    "vidwan": "https://vidwan.inflibnet.ac.in/profile/161365",
+    "awards": [],
+    "memberships": [
+      "ISTE"
+    ],
+    "certifications": []
+  },
+    {
+    "name": "Ms. Hemangi Oza",
+    "title": "ASSISTANT PROFESSOR",
+    "degree": "M. Tech.",
+    "research_interests": [
+      "Environmental Engineering",
+      "Solid Waste Management",
+      "Environmental Science"
+    ],
+    "image_src": "/CSPIT_Faculty/Civil/HEMANGI.webp",
+    "subjects": [
+      "Environmental Engineering I",
+      "Waste Management in Smart Cities",
+      "Environmental Sciences",
+      "Environmental Sustainability & Climate Change"
+    ],
+    "research_projects": [],
+    "teaching": [],
+    "email": "",
+    "linkedin": "https://www.linkedin.com/in/hemangi-oza-60a189190/",
+    "website": "",
+    "scholar": "https://scholar.google.com/citations?view_op=list_works&hl=en&user=cU9yMuUAAAAJ",
+    "vidwan": "",
+    "awards": [],
+    "memberships": [],
+    "certifications": []
+  },
+  {
+    "name": "Mr. Pavitra Modi",
+    "title": "ASSISTANT PROFESSOR",
+    "degree": "M. Tech.",
+    "research_interests": ["Web Application development"],
+    "image_src": "/CSPIT_Faculty/IT/PAVITRA.webp",
+    "subjects": ["Fullstack Development", "Web Technology", "Devops"],
+    "research_projects": [],
+    "teaching": [],
+    "email": "pavitramodi.it@charusat.ac.in",
+    "linkedin": "https://www.linkedin.com/in/pavitramodi/",
+    "website": "",
+    "scholar": "",
+    "vidwan": "https://vidwan.inflibnet.ac.in/profile/405778",
+    "awards": [],
+    "memberships": ["ACM"],
+    "certifications": ["Salesforce B2C Commerce  Developer"]
+  } ,
+  
+      {
+    "id":"parents-teachers-meeting-ce-department",
+    "title": "Parents Teachers Meeting CE Department",
+    "thumbnail": "/images/Events/ptm-ce/5.webp",
+    "images": [
+      "/images/Events/ptm-ce/1.webp",
+      "/images/Events/ptm-ce/2.webp",
+      "/images/Events/ptm-ce/3.webp",
+      "/images/Events/ptm-ce/4.webp",
+      "/images/Events/ptm-ce/5.webp"
+    ],
+    "description": "A Parent–Teacher session attended by 23 parents was held to brief them on e-governance initiatives, university and institute guidelines, departmental policies, and the Skill Augmentation Module. Detailed explanations were provided on each topic to ensure clarity and alignment with institutional objectives. The session concluded with an interactive Parents–Teachers segment in which student counsellors responded to several queries and clarified concerns. Kindly note the positive engagement and readiness of parents to support the department’s initiatives.",
+    "date": "04 September 2025"
+  },
+    {
+    "name": "Dr. Deepkumar Kothadiya",
+    "title": "ASSISTANT PROFESSOR",
+    "degree": "Ph. D.",
+    "research_interests": [
+      "Deep Learning",
+      "Internet of Things",
+      "Wireless Computing"
+    ],
+    "image_src": "/CSPIT_Faculty/CE/DEEPKUMAR.webp",
+    "subjects": [
+      "Python",
+      "Internet of Things",
+      "Research Methodology",
+      "Wireless Computing",
+      "Big Data",
+      "Natural Language Processing",
+      "Machine Learning",
+      "Artificial Intelligence"
+    ],
+    "research_projects": [],
+    "teaching": [],
+    "email": "deepkothadiya.ce@charusat.ac.in",
+    "linkedin": "https://www.linkedin.com/in/deep-kothadiya-phd-70983a86/",
+    "website": "",
+    "scholar": "https://scholar.google.com/citations?user=SdsrrsIAAAAJ&hl=en",
+    "vidwan": "",
+    "awards": [
+      "Best Research Paper Award at MA-NIT Bhopal (9/11/2024)",
+      "Best Research Paper Award at NIT Agartala(24/11/2024)"
+    ],
+    "memberships": ["SCRS"],
+    "certifications": ["AWS Cloud Practitioner"]
+  }
+]
