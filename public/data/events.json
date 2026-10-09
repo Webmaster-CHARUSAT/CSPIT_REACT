@@ -2399,5 +2399,64 @@
       "/images/Events/fluid-mechanics-minor-project/2.webp",
       "/images/Events/fluid-mechanics-minor-project/3.webp"
     ]
+  },
+  {
+    "title": "Expert Talk on Selected Areas in Communication Systems",
+    "date": "26 September 2026",
+    "description": "An offline expert lecture on \"Selected Areas in Communication Systems\" was conducted on 26th September 2026 from 9:30 AM onwards for 3rd Semester B.Tech. Electronics & Communication Engineering students as part of the course ECUC204 – Communication Systems. The session was delivered by Professor (Dr.) Yogesh Trivedi (Ph.D., IIT Kanpur) from Nirma University, who shared valuable insights into advanced and emerging concepts in modern communication systems. Organized under the leadership of Convener Dr. Upesh Patel and coordinators Dr. Dharmendra Chauhan, Prof. Akshaya Patel, and Dr. Manthan Manavadaria, the lecture witnessed active participation from 69 students. The session aimed to bridge the gap between theoretical foundations and real-world industrial and research applications.",
+    "thumbnail": "/images/Events/expert-talk-communication-systems/thumbnail.webp",
+    "images": [
+      "/images/Events/expert-talk-communication-systems/1.webp",
+      "/images/Events/expert-talk-communication-systems/2.webp",
+      "/images/Events/expert-talk-communication-systems/3.webp",
+      "/images/Events/expert-talk-communication-systems/4.webp",
+      "/images/Events/expert-talk-communication-systems/5.webp"
+    ]
+  },
+  {
+    "title": "Expert Talk on From Skills to Silicon: Preparing for Gujarat’s Semiconductor Industry Through RTL-to-Tape-Out",
+    "date": "21 September 2026",
+    "description": "The VLSI Club, CSPIT, CHARUSAT, organized an Expert Talk titled “From Skills to Silicon: Preparing for Gujarat’s Semiconductor Industry Through RTL-to-Tape-Out” on 21st September 2026. The session was delivered by Dr. Marmik Bhatt, CEO and Founder of Monk9 Tech Pvt. Ltd., and witnessed the participation of 49 attendees. The talk provided valuable insights into industry expectations and the semiconductor design journey from RTL to tape-out. It was followed by a two-day hands-on workshop on “Open-Source RTL-to-GDS,” conducted by Vaibhav Joshi from Monk9 Tech Pvt. Ltd., on 21st and 22nd September 2026. This combined initiative offered students an integrated learning experience, bridging industry knowledge with practical exposure to the RTL-to-GDS design flow.",
+    "thumbnail": "/images/Events/expert-talk-semiconductor-rtl-tape-out/thumbnail.webp",
+    "images": [
+      "/images/Events/expert-talk-semiconductor-rtl-tape-out/1.webp",
+      "/images/Events/expert-talk-semiconductor-rtl-tape-out/2.webp",
+      "/images/Events/expert-talk-semiconductor-rtl-tape-out/3.webp",
+      "/images/Events/expert-talk-semiconductor-rtl-tape-out/4.webp"
+    ]
+  },
+  {
+    "title": "VeriQuest 2026",
+    "date": "3 October 2026",
+    "description": "VeriQuest 2026 was a placement-oriented technical activity focused on Verilog and RTL skills, organized under the VLSI Club – ChipXplorer on 3rd October 2026. Initiated and coordinated by Dr. Arpita Patel, the event featured MCQs, Verilog debugging, and coding challenges designed to assess industry-relevant technical skills. The activity aimed to strengthen students’ understanding of RTL, debugging, simulation, and problem-solving while preparing them for VLSI placement tests and technical interviews. Kishan Prajapati served as the Judge/Evaluator, bringing an industry perspective to the evaluation. The top performer was to be recognized as the “Verilog Champion 2026.”",
+    "thumbnail": "/images/Events/veriquest-2026/thumbnail.webp",
+    "images": [
+      "/images/Events/veriquest-2026/1.webp",
+      "/images/Events/veriquest-2026/2.webp"
+    ]
+  },
+  {
+    "title": "Hands-On Workshop on MCP and A2A for Industry Use-Cases",
+    "date": "26 September 2026",
+    "description": "The Data Science Club @CHARUSAT, a student club of the KDPIT Department, CSPIT, CHARUSAT, organized a Hands-On Workshop on MCP and A2A for Industry Use-Cases on 26th September 2026. The workshop was conducted by Ms. Rinkal Mav, Software Engineer at Motorola Solutions. The session provided students with practical exposure to MCP and A2A technologies and their applications in real-world industry use-cases. Through hands-on learning and practical demonstrations, participants gained valuable insights into emerging AI technologies. The workshop enhanced students’ understanding of industry-oriented AI solutions and their potential applications.",
+    "thumbnail": "/images/Events/hands-on-workshop-mcp-a2a/thumbnail.webp",
+    "images": [
+      "/images/Events/hands-on-workshop-mcp-a2a/1.webp",
+      "/images/Events/hands-on-workshop-mcp-a2a/2.webp",
+      "/images/Events/hands-on-workshop-mcp-a2a/3.webp",
+      "/images/Events/hands-on-workshop-mcp-a2a/4.webp",
+      "/images/Events/hands-on-workshop-mcp-a2a/5.webp"
+    ]
+  },
+  {
+    "title": "Mastering Flutter: From Basics to App Development",
+    "date": "17 September 2026",
+    "description": "The “Mastering Flutter: From Basics to App Development” session was organized for students of AIUE302 – Mobile Application Development to provide practical exposure to modern mobile application development using Flutter. The session was delivered by Mr. Utsav Patel, Flutter Developer at ArixPower India Limited, who shared valuable industry experience and practical insights into Flutter-based application development. The session covered Dart programming fundamentals, Flutter project structure, widgets, layouts, Row, Column, Container, ListView, GridView, responsive UI design, navigation, routing, state management, user input, and interactive application development. Through live demonstrations, practical examples, and hands-on activities, students explored how basic Flutter concepts can be transformed into functional and user-friendly mobile applications. The expert session also introduced industry-oriented Flutter development workflows, debugging, application design, and dynamic feature implementation. The event strengthened students’ programming, UI/UX design, problem-solving, debugging, and mobile application development skills while encouraging them to apply their knowledge to academic projects, mini-projects, and real-world applications.",
+    "thumbnail": "/images/Events/mastering-flutter-app-development/thumbnail.webp",
+    "images": [
+      "/images/Events/mastering-flutter-app-development/1.webp",
+      "/images/Events/mastering-flutter-app-development/2.webp",
+      "/images/Events/mastering-flutter-app-development/3.webp"
+    ]
   }
 ]
