@@ -2458,5 +2458,142 @@
       "/images/Events/mastering-flutter-app-development/2.webp",
       "/images/Events/mastering-flutter-app-development/3.webp"
     ]
+  },
+  {
+    "id": "expert-lecture-project-management-plant-engineering",
+    "title": "Expert Lecture on Project Management in Plant Engineering",
+    "date": "26 September 2026",
+    "description": "On 26th September 2026, final-year B.Tech Mechanical Engineering students and faculty from CSPIT, CHARUSAT, engaged in a virtual expert session titled \"Project Management in Plant Engineering,\" convened by Dr. Gajanan Patange and coordinated by Mr. Axat Patel, Dr. Maulik Shah, and Mr. Harmish Bhatt. Industry expert Mr. Hardik Lakhani, Project Manager at L&T Technology Services, steered participants through the complete plant-engineering lifecycle—navigating concept formulation, pre-FEED feasibility, detailed engineering, procurement, construction, and final commissioning. Students explored critical project controls, including Primavera P6/MS Project scheduling, QA/QC frameworks, cost management, and multidisciplinary risk mitigation. The session equipped attendees with practical strategies to lead cross-functional engineering teams, manage capital-intensive project constraints, and translate technical engineering into structured operational execution.",
+    "thumbnail": "/images/Events/expert-lecture-project-management-plant-engineering/thumbnail.webp",
+    "images": [
+      "/images/Events/expert-lecture-project-management-plant-engineering/1.webp",
+      "/images/Events/expert-lecture-project-management-plant-engineering/2.webp",
+      "/images/Events/expert-lecture-project-management-plant-engineering/3.webp"
+    ]
+  },
+  {
+    "id": "the-cozy-knot-by-riya",
+    "title": "The Cozy Knot by Riya",
+    "date": "23 September 2026",
+    "description": "The Women Development Cell (WDC) of CHARUSAT organised “The Cozy Knot by Riya,” a beginner-friendly crochet workshop initiated by the WDC coordinators of the Computer Engineering (CE) Department, CSPIT, and subsequently taken forward by the Women Development Cell of CHARUSAT. Conducted by Ms. Riya Brahmbhatt (D25CE164) on 23 September 2026, the workshop aimed to introduce students to the creative art of crochet through hands-on learning. Participants explored basic crochet techniques and created their own crochet keychains, with all necessary materials provided. The workshop encouraged creativity, patience, self-expression, and skill development in a supportive and engaging environment. The initiative also aligned with the United Nations Sustainable Development Goals (SDGs) 4, 5, 8, and 12, promoting quality education, gender equality, decent work and economic growth, and responsible consumption and production.",
+    "thumbnail": "/images/Events/the-cozy-knot-by-riya/thumbnail.webp",
+    "images": [
+      "/images/Events/the-cozy-knot-by-riya/1.webp",
+      "/images/Events/the-cozy-knot-by-riya/2.webp",
+      "/images/Events/the-cozy-knot-by-riya/3.webp",
+      "/images/Events/the-cozy-knot-by-riya/4.webp",
+      "/images/Events/the-cozy-knot-by-riya/5.webp",
+      "/images/Events/the-cozy-knot-by-riya/6.webp"
+    ]
+  },
+  {
+    "id": "industrial-visit-mars-automation-engineering-technique",
+    "title": "Industrial Visit at Mars Automation and Engineering Technique",
+    "date": "30 September 2026",
+    "description": "On 30th September 2026, final-year B.Tech Mechanical Engineering students from CSPIT, CHARUSAT, completed an industrial visit to MARS Automation and Engineering Technique at Vadodara, guided by faculty coordinators Dr. Gajanan Patange, Dr. Akash Vyas, Mr. Axat Patel, and Dr. Sagar Chokshi, under the convenorship of Dr. Vijay Chaudhary. At MARS Automation, the cohort examined the end-to-end development of Special Purpose Machines (SPMs) including kinematic planning of robot, structural fabrication, pneumatic systems, PLC sequencing, and synchronized multi-axis robotic handling. At Engineering Technique, they explored cloud-based CAD data management via 3DEXPERIENCE® Works, Solid CAM CNC toolpath generation, and additive manufacturing workflows for rapid functional prototyping. The visit delivered valuable shop-floor exposure, helping students bridge academic theory with modern automation, industrial robotics, and agile product development.",
+    "thumbnail": "/images/Events/industrial-visit-mars-automation-engineering-technique/thumbnail.webp",
+    "images": [
+      "/images/Events/industrial-visit-mars-automation-engineering-technique/1.webp",
+      "/images/Events/industrial-visit-mars-automation-engineering-technique/2.webp",
+      "/images/Events/industrial-visit-mars-automation-engineering-technique/3.webp",
+      "/images/Events/industrial-visit-mars-automation-engineering-technique/4.webp"
+    ]
+  },
+  {
+    "id": "industrial-visit-bisag-n-gandhinagar",
+    "title": "Industrial Visit to BISAG-N, Gandhinagar",
+    "date": "28 September 2026 & 29 September 2026",
+    "description": "The Department of Computer Science and Engineering (CSE), CSPIT, CHARUSAT, organized an academic industrial visit to BISAG-N (Bhaskaracharya National Institute for Space Applications and Geo-informatics), Gandhinagar, on 28th and 29th September 2026 for CSE students. The visit was aimed at providing students with valuable exposure to the practical applications of space technology, geoinformatics, satellite-based systems, and data-driven governance. The visit offered students an opportunity to understand how emerging technologies are utilized in real-world applications, particularly in areas such as satellite applications, geoinformatics, mapping, data for governance, and sustainable development. Through interaction with industry professionals and exposure to technological infrastructure, students gained insights into the practical implementation of concepts studied in the classroom. The visit served as an effective bridge between academic learning and industry experience, encouraging students to explore the broader impact of computing and emerging technologies. It enriched their understanding of real-world technological applications and inspired them to pursue innovation and problem-solving beyond the classroom.",
+    "thumbnail": "/images/Events/industrial-visit-bisag-n-gandhinagar/thumbnail.webp",
+    "images": [
+      "/images/Events/industrial-visit-bisag-n-gandhinagar/1.webp",
+      "/images/Events/industrial-visit-bisag-n-gandhinagar/2.webp",
+      "/images/Events/industrial-visit-bisag-n-gandhinagar/3.webp",
+      "/images/Events/industrial-visit-bisag-n-gandhinagar/4.webp",
+      "/images/Events/industrial-visit-bisag-n-gandhinagar/5.webp"
+    ]
+  },
+  {
+    "id": "mastering-stl-in-cpp",
+    "title": "Mastering STL in C++",
+    "date": "17 September 2026",
+    "description": "The KDPIT Department, CSPIT, CHARUSAT, organised an expert talk titled \"Mastering STL in C++\" on 17 September 2026 at the Seminar Hall, First Floor, A6 Building, CHARUSAT. The session was delivered by Mr. Soumyadeep Ghosh, Software Engineer at Infocusp, Ahmedabad, who shared insights into the effective use of the Standard Template Library (STL) in C++. The talk focused on STL containers such as vectors, maps, sets, stacks, and queues, highlighting their role in writing efficient, structured, and reusable code. The session helped students strengthen their programming fundamentals and understand practical coding techniques relevant to problem-solving and competitive programming. The initiative supported the Sustainable Development Goals (SDGs) 4 (Quality Education), 9 (Industry, Innovation and Infrastructure), and 17 (Partnerships for the Goals).",
+    "thumbnail": "/images/Events/mastering-stl-in-cpp/thumbnail.webp",
+    "images": [
+      "/images/Events/mastering-stl-in-cpp/1.webp",
+      "/images/Events/mastering-stl-in-cpp/2.webp",
+      "/images/Events/mastering-stl-in-cpp/3.webp"
+    ]
+  },
+  {
+    "id": "chaos-2-commit-hackathon-2026",
+    "title": "Chaos 2 Commit – Hackathon 2026",
+    "date": "25 September 2026 & 26 September 2026",
+    "description": "The Department of Computer Science and Engineering (CSE), CSPIT, CHARUSAT, organised “Chaos 2 Commit – Hackathon 2026” in collaboration with Futurrizon Technologies Pvt. Ltd. on 25 and 26 September 2026. The hackathon aimed to foster innovation, collaborative problem-solving, and practical coding skills by encouraging students to transform ideas into impactful technological solutions. With the theme “Collaborate, Code, Create,” participants worked in teams to develop solutions to real-world challenges, demonstrating their technical expertise, creativity, and teamwork. The event provided a platform for students to enhance their industry readiness and gain valuable experience in competitive problem-solving. With prize money of up to ₹1 lakh, the hackathon encouraged aspiring innovators to build, solve, and inspire through technology.",
+    "thumbnail": "/images/Events/chaos-2-commit-hackathon-2026/thumbnail.webp",
+    "images": [
+      "/images/Events/chaos-2-commit-hackathon-2026/1.webp",
+      "/images/Events/chaos-2-commit-hackathon-2026/2.webp",
+      "/images/Events/chaos-2-commit-hackathon-2026/3.webp",
+      "/images/Events/chaos-2-commit-hackathon-2026/4.webp",
+      "/images/Events/chaos-2-commit-hackathon-2026/5.webp",
+      "/images/Events/chaos-2-commit-hackathon-2026/6.webp",
+      "/images/Events/chaos-2-commit-hackathon-2026/7.webp",
+      "/images/Events/chaos-2-commit-hackathon-2026/8.webp"
+    ]
+  },
+  {
+    "id": "your-first-step-into-aws",
+    "title": "Your First Step into AWS",
+    "date": "9 October 2026",
+    "description": "The AWS Student Builder Group, CHARUSAT, organised “Your First Step into AWS” on 9 October 2026 to introduce first-year students to cloud computing and the opportunities available through the AWS student community. The session focused on building a basic understanding of Amazon Web Services (AWS), familiarising students with the community, and demonstrating the practical use of cloud technology through static website hosting using Amazon S3. By combining an introduction to cloud computing with a live demonstration, the session encouraged students to explore new technologies, ask questions, and gain confidence in their technical journey. The event provided a starting point for students to learn, experiment, collaborate, and develop their own ideas using cloud technologies.",
+    "thumbnail": "/images/Events/your-first-step-into-aws/thumbnail.webp",
+    "images": [
+      "/images/Events/your-first-step-into-aws/1.webp",
+      "/images/Events/your-first-step-into-aws/2.webp",
+      "/images/Events/your-first-step-into-aws/3.webp",
+      "/images/Events/your-first-step-into-aws/4.webp",
+      "/images/Events/your-first-step-into-aws/5.webp",
+      "/images/Events/your-first-step-into-aws/6.webp"
+    ]
+  },
+  {
+    "id": "iot-edge-from-sensors-to-smart-solutions",
+    "title": "IoT Edge: From Sensors to Smart Solutions",
+    "date": "26 September 2026",
+    "description": "The Department of Computer Science and Engineering (CSE), CSPIT, CHARUSAT, organised a hands-on technical workshop titled \"IoT Edge: From Sensors to Smart Solutions\" on 26 September 2026 at Room No. 515, A7 Building, CHARUSAT. The workshop was conducted by Mr. Kedar Upadhyay, CEO and Director of Techymonk Automations, Ahmedabad, who shared practical insights into the Internet of Things (IoT) and its real-world applications. The session focused on working with IoT devices and sensors, developing real-world IoT applications, and understanding edge computing and data processing through live demonstrations and practical exercises. The workshop provided students with an opportunity to strengthen their technical knowledge and gain hands-on experience in emerging technologies. The initiative supported the United Nations Sustainable Development Goals (SDGs) 4 (Quality Education) and 9 (Industry, Innovation and Infrastructure). The event was conducted under the guidance of Dr. Amit Thakkar, Head of CSE, with Prof. Shrushti Gajjar and Prof. Abhishek Patel serving as co-coordinators.",
+    "thumbnail": "/images/Events/iot-edge-from-sensors-to-smart-solutions/thumbnail.webp",
+    "images": [
+      "/images/Events/iot-edge-from-sensors-to-smart-solutions/1.webp",
+      "/images/Events/iot-edge-from-sensors-to-smart-solutions/2.webp",
+      "/images/Events/iot-edge-from-sensors-to-smart-solutions/3.webp"
+    ]
+  },
+  {
+    "id": "industrial-visit-inflibnet-centre-gandhinagar",
+    "title": "Industrial Visit to INFLIBNET Centre, Gandhinagar",
+    "date": "24 September 2026",
+    "description": "The KDPIT Department, CSPIT, CHARUSAT, organised an industrial visit to the INFLIBNET Centre, Gandhinagar, Gujarat, on 24 September 2026 for third-semester Information Technology (IT) students. The visit aimed to familiarise students with digital library services, information science, and emerging technologies used in knowledge management and information systems. Students gained exposure to electronic resources, digital library infrastructure, research information systems, and networking services that support academic and research communities. The visit provided an opportunity to connect classroom learning with practical applications of digital information management and technological innovation. The initiative encouraged students to broaden their understanding of information technology and its role in facilitating access to knowledge and supporting research.",
+    "thumbnail": "/images/Events/industrial-visit-inflibnet-centre-gandhinagar/thumbnail.webp",
+    "images": [
+      "/images/Events/industrial-visit-inflibnet-centre-gandhinagar/1.webp",
+      "/images/Events/industrial-visit-inflibnet-centre-gandhinagar/2.webp",
+      "/images/Events/industrial-visit-inflibnet-centre-gandhinagar/3.webp",
+      "/images/Events/industrial-visit-inflibnet-centre-gandhinagar/4.webp"
+    ]
+  },
+  {
+    "id": "wireshark-packet-capture-network-analysis",
+    "title": "Wireshark: From Packet Capture to Network Analysis",
+    "date": "25 September 2026 & 26 September 2026",
+    "description": "The KDPIT Department, CSPIT, CHARUSAT, organised a two-day technical workshop titled \"Wireshark: From Packet Capture to Network Analysis\" on 25 and 26 September 2026 at Room No. 322-B, A6 Building, CHARUSAT. The workshop was conducted by Mr. Ankit Bilwankar, Network Consultant, CCNA, CCNP, CCIE, AWS Trainer, and Founder and International Corporate Trainer at Vivekananda I.T. Institute. The sessions focused on packet capture, network traffic analysis, and troubleshooting using Wireshark, a widely used network protocol analysis tool. Through practical learning, participants gained insights into examining network communication, identifying potential issues, and understanding network behaviour. The workshop aimed to strengthen students’ practical networking skills and enhance their understanding of network diagnostics and troubleshooting. The event was conducted under the guidance of Dr. Purvi Prajapati, Head of CSPIT-IT, with Dr. Aneri Pandya, Dr. Bimal Patel, and Prof. Sagar Patel serving as coordinators. The initiative aligned with the United Nations Sustainable Development Goals (SDGs) 4 (Quality Education), 8 (Decent Work and Economic Growth), 9 (Industry, Innovation and Infrastructure), and 17 (Partnerships for the Goals).",
+    "thumbnail": "/images/Events/wireshark-packet-capture-network-analysis/thumbnail.webp",
+    "images": [
+      "/images/Events/wireshark-packet-capture-network-analysis/1.webp",
+      "/images/Events/wireshark-packet-capture-network-analysis/2.webp",
+      "/images/Events/wireshark-packet-capture-network-analysis/3.webp",
+      "/images/Events/wireshark-packet-capture-network-analysis/4.webp",
+      "/images/Events/wireshark-packet-capture-network-analysis/5.webp"
+    ]
   }
 ]
