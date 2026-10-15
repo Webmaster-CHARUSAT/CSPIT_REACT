@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/hall-booking",
+      "destination": "http://172.16.11.180:3000"
+    },
+    {
+      "source": "/hall-booking/:path*",
+      "destination": "http://172.16.11.180:3000/:path*"
+    }
+  ]
+}
