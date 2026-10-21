@@ -2595,5 +2595,19 @@
       "/images/Events/wireshark-packet-capture-network-analysis/4.webp",
       "/images/Events/wireshark-packet-capture-network-analysis/5.webp"
     ]
+  },
+  {
+    "id": "code-wizards",
+    "title": "Code Wizards",
+    "date": "30 September 2026 & 1 October 2026",
+    "description": "The Department of Computer Science and Engineering (CSE), CSPIT, CHARUSAT, organised “Code Wizards,” a two-day technical fest, under the aegis of the GrowwithGit Club on 30 September and 1 October 2026. The fest featured two engaging activities designed to promote logical thinking, teamwork, coding proficiency, and problem-solving skills among students. Day 1 featured a Treasure Hunt exclusively for first-year students, encouraging collaborative participation and logical reasoning through challenging clues. Day 2 featured a six-hour hackathon for second- and third-year students, where teams worked on industry-grade problem statements revealed on the spot. The event provided students with a platform to apply their technical knowledge, explore innovative ideas, and develop practical solutions in a competitive environment. The fest was conducted under the guidance of Convenor Dr. Amit Thakkar and faculty coordinators Prof. Dhara Solanki, Prof. Brinda Patel, and Prof. Shrushti Gajjar, fostering a culture of innovation, collaboration, and experiential learning.",
+    "thumbnail": "/images/Events/code-wizards/thumbnail.webp",
+    "images": [
+      "/images/Events/code-wizards/1.webp",
+      "/images/Events/code-wizards/2.webp",
+      "/images/Events/code-wizards/3.jpg",
+      "/images/Events/code-wizards/4.webp",
+      "/images/Events/code-wizards/5.webp"
+    ]
   }
 ]
