@@ -2609,5 +2609,29 @@
       "/images/Events/code-wizards/4.webp",
       "/images/Events/code-wizards/5.webp"
     ]
+  },
+  {
+    "id": "java-stream-api-elegant-solutions",
+    "title": "Expert Talk - Java Stream API: From Complex Logic to Elegant Solutions",
+    "date": "14 October 2026",
+    "description": "The U. & P. U. Patel Department of Computer Engineering, CSPIT, CHARUSAT, organised an expert talk titled \"Java Stream API: From Complex Logic to Elegant Solutions\" on 14 October 2026 at the Second Floor Seminar Hall, A6 Building, CHARUSAT. The session was delivered by Mr. Swachil Patel, Senior Software Engineer at EPAM Systems, Pune, who shared insights into the practical application of the Java Stream API for writing clean, efficient, and maintainable code. The talk focused on leveraging Stream API functionalities to transform and process data, simplify complex programming logic, and optimise code. The session helped students strengthen their Java programming skills and understand techniques for developing elegant and efficient software solutions. The event was organised under the convenorship of Dr. Nikita Bhatt, with Dr. Martin Parmar, Dr. Chirag Patel, Prof. Mayuri Popat, Prof. Ronak R. Patel, and Prof. Prakruti Patel serving as coordinators.",
+    "thumbnail": "/images/Events/java-stream-api-elegant-solutions/thumbnail.webp",
+    "images": [
+      "/images/Events/java-stream-api-elegant-solutions/1.webp",
+      "/images/Events/java-stream-api-elegant-solutions/2.webp",
+      "/images/Events/java-stream-api-elegant-solutions/3.webp",
+      "/images/Events/java-stream-api-elegant-solutions/4.webp"
+    ]
+  },
+  {
+    "id": "endowment-chair-activity-cybersecurity-information-security-cloud-security-blockchain",
+    "title": "Endowment Chair Activity - Cybersecurity, Information Security and Privacy, Cloud Security, and Blockchain",
+    "date": "8 October 2026 & 9 October 2026",
+    "description": "The Smt. Kundanben Dinsha Patel Department of Information Technology (KDPIT), CSPIT, CHARUSAT, organised a two-day Endowment Chair Activity on 8 and 9 October 2026 at the PDPIAS Seminar Hall, CHARUSAT Campus, Changa. The activity featured Dr. Chirag Modi, Associate Professor, Department of Computer Science and Engineering, National Institute of Technology (NIT), Goa, as the invited expert. The programme focused on key areas of contemporary computing, including cybersecurity, information security and privacy, cloud security, and blockchain technology. The activity aimed to enhance students’ understanding of emerging security challenges, strengthen their awareness of data protection and privacy, and introduce them to relevant concepts and applications in secure computing. The programme provided an opportunity for academic engagement and knowledge exchange in rapidly evolving areas of information technology. The event was conducted under the convenorship of Dr. Purvi Prajapati, Head of IT, CSPIT, with Dr. Bimal Patel, Dr. Priteshkumar Prajapati, and Prof. Nishat Shaikh serving as event coordinators. The initiative aligned with Sustainable Development Goal (SDG) 4: Quality Education.",
+    "thumbnail": "/images/Events/endowment-chair-activity-cybersecurity-information-security-cloud-security-blockchain/thumbnail.webp",
+    "images": [
+      "/images/Events/endowment-chair-activity-cybersecurity-information-security-cloud-security-blockchain/1.webp",
+      "/images/Events/endowment-chair-activity-cybersecurity-information-security-cloud-security-blockchain/2.webp"
+    ]
   }
 ]

@@ -3070,33 +3070,6 @@
     "certifications": ["CCNA Instructor", "CCNSP Instructor"]
   },
   {
-    "name": "Dr. RonakKumar Patel",
-    "title": "ASSISTANT PROFESSOR",
-    "degree": "Ph. D.",
-    "research_interests": [
-      "Machine Learning",
-      "Deep Learning",
-      "Operating System"
-    ],
-    "image_src": "/CSPIT_Faculty/CE/RONAKKUMAR.webp",
-    "subjects": [
-      "Machine Learning",
-      "Operating System",
-      "Digital Electronics",
-      "Computer Organization"
-    ],
-    "research_projects": [],
-    "teaching": [],
-    "email": "ronakpatel.ce@charusat.ac.in",
-    "linkedin": "https://www.linkedin.com/in/ronaknpatel/",
-    "website": "https://sites.google.com/view/ronak-patel/",
-    "scholar": "https://scholar.google.com/citations?hl=en&authuser=1&user=2QHTKj4AAAAJ",
-    "vidwan": "",
-    "awards": [],
-    "memberships": ["ACM"],
-    "certifications": []
-  },
-  {
     "name": "Mr. Ronakkumar Patel",
     "title": "ASSISTANT PROFESSOR",
     "degree": "M. Tech., Ph. D. (Pursuing)",
