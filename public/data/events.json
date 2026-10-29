@@ -2633,5 +2633,146 @@
       "/images/Events/endowment-chair-activity-cybersecurity-information-security-cloud-security-blockchain/1.webp",
       "/images/Events/endowment-chair-activity-cybersecurity-information-security-cloud-security-blockchain/2.webp"
     ]
+  },
+  {
+    "id": "industrial-visit-inflibnet-centre-aiml",
+    "title": "Industrial Visit to INFLIBNET Centre, Gandhinagar",
+    "date": "8 October 2026",
+    "description": "The Artificial Intelligence and Machine Learning Department of CHARUSAT organized an industry visit to INFLIBNET Centre, Gandhinagar, on 8th October 2026, for 3rd semester B.Tech. Artificial Intelligence and Machine Learning students. INFLIBNET Centre is an Inter-University Centre of the University Grants Commission (UGC) that promotes library automation, information resources, and academic networking through digital technologies. The visit provided students with valuable practical exposure to digital library systems, information management, academic resource sharing, and the role of information and communication technology in higher education and research. It strengthened students’ understanding of digital infrastructure and its applications in academic institutions, enabling them to connect theoretical concepts with real-world technological practices. The visit also motivated students to explore emerging technologies and research opportunities in the field of Artificial Intelligence and Machine Learning.",
+    "thumbnail": "/images/Events/industrial-visit-inflibnet-centre-aiml/thumbnail.webp",
+    "images": [
+      "/images/Events/industrial-visit-inflibnet-centre-aiml/1.webp",
+      "/images/Events/industrial-visit-inflibnet-centre-aiml/2.webp",
+      "/images/Events/industrial-visit-inflibnet-centre-aiml/3.webp",
+      "/images/Events/industrial-visit-inflibnet-centre-aiml/4.webp",
+      "/images/Events/industrial-visit-inflibnet-centre-aiml/5.webp",
+      "/images/Events/industrial-visit-inflibnet-centre-aiml/6.webp"
+    ]
+  },
+  {
+    "id": "stem-for-rural-girls-3",
+    "title": "STEM for Rural Girls 3.0",
+    "date": "8 October 2026",
+    "description": "The Department of Computer Science and Engineering (CSE), CSPIT, CHARUSAT, organised “STEM for Rural Girls 3.0” on 8 October 2026 at V. K. Patel High School, Petli, in collaboration with the IEEE CHARUSAT Women in Engineering (WIE) Affinity Group and NSS CHARUSAT. The initiative aimed to encourage rural girls to explore Science, Technology, Engineering, and Mathematics (STEM) through interactive learning and awareness activities. The programme sought to nurture curiosity, logical thinking, creativity, and problem-solving skills while inspiring students to explore technological innovations and scientific concepts. By providing an engaging platform for learning and discovery, the initiative encouraged young girls to develop confidence in their abilities and consider future opportunities in STEM fields. The event reflected CHARUSAT’s commitment to community engagement, inclusive education, and empowering the next generation of innovators.",
+    "thumbnail": "/images/Events/stem-for-rural-girls-3/thumbnail.webp",
+    "images": [
+      "/images/Events/stem-for-rural-girls-3/1.webp",
+      "/images/Events/stem-for-rural-girls-3/2.webp",
+      "/images/Events/stem-for-rural-girls-3/3.webp",
+      "/images/Events/stem-for-rural-girls-3/4.webp",
+      "/images/Events/stem-for-rural-girls-3/5.webp",
+      "/images/Events/stem-for-rural-girls-3/6.webp",
+      "/images/Events/stem-for-rural-girls-3/7.webp"
+    ]
+  },
+  {
+    "id": "beyond-accuracy-probability-calibration",
+    "title": "Beyond Accuracy: Can We Trust Machine Learning Model’s Probabilities? – A Practical Introduction to Probability Calibration",
+    "date": "23 September 2026",
+    "description": "The Department of Computer Science and Engineering (CSE), CSPIT, CHARUSAT, organised an expert talk titled “Beyond Accuracy: Can We Trust Machine Learning Model’s Probabilities? – A Practical Introduction to Probability Calibration” on 23 September 2026 at the Seminar Hall, First Floor, A6 Building, CHARUSAT. The session was delivered by Dr. Sandip Modha, Assistant Professor at Dhirubhai Ambani University (DAU), Gandhinagar. The talk focused on the concept of probability calibration in machine learning and the importance of assessing the reliability of predicted probabilities beyond conventional accuracy metrics. The session aimed to enhance participants’ understanding of how machine learning models estimate confidence in their predictions and why reliable probability estimates are essential for informed decision-making. The expert talk provided an opportunity for students and faculty members to gain insights into an important aspect of trustworthy machine learning and its practical applications. The event was conducted under the convenorship of Dr. Amit Thakkar, Head of CSE, CSPIT, with Dr. Archana Magare serving as the faculty coordinator.",
+    "thumbnail": "/images/Events/beyond-accuracy-probability-calibration/thumbnail.webp",
+    "images": [
+      "/images/Events/beyond-accuracy-probability-calibration/1.webp",
+      "/images/Events/beyond-accuracy-probability-calibration/2.webp",
+      "/images/Events/beyond-accuracy-probability-calibration/3.webp",
+      "/images/Events/beyond-accuracy-probability-calibration/4.webp"
+    ]
+  },
+  {
+    "id": "mastering-java-collections",
+    "title": "Mastering Java Collections: From Arrays to Advanced Architecture",
+    "date": "12 October 2026",
+    "description": "The Department of Computer Science and Engineering (CSE), CSPIT, CHARUSAT, organised an expert talk titled “Mastering Java Collections: From Arrays to Advanced Architecture” on 12 October 2026 at the First Floor Seminar Hall, A6 Building, CHARUSAT. The session was delivered by Mr. Dharmendra Prajapati, Senior Engineer-II, and Ms. Nishral Patel, Senior Engineer-III, from System Level Solutions Pvt. Ltd. The experts shared industry-oriented insights into Java Collections and their applications in software development, covering the progression from basic arrays to advanced data-handling approaches. The session aimed to help students understand efficient data organisation, improve programming practices, and appreciate the role of robust software architecture in real-world applications. By connecting academic concepts with industry experience, the expert talk provided valuable exposure to practical software engineering and strengthened students’ programming knowledge. The event was conducted under the convenorship of Dr. Amit Thakkar, Head of CSE, CSPIT, with Prof. Siddharth Shah, Prof. Hemang Thakar, and Prof. Akshita Kadam serving as faculty coordinators.",
+    "thumbnail": "/images/Events/mastering-java-collections/thumbnail.webp",
+    "images": [
+      "/images/Events/mastering-java-collections/1.webp",
+      "/images/Events/mastering-java-collections/2.webp",
+      "/images/Events/mastering-java-collections/3.webp"
+    ]
+  },
+  {
+    "id": "innotech-3",
+    "title": "INNOTECH 3.0",
+    "date": "16 October 2026",
+    "description": "The U. & P. U. Patel Department of Computer Engineering, CSPIT, CHARUSAT, organised INNOTECH 3.0, its flagship technical event, on 16 October 2026. With the theme “Where Development Meets Research – Innovate. Build. Discover.”, the event provided a platform for students to showcase their technical expertise, research capabilities, and innovative ideas through two tracks: Development Projects and Research Projects. Both tracks were evaluated separately, encouraging participants to demonstrate practical implementation, research-oriented thinking, and creative problem-solving. The event recognised outstanding projects with prizes of ₹7,500 for first place, ₹5,000 for second place, and ₹3,500 for third place in each track. All other participants received e-certificates. Through this initiative, the department aimed to foster innovation, promote research and development, and encourage students to transform their ideas into impactful technological solutions.",
+    "thumbnail": "/images/Events/innotech-3/thumbnail.webp",
+    "images": [
+      "/images/Events/innotech-3/1.webp",
+      "/images/Events/innotech-3/2.webp",
+      "/images/Events/innotech-3/3.webp",
+      "/images/Events/innotech-3/4.webp",
+      "/images/Events/innotech-3/5.webp",
+      "/images/Events/innotech-3/6.webp"
+    ]
+  },
+  {
+    "id": "electronics-in-space-technology",
+    "title": "Expert Lecture on Electronics in Space Technology",
+    "date": "24 October 2026",
+    "description": "The V. T. Patel Department of Electronics and Communication Engineering organized an expert lecture on “Electronics in Space Technology” on 24 October 2026. The online session was delivered by Mr. Nisarg Wani, Design Engineer at the Space Applications Centre (SAC-ISRO), Ahmedabad. The talk aimed to provide first-semester Electronics and Communication Engineering students with insights into the role and applications of electronics in space technology and its significance in space exploration and satellite-based systems. The session provided students with an opportunity to understand the importance of electronics in space technology and its applications in space missions. It helped broaden their understanding of the role of electronics and communication engineering in the space sector and introduced them to potential career opportunities in the field. The interaction with an industry expert also offered valuable exposure to the practical relevance of engineering concepts in space technology.",
+    "thumbnail": "/images/Events/electronics-in-space-technology/thumbnail.webp",
+    "images": [
+      "/images/Events/electronics-in-space-technology/1.webp",
+      "/images/Events/electronics-in-space-technology/2.webp",
+      "/images/Events/electronics-in-space-technology/3.webp",
+      "/images/Events/electronics-in-space-technology/4.webp",
+      "/images/Events/electronics-in-space-technology/5.webp"
+    ]
+  },
+  {
+    "id": "lighting-design-dialux-evo-workshop",
+    "title": "Hands-on Workshop on Lighting Design & DIALux evo",
+    "date": "24 September 2026",
+    "description": "The M & V Patel Department of Electrical Engineering, CSPIT, CHARUSAT, successfully organized a hands-on workshop on “Lighting Design & DIALux evo” on 24 September 2026 for B.Tech. 5th and 7th semester students. The workshop aimed to provide students with practical exposure to professional lighting design, illumination calculations, and industry-oriented design practices. The session was conducted by Mr. Dhavaal V. Ladva, Lighting Design Professional, who shared his expertise and professional experience in architectural, office-space, residential, façade, landscape, smart, and connected lighting systems. The workshop covered the fundamentals of lighting and illumination, essential principles of professional lighting design, and practical lighting calculations for different applications. Students were introduced to DIALux evo software through step-by-step demonstrations and hands-on activities, enabling them to develop and analyze lighting layouts using computer-based simulation. Practical applications, including indoor and street-lighting design, were demonstrated, giving students exposure to real-world lighting design workflows and analysis. The session also provided insights into professional lighting practices and applications in the illumination industry. The interactive nature of the workshop encouraged active participation and enabled students to connect theoretical concepts with practical industry applications.",
+    "thumbnail": "/images/Events/lighting-design-dialux-evo-workshop/thumbnail.webp",
+    "images": [
+      "/images/Events/lighting-design-dialux-evo-workshop/1.webp",
+      "/images/Events/lighting-design-dialux-evo-workshop/2.webp",
+      "/images/Events/lighting-design-dialux-evo-workshop/3.webp",
+      "/images/Events/lighting-design-dialux-evo-workshop/4.webp",
+      "/images/Events/lighting-design-dialux-evo-workshop/5.webp"
+    ]
+  },
+  {
+    "id": "applications-of-theory-of-computation",
+    "title": "Expert Talk on Applications of Theory of Computation",
+    "date": "7 October 2026",
+    "description": "The Department of Computer Science and Engineering (CSE), CSPIT, CHARUSAT, organized an expert talk titled “Applications of Theory of Computation” on 7 October 2026 at the Seminar Hall, First Floor, A6 Building, CHARUSAT. The session was delivered by Dr. Rohit Kumar, Assistant Professor in the Department of Artificial Intelligence at Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat. The talk focused on the practical relevance of Theory of Computation and its applications in computer science and artificial intelligence. The session aimed to strengthen students’ understanding of the theoretical foundations of computing and their significance in computational problem-solving and the development of intelligent systems. The expert talk provided students with an opportunity to gain academic insights into the connection between computational theory and its practical applications. The event was conducted under the convenorship of Dr. Amit Thakkar, with Prof. Atmiya Patel and Prof. Hemang Thakar serving as faculty coordinators.",
+    "thumbnail": "/images/Events/applications-of-theory-of-computation/thumbnail.webp",
+    "images": [
+      "/images/Events/applications-of-theory-of-computation/1.webp",
+      "/images/Events/applications-of-theory-of-computation/2.webp",
+      "/images/Events/applications-of-theory-of-computation/3.webp"
+    ]
+  },
+  {
+    "id": "endowment-chair-activity-cse",
+    "title": "Three-Day Endowment Chair Activity",
+    "date": "12 October 2026 - 14 October 2026",
+    "description": "The Department of Computer Science and Engineering (CSE), CSPIT, CHARUSAT, organized a three-day Endowment Chair Activity from 12 to 14 October 2026 at the Second Floor Seminar Hall, CSPIT, CHARUSAT Campus, Changa. The programme featured Prof. (Dr.) Subrata Nandi, Professor and Head of the Department of Computer Science and Engineering at the National Institute of Technology (NIT), Durgapur, as the invited expert. The activity covered a broad range of contemporary computing and research areas, including artificial intelligence, machine learning, deep learning, the Internet of Things (IoT), sensing systems, human-computer interaction (HCI), delay-tolerant network systems, citation network analysis, and complex network theory. The programme aimed to enhance students’ and faculty members’ understanding of emerging technologies, promote research-oriented learning, and encourage the exploration of advanced concepts and their applications in computer science and engineering. The activity provided a platform for academic knowledge exchange and exposure to current research trends. The event was conducted under the convenorship of Dr. Amit Thakkar, Head of CSE, CSPIT, with Prof. Gayatree Parbat, Dr. Jigar Sarda, Prof. Atmiya Patel, and Prof. Abhishek Patel serving as event coordinators. The initiative aligned with Sustainable Development Goal (SDG) 4: Quality Education.",
+    "thumbnail": "/images/Events/endowment-chair-activity-cse/thumbnail.webp",
+    "images": [
+      "/images/Events/endowment-chair-activity-cse/1.webp",
+      "/images/Events/endowment-chair-activity-cse/2.webp",
+      "/images/Events/endowment-chair-activity-cse/3.webp",
+      "/images/Events/endowment-chair-activity-cse/4.webp",
+      "/images/Events/endowment-chair-activity-cse/5.webp"
+    ]
+  },
+  {
+    "id": "ai-for-all-meetup-4",
+    "title": "AI for All Meetup 4.0",
+    "date": "3 October 2026",
+    "description": "AI for All Meetup 4.0 was organized by the Department of Artificial Intelligence and Machine Learning (AIML), CSPIT, CHARUSAT, on 3 October 2026. The event brought together students, faculty members, and industry professionals to explore the latest developments, emerging challenges, and future possibilities of Artificial Intelligence. It provided a platform for knowledge sharing, expert interaction, and discussions on the evolving role of AI in education, industry, and technological innovation. The meetup featured expert talks, interactive discussions, and student AI project showcases, encouraging participants to exchange ideas and gain practical insights into emerging technologies and industry trends. The event aimed to foster creativity, strengthen technical understanding, and inspire students to explore innovative AI-based solutions, contributing to a culture of continuous learning and technological advancement.",
+    "thumbnail": "/images/Events/ai-for-all-meetup-4/thumbnail.webp",
+    "images": [
+      "/images/Events/ai-for-all-meetup-4/1.webp",
+      "/images/Events/ai-for-all-meetup-4/2.webp",
+      "/images/Events/ai-for-all-meetup-4/3.webp",
+      "/images/Events/ai-for-all-meetup-4/4.webp",
+      "/images/Events/ai-for-all-meetup-4/5.webp",
+      "/images/Events/ai-for-all-meetup-4/6.webp",
+      "/images/Events/ai-for-all-meetup-4/7.webp"
+    ]
   }
 ]
