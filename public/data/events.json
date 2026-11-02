@@ -2774,5 +2774,99 @@
       "/images/Events/ai-for-all-meetup-4/6.webp",
       "/images/Events/ai-for-all-meetup-4/7.webp"
     ]
+  },
+  {
+    "id": "beyond-the-code-dsa-problem-solving-industry-insight",
+    "title": "Online Expert Session on Beyond the Code: DSA, Problem Solving & Industry Insight",
+    "date": "10 October 2026",
+    "description": "The U. & P. U. Patel Department of Computer Engineering, CSPIT, CHARUSAT, organized an online expert session titled “Beyond the Code: DSA, Problem Solving & Industry Insight” on 10 October 2026. The session was delivered by Mr. Pratik Shah, Senior Software Engineer at Google, who shared valuable insights into Data Structures and Algorithms (DSA), effective problem-solving techniques, and industry expectations in software engineering. The session focused on strengthening students’ understanding of DSA concepts, developing logical and analytical thinking, and exploring approaches to solving complex programming problems. It also provided insights into the practical application of problem-solving skills in the software industry and the technical competencies expected by leading technology companies. The session aimed to bridge the gap between academic learning and industry requirements while preparing students for technical challenges and professional opportunities. The event was conducted under the convenorship of Dr. Nikita Bhatt, with Prof. Chhaya Zala, Prof. Sarita Thummar, and Prof. Vaishali Koria serving as faculty coordinators.",
+    "thumbnail": "/images/Events/beyond-the-code-dsa-problem-solving-industry-insight/thumbnail.webp",
+    "images": [
+      "/images/Events/beyond-the-code-dsa-problem-solving-industry-insight/1.webp",
+      "/images/Events/beyond-the-code-dsa-problem-solving-industry-insight/2.webp"
+    ]
+  },
+  {
+    "id": "casting-defects-identification-causes-preventive-measures",
+    "title": "Expert Talk on Casting Defects: Identification, Causes, and Preventive Measures",
+    "date": "26 October 2026",
+    "description": "The CHAMOS Matrusanstha Department of Mechanical Engineering, CSPIT, CHARUSAT, organized an expert talk on “Casting Defects: Identification, Causes, and Preventive Measures” on 26 October 2026 for second-year B.Tech. Mechanical Engineering students. The session was delivered by Dr. Vivek S. Ayar, Assistant Professor at the School of Engineering & Technology, National Forensic Sciences University, Gandhinagar. The talk focused on common casting defects, their identification, underlying causes, and preventive measures to improve casting quality and process reliability. The expert discussed various defects encountered in foundry operations, the influence of moulding and melting practices, and the importance of process control in minimizing casting imperfections. Practical examples and industrial perspectives helped students understand the significance of defect analysis and quality assurance in casting processes. A total of 48 students participated in the session and actively engaged in discussions, raising questions related to defect prevention, troubleshooting, and quality improvement. The expert talk enhanced students’ understanding of practical foundry challenges and provided valuable insights into the application of theoretical concepts in industrial casting operations.",
+    "thumbnail": "/images/Events/casting-defects-identification-causes-preventive-measures/thumbnail.webp",
+    "images": [
+      "/images/Events/casting-defects-identification-causes-preventive-measures/1.webp",
+      "/images/Events/casting-defects-identification-causes-preventive-measures/2.webp",
+      "/images/Events/casting-defects-identification-causes-preventive-measures/3.webp",
+      "/images/Events/casting-defects-identification-causes-preventive-measures/4.webp"
+    ]
+  },
+  {
+    "id": "design-configuration-organizational-network",
+    "title": "Technical Workshop on Design and Configuration of Organizational Network",
+    "date": "13 October 2026",
+    "description": "The U. & P. U. Patel Department of Computer Engineering, CSPIT, CHARUSAT, organized a one-day technical workshop titled “Design and Configuration of Organizational Network” on 13 October 2026 at Lab 618, A7 Building, CHARUSAT. The workshop was conducted by Dr. Vijay Ukani, Associate Professor, Department of Computer Science and Engineering, Institute of Technology, Nirma University, Ahmedabad. The session focused on the fundamental concepts of organizational network design, VLAN configuration, Network Address Translation (NAT), Port Address Translation (PAT), routing, and network security. Through technical discussions and practical insights, the workshop aimed to enhance students’ understanding of network architecture, configuration techniques, and secure network management. It provided an opportunity for participants to gain exposure to real-world networking concepts and understand the implementation of reliable and efficient organizational networks. The event was conducted under the convenorship of Dr. Nikita Bhatt, with Prof. Muskan Dave, Dr. Ritesh Patel, and Prof. Parmanand Patel serving as faculty coordinators.",
+    "thumbnail": "/images/Events/design-configuration-organizational-network/thumbnail.webp",
+    "images": [
+      "/images/Events/design-configuration-organizational-network/1.webp",
+      "/images/Events/design-configuration-organizational-network/2.webp",
+      "/images/Events/design-configuration-organizational-network/3.webp",
+      "/images/Events/design-configuration-organizational-network/4.webp",
+      "/images/Events/design-configuration-organizational-network/5.webp"
+    ]
+  },
+  {
+    "id": "ichip-4-ai-enabled-verilog-hackathon",
+    "title": "iCHIP 4.0 – AI-Enabled Verilog Hackathon",
+    "date": "24 October 2026",
+    "description": "iCHIP 4.0, an AI-enabled Verilog Hackathon, was jointly organized by the VLSI Club and CAA at CSPIT, CHARUSAT, on 24 October 2026 at the Semiconductor Design Excellence Hub. The event was coordinated by Dr. Arpita Patel, VLSI Club Coordinator, and evaluated by industry expert Kishan Prajapati. It received 92 unique registrations, including 64 from CHARUSAT and 25 from other institutions, such as Government Engineering College, Bharuch; ADIT, Parul University (PIET); Charutar Vidya Mandal (CVM) University; Dharmsinh Desai University; and IIT Madras. The seven-hour hackathon focused on AI-assisted Verilog design, debugging, independent verification, and Spartan-6 FPGA implementation. Due to time constraints, the final problem was assigned to teams for completion at home, with solutions submitted by email. After evaluation, the winners were declared on 25 October 2026. The winning team comprised students from CHARUSAT and Government Engineering College, Bharuch.",
+    "thumbnail": "/images/Events/ichip-4-ai-enabled-verilog-hackathon/thumbnail.webp",
+    "images": [
+      "/images/Events/ichip-4-ai-enabled-verilog-hackathon/1.webp",
+      "/images/Events/ichip-4-ai-enabled-verilog-hackathon/2.webp",
+      "/images/Events/ichip-4-ai-enabled-verilog-hackathon/3.webp",
+      "/images/Events/ichip-4-ai-enabled-verilog-hackathon/4.webp",
+      "/images/Events/ichip-4-ai-enabled-verilog-hackathon/5.webp"
+    ]
+  },
+  {
+    "id": "from-commit-to-cloud-cicd-pipeline",
+    "title": "Technical Workshop on From Commit to Cloud: CI/CD Pipeline",
+    "date": "14 October 2026",
+    "description": "The U. & P. U. Patel Department of Computer Engineering, CSPIT, CHARUSAT, organized a technical workshop titled “From Commit to Cloud: CI/CD Pipeline” on 14 October 2026 at Room 628B, Second Floor, A7 Building, CHARUSAT. The workshop was conducted by Mr. Binank Patel, Team Lead at ACL Digital, who shared industry-oriented insights into Continuous Integration and Continuous Deployment (CI/CD) practices. The session focused on automating software development workflows, integrating code changes, and streamlining application deployment through CI/CD pipelines. It aimed to familiarize students with modern DevOps practices and demonstrate how automation and integration contribute to efficient software development and delivery. The workshop provided an opportunity for participants to understand the practical implementation of CI/CD workflows and gain insights into industry-standard software deployment processes. The event was conducted under the convenorship of Dr. Nikita Bhatt, with Dr. Arpita Shah, Prof. Bijal Suthar, Prof. Ronak R. Patel, and Prof. Chhaya Zala serving as faculty coordinators.",
+    "thumbnail": "/images/Events/from-commit-to-cloud-cicd-pipeline/thumbnail.webp",
+    "images": [
+      "/images/Events/from-commit-to-cloud-cicd-pipeline/1.webp",
+      "/images/Events/from-commit-to-cloud-cicd-pipeline/2.webp",
+      "/images/Events/from-commit-to-cloud-cicd-pipeline/3.webp"
+    ]
+  },
+  {
+    "id": "the-titans-battle-for-beginners",
+    "title": "The Titans: Battle for Beginners",
+    "date": "5 October 2026 & 6 October 2026",
+    "description": "The U. & P. U. Patel Department of Computer Engineering, CSPIT, CHARUSAT, organized “The Titans: Battle for Beginners” on 5 and 6 October 2026. The event was designed to provide beginners with an engaging and competitive platform to explore their coding abilities, strengthen logical thinking, and develop problem-solving skills. With the theme “From Classroom Code to Combat Mode – Be Ready to Become Next Titans,” the event encouraged students to work collaboratively in teams of four and demonstrate their technical knowledge through competitive challenges. With participation from 50 teams, the event fostered teamwork, analytical thinking, healthy competition, and enthusiasm for programming. Cash prizes of ₹8,000, ₹6,000, and ₹4,000 were awarded to the first-, second-, and third-place teams, respectively. The event was conducted under the convenorship of Dr. Nikita Bhatt, with Prof. Trusha Patel and Prof. Mayuri Popat serving as faculty coordinators. The initiative aimed to nurture emerging coding talent and encourage students to build confidence in their programming and computational problem-solving abilities.",
+    "thumbnail": "/images/Events/the-titans-battle-for-beginners/thumbnail.webp",
+    "images": [
+      "/images/Events/the-titans-battle-for-beginners/1.webp",
+      "/images/Events/the-titans-battle-for-beginners/2.webp",
+      "/images/Events/the-titans-battle-for-beginners/3.webp",
+      "/images/Events/the-titans-battle-for-beginners/4.webp",
+      "/images/Events/the-titans-battle-for-beginners/5.webp"
+    ]
+  },
+  {
+    "id": "charusat-red-hat-day-2026",
+    "title": "CHARUSAT Red Hat Day 2026",
+    "date": "7 October 2026",
+    "description": "The U. & P. U. Patel Department of Computer Engineering, CSPIT, CHARUSAT, organized “CHARUSAT Red Hat Day 2026” on 7 October 2026 at CHARUSAT Campus. The event featured three engaging technical challenges: Terminal Warriors, Scan & Seek, and Freeze or Flee, designed to encourage students to explore command-line operations, analytical thinking, technical awareness, and strategic problem-solving. Through these interactive challenges, participants were encouraged to demonstrate their technical skills, apply logical reasoning, and develop a competitive spirit while engaging in technology-driven activities. The event provided an engaging platform for experiential learning, collaboration, and hands-on exploration of computing concepts, with exciting prizes for participants. The initiative was conducted under the convenorship of Dr. Nikita Bhatt, with Prof. Rikita Chokshi and Prof. Sarita Thummar serving as faculty coordinators. Mr. Mihir Modhwadiya (D24CE159) served as the Student Ambassador for the event.",
+    "thumbnail": "/images/Events/charusat-red-hat-day-2026/thumbnail.webp",
+    "images": [
+      "/images/Events/charusat-red-hat-day-2026/1.webp",
+      "/images/Events/charusat-red-hat-day-2026/2.webp",
+      "/images/Events/charusat-red-hat-day-2026/3.webp",
+      "/images/Events/charusat-red-hat-day-2026/4.webp",
+      "/images/Events/charusat-red-hat-day-2026/5.webp",
+      "/images/Events/charusat-red-hat-day-2026/6.webp",
+      "/images/Events/charusat-red-hat-day-2026/7.webp"
+    ]
   }
 ]
