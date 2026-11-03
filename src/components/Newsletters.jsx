@@ -33,6 +33,12 @@ const newsletters = [
     year: "2026",
     issues: [
       {
+        period: "July - September",
+        months: ["July", "August", "September"],
+        label: "Q3 Newsletter",
+        path: "/news-letter-Jul-Sep-2026/",
+      },
+      {
         period: "April - June",
         months: ["April", "May", "June"],
         label: "Q2 Newsletter",
