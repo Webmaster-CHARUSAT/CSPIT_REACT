@@ -2868,5 +2868,62 @@
       "/images/Events/charusat-red-hat-day-2026/6.webp",
       "/images/Events/charusat-red-hat-day-2026/7.webp"
     ]
+  },
+  {
+    "id": "track-trace-2",
+    "title": "Track Trace 2.0",
+    "date": "13 October 2026",
+    "description": "The Department of Electrical Engineering (EE) and Department of Computer Science and Engineering (CSE), CSPIT, CHARUSAT, jointly organized “Track Trace 2.0,” a technical event, on 13 October 2026 at CHARUSAT Campus. The event was designed exclusively for first-year FTE students, providing them with an engaging platform to explore technical skills, logical thinking, teamwork, and problem-solving through an interactive track-based challenge. Participants competed in teams of four to six members, encouraging collaboration, coordination, and the practical application of engineering concepts. To ensure wider participation and an engaging competitive environment, the event accommodated a maximum of 20 teams. With a total prize pool of up to ₹15,000, the event motivated students to demonstrate their technical abilities, creativity, and innovative thinking. The initiative aimed to foster an early interest in engineering, promote interdisciplinary collaboration, and encourage experiential learning among first-year students. The event was conducted under the convenorship of Dr. Amit Thakkar and Dr. Nilay Patel, with Dr. Jigar Sarda, Mr. Jignesh Patel, and Mr. Mohammad Soaib Saiyad serving as faculty coordinators.",
+    "thumbnail": "/images/Events/track-trace-2/thumbnail.webp",
+    "images": [
+      "/images/Events/track-trace-2/1.webp",
+      "/images/Events/track-trace-2/2.webp",
+      "/images/Events/track-trace-2/3.webp",
+      "/images/Events/track-trace-2/4.webp",
+      "/images/Events/track-trace-2/5.webp"
+    ]
+  },
+  {
+    "id": "project-exhibition-evaluation-project-1",
+    "title": "Project Exhibition and Evaluation for Project-1 (CEUP 301)",
+    "date": "23 October 2026",
+    "description": "The Department of Computer Science and Engineering (CSE), CSPIT, CHARUSAT, organized the Project Exhibition and Evaluation for Project-1 (CEUP 301) on 23 October 2026. The event provided students with a platform to showcase their project ideas, demonstrate their technical implementations, and present the outcomes of their academic work. The projects were evaluated by industry experts, offering students an opportunity to receive professional feedback and gain insights into industry expectations, practical applications, and innovative approaches to problem-solving. The exhibition aimed to foster creativity, technical competence, innovation, and practical learning while encouraging students to translate their theoretical knowledge into functional solutions. The evaluation process also helped students enhance their project presentation skills and understand the importance of developing industry-relevant solutions. The event was conducted under the convenorship of Dr. Amit Thakkar, Head of CSE, CSPIT, CHARUSAT.",
+    "thumbnail": "/images/Events/project-exhibition-evaluation-project-1/thumbnail.webp",
+    "images": [
+      "/images/Events/project-exhibition-evaluation-project-1/1.webp",
+      "/images/Events/project-exhibition-evaluation-project-1/2.webp",
+      "/images/Events/project-exhibition-evaluation-project-1/3.webp",
+      "/images/Events/project-exhibition-evaluation-project-1/4.webp",
+      "/images/Events/project-exhibition-evaluation-project-1/5.webp",
+      "/images/Events/project-exhibition-evaluation-project-1/6.webp",
+      "/images/Events/project-exhibition-evaluation-project-1/7.webp"
+    ]
+  },
+  {
+    "id": "surveying-camp-2-exploring-geospatial-technologies",
+    "title": "Hands-on Workshop on Surveying Camp 2.0 (2026): Exploring Geospatial Technologies with DGPS and Total Station",
+    "date": "13 October 2026 & 14 October 2026",
+    "description": "The M. S. Patel Department of Civil Engineering, Chandubhai S. Patel Institute of Technology (CSPIT), CHARUSAT, organized a two-day hands-on workshop titled “Surveying Camp 2.0 (2026): Exploring Geospatial Technologies with Differential Global Positioning System (DGPS) and Total Station” on 13 and 14 October 2026. The session was conducted by Mr. Ajaysinh Chhasatiya, Senior Surveyor at The Total Survey, Anand (DILR – Directorate of Inspection for Land Records, Government Approved). A total of 65 participants, including second-year students and teaching and non-teaching staff members, attended the workshop. The expert provided hands-on training on DGPS operation, Total Station field surveying, and data import for processing in AutoCAD. The workshop enhanced participants’ understanding of geospatial data collection, accuracy improvement, and practical field applications in civil engineering projects.",
+    "thumbnail": "/images/Events/surveying-camp-2-exploring-geospatial-technologies/thumbnail.webp",
+    "images": [
+      "/images/Events/surveying-camp-2-exploring-geospatial-technologies/1.webp",
+      "/images/Events/surveying-camp-2-exploring-geospatial-technologies/2.webp",
+      "/images/Events/surveying-camp-2-exploring-geospatial-technologies/3.webp",
+      "/images/Events/surveying-camp-2-exploring-geospatial-technologies/4.webp",
+      "/images/Events/surveying-camp-2-exploring-geospatial-technologies/5.webp",
+      "/images/Events/surveying-camp-2-exploring-geospatial-technologies/6.webp"
+    ]
+  },
+  {
+    "id": "industrial-visit-shreeji-infrastructure",
+    "title": "Industrial Visit at Shreeji Infrastructure, Alindra, Halol",
+    "date": "30 September 2026",
+    "description": "The M. S. Patel Department of Civil Engineering, CSPIT, CHARUSAT, organized an academic visit to Shreeji Infrastructure, Alindra, Halol, on 30 September 2026 for final-year B.Tech. Civil Engineering students as part of the course CL452 – Design of Steel Structures. During the visit, students gained practical exposure to the fabrication, assembly, and erection of steel structures, particularly industrial sheds and roof trusses. The experts from Shreeji Infrastructure explained various structural components, including roof trusses, gantry girders, tension and compression members, beams, columns, base plates, and bolted and welded connections. Students also learned about fabrication procedures, quality control, welding practices, safety measures, and the implementation of structural designs at construction sites. The visit provided valuable insights into the practical applications of theoretical concepts studied in the classroom and helped students understand the relationship between structural design, fabrication, and on-site execution. It enhanced their technical knowledge and awareness of industrial practices in steel construction. Overall, the industrial visit was informative and beneficial in bridging the gap between academic learning and real-world engineering practices.",
+    "thumbnail": "/images/Events/industrial-visit-shreeji-infrastructure/thumbnail.webp",
+    "images": [
+      "/images/Events/industrial-visit-shreeji-infrastructure/1.webp",
+      "/images/Events/industrial-visit-shreeji-infrastructure/2.webp",
+      "/images/Events/industrial-visit-shreeji-infrastructure/3.webp"
+    ]
   }
 ]
